@@ -1,59 +1,37 @@
-# Vinyl Lexicon Project
+# Vinyl Lexicon
 
-> **Comprehensive digital reference for vinyl record culture, terminology, and collecting**
+> Digital reference for vinyl record terminology and culture
 
----
+## What is this?
 
-## 🎵 What is the Vinyl Lexicon?
+A comprehensive, searchable database of vinyl record terminology, equipment specs, and cultural context. Built for collectors, DJs, and audiophiles.
 
-The Vinyl Lexicon is a comprehensive reference guide covering the terminology, culture, and technical aspects of vinyl record collecting and audiophile culture. From pressing techniques to turntable specifications, this lexicon serves as the definitive resource for vinyl enthusiasts.
+## Quick Start
 
-## 📚 About This Project
+- **Browse terms**: `docs/terms/` (A-Z structure)
+- **Search**: Built-in Pagefind search
+- **Contribute**: See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-This repository contains a comprehensive wiki-style database of vinyl record culture terminology, built with modern best practices for maximum searchability and community collaboration.
+## Features
 
-**Current Status:** Major restructuring from book format to wiki-style database  
-**Version:** 2.0.0 (Restructuring Phase)
+- **500+ terms** with rich metadata
+- **Advanced search** with filtering
+- **Cultural context** and historical notes
+- **Technical specifications** for equipment
+- **Community-driven** with validation
 
-## 🎯 What's Included
+## Status
 
-- **Complete Lexicon** - 500+ terms with rich metadata and cross-references
-- **Cultural Context** - Historical notes, regional variations, and cultural significance
-- **Technical Details** - Equipment specifications and audio engineering concepts
-- **Modern Architecture** - Wiki-style database with one-term-per-file structure
-- **Advanced Search** - Tag-based filtering, popularity ratings, complexity levels
-- **Community Features** - Contribution workflow, validation, and quality control
+**Version 2.1.0** - Enhanced schema with advanced metadata fields, cleaned slugs, and comprehensive project cleanup.
 
-## 🚀 Getting Started
-
-1. **Explore the Lexicon** - Browse terms in `docs/terms/` (after restructuring)
-2. **Check the Roadmap** - Current priorities in `TODO.md`
-3. **Review the Plan** - Restructuring details in project documentation
-4. **Contribute** - See `CONTRIBUTING.md` for guidelines
-
-## 📋 Project Status
-
-- **Content:** 500+ terms across 24 chapters (A-Z)
-- **Structure:** Migrating from book format to wiki-style database
-- **Next:** Complete restructuring with rich metadata and modern architecture
-
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 📄 License
+## License
 
-Vinyl Lexicon content is released under **Creative Commons Attribution 4.0 International (CC BY 4.0)** - free to use, modify, and distribute with attribution.
-
-See [LICENSE](LICENSE) for complete terms.
-
-## 📖 Documentation
-
-- **[Changelog](CHANGELOG.md)** - Version history and updates
-- **[TODO](TODO.md)** - Development roadmap and priorities
-- **[Contributing](CONTRIBUTING.md)** - How to get involved
-- **[Project Status](STATUS.md)** - Current development status
+Content: [CC BY 4.0](LICENSE) - Free to use with attribution
 
 ---
 
-*The Vinyl Lexicon Project - Preserving and sharing vinyl culture knowledge.*
+*Preserving vinyl culture knowledge for the community.*
