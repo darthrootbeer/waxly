@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - cue-burn
 - label-wear
 - groove-wear
-slug: slip-mat-burn
+slug: slip-mat-burn-mat-burn-ring
 status: active
 summary: Slip-Mat Burn / Mat-Burn Ring
 tags:
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Mat-Burn Ring
+genres:
+- Hip Hop
 ---
 
 # Slip-Mat Burn

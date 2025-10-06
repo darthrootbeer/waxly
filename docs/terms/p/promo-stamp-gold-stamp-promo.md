@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - promo-copy
 - cut-corner-promo
 - white-label-promo
-slug: promo-stamp
+slug: promo-stamp-gold-stamp-promo
 status: active
 summary: '**noun / retail ephemera.** A retail-stock jacket stamped or gold-foiled
   **PROMOTION ONLY / NOT FOR RESALE** to designate it as a free promo.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Gold-Stamp Promo
+genres:
+- all
 ---
 
 # Promo Stamp

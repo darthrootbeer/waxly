@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - speaker
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Full-Range Speaker
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Full-Range Speaker

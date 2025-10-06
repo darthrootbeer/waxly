@@ -5,8 +5,6 @@ domains:
 - mastering
 equipment_association:
 - tonearm
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - hot-cut
 - feed-through-groove
 - extended-mix
-slug: flash-cut
+slug: flash-cut-hot-cut
 status: active
-summary: "**noun / slang.** A lacquer master cut at higher volume and deeper groove\
-  \ for maximum club-play punch \u2014 often hotter but more prone to pre-echo or\
-  \ skipping on weak tonearms."
+summary: '**noun / slang.** A lacquer master cut at higher volume and deeper groove
+  for maximum club-play punch — often hotter but more prone to pre-echo or skipping
+  on weak tonearms.'
 tags:
 - equipment
 - pressing
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Hot-Cut
+genres:
+- Electronic
 ---
 
 # Flash-Cut

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -13,15 +11,17 @@ see_also:
 - anti-static-brush
 - static-cling-sleeve
 - ground-wire-hum
-slug: zip-tone-pops
+slug: zip-tone-pops-static-zip-noise
 status: active
-summary: "**noun / playback noise slang.** A **crackly \u2018zip-tone\u2019 series\
-  \ of static pops heard on dusty or statically charged records at needle-drop**."
+summary: '**noun / playback noise slang.** A **crackly ‘zip-tone’ series of static
+  pops heard on dusty or statically charged records at needle-drop**.'
 term: Zip-Tone Pops
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Static-Zip Noise
+genres:
+- Rock
 ---
 
 # Zip-Tone Pops

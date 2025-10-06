@@ -7,8 +7,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - wow-flutter
 - 45-adapter
 - off-center-pressing
-slug: center-hole
+slug: center-hole-spindle-hole
 status: active
 summary: The precisely-cut hole in the middle of every disc that seats on the turntable
   spindle; slight off-center drilling causes audible wow.
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Spindle Hole
+genres:
+- all
 ---
 
 # Center Hole

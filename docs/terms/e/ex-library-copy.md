@@ -5,8 +5,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Ex-Library Copy
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Ex-Library Copy

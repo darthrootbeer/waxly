@@ -6,8 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - cartridge
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: Yoke-Mount Cartridge
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Yoke-Mount Cartridge

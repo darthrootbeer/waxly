@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - cartridge
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - cassette-single
 - lp
 - compilation
-slug: eight-track
+slug: eight-track-cartridge
 status: active
-summary: "A continuous-loop magnetic-tape cartridge format popular in cars during\
-  \ the \u201960s-\u201970s; often issued alongside LPs for portable listening."
+summary: A continuous-loop magnetic-tape cartridge format popular in cars during the
+  ’60s-’70s; often issued alongside LPs for portable listening.
 tags:
 - equipment
 term: Eight-Track
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cartridge
+genres:
+- Rock
 ---
 
 # Eight-Track

@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - stylus
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - lacquer-cut
 - groove-wall
 - pressing-defect
-slug: kerf-cut-groove
+slug: kerf-cut-groove-lathe-artifact
 status: active
 summary: '**noun / technical slang.** A rare visual groove pattern resembling tiny
   wood-saw kerfs, sometimes left by a dull cutting stylus or damaged lacquer surface.'
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Lathe Artifact
+genres:
+- Electronic
 ---
 
 # Kerf-Cut Groove

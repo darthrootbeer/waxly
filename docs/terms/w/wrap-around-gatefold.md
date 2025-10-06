@@ -1,9 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -20,6 +17,9 @@ summary: '**noun / jacket design.** A **gatefold sleeve whose artwork continues 
 term: Wrap-Around Gatefold
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Wrap-Around Gatefold

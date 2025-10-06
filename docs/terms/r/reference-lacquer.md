@@ -6,8 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Reference Disc
+genres:
+- all
 ---
 
 # Reference Lacquer

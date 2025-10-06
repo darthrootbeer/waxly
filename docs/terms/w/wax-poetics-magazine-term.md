@@ -4,8 +4,6 @@ context: technical
 decade: 2000s
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - crate-digging
 - beat-miner-culture
 - sample-source-hunting
-slug: wax-poetics
+slug: wax-poetics-magazine-term
 status: active
 summary: noun / magazine title & slang. A renowned U.S. print magazine launched in
   2001 covering crate-digging culture, hip-hop sampling, and vinyl history; the name
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Magazine & Term
+genres:
+- Hip Hop
 ---
 
 # Wax Poetics

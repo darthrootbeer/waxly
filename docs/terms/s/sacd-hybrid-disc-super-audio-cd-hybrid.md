@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,16 +11,18 @@ see_also:
 - half-speed-mastering
 - aaa-mastering
 - deluxe-box-set
-slug: sacd-hybrid-disc
+slug: sacd-hybrid-disc-super-audio-cd-hybrid
 status: active
-summary: "noun / crossover format. A hybrid optical disc containing both a high-resolution\
-  \ SACD layer and a standard CD layer \u2014 some early-2000s versions were bundled\
-  \ with vinyl releases or marketed to ..."
+summary: noun / crossover format. A hybrid optical disc containing both a high-resolution
+  SACD layer and a standard CD layer — some early-2000s versions were bundled with
+  vinyl releases or marketed to ...
 term: SACD Hybrid Disc
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Super Audio CD Hybrid
+genres:
+- all
 ---
 
 # SACD Hybrid Disc

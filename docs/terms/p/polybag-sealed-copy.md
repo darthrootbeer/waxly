@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- hip_hop
-- jazz
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +11,11 @@ see_also:
 - shrink-wrap
 - obi-strip
 - resealable-sleeve
-slug: polybag
+slug: polybag-sealed-copy
 status: active
-summary: "**noun / retail / collector term.** A new LP originally packaged in a loose\
-  \ outer polybag rather than shrink-wrap \u2014 typical of many Japanese and some\
-  \ audiophile labels."
+summary: '**noun / retail / collector term.** A new LP originally packaged in a loose
+  outer polybag rather than shrink-wrap — typical of many Japanese and some audiophile
+  labels.'
 tags:
 - collecting
 term: Polybag
@@ -26,6 +23,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Sealed Copy
+genres:
+- Hip Hop
+- Jazz
 ---
 
 # Polybag

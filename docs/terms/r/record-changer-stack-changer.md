@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - auto-return-arm
 - console-player
 - portable-changer
-slug: record-changer
+slug: record-changer-stack-changer
 status: active
-summary: "**noun / vintage hardware.** A **turntable with an auto-drop spindle** that\
-  \ can stack several records and play them sequentially \u2014 common in home consoles\
-  \ mid-20th century."
+summary: '**noun / vintage hardware.** A **turntable with an auto-drop spindle** that
+  can stack several records and play them sequentially — common in home consoles mid-20th
+  century.'
 tags:
 - equipment
 - historical
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Stack-Changer
+genres:
+- all
 ---
 
 # Record Changer

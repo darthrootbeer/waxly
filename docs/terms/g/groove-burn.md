@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: '**noun / slang.** Visible greyish streaking and audible distortion in 
 term: Groove Burn
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Groove Burn

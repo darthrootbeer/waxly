@@ -4,9 +4,6 @@ context: technical
 domains:
 - mastering
 - dj_technique
-genre_association:
-- hip_hop
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +23,9 @@ tags:
 term: Variable-Pitch Groove Cutting
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Classical
 ---
 
 # Variable-Pitch Groove Cutting

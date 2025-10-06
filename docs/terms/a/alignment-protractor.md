@@ -7,8 +7,6 @@ equipment_association:
 - turntable
 - cartridge
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Alignment Protractor
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Alignment Protractor

@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - idler-drive-motor
 - rumble-spec
 - idler-wheel-rebuild
-slug: speed-pull-idler
+slug: speed-pull-idler-pitch-pull-idler
 status: active
 summary: '**noun / vintage changer part.** A **sliding idler-wheel mechanism** that
   changes contact diameter on stepped motor pulley to alter platter RPM on old record
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pitch-Pull Idler
+genres:
+- Electronic
 ---
 
 # Speed-Pull Idler

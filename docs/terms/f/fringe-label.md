@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - indie-label
 - private-press
 - micro-pressing
-slug: fringe
+slug: fringe-label
 status: active
-summary: "**noun / slang.** A tiny independent record label operating on the fringes\
-  \ of the mainstream \u2014 often with ultra-small vinyl runs and cult followings."
+summary: '**noun / slang.** A tiny independent record label operating on the fringes
+  of the mainstream — often with ultra-small vinyl runs and cult followings.'
 term: Fringe
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Label
+genres:
+- Rock
 ---
 
 # Fringe

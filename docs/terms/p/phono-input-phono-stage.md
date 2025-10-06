@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - riaa-curve
 - pre-amp
 - line-level-input
-slug: phono-input
+slug: phono-input-phono-stage
 status: active
-summary: "**noun / technical.** An amplifier input with the specialized equalization\
-  \ and gain required for magnetic-cartridge signals; often labeled \u201CPHONO\u201D\
-  \ on vintage receivers."
+summary: '**noun / technical.** An amplifier input with the specialized equalization
+  and gain required for magnetic-cartridge signals; often labeled “PHONO” on vintage
+  receivers.'
 tags:
 - equipment
 - technical
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Phono Stage
+genres:
+- all
 ---
 
 # Phono Input

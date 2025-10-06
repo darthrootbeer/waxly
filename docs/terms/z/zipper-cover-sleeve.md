@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 1970s
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -12,11 +10,11 @@ see_also:
 - gimmick-sleeve
 - die-cut-jacket
 - peel-off-banana-cover
-slug: zipper
+slug: zipper-cover-sleeve
 status: active
-summary: "**noun / iconic jacket gimmick.** A **LP jacket featuring a real working\
-  \ zipper built into the cover art** \u2014 most famously the Andy Warhol-designed\
-  \ *Sticky Fingers* (1971)."
+summary: '**noun / iconic jacket gimmick.** A **LP jacket featuring a real working
+  zipper built into the cover art** — most famously the Andy Warhol-designed *Sticky
+  Fingers* (1971).'
 tags:
 - historical
 term: Zipper
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cover Sleeve
+genres:
+- Rock
 ---
 
 # Zipper

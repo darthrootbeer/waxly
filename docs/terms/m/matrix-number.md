@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - mastering
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Matrix Number
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Matrix Number

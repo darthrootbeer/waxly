@@ -4,8 +4,6 @@ context: technical
 decade: 2010s
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,10 +12,10 @@ see_also:
 - preorder-exclusive
 - limited-run
 - variant-edition
-slug: d2c-direct
+slug: d2c-direct-to-consumer-vinyl
 status: active
-summary: "**noun / abbreviation.** A distribution model where artists or labels sell\
-  \ vinyl directly to fans\u2014often online\u2014skipping traditional retail."
+summary: '**noun / abbreviation.** A distribution model where artists or labels sell
+  vinyl directly to fans—often online—skipping traditional retail.'
 tags:
 - pressing
 term: D2C (Direct
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - to-Consumer Vinyl)
+genres:
+- all
 ---
 
 # D2C (Direct

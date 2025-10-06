@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - warp-resistant-pressing
 - record-clamp
 - groove-guard-lip
-slug: warped-record
+slug: warped-record-dish-warp-edge-warp
 status: active
-summary: "**noun / condition flaw.** A **record whose plane is bent or wavy** due\
-  \ to heat, storage pressure, or pressing defects \u2014 described as *dish-warp*\
-  \ (concave/convex) or *edge-warp* (rim-only)."
+summary: '**noun / condition flaw.** A **record whose plane is bent or wavy** due
+  to heat, storage pressure, or pressing defects — described as *dish-warp* (concave/convex)
+  or *edge-warp* (rim-only).'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Dish-Warp / Edge-Warp
+genres:
+- all
 ---
 
 # Warped Record

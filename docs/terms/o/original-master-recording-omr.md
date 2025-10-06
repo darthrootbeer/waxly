@@ -4,8 +4,6 @@ context: technical
 domains:
 - mastering
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - master-tape
 - aaa-mastering
 - half-speed-mastering
-slug: original-master-recording
+slug: original-master-recording-omr
 status: active
-summary: "**noun / audiophile marketing term.** A label designation \u2014 notably\
-  \ by Mobile Fidelity \u2014 indicating that the vinyl was mastered from the original\
-  \ master tape rather than a copy or safety dub."
+summary: '**noun / audiophile marketing term.** A label designation — notably by Mobile
+  Fidelity — indicating that the vinyl was mastered from the original master tape
+  rather than a copy or safety dub.'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - OMR
+genres:
+- all
 ---
 
 # Original Master Recording

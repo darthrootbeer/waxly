@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - groove-burn
 - play-grade
 - vg-grade
-slug: groove
+slug: groove-wear
 status: active
-summary: "Cumulative erosion of groove walls from years of playback \u2014 especially\
-  \ with worn styli or excessive tracking force."
+summary: Cumulative erosion of groove walls from years of playback — especially with
+  worn styli or excessive tracking force.
 term: Groove
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Wear
+genres:
+- all
 ---
 
 # Groove

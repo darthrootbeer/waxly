@@ -4,8 +4,6 @@ context: technical
 decade: 2000s
 domains:
 - dj_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - control-tone-disc
 - dvs-interface
 - slip-mat
-slug: time-code-vinyl
+slug: time-code-vinyl-dvs-control-vinyl
 status: active
 summary: noun / digital-DJ medium. A special vinyl disc that carries a continuous
   control-tone signal read by a digital-vinyl-system (DVS) interface to manipulate
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - DVS Control Vinyl
+genres:
+- Hip Hop
 ---
 
 # Time-Code Vinyl

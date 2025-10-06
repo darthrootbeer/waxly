@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - polyethylene-outer-sleeve
 - anti-static-inner
 - picture-disc-care
-slug: vinyl-jacket
+slug: vinyl-jacket-pvc-outer-bag-hazard
 status: active
 summary: '**noun / storage warning.** A **soft-PVC outer bag used to protect jackets**
   that can out-gas plasticizers over time, sticking to or clouding the record surface.'
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - PVC Outer Bag Hazard
+genres:
+- all
 ---
 
 # Vinyl Jacket

@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - reflex-clamp
 - record-weight
 - edge-warp
-slug: spacer-ring
+slug: spacer-ring-spindle-spacer
 status: active
 summary: '**noun / hardware accessory.** A **thin ring placed over the platter spindle**
   to slightly raise records with raised outer lips or to help with warped discs during
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Spindle Spacer
+genres:
+- all
 ---
 
 # Spacer Ring

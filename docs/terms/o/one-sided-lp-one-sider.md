@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - etched-side
 - picture-disc
 - limited-edition
-slug: one-sided-lp
+slug: one-sided-lp-one-sider
 status: active
-summary: "**noun / novelty / production choice.** A record with grooves on only one\
-  \ side \u2014 the flip side left smooth, blank, or sometimes laser-etched with artwork."
+summary: '**noun / novelty / production choice.** A record with grooves on only one
+  side — the flip side left smooth, blank, or sometimes laser-etched with artwork.'
 term: One-Sided LP
 updated: '2025-10-06'
 verification: unverified
 aka:
 - One-Sider
+genres:
+- all
 ---
 
 # One-Sided LP

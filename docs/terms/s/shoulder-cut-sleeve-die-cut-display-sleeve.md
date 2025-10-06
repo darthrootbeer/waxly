@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,10 @@ see_also:
 - die-cut-sleeve
 - company-sleeve
 - center-hole-cut-out
-slug: shoulder-cut-sleeve
+slug: shoulder-cut-sleeve-die-cut-display-sleeve
 status: active
-summary: "**noun / packaging style.** A **jacket or company sleeve with a semi-circular\
-  \ \u2018shoulder\u2019 cut-out** at the top edge, allowing label exposure or easier\
-  \ thumb-grip."
+summary: '**noun / packaging style.** A **jacket or company sleeve with a semi-circular
+  ‘shoulder’ cut-out** at the top edge, allowing label exposure or easier thumb-grip.'
 tags:
 - pressing
 term: Shoulder-Cut Sleeve
@@ -23,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Die-Cut Display Sleeve
+genres:
+- Electronic
 ---
 
 # Shoulder-Cut Sleeve

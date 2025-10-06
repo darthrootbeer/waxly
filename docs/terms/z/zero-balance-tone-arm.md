@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - tonearm
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ summary: '**noun / hi-fi setup feature.** A **tone-arm that’s first balanced t
 term: Zero-Balance Tone-Arm
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Zero-Balance Tone-Arm

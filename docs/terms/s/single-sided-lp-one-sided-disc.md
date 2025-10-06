@@ -6,8 +6,6 @@ domains:
 - quality_control
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - etched-disc-edition
 - test-pressing
 - one-track-12-inch
-slug: single-sided-lp
+slug: single-sided-lp-one-sided-disc
 status: active
-summary: "**noun / format.** A **record pressed with grooves on only one side**, leaving\
-  \ the flip blank or etched \u2014 common for 12-inch DJ singles, test pressings,\
-  \ or etched-art editions."
+summary: '**noun / format.** A **record pressed with grooves on only one side**, leaving
+  the flip blank or etched — common for 12-inch DJ singles, test pressings, or etched-art
+  editions.'
 tags:
 - dj-related
 - pressing
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - One-Sided Disc
+genres:
+- Hip Hop
 ---
 
 # Single-Sided LP

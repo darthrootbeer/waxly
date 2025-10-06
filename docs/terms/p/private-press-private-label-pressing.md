@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- jazz
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - vanity-pressing
 - regional-label
 - post-punk-pressing
-slug: private-press
+slug: private-press-private-label-pressing
 status: active
 summary: '**noun / cultural / collector term.** A small-batch record self-funded by
   an artist, school, or local group and manufactured by a commercial plant outside
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Private-Label Pressing
+genres:
+- Jazz
 ---
 
 # Private-Press

@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - turntable
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Turntable Rumble
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Turntable Rumble

@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - dinked-center
 - 45-adapter
 - spider-insert
-slug: pop-out-center
+slug: pop-out-center-aka-jukebox-spider
 status: active
 summary: '**noun / 7-inch single part.** The large center section of many 45 RPM singles
   that can be punched out to fit jukebox spindles or snapped back in for standard
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - a.k.a. Jukebox Spider
+genres:
+- Rock
 ---
 
 # Pop-Out Center

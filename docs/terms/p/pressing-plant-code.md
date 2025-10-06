@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Pressing Plant Code
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Pressing Plant Code

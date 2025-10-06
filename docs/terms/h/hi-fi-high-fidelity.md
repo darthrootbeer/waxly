@@ -5,8 +5,6 @@ domains:
 - quality_control
 - equipment
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ summary: '**noun / slang / marketing.** A term describing audio equipment capabl
 term: Hi-Fi (High-Fidelity)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Hi-Fi (High-Fidelity)

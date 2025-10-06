@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - heavyweight-vinyl
 - biscuit-puck
 - net-weight
-slug: pressing-weight
+slug: pressing-weight-140-g-180-g-200-g
 status: active
-summary: "**noun / manufacturing spec.** The target gram-weight of each vinyl disc\
-  \ set by the plant \u2014 heavier pressings are stiffer and sometimes marketed as\
-  \ \u201Caudiophile 180 gram.\u201D"
+summary: '**noun / manufacturing spec.** The target gram-weight of each vinyl disc
+  set by the plant — heavier pressings are stiffer and sometimes marketed as “audiophile
+  180 gram.”'
 tags:
 - pressing
 term: Pressing Weight
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - 140 g / 180 g / 200 g
+genres:
+- all
 ---
 
 # Pressing Weight

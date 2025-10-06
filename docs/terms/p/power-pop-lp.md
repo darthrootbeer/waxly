@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -13,10 +11,10 @@ see_also:
 - private-press
 - regional-pressing
 - post-punk-pressing
-slug: power
+slug: power-pop-lp
 status: active
-summary: "**noun / genre-collector term.** Refers to late-\u201970s/early-\u201980s\
-  \ jangly guitar-pop vinyl releases sought by fans of the power-pop genre."
+summary: '**noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-pop
+  vinyl releases sought by fans of the power-pop genre.'
 tags:
 - collecting
 term: Power
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pop LP
+genres:
+- Rock
 ---
 
 # Power

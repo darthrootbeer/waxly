@@ -4,8 +4,6 @@ context: technical
 equipment_association:
 - tonearm
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - gimbal-bearing-arm
 - unipivot
 - tracking-force
-slug: knife-edge-bearing
+slug: knife-edge-bearing-tonearm-design
 status: active
 summary: '**noun / technical.** A precision tonearm-pivot design where the arm rides
   on hardened steel knife-edge races, minimizing friction for better stylus tracking.'
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tonearm Design
+genres:
+- all
 ---
 
 # Knife-Edge Bearing

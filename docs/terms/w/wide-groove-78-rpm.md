@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - micro-groove-lp
 - shellac-disc
 - 3-mil-stylus-tip
-slug: wide-groove
+slug: wide-groove-78-rpm
 status: active
 summary: A **heavy puck or clamp placed on the record spindle to improve contact with
   the platter**, helping tame warps and resonance.
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - 78 RPM
+genres:
+- all
 ---
 
 # Wide-Groove

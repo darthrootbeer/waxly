@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - elliptical-stylus
 - shibata-stylus
 - tracking-angle
-slug: micro-line-stylus
+slug: micro-line-stylus-aka-line-contact
 status: active
 summary: '**noun / technical.** A stylus profile with a very narrow, elongated contact
   patch that traces deeper into the groove walls, reducing distortion and inner-groove
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - a.k.a. Line-Contact
+genres:
+- all
 ---
 
 # Micro-Line Stylus

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - picture-sleeve
 - gimmick-sleeve
 - alternate-cover-art
-slug: reversible-picture-sleeve
+slug: reversible-picture-sleeve-double-sided-sleeve
 status: active
 summary: '**noun / packaging gimmick.** A **7-inch single sleeve printed on both sides**
   so that either side can face front, often showcasing two different cover images.'
@@ -22,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Double-Sided Sleeve
+genres:
+- Rock
 ---
 
 # Reversible Picture-Sleeve

@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - anti-static-brush
 - wet-cleaning-solution
 - stylus-brush
-slug: carbon
+slug: carbon-fiber-brush
 status: active
 summary: A staple record-cleaning tool whose ultra-fine conductive bristles sweep
   off dust while discharging static electricity from vinyl surfaces.
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Fiber Brush
+genres:
+- Rock
 ---
 
 # Carbon

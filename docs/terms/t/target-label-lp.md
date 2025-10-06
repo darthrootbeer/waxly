@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - label-variant
 - first-press
 - sonic-signature-cut
-slug: target
+slug: target-label-lp
 status: active
-summary: "noun / collector nickname. A 1970-73 Warner/Elektra/Atlantic LP label design\
-  \ featuring a bold colored \u201Ctarget\u201D bullseye motif behind the logo \u2014\
-  \ prized by collectors as a first-press identifier..."
+summary: noun / collector nickname. A 1970-73 Warner/Elektra/Atlantic LP label design
+  featuring a bold colored “target” bullseye motif behind the logo — prized by collectors
+  as a first-press identifier...
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Label LP
+genres:
+- Rock
 ---
 
 # Target

@@ -6,8 +6,6 @@ domains:
 - mastering
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Loudness War Cut
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Loudness War Cut

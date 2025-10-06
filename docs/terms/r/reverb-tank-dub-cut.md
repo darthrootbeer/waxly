@@ -7,8 +7,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - dub-plate
 - sound-system-special
 - version-mix
-slug: reverb
+slug: reverb-tank-dub-cut
 status: active
-summary: "**noun / reggae / dub-plate slang.** A **version mix sent hot through a\
-  \ spring-reverb tank** during cutting \u2014 a signature sonic texture of Jamaican\
-  \ dub culture."
+summary: '**noun / reggae / dub-plate slang.** A **version mix sent hot through a
+  spring-reverb tank** during cutting — a signature sonic texture of Jamaican dub
+  culture.'
 tags:
 - dj-related
 - pressing
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tank Dub Cut
+genres:
+- all
 ---
 
 # Reverb

@@ -6,9 +6,6 @@ domains:
 - mastering
 equipment_association:
 - amplifier
-genre_association:
-- electronic
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +14,11 @@ see_also:
 - one-step-pressing
 - dmm-cut
 - stamper-wear
-slug: single-step-plating
+slug: single-step-plating-direct-metal-mastering-style
 status: active
-summary: "noun / manufacturing method. A plating process that skips the usual father\u2013\
-  mother\u2013stamper chain, creating stampers straight from the lacquer or copper\
-  \ DMM \u2014 limits copies but yields very close..."
+summary: noun / manufacturing method. A plating process that skips the usual father–mother–stamper
+  chain, creating stampers straight from the lacquer or copper DMM — limits copies
+  but yields very close...
 tags:
 - pressing
 term: Single-Step Plating
@@ -29,6 +26,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Direct Metal Mastering Style
+genres:
+- Electronic
+- Rock
 ---
 
 # Single-Step Plating

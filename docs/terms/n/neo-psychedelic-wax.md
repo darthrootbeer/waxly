@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Neo-Psychedelic Wax
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Neo-Psychedelic Wax

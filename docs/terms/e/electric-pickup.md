@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,10 +13,10 @@ see_also:
 - cartridge
 - crystal-pick-up
 - mono-stylus
-slug: electric-pick-up
+slug: electric-pickup
 status: active
-summary: "**noun / historical.** A 1930s-\u201950s term for the electro-magnetic cartridge\
-  \ that replaced acoustic soundboxes on gramophones."
+summary: '**noun / historical.** A 1930s-’50s term for the electro-magnetic cartridge
+  that replaced acoustic soundboxes on gramophones.'
 tags:
 - equipment
 - historical
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Early Term for Cartridge
+genres:
+- all
 ---
 
 # Electric Pick-Up

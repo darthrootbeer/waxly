@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +26,8 @@ tags:
 term: Ohm Load (Cartridge Load Impedance)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # Ohm Load (Cartridge Load Impedance)

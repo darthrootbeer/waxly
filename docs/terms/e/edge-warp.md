@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - warp
 - dish-warp
 - de-warping
-slug: edge
+slug: edge-warp
 status: active
 summary: A common vinyl defect where only the outer rim of a disc warps upward or
   downward, usually from heat or bad storage.
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Warp
+genres:
+- all
 ---
 
 # Edge

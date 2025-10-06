@@ -4,8 +4,6 @@ context: technical
 domains:
 - mastering
 - dj_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - hot-cut
 - flash-cut
 - inner-groove-distortion
-slug: groove-spacing
+slug: groove-spacing-pitch
 status: active
 summary: '**noun / technical.** The distance between adjacent grooves on a record,
   determined by cutting-lathe pitch control; wider spacing allows louder cuts but
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pitch
+genres:
+- Hip Hop
 ---
 
 # Groove Spacing

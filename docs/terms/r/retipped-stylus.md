@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - cartridge
 - stylus
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +26,8 @@ tags:
 term: Retipped Stylus
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Retipped Stylus

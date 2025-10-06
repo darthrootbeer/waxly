@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - spider-insert
 - dinked-centre-45
 - short-spindle-adapter
-slug: wide-spindle-45
+slug: wide-spindle-45-large-hole-single
 status: active
 summary: '**noun / U.S. 45-RPM format.**A **seven-inch single with a 1.5-inch centre
   hole designed for jukebox spindles**, requiring an adapter for standard turntables.'
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Large-Hole Single
+genres:
+- all
 ---
 
 # Wide-Spindle 45

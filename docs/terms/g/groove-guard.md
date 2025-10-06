@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 1960s
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -20,6 +18,8 @@ summary: A subtle raised lip molded around the outer edge (and sometimes inner l
 term: Groove Guard
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Groove Guard

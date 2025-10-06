@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Punk-Era 7-Inch
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Punk-Era 7-Inch

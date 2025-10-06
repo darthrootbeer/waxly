@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - wet-cleaning
 - vacuum-rcm
 - anti-static-brush
-slug: cleaning-solution
+slug: cleaning-solution-record-cleaning-fluid
 status: active
 summary: Specialized liquid, often alcohol-free with surfactants, used to dissolve
   dust, oils, and mold release from vinyl grooves.
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Record-Cleaning Fluid
+genres:
+- all
 ---
 
 # Cleaning Solution

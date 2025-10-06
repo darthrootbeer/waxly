@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - groove-spacing
 - hot-cut
 - lacquer-memory
-slug: pre-echo
+slug: pre-echo-post-echo-pair
 status: active
-summary: "**noun / technical artifact.** Twin phenomena \u2014 **pre-echo** is heard\
-  \ just before a loud transient; **post-echo** lingers just after \u2014 both result\
-  \ from groove or tape print-through."
+summary: '**noun / technical artifact.** Twin phenomena — **pre-echo** is heard just
+  before a loud transient; **post-echo** lingers just after — both result from groove
+  or tape print-through.'
 tags:
 - technical
 term: Pre-Echo
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Post-Echo Pair
+genres:
+- all
 ---
 
 # Pre-Echo

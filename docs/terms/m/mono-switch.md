@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Mono Switch
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Mono Switch

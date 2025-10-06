@@ -6,9 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +14,10 @@ see_also:
 - club-cut
 - hot-cut
 - 12-inch-single
-slug: party-cut
+slug: party-cut-slang
 status: active
-summary: "**noun / slang / DJ.** A track pressed especially \u201Chot\u201D or loud\
-  \ on a 12-inch single to maximize dance-floor energy \u2014 often with extended\
-  \ intro/outro for mixing."
+summary: '**noun / slang / DJ.** A track pressed especially “hot” or loud on a 12-inch
+  single to maximize dance-floor energy — often with extended intro/outro for mixing.'
 tags:
 - dj-related
 - pressing
@@ -31,6 +27,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Slang
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Party Cut

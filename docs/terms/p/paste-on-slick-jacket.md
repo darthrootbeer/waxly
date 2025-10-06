@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- jazz
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +21,9 @@ tags:
 term: Paste-On Slick Jacket
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Jazz
+- Rock
 ---
 
 # Paste-On Slick Jacket

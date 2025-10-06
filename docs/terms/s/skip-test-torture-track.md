@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - tracking-ability-test
 - bias-adjustment
 - anti-skate-calibration
-slug: skip-test
+slug: skip-test-torture-track
 status: active
-summary: "**noun / cartridge-setup term.** A **special test-record band cut at extreme\
-  \ velocity** to evaluate a cartridge\u2019s tracking ability without skipping."
+summary: '**noun / cartridge-setup term.** A **special test-record band cut at extreme
+  velocity** to evaluate a cartridge’s tracking ability without skipping.'
 tags:
 - equipment
 - pressing
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Torture Track
+genres:
+- all
 ---
 
 # Skip-Test

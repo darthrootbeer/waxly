@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - heavy-weight-pressing
 - thermoplastic-biscuit
 - warp-resistance
-slug: vinyl-weight
+slug: vinyl-weight-pressing-weight
 status: active
 summary: '**noun / manufacturing spec.** The **mass of the finished record**, often
   cited as 120 g (standard), 140 g, 180 g (audiophile), or 200 g (super-heavy).'
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pressing Weight
+genres:
+- all
 ---
 
 # Vinyl Weight

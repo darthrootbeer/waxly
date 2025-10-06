@@ -5,8 +5,6 @@ domains:
 - collecting
 equipment_association:
 - speaker
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ summary: A sealed-box speaker-cabinet design popular from the late ’50s onward
 term: Acoustic Suspension
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Acoustic Suspension

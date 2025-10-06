@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 2000s
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -12,7 +10,7 @@ see_also:
 - picture-disc
 - color-vinyl-pressing
 - limited-edition
-slug: etched-side
+slug: etched-side-etching
 status: active
 summary: A decorative or artistic design laser-etched or chemically inscribed into
   the blank side of a multi-disc vinyl release.
@@ -21,6 +19,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Etching
+genres:
+- Rock
 ---
 
 # Etched Side

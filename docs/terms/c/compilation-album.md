@@ -5,8 +5,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Compilation Album
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Compilation Album

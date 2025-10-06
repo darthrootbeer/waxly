@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - turntable
 - tonearm
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - platter-bearing-oil
 - rumble-spec
 - servo-controlled-motor
-slug: sintered-bronze-bearing
+slug: sintered-bronze-bearing-tone-arm-platter
 status: active
-summary: "**noun / hi-fi engineering term.** A **porous bronze bearing** made by powder-metal\
-  \ sintering, self-lubricating with oil \u2014 widely used for quiet platter and\
-  \ tone-arm pivots."
+summary: '**noun / hi-fi engineering term.** A **porous bronze bearing** made by powder-metal
+  sintering, self-lubricating with oil — widely used for quiet platter and tone-arm
+  pivots.'
 tags:
 - equipment
 - technical
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tone-arm / Platter
+genres:
+- Rock
 ---
 
 # Sintered Bronze Bearing

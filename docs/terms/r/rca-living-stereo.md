@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: RCA Living Stereo
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Classical
 ---
 
 # RCA Living Stereo

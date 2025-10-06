@@ -3,17 +3,15 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
 - US
-slug: slow-cut-lacquer
+slug: slow-cut-lacquer-wide-pitch-cut
 status: active
-summary: "**noun / mastering style.** A **lacquer cut at slower lead-screw pitch**\
-  \ so grooves are spaced wider apart \u2014 useful for loud or bass-heavy tracks\
-  \ to avoid groove collisions."
+summary: '**noun / mastering style.** A **lacquer cut at slower lead-screw pitch**
+  so grooves are spaced wider apart — useful for loud or bass-heavy tracks to avoid
+  groove collisions.'
 tags:
 - pressing
 - cultural
@@ -22,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Wide-Pitch Cut
+genres:
+- all
 ---
 
 # Slow-Cut Lacquer

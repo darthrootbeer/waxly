@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +11,10 @@ see_also:
 - etched-disc-edition
 - gimmick-sleeve
 - single-sided-lp
-slug: sound-wave-etching
+slug: sound-wave-etching-visual-wave-jacket-art
 status: active
-summary: "**noun / packaging gimmick.** A **decorative graphic of the song\u2019s\
-  \ waveform** etched into dead-wax areas or printed across the jacket \u2014 purely\
-  \ visual flair."
+summary: '**noun / packaging gimmick.** A **decorative graphic of the song’s waveform**
+  etched into dead-wax areas or printed across the jacket — purely visual flair.'
 tags:
 - pressing
 term: Sound-Wave Etching
@@ -26,6 +22,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Visual-Wave Jacket Art
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Sound-Wave Etching

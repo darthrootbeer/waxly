@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,10 @@ see_also:
 - hype-sticker
 - label-variant
 - catalog-number
-slug: price-code-sticker
+slug: price-code-sticker-price-box
 status: active
-summary: "**noun / retail ephemera.** A small printed sticker or box on the jacket\
-  \ showing the label\u2019s internal price code \u2014 used by shops for inventory\
-  \ tiers."
+summary: '**noun / retail ephemera.** A small printed sticker or box on the jacket
+  showing the label’s internal price code — used by shops for inventory tiers.'
 tags:
 - pressing
 term: Price-Code Sticker
@@ -25,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Price-Box
+genres:
+- all
 ---
 
 # Price-Code Sticker

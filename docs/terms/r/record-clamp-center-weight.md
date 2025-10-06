@@ -4,8 +4,6 @@ context: technical
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,15 +12,17 @@ see_also:
 - outer-ring-clamp
 - quick-release-clamp
 - edge-warp
-slug: record-clamp
+slug: record-clamp-center-weight
 status: active
-summary: "**noun / hi-fi accessory.** A **device that clamps the record\u2019s center**\
-  \ to the platter, improving contact and helping flatten mild warps."
+summary: '**noun / hi-fi accessory.** A **device that clamps the record’s center**
+  to the platter, improving contact and helping flatten mild warps.'
 term: Record Clamp
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Center Weight
+genres:
+- all
 ---
 
 # Record Clamp

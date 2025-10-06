@@ -1,9 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -19,6 +16,9 @@ summary: A cohesive LP built around a unifying narrative or theme, intended to b
 term: Concept Album
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Concept Album

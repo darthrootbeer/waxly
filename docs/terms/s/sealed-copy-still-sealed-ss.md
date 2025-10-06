@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - original-shrink
 - cut-out-hole
 - sealed-but-warped
-slug: sealed-copy-still-sealed
+slug: sealed-copy-still-sealed-ss
 status: active
 summary: '**noun / collector-grading term.** A **record still in its original shrink-wrap
   or factory seal**, presumed unplayed; often denoted **SS** in grading.'
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - SS
+genres:
+- Hip Hop
 ---
 
 # Sealed Copy / Still-Sealed

@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - obi-strip
 - poly-outer-sleeve
 - hype-sticker
-slug: scissor-cut-obi
+slug: scissor-cut-obi-fold-over-obi
 status: active
-summary: "**noun / Japanese packaging term.** A **narrow folded paper \u2018obi\u2019\
-  \ strip** that slips over the jacket edge and looks like it\u2019s been cut by scissors\
-  \ \u2014 typical of late-70s/80s budget Japanese issues."
+summary: '**noun / Japanese packaging term.** A **narrow folded paper ‘obi’ strip**
+  that slips over the jacket edge and looks like it’s been cut by scissors — typical
+  of late-70s/80s budget Japanese issues.'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Fold-Over Obi
+genres:
+- Hip Hop
 ---
 
 # Scissor-Cut Obi

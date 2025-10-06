@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 2000s
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -12,11 +10,11 @@ see_also:
 - jacket-art-culture
 - now-spinning-stand
 - display-frame
-slug: sleaveface-sleeveface
+slug: sleaveface-sleeveface-meme
 status: active
-summary: "**noun / fan culture slang.** A **photo meme in which a person hides their\
-  \ face or body behind an LP sleeve** so that the sleeve\u2019s artwork completes\
-  \ their appearance."
+summary: '**noun / fan culture slang.** A **photo meme in which a person hides their
+  face or body behind an LP sleeve** so that the sleeve’s artwork completes their
+  appearance.'
 tags:
 - cultural
 term: Sleaveface / Sleeveface
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Meme
+genres:
+- Rock
 ---
 
 # Sleaveface / Sleeveface

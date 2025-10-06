@@ -5,8 +5,6 @@ equipment_association:
 - turntable
 - tonearm
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - cue-lever
 - arm-clip
 - dust-cover
-slug: tone-arm-rest
+slug: tone-arm-rest-arm-lock
 status: active
-summary: "**noun / deck feature.** A **small cradle or clip that secures the tone-arm\
-  \ when not in use** \u2014 protects stylus and arm bearings during transport or\
-  \ dust-cover closing."
+summary: '**noun / deck feature.** A **small cradle or clip that secures the tone-arm
+  when not in use** — protects stylus and arm bearings during transport or dust-cover
+  closing.'
 tags:
 - equipment
 - historical
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Arm-Lock
+genres:
+- all
 ---
 
 # Tone-Arm Rest

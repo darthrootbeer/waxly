@@ -7,8 +7,6 @@ domains:
 - mastering
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - half-speed-master
 - one-step-pressing
 - tip-on-jacket
-slug: upscale-re-press
+slug: upscale-re-press-audiophile-reissue
 status: active
 summary: '**noun / marketing term.** A **new high-end re-pressing of a classic album**
   often on heavy-weight vinyl with upgraded jackets and remastering.'
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Audiophile Reissue
+genres:
+- all
 ---
 
 # Upscale Re-Press

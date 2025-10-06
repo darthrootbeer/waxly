@@ -5,8 +5,6 @@ decade: 1970s
 domains:
 - equipment
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Vacuum Record Cleaner
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Vacuum Record Cleaner

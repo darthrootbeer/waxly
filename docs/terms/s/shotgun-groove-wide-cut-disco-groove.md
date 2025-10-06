@@ -6,8 +6,6 @@ domains:
 - mastering
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - hot-cut
 - plus-cut
 - reinforced-groove
-slug: shotgun-groove
+slug: shotgun-groove-wide-cut-disco-groove
 status: active
-summary: "**noun / mastering slang.** A **hot, extra-wide groove cut** to maximize\
-  \ volume and bass punch for club/disco singles \u2014 trades off side length for\
-  \ amplitude headroom."
+summary: '**noun / mastering slang.** A **hot, extra-wide groove cut** to maximize
+  volume and bass punch for club/disco singles — trades off side length for amplitude
+  headroom.'
 tags:
 - pressing
 - historical
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Wide-Cut Disco Groove
+genres:
+- all
 ---
 
 # Shotgun Groove

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - locked-groove
 - skip
 - pressing-defect
-slug: hanging-groove
+slug: hanging-groove-aka-suspended-groove
 status: active
-summary: "**noun / slang.** A pressing defect where the spiral briefly stalls and\
-  \ nearly loops before resuming its inward path \u2014 can cause a repeating click\
-  \ or short loop."
+summary: '**noun / slang.** A pressing defect where the spiral briefly stalls and
+  nearly loops before resuming its inward path — can cause a repeating click or short
+  loop.'
 tags:
 - pressing
 - collecting
@@ -25,7 +23,9 @@ term: Hanging Groove
 updated: '2025-10-06'
 verification: unverified
 aka:
-- "aka \u201CSuspended Groove\u201D"
+- aka “Suspended Groove”
+genres:
+- all
 ---
 
 # Hanging Groove

@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - quality_control
 - equipment
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - surface-noise
 - low-noise-vinyl-compound
 - dynamic-range
-slug: noise
+slug: noise-floor
 status: active
-summary: "**noun / technical.** The inherent background level of noise \u2014 hiss,\
-  \ hum, surface-whoosh \u2014 present in a system or on the vinyl itself below which\
-  \ musical signal sits."
+summary: '**noun / technical.** The inherent background level of noise — hiss, hum,
+  surface-whoosh — present in a system or on the vinyl itself below which musical
+  signal sits.'
 tags:
 - equipment
 - pressing
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Floor
+genres:
+- all
 ---
 
 # Noise

@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Wall-Mount Turntable Shelf
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Wall-Mount Turntable Shelf

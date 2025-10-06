@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: '**noun / verb.** The process of digitally or mechanically removing cli
 term: Declicking
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Declicking

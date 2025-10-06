@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - cartridge
 - stylus
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Clip-On Headshell Weight
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Clip-On Headshell Weight

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Shibata Stylus
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Shibata Stylus

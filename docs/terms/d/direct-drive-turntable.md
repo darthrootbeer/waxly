@@ -6,9 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - turntable
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +24,9 @@ tags:
 term: Direct-Drive Turntable
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Direct-Drive Turntable

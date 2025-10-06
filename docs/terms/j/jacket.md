@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 1960s
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -21,6 +19,8 @@ tags:
 term: Jacket
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # Jacket

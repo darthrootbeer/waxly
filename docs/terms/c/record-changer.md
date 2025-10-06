@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - automatic-return
 - drop-spindle
 - console-stereo
-slug: changer-record-changer
+slug: record-changer
 status: active
-summary: "A turntable mechanism \u2014 popular mid-century \u2014 that automatically\
-  \ drops the next record from a stacked spindle after each side finishes."
+summary: A turntable mechanism — popular mid-century — that automatically drops the
+  next record from a stacked spindle after each side finishes.
 tags:
 - equipment
 - collecting
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Stack-Loader)
+genres:
+- Rock
 ---
 
 # Changer (Record Changer

@@ -7,8 +7,6 @@ domains:
 - collecting
 equipment_association:
 - mixer
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -31,6 +29,8 @@ tags:
 term: Bootleg
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Bootleg

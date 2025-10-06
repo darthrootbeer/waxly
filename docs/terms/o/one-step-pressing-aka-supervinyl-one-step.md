@@ -7,8 +7,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - lacquer-cut
 - dmm-direct-metal-mastering
 - audiophile-pressing
-slug: one-step-pressing
+slug: one-step-pressing-aka-supervinyl-one-step
 status: active
-summary: "noun / audiophile manufacturing. A premium pressing method eliminating intermediate\
-  \ \u201Cmother\u201D and \u201Cstamper\u201D generations \u2014 stampers made directly\
-  \ from the lacquer or DMM copper master, reducing gene..."
+summary: noun / audiophile manufacturing. A premium pressing method eliminating intermediate
+  “mother” and “stamper” generations — stampers made directly from the lacquer or
+  DMM copper master, reducing gene...
 tags:
 - pressing
 - collecting
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - a.k.a. SuperVinyl One-Step
+genres:
+- Rock
 ---
 
 # One-Step Pressing

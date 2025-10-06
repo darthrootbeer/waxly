@@ -4,8 +4,6 @@ context: technical
 decade: 1940s
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,10 +12,10 @@ see_also:
 - vinyl-compound
 - virgin-vinyl
 - low-noise-vinyl
-slug: poly-vinyl-chloride
+slug: poly-vinyl-chloride-pvc
 status: active
-summary: "**noun / material.** The thermoplastic polymer used to press modern records\
-  \ \u2014 standard black or color-tinted compound with plasticizers for flexibility."
+summary: '**noun / material.** The thermoplastic polymer used to press modern records
+  — standard black or color-tinted compound with plasticizers for flexibility.'
 tags:
 - pressing
 - historical
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - PVC
+genres:
+- all
 ---
 
 # Poly-Vinyl Chloride

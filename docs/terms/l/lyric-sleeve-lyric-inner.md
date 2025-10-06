@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - inner-sleeve
 - gatefold
 - insert
-slug: lyric-sleeve
+slug: lyric-sleeve-lyric-inner
 status: active
-summary: "An inner sleeve printed with full song lyrics and sometimes photos or credits\
-  \ \u2014 a mainstay of the album-art boom of the \u201970s-\u201980s."
+summary: An inner sleeve printed with full song lyrics and sometimes photos or credits
+  — a mainstay of the album-art boom of the ’70s-’80s.
 term: Lyric Sleeve
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Lyric Inner
+genres:
+- all
 ---
 
 # Lyric Sleeve

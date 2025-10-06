@@ -6,8 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - turntable
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Platter Mat
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Platter Mat

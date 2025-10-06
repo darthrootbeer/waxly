@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Wing-Flap Inner Sleeve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Classical
 ---
 
 # Wing-Flap Inner Sleeve

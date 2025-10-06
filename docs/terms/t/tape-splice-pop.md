@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- jazz
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +20,9 @@ tags:
 term: Tape-Splice Pop
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Jazz
+- Rock
 ---
 
 # Tape-Splice Pop

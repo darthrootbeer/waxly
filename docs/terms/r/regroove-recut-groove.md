@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,10 +12,10 @@ see_also:
 - re-cut-lacquer
 - matrix-suffix
 - hot-cut
-slug: regroove
+slug: regroove-recut-groove
 status: active
-summary: "**noun / studio slang.** A **second pass of groove-cutting** on the same\
-  \ side \u2014 either to fix errors or to add extra lead-in/out groove space."
+summary: '**noun / studio slang.** A **second pass of groove-cutting** on the same
+  side — either to fix errors or to add extra lead-in/out groove space.'
 tags:
 - pressing
 term: Regroove
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Recut Groove
+genres:
+- all
 ---
 
 # Regroove

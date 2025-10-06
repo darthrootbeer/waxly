@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: The paper or plastic sleeve that directly houses a vinyl record inside 
 term: Inner Sleeve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # Inner Sleeve

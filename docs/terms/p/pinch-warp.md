@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,10 @@ see_also:
 - dish-warp
 - edge-warp
 - outer-ring-clamp
-slug: pinch
+slug: pinch-warp
 status: active
-summary: "**noun / defect.** A small crescent-shaped warp at the record\u2019s edge\
-  \ caused by uneven cooling during pressing \u2014 often creates audible \u201Cthump\u201D\
-  \ each revolution."
+summary: '**noun / defect.** A small crescent-shaped warp at the record’s edge caused
+  by uneven cooling during pressing — often creates audible “thump” each revolution.'
 tags:
 - pressing
 term: Pinch
@@ -25,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Warp
+genres:
+- all
 ---
 
 # Pinch

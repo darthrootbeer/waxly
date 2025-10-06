@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,6 +13,8 @@ tags:
 term: Zero-Inner-Groove-Distortion Cut
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Zero-Inner-Groove-Distortion Cut

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - transcription-disc
 - novelty-pressing
 - die-cut-sleeve
-slug: oversized-13-inch-disc
+slug: oversized-13-inch-disc-transcription-promo
 status: active
-summary: "noun / historical / novelty. A slightly larger-than-standard disc \u2014\
-  \ typically 13 inches \u2014 sometimes used for special transcription discs or oversized\
-  \ promotional singles that required manual cuein..."
+summary: noun / historical / novelty. A slightly larger-than-standard disc — typically
+  13 inches — sometimes used for special transcription discs or oversized promotional
+  singles that required manual cuein...
 tags:
 - collecting
 - historical
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Transcription / Promo
+genres:
+- all
 ---
 
 # Oversized 13-Inch Disc

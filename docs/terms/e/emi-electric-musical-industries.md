@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: EMI (Electric & Musical Industries)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Classical
 ---
 
 # EMI (Electric & Musical Industries)

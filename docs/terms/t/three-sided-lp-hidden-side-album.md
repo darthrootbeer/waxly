@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - single-sided-lp
 - etched-disc-edition
 - side-long-track
-slug: three-sided-lp
+slug: three-sided-lp-hidden-side-album
 status: active
-summary: "**noun / format gimmick.** An **album cut across three playable sides**,\
-  \ with the fourth side blank or etched \u2014 popular for deluxe double-LPs that\
-  \ don\u2019t need all four sides."
+summary: '**noun / format gimmick.** An **album cut across three playable sides**,
+  with the fourth side blank or etched — popular for deluxe double-LPs that don’t
+  need all four sides.'
 tags:
 - pressing
 term: Three-Sided LP
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Hidden-Side Album
+genres:
+- Rock
 ---
 
 # Three-Sided LP

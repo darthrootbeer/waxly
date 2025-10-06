@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - perspex-dust-cover
 - hinged-lid
 - plinth
-slug: plexiglass-dust
+slug: plexiglass-dust-cover
 status: active
-summary: "**noun / hi-fi accessory / vintage.** A rigid transparent lid made from\
-  \ plexiglass or acrylic that protects the turntable from dust \u2014 synonymous\
-  \ with Perspex covers but often U.S.-market term."
+summary: '**noun / hi-fi accessory / vintage.** A rigid transparent lid made from
+  plexiglass or acrylic that protects the turntable from dust — synonymous with Perspex
+  covers but often U.S.-market term.'
 tags:
 - equipment
 - historical
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cover
+genres:
+- all
 ---
 
 # Plexiglass Dust

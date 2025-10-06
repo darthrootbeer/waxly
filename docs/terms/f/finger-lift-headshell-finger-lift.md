@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - tonearm
 - cartridge
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - headshell
 - cue-lever
 - tonearm
-slug: finger-lift
+slug: finger-lift-headshell-finger-lift
 status: active
 summary: A small curved tab attached to a headshell that lets you grip and guide the
   tonearm without touching the cartridge body.
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Headshell Finger-Lift
+genres:
+- Hip Hop
 ---
 
 # Finger Lift

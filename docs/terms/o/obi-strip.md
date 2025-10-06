@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Obi Strip
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Obi Strip

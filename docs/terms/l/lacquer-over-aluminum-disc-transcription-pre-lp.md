@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - transcription-disc
 - acetate
 - archival-playback
-slug: lacquer-over-aluminum-disc
+slug: lacquer-over-aluminum-disc-transcription-pre-lp
 status: active
 summary: '**noun / historical.** A 1930s-50s disc format with a lacquer coating on
   an aluminum core, used for broadcast transcriptions and one-off recordings before
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Transcription / Pre-LP
+genres:
+- all
 ---
 
 # Lacquer-Over-Aluminum Disc

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: Record Divider Tab Sticker
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Record Divider Tab Sticker

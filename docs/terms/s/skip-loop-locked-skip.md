@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - stylus
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - locked-groove
 - cue-burn
 - groove-wear
-slug: skip-loop
+slug: skip-loop-locked-skip
 status: active
 summary: '**noun / groove defect / DJ trick.** Either a **groove-damage defect that
   causes the stylus to loop-replay** a short segment or, in DJ use, a deliberate locked-groove
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Locked Skip
+genres:
+- Hip Hop
 ---
 
 # Skip-Loop

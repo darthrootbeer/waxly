@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Turntable Isolation Platform
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Turntable Isolation Platform

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - spider-insert
 - dinked-center-45
 - pop-out-center
-slug: short-spindle-adapter
+slug: short-spindle-adapter-45-adapter
 status: active
 summary: '**noun / hardware accessory.** A **small removable insert** that fits the
   large center hole of U.S. 45 RPM singles, allowing play on a standard-diameter spindle.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - 45 Adapter
+genres:
+- Hip Hop
 ---
 
 # Short-Spindle Adapter

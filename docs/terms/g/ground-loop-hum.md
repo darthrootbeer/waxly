@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - ground-wire
 - shielding
 - phono-pre-amp
-slug: ground
+slug: ground-loop-hum
 status: active
-summary: "**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing\
-  \ an electrical ground at different potentials \u2014 common in turntable-to-amp\
-  \ setups if the ground wire is loose or missing."
+summary: '**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing
+  an electrical ground at different potentials — common in turntable-to-amp setups
+  if the ground wire is loose or missing.'
 tags:
 - equipment
 - technical
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Loop Hum
+genres:
+- all
 ---
 
 # Ground

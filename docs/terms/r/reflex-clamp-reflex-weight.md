@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,10 @@ see_also:
 - record-clamp
 - outer-ring-clamp
 - quick-release-clamp
-slug: reflex-clamp
+slug: reflex-clamp-reflex-weight
 status: active
-summary: "**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action\
-  \ \u201Creflex\u201D lever that locks the record tight to the platter and flattens\
-  \ dish-warps."
+summary: '**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action
+  “reflex” lever that locks the record tight to the platter and flattens dish-warps.'
 tags:
 - equipment
 term: Reflex Clamp
@@ -28,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Reflex Weight
+genres:
+- all
 ---
 
 # Reflex Clamp

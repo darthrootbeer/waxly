@@ -6,9 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +14,11 @@ see_also:
 - track-banded-lp
 - cue-point-marker
 - skip-guard-groove
-slug: un-banded-lp
+slug: un-banded-lp-continuous-groove-album
 status: active
-summary: "**noun / mastering style.** A **record side without visible track-spacing\
-  \ \u2018bands\u2019**, appearing as one continuous groove spiral \u2014 common for\
-  \ classical, opera, live, or DJ-mix albums."
+summary: '**noun / mastering style.** A **record side without visible track-spacing
+  ‘bands’**, appearing as one continuous groove spiral — common for classical, opera,
+  live, or DJ-mix albums.'
 tags:
 - dj-related
 - pressing
@@ -30,6 +27,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Continuous-Groove Album
+genres:
+- Hip Hop
+- Classical
 ---
 
 # Un-Banded LP

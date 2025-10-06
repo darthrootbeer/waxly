@@ -4,9 +4,6 @@ context: technical
 domains:
 - quality_control
 - dj_technique
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +24,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Record Pool
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # DJ Pool

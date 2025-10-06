@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - turntable
 - tonearm
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - tangential-tracking-arm
 - servo-controlled-arm
 - cartridge-alignment
-slug: vertical-tracking-linear-arm
+slug: vertical-tracking-linear-arm-tangential-arm
 status: active
-summary: "**noun / turntable design.** A **tone-arm that moves linearly on a rail\
-  \ to maintain a tangential angle across the disc\u2019s radius**, reducing tracking-angle\
-  \ error compared to pivot arms."
+summary: '**noun / turntable design.** A **tone-arm that moves linearly on a rail
+  to maintain a tangential angle across the disc’s radius**, reducing tracking-angle
+  error compared to pivot arms.'
 tags:
 - equipment
 - collecting
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tangential Arm
+genres:
+- all
 ---
 
 # Vertical-Tracking Linear Arm

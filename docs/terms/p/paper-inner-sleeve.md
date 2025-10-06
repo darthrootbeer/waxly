@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -20,6 +18,8 @@ summary: '**noun / packaging.** A basic record sleeve made of plain or printed p
 term: Paper Inner Sleeve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Paper Inner Sleeve

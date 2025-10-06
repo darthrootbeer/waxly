@@ -6,8 +6,6 @@ domains:
 - pressing_technique
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - audiophile-pressing
 - virgin-vinyl
 - flatness
-slug: heavyweight-vinyl
+slug: heavyweight-vinyl-180-gram-200-gram
 status: active
-summary: "**noun / marketing term.** Records pressed on thicker, heavier PVC biscuit\
-  \ \u2014 typically 180 g or 200 g \u2014 marketed for improved stability, flatter\
-  \ profiles, and premium feel."
+summary: '**noun / marketing term.** Records pressed on thicker, heavier PVC biscuit
+  — typically 180 g or 200 g — marketed for improved stability, flatter profiles,
+  and premium feel.'
 tags:
 - pressing
 term: Heavyweight Vinyl
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - 180-Gram / 200-Gram
+genres:
+- all
 ---
 
 # Heavyweight Vinyl

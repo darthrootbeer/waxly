@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - center-clamp
 - edge-warp
 - turntable-mat
-slug: outer-ring-clamp
+slug: outer-ring-clamp-peripheral-ring
 status: active
 summary: '**noun / hi-fi accessory.** A heavy circular metal ring placed on the outer
   edge of the record during playback to flatten edge warps and improve platter contact.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Peripheral Ring
+genres:
+- Rock
 ---
 
 # Outer-Ring Clamp

@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - mono-bass-fold-down
 - groove-spacing
 - hot-cut
-slug: side-chain
+slug: side-chain-side-chain-cut
 status: active
 summary: '**noun / mastering technique.** A **vinyl-cutting compressor/limiter controlled
   by a separate side-chain signal** (often the bass) to prevent groove over-modulation.'
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Side-Chain Cut
+genres:
+- all
 ---
 
 # Side-Chain

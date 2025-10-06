@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - stylus
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - locked-groove
 - hidden-track
 - gimmick-cut
-slug: reverse-groove
+slug: reverse-groove-inside-out-cut
 status: active
-summary: "**noun / novelty mastering trick.** A **record cut so that the stylus starts\
-  \ at the label and plays outward to the edge** \u2014 a mastering novelty occasionally\
-  \ used for special tracks."
+summary: '**noun / novelty mastering trick.** A **record cut so that the stylus starts
+  at the label and plays outward to the edge** — a mastering novelty occasionally
+  used for special tracks.'
 tags:
 - equipment
 - pressing
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Inside-Out Cut
+genres:
+- Rock
 ---
 
 # Reverse Groove

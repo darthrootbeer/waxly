@@ -8,8 +8,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,11 +16,11 @@ see_also:
 - ring-wear
 - outer-jacket
 - grading-terms
-slug: platter-ring
+slug: platter-ring-wear-shadow
 status: active
-summary: "**noun / grading slang.** A faint circular shadow or gloss change on an\
-  \ LP jacket front or back that mirrors the record\u2019s outline inside \u2014 caused\
-  \ by years of pressure and shelf-rub."
+summary: '**noun / grading slang.** A faint circular shadow or gloss change on an
+  LP jacket front or back that mirrors the record’s outline inside — caused by years
+  of pressure and shelf-rub.'
 tags:
 - pressing
 - collecting
@@ -32,6 +30,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Wear Shadow
+genres:
+- all
 ---
 
 # Platter Ring

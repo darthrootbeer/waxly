@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -15,10 +13,10 @@ see_also:
 - white-label-promo
 - silver-label-promo
 - mono-fold-single
-slug: yellow
+slug: yellow-label-promo
 status: active
-summary: "**noun / collector term.** A **promotional pressing distinguished by a yellow\
-  \ center-label** used by certain labels in the 1960s\u201370s to mark DJ/radio copies."
+summary: '**noun / collector term.** A **promotional pressing distinguished by a yellow
+  center-label** used by certain labels in the 1960s–70s to mark DJ/radio copies.'
 tags:
 - dj-related
 - pressing
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Label Promo
+genres:
+- Hip Hop
 ---
 
 # Yellow

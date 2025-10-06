@@ -5,15 +5,13 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
 - US
 see_also:
 - pitch-control
-slug: beat
+slug: beat-matching
 status: active
 summary: '**verb / noun.** The DJ technique of synchronizing the tempo and downbeat
   of two records so they blend seamlessly during a mix.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Matching
+genres:
+- Hip Hop
 ---
 
 # Beat

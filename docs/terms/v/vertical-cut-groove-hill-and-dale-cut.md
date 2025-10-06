@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - lateral-cut-groove
 - acoustic-phonograph
 - diamond-disc
-slug: vertical-cut-groove
+slug: vertical-cut-groove-hill-and-dale-cut
 status: active
-summary: "**noun / historical groove style.** A **groove modulation style where the\
-  \ stylus moves up-and-down (vertical) rather than side-to-side (lateral)** \u2014\
-  \ used in early Edison discs and some 78s."
+summary: '**noun / historical groove style.** A **groove modulation style where the
+  stylus moves up-and-down (vertical) rather than side-to-side (lateral)** — used
+  in early Edison discs and some 78s.'
 tags:
 - equipment
 - pressing
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Hill-and-Dale Cut
+genres:
+- all
 ---
 
 # Vertical-Cut Groove

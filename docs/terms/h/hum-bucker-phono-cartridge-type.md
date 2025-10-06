@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - ground-loop-hum
 - shielding
 - moving-magnet
-slug: hum-bucker
+slug: hum-bucker-phono-cartridge-type
 status: active
 summary: '**noun / technical.** A cartridge or wiring configuration designed to cancel
   out electromagnetic hum by using two coils wired in opposite polarity.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Phono Cartridge Type
+genres:
+- all
 ---
 
 # Hum-Bucker

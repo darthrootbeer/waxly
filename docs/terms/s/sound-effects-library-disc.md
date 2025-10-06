@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +21,9 @@ tags:
 term: Sound-Effects Library Disc
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Sound-Effects Library Disc

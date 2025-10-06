@@ -1,9 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -12,7 +9,7 @@ see_also:
 - vitaphone-disc
 - transcription-disc
 - shellac
-slug: optical-soundtrack-disc
+slug: optical-soundtrack-disc-historical
 status: active
 summary: '**noun / historical.** An experimental 1930s disc format that encoded film
   sound optically on a phonograph record, designed for synchronizing with motion pictures
@@ -24,6 +21,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Historical
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Optical Soundtrack Disc

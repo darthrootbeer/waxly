@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - quality_control
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: Paper Scuff
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Paper Scuff

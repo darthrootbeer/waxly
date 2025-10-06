@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- jazz
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - deep-groove-label
 - label-variant
 - dead-wax
-slug: pressing-ring
+slug: pressing-ring-aka-label-ring
 status: active
 summary: '**noun / collector term.** A circular ridge or indent left on the paper
   label by the center-dome of the press; diameter often reveals which plant or era
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - a.k.a. Label Ring
+genres:
+- Jazz
 ---
 
 # Pressing Ring

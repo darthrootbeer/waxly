@@ -8,8 +8,6 @@ equipment_association:
 - tonearm
 - cartridge
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,7 +16,7 @@ see_also:
 - s-arm
 - straight-arm
 - tangential-tracking-arm
-slug: tone
+slug: tone-arm
 status: active
 summary: '**noun / turntable component.** The **pivoting or linear-tracking arm that
   holds the headshell & cartridge**, guiding the stylus through the groove.'
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Arm
+genres:
+- all
 ---
 
 # Tone

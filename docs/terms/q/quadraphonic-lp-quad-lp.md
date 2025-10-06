@@ -6,10 +6,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
-- jazz
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -19,11 +15,11 @@ see_also:
 - qs-matrix
 - cd-4-discrete
 - decoder
-slug: quadraphonic-lp
+slug: quadraphonic-lp-quad-lp
 status: active
-summary: "noun / format. A 1970s-era vinyl format engineered to deliver four-channel\
-  \ surround sound when played through compatible decoders and amps. Several competing\
-  \ systems existed \u2014 SQ, QS, and CD-4..."
+summary: noun / format. A 1970s-era vinyl format engineered to deliver four-channel
+  surround sound when played through compatible decoders and amps. Several competing
+  systems existed — SQ, QS, and CD-4...
 tags:
 - dj-related
 - collecting
@@ -33,6 +29,10 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Quad LP
+genres:
+- Hip Hop
+- Jazz
+- Rock
 ---
 
 # Quadraphonic LP

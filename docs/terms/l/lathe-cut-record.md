@@ -7,8 +7,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - direct-to-disc
 - boutique-pressing
 - acetate
-slug: lathe
+slug: lathe-cut-record
 status: active
-summary: "**noun / DIY / boutique.** A one-off or small-batch record individually\
-  \ cut on a record-lathe rather than pressed from stampers \u2014 common for micro-labels,\
-  \ art pieces, or instant souvenirs."
+summary: '**noun / DIY / boutique.** A one-off or small-batch record individually
+  cut on a record-lathe rather than pressed from stampers — common for micro-labels,
+  art pieces, or instant souvenirs.'
 tags:
 - pressing
 - collecting
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cut Record
+genres:
+- all
 ---
 
 # Lathe

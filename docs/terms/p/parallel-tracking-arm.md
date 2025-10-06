@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - tonearm
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,10 @@ regions:
 see_also:
 - linear-tracking-turntable
 - tangential-arm
-slug: parallel
+slug: parallel-tracking-arm
 status: active
-summary: "**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**,\
-  \ designed to move straight across the record\u2019s radius to reduce tracking-angle\
-  \ error."
+summary: '**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**,
+  designed to move straight across the record’s radius to reduce tracking-angle error.'
 tags:
 - equipment
 - technical
@@ -29,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tracking Arm
+genres:
+- all
 ---
 
 # Parallel

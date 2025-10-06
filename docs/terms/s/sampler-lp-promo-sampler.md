@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - promo-copy
 - white-label-promo
 - compilation-lp
-slug: sampler-lp
+slug: sampler-lp-promo-sampler
 status: active
-summary: "**noun / retail-promo format.** A **compilation LP issued for promotional\
-  \ use** showcasing tracks from multiple artists on a label\u2019s roster, often\
-  \ free to radio or record shops."
+summary: '**noun / retail-promo format.** A **compilation LP issued for promotional
+  use** showcasing tracks from multiple artists on a label’s roster, often free to
+  radio or record shops.'
 tags:
 - collecting
 - historical
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Promo Sampler
+genres:
+- all
 ---
 
 # Sampler LP

@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Zero-Rumble Spec
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Zero-Rumble Spec

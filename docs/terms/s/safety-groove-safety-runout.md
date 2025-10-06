@@ -5,8 +5,6 @@ domains:
 - mastering
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - locked-groove
 - run-out-groove
 - lead-out
-slug: safety-groove
+slug: safety-groove-safety-runout
 status: active
 summary: '**noun / cutting-room term.** A **silent protective groove** cut just after
   the last musical groove but before the lock-groove to prevent the stylus from skating
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Safety-Runout
+genres:
+- all
 ---
 
 # Safety Groove

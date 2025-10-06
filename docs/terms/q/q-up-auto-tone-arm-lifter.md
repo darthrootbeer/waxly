@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - tonearm
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Q-Up (Auto Tone-Arm Lifter)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Q-Up (Auto Tone-Arm Lifter)

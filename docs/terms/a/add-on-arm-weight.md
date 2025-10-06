@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - tonearm
 - cartridge
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Add-On Arm Weight
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Add-On Arm Weight

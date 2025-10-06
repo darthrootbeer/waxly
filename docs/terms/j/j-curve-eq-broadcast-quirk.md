@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - riaa-curve
 - nab-eq
 - turnover-frequency
-slug: j-curve-eq
+slug: j-curve-eq-broadcast-quirk
 status: active
-summary: "noun / technical slang. A non-standard early-broadcast equalization curve\
-  \ used by some European stations pre-RIAA, reputedly shaped like the letter \u201C\
-  J\u201D on frequency graphs \u2014 today mainly an archiv..."
+summary: noun / technical slang. A non-standard early-broadcast equalization curve
+  used by some European stations pre-RIAA, reputedly shaped like the letter “J” on
+  frequency graphs — today mainly an archiv...
 tags:
 - technical
 term: J-Curve EQ
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Broadcast Quirk
+genres:
+- Hip Hop
 ---
 
 # J-Curve EQ

@@ -4,9 +4,6 @@ context: technical
 domains:
 - mastering
 - collecting
-genre_association:
-- rock
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +12,11 @@ see_also:
 - un-banded-lp
 - skip-guard-groove
 - cue-point-marker
-slug: track-banded-lp
+slug: track-banded-lp-banded-groove-album
 status: active
-summary: "**noun / mastering style.** A **long-playing album where each track is visibly\
-  \ separated by a small land groove (\u2018band\u2019)** \u2014 allows manual cueing\
-  \ to individual songs."
+summary: '**noun / mastering style.** A **long-playing album where each track is visibly
+  separated by a small land groove (‘band’)** — allows manual cueing to individual
+  songs.'
 tags:
 - pressing
 term: Track-Banded LP
@@ -27,6 +24,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Banded-Groove Album
+genres:
+- Rock
+- Classical
 ---
 
 # Track-Banded LP

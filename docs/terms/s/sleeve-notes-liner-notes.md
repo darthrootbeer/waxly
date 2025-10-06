@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - back-cover-text
 - credits-panel
 - gatefold-essay
-slug: sleeve-notes
+slug: sleeve-notes-liner-notes
 status: active
 summary: '**noun / packaging feature.** The **printed essays, credits, or commentary**
   on the back cover or inner sleeve of an LP.'
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Liner Notes
+genres:
+- all
 ---
 
 # Sleeve Notes

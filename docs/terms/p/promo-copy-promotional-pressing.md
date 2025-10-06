@@ -8,8 +8,6 @@ domains:
 - collecting
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -18,11 +16,11 @@ see_also:
 - white-label-promo
 - dj-copy
 - not-for-sale-copy
-slug: promo-copy
+slug: promo-copy-promotional-pressing
 status: active
-summary: "noun / retail & radio practice. A record manufactured for free distribution\
-  \ to radio DJs, reviewers, or stores, often marked \u201CPromotional Copy \u2014\
-  \ Not For Sale\u201D, sometimes with unique mono mixes..."
+summary: noun / retail & radio practice. A record manufactured for free distribution
+  to radio DJs, reviewers, or stores, often marked “Promotional Copy — Not For Sale”,
+  sometimes with unique mono mixes...
 tags:
 - dj-related
 - pressing
@@ -32,6 +30,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Promotional Pressing
+genres:
+- Hip Hop
 ---
 
 # Promo Copy

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - limited-edition
 - cut-out
 - warehouse-find
-slug: out-of-print
+slug: out-of-print-oop
 status: active
 summary: '**noun / collector term.** A record title no longer manufactured or distributed
   by the label, often becoming scarce and rising in secondary-market value.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - OOP
+genres:
+- all
 ---
 
 # Out-of-Print

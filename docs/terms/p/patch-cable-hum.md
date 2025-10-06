@@ -8,8 +8,6 @@ equipment_association:
 - turntable
 - mixer
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -18,7 +16,7 @@ see_also:
 - ground-loop-hum
 - rca-cable
 - shielding
-slug: patch
+slug: patch-cable-hum
 status: active
 summary: '**noun / technical / slang.** A low-frequency hum or buzz caused by faulty
   or poorly shielded patch cables between turntable, mixer, or preamp.'
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cable Hum
+genres:
+- Hip Hop
 ---
 
 # Patch

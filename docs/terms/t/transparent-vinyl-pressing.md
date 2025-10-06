@@ -5,8 +5,6 @@ decade: 1970s
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - color-vinyl-edition
 - picture-disc
 - translucent-vinyl-variant
-slug: transparent
+slug: transparent-vinyl-pressing
 status: active
 summary: '**noun / color-vinyl format.** A **record made of fully see-through vinyl
   compound** (clear, tinted, or smoked) rather than opaque black.'
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Vinyl Pressing
+genres:
+- Rock
 ---
 
 # Transparent

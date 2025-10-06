@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -29,6 +27,8 @@ tags:
 term: Wow & Flutter
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Wow & Flutter

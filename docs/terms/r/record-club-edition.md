@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - mastering
 - collecting
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Record Club Edition
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # Record Club Edition

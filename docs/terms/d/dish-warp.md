@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - warp
 - edge-warp
 - de-warping
-slug: dish
+slug: dish-warp
 status: active
-summary: "**noun / slang.** A type of warp where the record\u2019s edge is flat but\
-  \ the center rises or dips like a shallow dish."
+summary: '**noun / slang.** A type of warp where the record’s edge is flat but the
+  center rises or dips like a shallow dish.'
 term: Dish
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Warp
+genres:
+- all
 ---
 
 # Dish

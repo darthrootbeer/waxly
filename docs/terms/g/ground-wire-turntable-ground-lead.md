@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - ground-loop-hum
 - shielding
 - phono-stage
-slug: ground-wire
+slug: ground-wire-turntable-ground-lead
 status: active
-summary: "A dedicated wire that bonds the turntable chassis to the amplifier\u2019\
-  s ground to prevent hum and static."
+summary: A dedicated wire that bonds the turntable chassis to the amplifier’s ground
+  to prevent hum and static.
 tags:
 - equipment
 - historical
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Turntable Ground Lead
+genres:
+- all
 ---
 
 # Ground-Wire

@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - mixer
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Multi-Disc Box Set
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Multi-Disc Box Set

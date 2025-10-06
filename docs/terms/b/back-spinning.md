@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -12,10 +10,10 @@ regions:
 see_also:
 - back-cue
 - transformer-scratch
-slug: back
+slug: back-spinning
 status: active
-summary: "**verb / noun.** Spinning the record backward quickly \u2014 either to rewind\
-  \ to a section or to create the signature \u201Cstutter\u201D sound effect in scratching."
+summary: '**verb / noun.** Spinning the record backward quickly — either to rewind
+  to a section or to create the signature “stutter” sound effect in scratching.'
 tags:
 - dj-related
 term: Back
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Spinning
+genres:
+- Hip Hop
 ---
 
 # Back

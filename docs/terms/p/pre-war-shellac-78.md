@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- jazz
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Pre-War Shellac 78
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Jazz
 ---
 
 # Pre-War Shellac 78

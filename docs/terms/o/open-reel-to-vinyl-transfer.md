@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Open-Reel to Vinyl Transfer
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Open-Reel to Vinyl Transfer

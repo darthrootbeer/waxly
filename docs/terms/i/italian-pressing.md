@@ -8,8 +8,6 @@ domains:
 equipment_association:
 - tonearm
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -29,6 +27,8 @@ tags:
 term: Italian Pressing
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Italian Pressing

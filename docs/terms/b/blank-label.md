@@ -4,9 +4,6 @@ context: technical
 domains:
 - quality_control
 - dj_technique
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +25,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - White-Label
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Blank Label

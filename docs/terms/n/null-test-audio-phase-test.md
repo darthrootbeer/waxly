@@ -7,8 +7,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - phase-cancellation
 - mono-switch
 - mastering-comparison
-slug: null-test
+slug: null-test-audio-phase-test
 status: active
-summary: "noun / technical. A test comparing two audio signals by inverting the polarity\
-  \ of one and summing them; any remaining sound reveals differences \u2014 used by\
-  \ engineers to check remasters or cartridge ..."
+summary: noun / technical. A test comparing two audio signals by inverting the polarity
+  of one and summing them; any remaining sound reveals differences — used by engineers
+  to check remasters or cartridge ...
 tags:
 - equipment
 - pressing
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Audio Phase Test
+genres:
+- all
 ---
 
 # Null-Test

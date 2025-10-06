@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Changer Spindle
+genres:
+- all
 ---
 
 # Drop-Spindle

@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - tracking-ability-test
 - anti-skate-adjustment
 - inner-groove-distortion
-slug: sizzle-cymbal-test
+slug: sizzle-cymbal-test-audiophile-check-track
 status: active
 summary: '**noun / listening-test slang.** An **informal test using bright cymbal
   passages** on a record to check cartridge alignment, HF tracking ability, or inner-groove
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Audiophile Check Track
+genres:
+- all
 ---
 
 # Sizzle-Cymbal Test

@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 1970s
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Vinyl Coated Inner Sleeve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Vinyl Coated Inner Sleeve

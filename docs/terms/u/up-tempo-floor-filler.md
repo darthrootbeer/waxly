@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +21,9 @@ tags:
 term: Up-Tempo Floor-Filler
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Up-Tempo Floor-Filler

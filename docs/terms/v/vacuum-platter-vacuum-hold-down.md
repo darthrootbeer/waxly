@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - reflex-clamp
 - record-weight
 - warped-record-flattening
-slug: vacuum-platter
+slug: vacuum-platter-vacuum-hold-down
 status: active
 summary: '**noun / turntable design.** A **turntable platter that uses gentle suction
   to flatten records against its surface** for improved coupling and reduced warps.'
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Vacuum Hold-Down
+genres:
+- all
 ---
 
 # Vacuum Platter

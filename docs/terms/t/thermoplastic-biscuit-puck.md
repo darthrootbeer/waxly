@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - pressing-weight-180-g
 - re-grind-vinyl
 - stamper-wear
-slug: thermoplastic-biscuit
+slug: thermoplastic-biscuit-puck
 status: active
 summary: '**noun / plant slang.** A **pre-measured lump of heated vinyl compound**
   placed between stampers in the press; flattens into the disc during the pressing
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Puck
+genres:
+- all
 ---
 
 # Thermoplastic Biscuit

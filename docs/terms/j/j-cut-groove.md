@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,8 +14,8 @@ see_also:
 - locked-groove
 slug: j-cut-groove
 status: active
-summary: "**noun / slang.** A rare cutting-lathe mishap where the groove briefly swerves\
-  \ sideways forming a \u201Chook\u201D shape, causing a click or mistrack."
+summary: '**noun / slang.** A rare cutting-lathe mishap where the groove briefly swerves
+  sideways forming a “hook” shape, causing a click or mistrack.'
 tags:
 - pressing
 - collecting
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pressing Defect
+genres:
+- all
 ---
 
 # J-Cut Groove

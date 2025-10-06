@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - poly-lined-inner-sleeve
 - archival-sleeve
 - anti-static-treatment
-slug: polylined-rice-paper-sleeve
+slug: polylined-rice-paper-sleeve-mofi-style
 status: active
 summary: '**noun / archival inner.** A premium ultra-thin rice-paper inner with anti-static
   poly lining, popularized by Mobile Fidelity Sound Lab.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - MoFi-Style
+genres:
+- Rock
 ---
 
 # Polylined Rice-Paper Sleeve

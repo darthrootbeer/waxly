@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - quality_control
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,6 +15,8 @@ tags:
 term: X-Cut Test Groove
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # X-Cut Test Groove

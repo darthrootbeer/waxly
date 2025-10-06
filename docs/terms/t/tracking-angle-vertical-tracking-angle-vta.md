@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - tonearm
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - sra-stylus-rake-angle
 - cartridge-shims
 - arm-height-adjuster
-slug: tracking-angle-vertical-tracking-angle
+slug: tracking-angle-vertical-tracking-angle-vta
 status: active
-summary: "noun / hi-fi geometry term. The angle at which the stylus sits in the groove\
-  \ relative to the record surface \u2014 ideally matches the angle of the cutter\
-  \ head (~20\xB0). Adjustable via tone-arm heigh..."
+summary: noun / hi-fi geometry term. The angle at which the stylus sits in the groove
+  relative to the record surface — ideally matches the angle of the cutter head (~20°).
+  Adjustable via tone-arm heigh...
 tags:
 - equipment
 - dj-related
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - VTA
+genres:
+- Hip Hop
 ---
 
 # Tracking Angle / Vertical Tracking Angle

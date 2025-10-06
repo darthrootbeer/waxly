@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Residual Static Pop
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Residual Static Pop

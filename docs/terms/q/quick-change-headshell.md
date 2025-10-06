@@ -8,8 +8,6 @@ equipment_association:
 - tonearm
 - cartridge
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Quick-Change Headshell
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Quick-Change Headshell

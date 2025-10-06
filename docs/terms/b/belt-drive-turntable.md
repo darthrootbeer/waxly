@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Belt-Drive Turntable
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Belt-Drive Turntable

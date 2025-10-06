@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - groove-wear
 - needle-wear
 - stylus-life
-slug: playback-wear
+slug: playback-wearcontinued
 status: active
-summary: "**noun / technical.** Cumulative groove damage caused by repeated plays,\
-  \ especially with heavy or worn styli \u2014 manifests as hiss, distortion, or loss\
-  \ of high-end detail."
+summary: '**noun / technical.** Cumulative groove damage caused by repeated plays,
+  especially with heavy or worn styli — manifests as hiss, distortion, or loss of
+  high-end detail.'
 tags:
 - technical
 term: Playback Wear
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - continued
+genres:
+- all
 ---
 
 # Playback Wear

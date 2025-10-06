@@ -5,10 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
-- jazz
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -17,10 +13,10 @@ see_also:
 - inner-groove-distortion
 - continuous-mix-cut
 - locked-groove
-slug: side-long-track
+slug: side-long-track-side-length-cut
 status: active
-summary: "**noun / sequencing term.** A **single extended composition that fills nearly\
-  \ an entire LP side** \u2014 typical in prog-rock, ambient, jazz, or DJ-mix albums."
+summary: '**noun / sequencing term.** A **single extended composition that fills nearly
+  an entire LP side** — typical in prog-rock, ambient, jazz, or DJ-mix albums.'
 tags:
 - dj-related
 - pressing
@@ -30,6 +26,10 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Side-Length Cut
+genres:
+- Hip Hop
+- Jazz
+- Rock
 ---
 
 # Side-Long Track

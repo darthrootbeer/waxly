@@ -6,8 +6,6 @@ domains:
 - pressing_technique
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - banded-groove-lp
 - groove-guard-lip
 - kiddie-record-format
-slug: skip-guard-groove
+slug: skip-guard-groove-raised-guard-groove
 status: active
-summary: "**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between\
-  \ tracks on children\u2019s or spoken-word records designed to reduce accidental\
-  \ needle-skips when bumped."
+summary: '**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between
+  tracks on children’s or spoken-word records designed to reduce accidental needle-skips
+  when bumped.'
 tags:
 - pressing
 - historical
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Raised-Guard Groove
+genres:
+- all
 ---
 
 # Skip-Guard Groove

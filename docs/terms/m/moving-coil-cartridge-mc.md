@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - cartridge
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - moving-magnet
 - step-up-transformer
 - cartridge-compliance
-slug: moving-coil-cartridge
+slug: moving-coil-cartridge-mc
 status: active
-summary: "noun / technical. A phono cartridge design where the stylus moves tiny coils\
-  \ of wire within a fixed magnetic field \u2014 opposite of the moving-magnet design\
-  \ \u2014 delivering low output but exceptional tr..."
+summary: noun / technical. A phono cartridge design where the stylus moves tiny coils
+  of wire within a fixed magnetic field — opposite of the moving-magnet design — delivering
+  low output but exceptional tr...
 tags:
 - equipment
 - technical
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - MC
+genres:
+- all
 ---
 
 # Moving-Coil Cartridge

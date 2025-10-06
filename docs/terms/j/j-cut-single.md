@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,9 +14,9 @@ see_also:
 - groove-spacing
 slug: j-cut-single
 status: active
-summary: "**noun / slang.** A record pressed with the lead-in groove unusually short\
-  \ \u2014 almost shaped like a \u201CJ\u201D hugging the label \u2014 meaning the\
-  \ song starts very close to the label."
+summary: '**noun / slang.** A record pressed with the lead-in groove unusually short
+  — almost shaped like a “J” hugging the label — meaning the song starts very close
+  to the label.'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Collector Slang
+genres:
+- all
 ---
 
 # J-Cut Single

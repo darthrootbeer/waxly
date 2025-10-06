@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -21,6 +19,8 @@ tags:
 term: King-Size 16-Inch Transcription Disc
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # King-Size 16-Inch Transcription Disc

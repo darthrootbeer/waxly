@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - electrical-transcription
 - wide-groove-stylus
 - inside-out-cut
-slug: transcription-disc
+slug: transcription-disc-16-inch-transcription
 status: active
-summary: "noun / historical broadcast format. A large-diameter 16-inch vinyl or lacquer\
-  \ disc used from the 1930s-50s to distribute radio programs and live concerts to\
-  \ stations \u2014 cut at 33\u2153 RPM well befo..."
+summary: noun / historical broadcast format. A large-diameter 16-inch vinyl or lacquer
+  disc used from the 1930s-50s to distribute radio programs and live concerts to stations
+  — cut at 33⅓ RPM well befo...
 tags:
 - pressing
 - historical
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - 16-Inch Transcription
+genres:
+- all
 ---
 
 # Transcription Disc

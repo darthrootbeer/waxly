@@ -4,8 +4,6 @@ context: technical
 domains:
 - mastering
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - half-speed-mastering
 - aaa-mastering
 - loudness-war-cut
-slug: re-master
+slug: re-master-remastered-edition
 status: active
 summary: '**noun / studio term.** A **newly mastered version** of an existing recording,
   often using improved tapes, EQ, or digital restoration.'
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Remastered Edition
+genres:
+- all
 ---
 
 # Re-Master

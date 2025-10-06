@@ -5,8 +5,6 @@ decade: 1960s
 domains:
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - radio-copy-promo
 - cue-sheet-insert
 - hype-sticker
-slug: timing-strip
+slug: timing-strip-track-timing-sticker
 status: active
-summary: "**noun / radio-promo ephemera.** A **paper strip or sticker listing exact\
-  \ track timings and cue info** for announcers and DJs \u2014 usually affixed to\
-  \ the jacket front."
+summary: '**noun / radio-promo ephemera.** A **paper strip or sticker listing exact
+  track timings and cue info** for announcers and DJs — usually affixed to the jacket
+  front.'
 tags:
 - dj-related
 - collecting
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Track-Timing Sticker
+genres:
+- Hip Hop
 ---
 
 # Timing Strip

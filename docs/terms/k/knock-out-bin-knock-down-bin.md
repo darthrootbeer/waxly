@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,10 @@ see_also:
 - cut-out
 - remaindered-stock
 - bargain-bin
-slug: knock-out-bin
+slug: knock-out-bin-knock-down-bin
 status: active
-summary: "**noun / retail slang.** Bargain record-store bin for overstock, cut-outs,\
-  \ or clearance LPs \u2014 often literally a cardboard \u201Cknock-down\u201D display\
-  \ box on the floor."
+summary: '**noun / retail slang.** Bargain record-store bin for overstock, cut-outs,
+  or clearance LPs — often literally a cardboard “knock-down” display box on the floor.'
 tags:
 - pressing
 term: Knock-Out Bin
@@ -23,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Knock-Down Bin
+genres:
+- all
 ---
 
 # Knock-Out Bin

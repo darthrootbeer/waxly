@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Locked Groove
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # Locked Groove

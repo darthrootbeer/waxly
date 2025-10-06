@@ -5,8 +5,6 @@ decade: 1970s
 domains:
 - pressing_technique
 - quality_control
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - re-grind-vinyl
 - heavy-weight-pressing
 - quiex-ii-translucent-vinyl
-slug: virgin-vinyl
+slug: virgin-vinyl-virgin-compound-pressing
 status: active
 summary: '**noun / manufacturing grade.** A **record pressed from 100% new PVC compound
   with no recycled re-grind material**, resulting in cleaner surfaces and lower noise.'
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Virgin-Compound Pressing
+genres:
+- all
 ---
 
 # Virgin Vinyl

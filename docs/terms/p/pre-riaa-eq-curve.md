@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 1940s
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Pre-RIAA EQ Curve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Pre-RIAA EQ Curve

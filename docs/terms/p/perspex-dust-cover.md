@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - dust-cover
 - hinged-lid
 - plinth
-slug: perspex-dust
+slug: perspex-dust-cover
 status: active
 summary: '**noun / hi-fi accessory.** A clear acrylic (Perspex) cover hinged over
   a turntable to shield it from dust when not in use.'
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cover
+genres:
+- all
 ---
 
 # Perspex Dust

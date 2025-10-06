@@ -7,8 +7,6 @@ equipment_association:
 - turntable
 - amplifier
 - speaker
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - plinth
 - wall-mount-shelf
 - foot-fall-feedback
-slug: isolation-feet
+slug: isolation-feet-isolation-platform
 status: active
 summary: Shock-absorbing feet or platforms placed under turntables or amps to minimize
   vibration from floors, speakers, or footsteps.
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Isolation Platform
+genres:
+- Rock
 ---
 
 # Isolation Feet

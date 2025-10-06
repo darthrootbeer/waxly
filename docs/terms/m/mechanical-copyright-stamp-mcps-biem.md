@@ -6,8 +6,6 @@ domains:
 - pressing_technique
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - label-variant
 - country-of-origin-pressing
 - siae-stamp
-slug: mechanical-copyright-stamp
+slug: mechanical-copyright-stamp-mcps-biem
 status: active
 summary: '**noun / ephemera.** Small printed or stamped mark on European labels/jackets
   indicating licensing under a mechanical-copyright society such as MCPS or BIEM.'
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - MCPS / BIEM
+genres:
+- all
 ---
 
 # Mechanical Copyright Stamp

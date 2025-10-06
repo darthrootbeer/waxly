@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - virgin-vinyl
 - low-noise-vinyl
 - landfill-vinyl
-slug: re-grind-vinyl
+slug: re-grind-vinyl-re-ground-compound
 status: active
-summary: "**noun / manufacturing term.** Vinyl compound **made from ground-up scrap\
-  \ trimmings or returned records** blended back into new pressings \u2014 common\
-  \ in budget LPs."
+summary: '**noun / manufacturing term.** Vinyl compound **made from ground-up scrap
+  trimmings or returned records** blended back into new pressings — common in budget
+  LPs.'
 tags:
 - pressing
 term: Re-Grind Vinyl
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Re-Ground Compound
+genres:
+- Hip Hop
 ---
 
 # Re-Grind Vinyl

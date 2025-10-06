@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Vacuum Tube Phono Stage
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Vacuum Tube Phono Stage

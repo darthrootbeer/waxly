@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - mastering
 - quality_control
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Audiophile Pressing
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Audiophile Pressing

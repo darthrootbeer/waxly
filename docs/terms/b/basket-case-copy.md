@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,10 +11,10 @@ see_also:
 - vg
 - g-plus
 - beater-copy
-slug: basket
+slug: basket-case-copy
 status: active
-summary: "**noun / slang.** Collector slang for a record in extremely poor physical\
-  \ condition \u2014 warped, cracked, or otherwise beyond realistic repair."
+summary: '**noun / slang.** Collector slang for a record in extremely poor physical
+  condition — warped, cracked, or otherwise beyond realistic repair.'
 tags:
 - collecting
 term: Basket
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Case Copy
+genres:
+- all
 ---
 
 # Basket

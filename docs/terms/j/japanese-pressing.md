@@ -7,9 +7,6 @@ domains:
 - collecting
 equipment_association:
 - tonearm
-genre_association:
-- jazz
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +25,9 @@ tags:
 term: Japanese Pressing
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Jazz
+- Rock
 ---
 
 # Japanese Pressing

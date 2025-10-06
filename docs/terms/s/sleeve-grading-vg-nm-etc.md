@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - goldmine-grading-scale
 - seam-split
 - ring-wear
-slug: sleeve-grading
+slug: sleeve-grading-vg-nm-etc
 status: active
-summary: "**noun / collector practice.** The **condition rating of a record\u2019\
-  s outer jacket or sleeve** using standard grading scales \u2014 Mint (M), Near Mint\
-  \ (NM), Very Good (VG), Good (G), etc."
+summary: '**noun / collector practice.** The **condition rating of a record’s outer
+  jacket or sleeve** using standard grading scales — Mint (M), Near Mint (NM), Very
+  Good (VG), Good (G), etc.'
 tags:
 - collecting
 term: Sleeve Grading
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - VG / NM / etc.
+genres:
+- all
 ---
 
 # Sleeve Grading

@@ -5,8 +5,6 @@ domains:
 - mastering
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: X-Rated Cover Art
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # X-Rated Cover Art

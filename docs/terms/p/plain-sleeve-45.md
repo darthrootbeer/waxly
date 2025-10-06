@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - picture-sleeve
 - jukebox-strip
 - generic-company-sleeve
-slug: plain
+slug: plain-sleeve-45
 status: active
 summary: '**noun / packaging / collector term.** A 7-inch single sold in a generic
   company-logo or blank paper sleeve rather than a custom picture sleeve.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Sleeve 45
+genres:
+- all
 ---
 
 # Plain

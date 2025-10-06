@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -13,10 +10,10 @@ regions:
 see_also:
 - breakbeat
 - double-copy
-slug: percussion-break
+slug: percussion-break-aka-breakbeat
 status: active
-summary: "**noun / DJ / cultural.** A short drum-only section in a song that DJs isolate\
-  \ and loop for dancers or MCs \u2014 often hunted on funk, soul, and disco vinyl."
+summary: '**noun / DJ / cultural.** A short drum-only section in a song that DJs isolate
+  and loop for dancers or MCs — often hunted on funk, soul, and disco vinyl.'
 tags:
 - dj-related
 - cultural
@@ -25,6 +22,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - a.k.a. Breakbeat
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Percussion Break

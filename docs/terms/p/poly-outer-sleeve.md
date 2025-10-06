@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Poly Outer Sleeve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Poly Outer Sleeve

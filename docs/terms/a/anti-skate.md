@@ -9,8 +9,6 @@ equipment_association:
 - turntable
 - tonearm
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -19,7 +17,7 @@ see_also:
 - tracking-force
 - tonearm
 - groove-wear
-slug: anti
+slug: anti-skate
 status: active
 summary: A spring- or magnet-based control on turntables that counteracts the inward
   pull on the tonearm caused by groove friction, helping the stylus stay centered
@@ -33,6 +31,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Skate
+genres:
+- Hip Hop
 ---
 
 # Anti

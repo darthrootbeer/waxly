@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - direct-to-disc
 - acetate
 - live-to-lacquer
-slug: overdub-to-disc
+slug: overdub-to-disc-direct-to-disc-overdub
 status: active
-summary: "noun / recording method. A studio technique where additional instruments\
-  \ or vocals were recorded live while cutting straight to disc, layering takes without\
-  \ tape \u2014 used occasionally in the 1940s-5..."
+summary: noun / recording method. A studio technique where additional instruments
+  or vocals were recorded live while cutting straight to disc, layering takes without
+  tape — used occasionally in the 1940s-5...
 tags:
 - pressing
 - historical
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Direct-to-Disc Overdub
+genres:
+- all
 ---
 
 # Overdub-to-Disc

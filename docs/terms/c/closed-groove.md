@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -14,10 +11,10 @@ see_also:
 - locked-groove
 - banding
 - run-out-etching
-slug: closed-groove-loop
+slug: closed-groove
 status: active
-summary: "A special groove cut to circle back on itself, trapping the stylus to loop\
-  \ sound indefinitely \u2014 sometimes placed mid-side as an experimental effect."
+summary: A special groove cut to circle back on itself, trapping the stylus to loop
+  sound indefinitely — sometimes placed mid-side as an experimental effect.
 tags:
 - equipment
 - dj-related
@@ -27,6 +24,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Locked Groove
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Closed-Groove Loop

@@ -5,8 +5,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - thrift-bin-find
 - lounge-core
 - exploitation-lp
-slug: kitsch
+slug: kitsch-cover-lp
 status: active
-summary: "**noun / slang.** Collector slang for records prized (or mocked) for their\
-  \ campy, over-the-top or unintentionally funny cover art \u2014 often thrift-store\
-  \ easy-listening and budget-label titles."
+summary: '**noun / slang.** Collector slang for records prized (or mocked) for their
+  campy, over-the-top or unintentionally funny cover art — often thrift-store easy-listening
+  and budget-label titles.'
 tags:
 - collecting
 - cultural
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cover LP
+genres:
+- all
 ---
 
 # Kitsch

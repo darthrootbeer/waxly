@@ -2,8 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 2010s
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -20,6 +18,8 @@ summary: '**noun / cleaning device.** A **machine that uses high-frequency ultra
 term: Ultra-Sonic Record Cleaner
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Ultra-Sonic Record Cleaner

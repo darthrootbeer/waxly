@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - gatefold
 - concept-album
 - box-set
-slug: double
+slug: double-album
 status: active
-summary: "A release spanning two full LP discs\u2014typically 4 sides\u2014either\
-  \ for length or artistic concept."
+summary: A release spanning two full LP discs—typically 4 sides—either for length
+  or artistic concept.
 term: Double
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Album
+genres:
+- all
 ---
 
 # Double

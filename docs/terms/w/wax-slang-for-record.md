@@ -4,8 +4,6 @@ context: technical
 domains:
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Wax (Slang for Record)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Wax (Slang for Record)

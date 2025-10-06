@@ -7,8 +7,6 @@ equipment_association:
 - tonearm
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - removable-headshell-leads
 - phono-pre-amp
 - ground-wire-hum
-slug: tone-arm-cable
+slug: tone-arm-cable-phono-leads
 status: active
-summary: "**noun / hi-fi wiring.** The **shielded low-capacitance cable** carrying\
-  \ the delicate cartridge signal to the phono pre-amp \u2014 often hard-wired or\
-  \ detachable RCA leads."
+summary: '**noun / hi-fi wiring.** The **shielded low-capacitance cable** carrying
+  the delicate cartridge signal to the phono pre-amp — often hard-wired or detachable
+  RCA leads.'
 tags:
 - equipment
 term: Tone-Arm Cable
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Phono Leads
+genres:
+- all
 ---
 
 # Tone-Arm Cable

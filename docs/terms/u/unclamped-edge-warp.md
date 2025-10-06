@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - dish-warp
 - record-clamp
 - reflex-clamp
-slug: unclamped-edge
+slug: unclamped-edge-warp
 status: active
-summary: "**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling\
-  \ or storage pressure \u2014 usually flattenable with a weight or clamp."
+summary: '**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling
+  or storage pressure — usually flattenable with a weight or clamp.'
 tags:
 - pressing
 - collecting
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Warp
+genres:
+- all
 ---
 
 # Unclamped Edge

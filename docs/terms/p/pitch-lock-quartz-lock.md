@@ -6,8 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - turntable
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - pitch-control
 - quartz-synth-drive
 - wow-flutter
-slug: pitch-lock
+slug: pitch-lock-quartz-lock
 status: active
-summary: "**noun / DJ / hi-fi.** A feature that locks turntable speed to an exact\
-  \ quartz-regulated standard, overriding manual pitch control for perfect 33\u2153\
-  \ or 45 RPM."
+summary: '**noun / DJ / hi-fi.** A feature that locks turntable speed to an exact
+  quartz-regulated standard, overriding manual pitch control for perfect 33⅓ or 45
+  RPM.'
 tags:
 - equipment
 - dj-related
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Quartz-Lock
+genres:
+- Hip Hop
 ---
 
 # Pitch-Lock

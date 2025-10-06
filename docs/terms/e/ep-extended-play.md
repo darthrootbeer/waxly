@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: A record release longer than a single but shorter than a full LP — of
 term: EP (Extended Play)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # EP (Extended Play)

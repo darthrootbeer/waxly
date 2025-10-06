@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,11 @@ see_also:
 - slip-mat
 - clamp-and-mat-tuning
 - record-weight-coupling
-slug: turntable-mat
+slug: turntable-mat-platter-mat
 status: active
-summary: "**noun / deck interface.** The **disc-shaped layer placed between the platter\
-  \ and the record** \u2014 can be rubber, felt, cork, leather, graphite, etc., affecting\
-  \ damping and grip."
+summary: '**noun / deck interface.** The **disc-shaped layer placed between the platter
+  and the record** — can be rubber, felt, cork, leather, graphite, etc., affecting
+  damping and grip.'
 tags:
 - equipment
 - dj-related
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Platter Mat
+genres:
+- Hip Hop
 ---
 
 # Turntable Mat

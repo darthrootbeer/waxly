@@ -5,8 +5,6 @@ domains:
 - mastering
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - lead-in-groove
 - run-out-groove
 - safety-groove
-slug: spiral-groove-lead-in
+slug: spiral-groove-lead-in-lead-out
 status: active
 summary: '**noun / groove geometry.** The **silent spiral groove** at the start (lead-in)
   and end (lead-out) of each side guiding the stylus to or from the playing area.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Lead-Out
+genres:
+- all
 ---
 
 # Spiral-Groove Lead-In

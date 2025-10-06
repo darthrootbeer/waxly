@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ tags:
 term: NAB EQ (National Association of Broadcasters Equalization)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # NAB EQ (National Association of Broadcasters Equalization)

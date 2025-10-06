@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - skip
 - mistracking
 - foot-fall-feedback
-slug: groove
+slug: groove-jump
 status: active
-summary: "**noun / slang.** When the stylus physically hops out of one spiral groove\
-  \ into the next (or back) \u2014 often due to a warp, foot-fall vibration, or too-light\
-  \ tracking."
+summary: '**noun / slang.** When the stylus physically hops out of one spiral groove
+  into the next (or back) — often due to a warp, foot-fall vibration, or too-light
+  tracking.'
 tags:
 - equipment
 - dj-related
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Jump
+genres:
+- Hip Hop
 ---
 
 # Groove

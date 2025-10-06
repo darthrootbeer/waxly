@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: Yard-Sale Find
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Yard-Sale Find

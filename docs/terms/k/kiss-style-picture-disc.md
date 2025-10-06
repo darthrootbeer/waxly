@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -15,14 +13,15 @@ see_also:
 - collector-variant
 slug: kiss-style-picture-disc
 status: active
-summary: "**noun / cultural.** A reference to the band KISS\u2019s hugely popular\
-  \ late-\u201970s U.S. picture-disc LPs that sparked a mass trend of collectible\
-  \ rock picture discs."
+summary: '**noun / cultural.** A reference to the band KISS’s hugely popular late-’70s
+  U.S. picture-disc LPs that sparked a mass trend of collectible rock picture discs.'
 tags:
 - collecting
 term: KISS-Style Picture Disc
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # KISS-Style Picture Disc

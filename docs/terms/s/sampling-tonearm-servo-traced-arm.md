@@ -6,9 +6,6 @@ domains:
 equipment_association:
 - tonearm
 - amplifier
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +14,11 @@ see_also:
 - linear-tracking-arm
 - tangential-tracking
 - servo-arm
-slug: sampling-tonearm
+slug: sampling-tonearm-servo-traced-arm
 status: active
-summary: "**noun / hi-fi term.** A **servo-controlled tonearm** that \u201Csamples\u201D\
-  \ groove angle and continuously adjusts to keep tangential alignment \u2014 precursor\
-  \ to full linear-tracking arms."
+summary: '**noun / hi-fi term.** A **servo-controlled tonearm** that “samples” groove
+  angle and continuously adjusts to keep tangential alignment — precursor to full
+  linear-tracking arms.'
 tags:
 - equipment
 - dj-related
@@ -30,6 +27,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Servo-Traced Arm
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Sampling Tonearm

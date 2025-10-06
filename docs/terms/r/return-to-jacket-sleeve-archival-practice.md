@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - poly-lined-inner-sleeve
 - outer-poly-sleeve
 - seam-split
-slug: return-to-jacket-sleeve
+slug: return-to-jacket-sleeve-archival-practice
 status: active
 summary: '**noun / collector habit.** The practice of **storing the vinyl in a separate
   poly-lined inner behind the jacket**, keeping the jacket empty to avoid ring-wear
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Archival Practice
+genres:
+- all
 ---
 
 # Return-to-Jacket Sleeve

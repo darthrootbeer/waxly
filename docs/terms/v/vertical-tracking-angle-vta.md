@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - cartridge
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - sra-stylus-rake-angle
 - tone-arm-height-adjuster
 - tracking-force
-slug: vertical-tracking-angle
+slug: vertical-tracking-angle-vta
 status: active
 summary: '**noun / cartridge alignment spec.** The **angle of the cantilever/stylus
   relative to the record surface in the vertical plane**, ideally matching the angle
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - VTA
+genres:
+- all
 ---
 
 # Vertical Tracking Angle

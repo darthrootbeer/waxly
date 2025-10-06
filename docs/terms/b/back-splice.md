@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - a.k.a. Back-Tape
+genres:
+- all
 ---
 
 # Back-Splice

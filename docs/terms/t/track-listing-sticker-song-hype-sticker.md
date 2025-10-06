@@ -2,9 +2,6 @@
 complexity: intermediate
 context: technical
 decade: 1970s
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -13,10 +10,10 @@ see_also:
 - hype-sticker
 - timing-strip
 - shrink-wrap
-slug: track-listing-sticker
+slug: track-listing-sticker-song-hype-sticker
 status: active
-summary: "**noun / packaging ephemera.** A **front-cover sticker listing hit singles\
-  \ or standout tracks** to grab buyers\u2019 attention in stores."
+summary: '**noun / packaging ephemera.** A **front-cover sticker listing hit singles
+  or standout tracks** to grab buyers’ attention in stores.'
 tags:
 - historical
 term: Track-Listing Sticker
@@ -24,6 +21,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Song-Hype Sticker
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Track-Listing Sticker

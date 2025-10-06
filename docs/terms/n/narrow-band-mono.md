@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - high-fidelity
 - am-mix
 - mid-side-fold-down
-slug: narrow
+slug: narrow-band-mono
 status: active
 summary: '**noun / historical audio term.** Mono mixes with intentionally reduced
   frequency range (narrow-band) to suit AM radio or jukebox playback during the 1940s-60s.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Band Mono
+genres:
+- Rock
 ---
 
 # Narrow

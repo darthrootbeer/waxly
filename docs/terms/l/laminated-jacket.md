@@ -4,8 +4,6 @@ context: technical
 decade: 1950s
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Laminated Jacket
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Laminated Jacket

@@ -4,8 +4,6 @@ context: technical
 domains:
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - obi-strip
 - poly-outer-sleeve
 - archival-bag
-slug: protective-poly-outer
+slug: protective-poly-outer-japanese-resealable
 status: active
 summary: '**noun / packaging upgrade.** A clear resealable poly outer sleeve with
   adhesive flap, standard on Japanese LPs and premium audiophile imports.'
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Japanese Resealable
+genres:
+- all
 ---
 
 # Protective Poly Outer

@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Hum-Loop Isolator
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Hum-Loop Isolator

@@ -6,8 +6,6 @@ domains:
 - mastering
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - dead-wax
 - matrix-number
 - lacquer-cut
-slug: etching-run
+slug: etching-run-out-etching
 status: active
 summary: Hand-scratched marks, initials, or messages in the dead-wax/run-out area
   identifying mastering engineers or adding hidden notes.
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Out Etching)
+genres:
+- Hip Hop
 ---
 
 # Etching (Run

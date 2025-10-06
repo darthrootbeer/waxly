@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Peel-Off Sticker Cover
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Peel-Off Sticker Cover

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - edge-warp
 - record-clamp
 - reflex-clamp
-slug: sink-mark
+slug: sink-mark-dish-warp
 status: active
 summary: '**noun / pressing defect.** A **slight concave warp** across the record
   face, usually caused by uneven cooling of the vinyl biscuit puck after pressing.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Dish-Warp
+genres:
+- all
 ---
 
 # Sink-Mark

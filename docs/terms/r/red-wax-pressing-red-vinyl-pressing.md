@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - color-vinyl-pressing
 - quiex-vinyl
 - translucent-wax
-slug: red-wax-pressing
+slug: red-wax-pressing-red-vinyl-pressing
 status: active
 summary: '**noun / collector term.** A record **pressed on translucent red-tinted
   vinyl** instead of standard carbon-black PVC. Often used in Japan (1950s-70s) and
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Red-Vinyl Pressing
+genres:
+- all
 ---
 
 # Red-Wax Pressing

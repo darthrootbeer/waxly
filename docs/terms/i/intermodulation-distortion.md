@@ -7,8 +7,6 @@ equipment_association:
 - cartridge
 - amplifier
 - speaker
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +26,8 @@ tags:
 term: Intermodulation Distortion
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Intermodulation Distortion

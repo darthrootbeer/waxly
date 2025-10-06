@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - equipment
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - rumble-filter
 - low-noise-vinyl
 - wow-flutter
-slug: signal-to-noise-ratio
+slug: signal-to-noise-ratio-sn
 status: active
-summary: "noun / audio-spec term. A measurement comparing the desired music signal\
-  \ level to the background noise of the playback chain \u2014 expressed in decibels\
-  \ (dB). Higher numbers mean cleaner playb..."
+summary: noun / audio-spec term. A measurement comparing the desired music signal
+  level to the background noise of the playback chain — expressed in decibels (dB).
+  Higher numbers mean cleaner playb...
 tags:
 - equipment
 - pressing
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - S/N
+genres:
+- all
 ---
 
 # Signal-to-Noise Ratio

@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - pop-out-center
 - dinked-center-45
 - spider-insert
-slug: push-out-center
+slug: push-out-center-uk-style-45
 status: active
 summary: '**noun / hardware feature.** A removable center section on many U.K./European
   45 RPM singles that could be *pushed-out* for jukebox play.'
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - UK-Style 45
+genres:
+- all
 ---
 
 # Push-Out Center

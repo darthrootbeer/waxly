@@ -4,8 +4,6 @@ context: technical
 decade: 1980s
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Novelty Vinyl
+genres:
+- all
 ---
 
 # Guitar-Shaped Picture Disc

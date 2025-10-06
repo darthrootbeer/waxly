@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - mastering
 - collecting
-genre_association:
-- jazz
 popularity: 5
 pos: noun
 regions:
@@ -17,9 +15,9 @@ see_also:
 - rvg-stamp
 slug: hard-bop-pressing
 status: active
-summary: "noun / slang. Jazz-collector shorthand for original mid-\u201950s\u2013\
-  early-\u201960s LPs from the hard-bop era on labels like Blue Note, Prestige, Riverside\
-  \ \u2014 especially those with deep-groove labels and RVG m..."
+summary: noun / slang. Jazz-collector shorthand for original mid-’50s–early-’60s LPs
+  from the hard-bop era on labels like Blue Note, Prestige, Riverside — especially
+  those with deep-groove labels and RVG m...
 tags:
 - pressing
 - collecting
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Collector Slang
+genres:
+- Jazz
 ---
 
 # Hard-Bop Pressing

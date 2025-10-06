@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,10 @@ see_also:
 - postcard-record
 - giveaway-single
 - colored-vinyl
-slug: flexi
+slug: flexi-disc
 status: active
-summary: "A thin, flexible PVC sheet record often bound in magazines or mailed as\
-  \ promotional giveaways \u2014 playable on standard turntables despite its flimsy\
-  \ feel."
+summary: A thin, flexible PVC sheet record often bound in magazines or mailed as promotional
+  giveaways — playable on standard turntables despite its flimsy feel.
 tags:
 - equipment
 - collecting
@@ -29,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Disc
+genres:
+- all
 ---
 
 # Flexi

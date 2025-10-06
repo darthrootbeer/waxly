@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - wet-play-disc-cleaner
 - ultrasonic-rinse
 - groove-damage-residue
-slug: wash-clean-method-wet-play
+slug: wash-clean-method-wet-play-vintage
 status: active
-summary: "**noun / obsolete cleaning fad.** A **1960s-70s hi-fi practice of playing\
-  \ LPs wet with a water-based solution** to reduce clicks \u2014 later discouraged\
-  \ because of residue and groove damage."
+summary: '**noun / obsolete cleaning fad.** A **1960s-70s hi-fi practice of playing
+  LPs wet with a water-based solution** to reduce clicks — later discouraged because
+  of residue and groove damage.'
 tags:
 - historical
 term: Wash-Clean Method / Wet-Play
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Vintage
+genres:
+- all
 ---
 
 # Wash-Clean Method / Wet-Play

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: Zone-Cut / Hot-Zone Mastering
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
 ---
 
 # Zone-Cut / Hot-Zone Mastering

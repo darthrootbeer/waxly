@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - dj_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Not-For-Sale Copy
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Not-For-Sale Copy

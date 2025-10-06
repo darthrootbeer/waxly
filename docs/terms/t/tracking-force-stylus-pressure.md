@@ -8,8 +8,6 @@ equipment_association:
 - tonearm
 - cartridge
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,11 +16,11 @@ see_also:
 - stylus-scale
 - anti-skate-calibration
 - cartridge-compliance
-slug: tracking-force
+slug: tracking-force-stylus-pressure
 status: active
-summary: "**noun / cartridge-setup spec.** The **downward pressure in grams applied\
-  \ by the tone-arm to keep the stylus seated in the groove** \u2014 specified by\
-  \ cartridge maker."
+summary: '**noun / cartridge-setup spec.** The **downward pressure in grams applied
+  by the tone-arm to keep the stylus seated in the groove** — specified by cartridge
+  maker.'
 tags:
 - equipment
 - pressing
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Stylus Pressure
+genres:
+- all
 ---
 
 # Tracking Force

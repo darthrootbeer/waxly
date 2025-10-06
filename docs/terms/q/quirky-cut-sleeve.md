@@ -4,8 +4,6 @@ context: technical
 decade: 1970s
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,9 +14,9 @@ see_also:
 - peel-off-sticker-cover
 slug: quirky-cut-sleeve
 status: active
-summary: "**noun / packaging.** A record jacket with **non-standard die-cut shapes**\
-  \ \u2014 e.g., circular windows, puzzle-piece edges, odd silhouettes \u2014 for\
-  \ visual or promotional impact."
+summary: '**noun / packaging.** A record jacket with **non-standard die-cut shapes**
+  — e.g., circular windows, puzzle-piece edges, odd silhouettes — for visual or promotional
+  impact.'
 tags:
 - pressing
 - collecting
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Novelty Die-Cut Jacket
+genres:
+- all
 ---
 
 # Quirky-Cut Sleeve

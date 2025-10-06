@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: '**noun / retail history.** A **subscription-based service** that maile
 term: Record-of-the-Month Club
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Record-of-the-Month Club

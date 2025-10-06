@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -13,18 +11,20 @@ see_also:
 - living-stereo
 - deep-groove
 - 1s-stamper
-slug: rca-shaded
+slug: rca-shaded-dog-label
 status: active
-summary: "**noun / collector tag.** Nickname for the **tan-beige RCA Victor label**\
-  \ (1955-64) featuring the Nipper dog in a shaded-oval logo \u2014 iconic on Living\
-  \ Stereo classical LPs."
+summary: '**noun / collector tag.** Nickname for the **tan-beige RCA Victor label**
+  (1955-64) featuring the Nipper dog in a shaded-oval logo — iconic on Living Stereo
+  classical LPs.'
 tags:
 - collecting
-term: "RCA \u201CShaded"
+term: RCA “Shaded
 updated: '2025-10-06'
 verification: unverified
 aka:
-- "Dog\u201D Label"
+- Dog” Label
+genres:
+- Classical
 ---
 
 # RCA “Shaded

@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - virgin-vinyl
 - pvc-out-gassing
 - colored-vinyl-compound
-slug: vinyl-chloride
+slug: vinyl-chloride-pvc
 status: active
 summary: '**noun / material.** The **synthetic polymer poly-vinyl-chloride that forms
   the base compound of modern records**, usually blended with stabilizers, lubricants,
@@ -21,6 +19,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - PVC
+genres:
+- all
 ---
 
 # Vinyl Chloride

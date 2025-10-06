@@ -4,8 +4,6 @@ context: technical
 decade: 2000s
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - dsd-mastering
 - half-speed-mastering
 - lacquer-cut
-slug: jitter-digital
+slug: jitter-digital-to-vinyl-transfers
 status: active
-summary: "**noun / technical.** Minute timing errors in a digital source\u2019s clock\
-  \ signal that can subtly blur transients when cut to lacquer \u2014 an audiophile\
-  \ concern for digitally mastered vinyl."
+summary: '**noun / technical.** Minute timing errors in a digital source’s clock signal
+  that can subtly blur transients when cut to lacquer — an audiophile concern for
+  digitally mastered vinyl.'
 tags:
 - pressing
 - technical
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - to-Vinyl Transfers)
+genres:
+- all
 ---
 
 # Jitter (Digital

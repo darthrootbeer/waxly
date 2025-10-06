@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - skip-test
 - anti-skate-track
 - hf-sweep-band
-slug: tracking-test-record
+slug: tracking-test-record-torture-track-lp
 status: active
 summary: '**noun / setup tool.** A **special test LP with progressively harder-to-track
   grooves** used to verify cartridge alignment, anti-skate, and suspension health.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Torture-Track LP
+genres:
+- all
 ---
 
 # Tracking-Test Record

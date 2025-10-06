@@ -9,8 +9,6 @@ equipment_association:
 - tonearm
 - stylus
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -19,7 +17,7 @@ see_also:
 - cue-lever-damping
 - semi-automatic-turntable
 - q-up-auto-lifter
-slug: tone-arm-lift
+slug: tone-arm-lift-cue-lever
 status: active
 summary: '**noun / deck control.** A **damped mechanical or hydraulic lever** that
   raises and lowers the tone-arm gently to prevent stylus or groove damage.'
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cue-Lever
+genres:
+- Hip Hop
 ---
 
 # Tone-Arm Lift

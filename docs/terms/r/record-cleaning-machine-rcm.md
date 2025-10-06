@@ -4,8 +4,6 @@ context: technical
 domains:
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - wet-cleaning-solution
 - anti-static-brush
 - stylus-cleaner
-slug: record-cleaning-machine
+slug: record-cleaning-machine-rcm
 status: active
 summary: '**noun / accessory / audiophile.** A **vacuum- or ultrasonic-based device**
   for deep-cleaning LP grooves beyond what brushes can reach.'
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - RCM
+genres:
+- all
 ---
 
 # Record Cleaning Machine

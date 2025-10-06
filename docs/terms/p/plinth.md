@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - turntable
 - tonearm
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Plinth
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Plinth

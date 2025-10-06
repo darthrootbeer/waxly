@@ -4,8 +4,6 @@ context: technical
 decade: 1950s
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,10 @@ see_also:
 - vacuum-tube-phono-stage
 - set-amp
 - classic-hi-fi
-slug: valve-amp-valve-phono
+slug: valve-amp-valve-phono-uk
 status: active
-summary: "**noun / British hi-fi term.** The **UK equivalent of \u2018tube amp\u2019\
-  \ or \u2018tube phono stage\u2019** \u2014 uses vacuum tubes (\u201Cvalves\u201D\
-  )."
+summary: '**noun / British hi-fi term.** The **UK equivalent of ‘tube amp’ or ‘tube
+  phono stage’** — uses vacuum tubes (“valves”).'
 tags:
 - historical
 term: Valve Amp / Valve Phono
@@ -26,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - UK
+genres:
+- all
 ---
 
 # Valve Amp / Valve Phono

@@ -6,9 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - stylus
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +14,11 @@ see_also:
 - groove-jump
 - skip
 - foot-fall-feedback
-slug: jump
+slug: jump-groove
 status: active
-summary: "**noun / slang.** When the stylus unintentionally hops across one or more\
-  \ grooves \u2014 either forward or backward \u2014 often due to warps or vibration;\
-  \ similar to groove-jump."
+summary: '**noun / slang.** When the stylus unintentionally hops across one or more
+  grooves — either forward or backward — often due to warps or vibration; similar
+  to groove-jump.'
 tags:
 - equipment
 - dj-related
@@ -30,6 +27,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Groove
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Jump

@@ -7,8 +7,6 @@ equipment_association:
 - turntable
 - stylus
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - acoustic-phonograph
 - groove-wall-vibration
 - mechanical-resonance
-slug: needle-talk
+slug: needle-talk-stylus-talk
 status: active
 summary: '**noun / historical slang.** The faint mechanical sound heard directly from
   the stylus vibrating in the groove, audible close to the turntable even with amp
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Stylus Talk
+genres:
+- all
 ---
 
 # Needle-Talk

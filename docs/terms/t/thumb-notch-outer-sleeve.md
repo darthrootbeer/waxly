@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,6 +15,8 @@ summary: Thumb-Notch Outer Sleeve
 term: Thumb-Notch Outer Sleeve
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Thumb-Notch Outer Sleeve

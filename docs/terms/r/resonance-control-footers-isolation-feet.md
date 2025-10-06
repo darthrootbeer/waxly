@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - isolation-platform
 - plinth
 - anti-feedback-mat
-slug: resonance-control-footers
+slug: resonance-control-footers-isolation-feet
 status: active
 summary: '**noun / hi-fi accessory.** Special **vibration-damping feet or cones**
   placed under turntables or amps to reduce **acoustic feedback and structural vibration**.'
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Isolation Feet
+genres:
+- Hip Hop
 ---
 
 # Resonance Control Footers

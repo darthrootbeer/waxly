@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - acoustic-phonograph
 - 3-mil-stylus
 - pre-war-78
-slug: shellac-needles
+slug: shellac-needles-steel-needles
 status: active
 summary: '**noun / playback accessory.** **Disposable steel or bamboo needles** used
   in acoustic and early electric 78-RPM players. Typically changed every play to prevent
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Steel Needles
+genres:
+- all
 ---
 
 # Shellac Needles

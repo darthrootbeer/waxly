@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +22,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Road Case
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Flight Case

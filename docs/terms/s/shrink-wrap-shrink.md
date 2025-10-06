@@ -4,8 +4,6 @@ context: technical
 decade: 1960s
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - original-shrink
 - sealed-copy
 - hype-sticker
-slug: shrink-wrap
+slug: shrink-wrap-shrink
 status: active
 summary: '**noun / packaging.** A **tight plastic film heat-shrunk around retail LP
   jackets** to keep them factory-fresh and tamper-evident.'
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Shrink
+genres:
+- Hip Hop
 ---
 
 # Shrink-Wrap

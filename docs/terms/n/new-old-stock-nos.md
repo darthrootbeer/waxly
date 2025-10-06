@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - cartridge
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - sealed-copy
 - dead-stock
 - warehouse-find
-slug: new-old-stock
+slug: new-old-stock-nos
 status: active
-summary: "**noun / retail / collector term.** Unused, unopened vintage inventory discovered\
-  \ after decades in storage \u2014 applies to sealed records, cartridges, or accessories."
+summary: '**noun / retail / collector term.** Unused, unopened vintage inventory discovered
+  after decades in storage — applies to sealed records, cartridges, or accessories.'
 tags:
 - equipment
 - collecting
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - NOS
+genres:
+- Electronic
 ---
 
 # New-Old-Stock

@@ -6,8 +6,6 @@ domains:
 equipment_association:
 - tonearm
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Tone-Arm Resonance
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Tone-Arm Resonance

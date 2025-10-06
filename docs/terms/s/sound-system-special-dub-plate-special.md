@@ -5,9 +5,6 @@ domains:
 - pressing_technique
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +13,7 @@ see_also:
 - dub-plate
 - reinforced-groove
 - version-mix
-slug: sound-system-special
+slug: sound-system-special-dub-plate-special
 status: active
 summary: '**noun / reggae & dancehall slang.** A **custom-cut acetate or short-run
   pressing** made exclusively for a particular sound-system crew, often featuring
@@ -30,6 +27,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Dub-Plate Special
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Sound-System Special

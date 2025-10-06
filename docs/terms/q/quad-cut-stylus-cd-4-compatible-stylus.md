@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - cd-4-demodulator
 - shibata-stylus
 - line-contact-stylus
-slug: quad-cut-stylus
+slug: quad-cut-stylus-cd-4-compatible-stylus
 status: active
-summary: "**noun / technical.** A line-contact stylus shape \u2014 often Shibata or\
-  \ similar \u2014 capable of tracing the **ultrasonic carrier** signals required\
-  \ by CD-4 discrete quadraphonic LPs."
+summary: '**noun / technical.** A line-contact stylus shape — often Shibata or similar
+  — capable of tracing the **ultrasonic carrier** signals required by CD-4 discrete
+  quadraphonic LPs.'
 tags:
 - equipment
 - pressing
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - CD-4 Compatible Stylus
+genres:
+- Hip Hop
 ---
 
 # Quad-Cut Stylus

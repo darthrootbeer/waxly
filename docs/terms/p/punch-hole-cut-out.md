@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Punch-Hole Cut-Out
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Punch-Hole Cut-Out

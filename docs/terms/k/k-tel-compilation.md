@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -21,6 +19,8 @@ summary: '**noun / cultural.** Mass-market TV-advertised compilation LPs and 8-t
 term: K-Tel Compilation
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # K-Tel Compilation

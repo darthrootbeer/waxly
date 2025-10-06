@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,15 +14,17 @@ see_also:
 - qc-reject
 slug: pressing-defect
 status: active
-summary: "**noun / manufacturing term.** A general catch-all for any physical flaw\
-  \ created during the record-pressing cycle \u2014 e.g., non-fill, stitching, off-center\
-  \ hole, bubbles, scuffs, warps."
+summary: '**noun / manufacturing term.** A general catch-all for any physical flaw
+  created during the record-pressing cycle — e.g., non-fill, stitching, off-center
+  hole, bubbles, scuffs, warps.'
 tags:
 - pressing
 - collecting
 term: Pressing Defect
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Pressing Defect

@@ -6,9 +6,6 @@ domains:
 equipment_association:
 - tonearm
 - stylus
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -28,7 +25,10 @@ term: Auxiliary Weight
 updated: '2025-10-06'
 verification: unverified
 aka:
-- "DJ Slang: \u201CSlug\u201D"
+- 'DJ Slang: “Slug”'
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Auxiliary Weight

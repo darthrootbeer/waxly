@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -19,6 +17,8 @@ summary: '**noun / cabling accessory.** A **cable or adapter that splits one RCA
 term: Y-Splitter RCA Cable
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Y-Splitter RCA Cable

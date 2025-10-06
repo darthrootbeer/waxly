@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -15,10 +13,10 @@ see_also:
 - 12-inch-single
 - extended-mix
 - club-cut
-slug: maxi
+slug: maxi-single
 status: active
-summary: "A single released on 12-inch (or occasionally 10-inch) vinyl with extended\
-  \ mixes, bonus tracks, or multiple B-sides \u2014 usually aimed at DJs."
+summary: A single released on 12-inch (or occasionally 10-inch) vinyl with extended
+  mixes, bonus tracks, or multiple B-sides — usually aimed at DJs.
 tags:
 - dj-related
 term: Maxi
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Single
+genres:
+- Hip Hop
 ---
 
 # Maxi

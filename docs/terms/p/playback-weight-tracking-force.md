@@ -8,8 +8,6 @@ domains:
 equipment_association:
 - tonearm
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -18,7 +16,7 @@ see_also:
 - anti-skate
 - tracking-force-gauge
 - cartridge-compliance
-slug: playback-weight
+slug: playback-weight-tracking-force
 status: active
 summary: '**noun / technical.** The downward pressure, measured in grams, that the
   tonearm exerts on the stylus as it tracks the groove. Correct tracking force prevents
@@ -33,6 +31,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tracking Force
+genres:
+- Hip Hop
 ---
 
 # Playback Weight

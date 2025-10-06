@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - mastering
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: First Pressing
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # First Pressing

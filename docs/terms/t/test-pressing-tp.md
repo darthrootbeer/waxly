@@ -8,8 +8,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,10 +16,10 @@ see_also:
 - white-label-promo
 - reference-lacquer
 - single-sided-lp
-slug: test-pressing
+slug: test-pressing-tp
 status: active
-summary: "**noun / manufacturing stage.** A **small batch of sample pressings** (often\
-  \ 5\u201325 copies) made from first stampers to check for defects before mass production."
+summary: '**noun / manufacturing stage.** A **small batch of sample pressings** (often
+  5–25 copies) made from first stampers to check for defects before mass production.'
 tags:
 - dj-related
 - pressing
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - TP
+genres:
+- all
 ---
 
 # Test Pressing

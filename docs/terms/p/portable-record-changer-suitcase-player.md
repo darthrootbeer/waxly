@@ -5,9 +5,6 @@ domains:
 - collecting
 equipment_association:
 - speaker
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +13,7 @@ see_also:
 - ceramic-cartridge
 - penny-weight-hack
 - console-player
-slug: portable-record-changer
+slug: portable-record-changer-suitcase-player
 status: active
 summary: '**noun / hardware / historical.** A compact suitcase-style phonograph with
   built-in speaker and auto-changer mechanism, common in mid-20th-century homes and
@@ -29,6 +26,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Suitcase Player
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Portable Record Changer

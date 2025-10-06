@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - locked-groove
 - hidden-track
 - lathe-cut
-slug: multi-groove-record
+slug: multi-groove-record-trick-groove
 status: active
 summary: '**noun / novelty / technical.** A gimmick disc with two or more parallel
   grooves cut on the same side so that dropping the needle randomly plays one of several
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Trick-Groove
+genres:
+- Rock
 ---
 
 # Multi-Groove Record

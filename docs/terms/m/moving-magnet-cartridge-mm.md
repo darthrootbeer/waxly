@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - cartridge
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - magnetic-cartridge
 - moving-coil
 - stylus-compliance
-slug: moving-magnet-cartridge
+slug: moving-magnet-cartridge-mm
 status: active
 summary: '**noun / technical.** The most common phono cartridge type where a lightweight
   magnet moves on the cantilever inside fixed coils, generating sufficient output
@@ -30,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - MM
+genres:
+- all
 ---
 
 # Moving-Magnet Cartridge

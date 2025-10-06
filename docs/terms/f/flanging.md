@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - phasing
 - adt
 - psychedelic-mix
-slug: flanging-tape
+slug: flanging
 status: active
-summary: "noun / verb. An audio effect created by mixing a signal with a slightly\
-  \ delayed copy, producing a swooshing comb-filter sound \u2014 originally achieved\
-  \ by dragging a finger on a second tape reel\u2019s fla..."
+summary: noun / verb. An audio effect created by mixing a signal with a slightly delayed
+  copy, producing a swooshing comb-filter sound — originally achieved by dragging
+  a finger on a second tape reel’s fla...
 tags:
 - dj-related
 term: Flanging (Tape
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Vinyl Effect)
+genres:
+- all
 ---
 
 # Flanging (Tape

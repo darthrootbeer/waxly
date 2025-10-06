@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -20,6 +18,8 @@ summary: A release intentionally capped at a fixed number of copies, often numbe
 term: Limited Edition
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Limited Edition

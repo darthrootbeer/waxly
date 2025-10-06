@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Lead-In Groove
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Lead-In Groove

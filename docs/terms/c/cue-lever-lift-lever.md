@@ -7,8 +7,6 @@ equipment_association:
 - tonearm
 - stylus
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - cue-point
 - tonearm-rest
 - anti-skate
-slug: cue-lever
+slug: cue-lever-lift-lever
 status: active
 summary: A small damped lever on the tonearm base that gently raises or lowers the
   stylus onto the record to prevent accidental drops.
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Lift-Lever
+genres:
+- all
 ---
 
 # Cue Lever

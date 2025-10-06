@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +15,10 @@ see_also:
 - eight-track
 - reel-to-reel
 - lp
-slug: four-track
+slug: four-track-early-tape-format
 status: active
-summary: "**noun / historical.** A reel-to-reel and cartridge tape format preceding\
-  \ eight-track; sometimes offered album samplers alongside LPs in the early \u2019\
-  60s."
+summary: '**noun / historical.** A reel-to-reel and cartridge tape format preceding
+  eight-track; sometimes offered album samplers alongside LPs in the early ’60s.'
 tags:
 - equipment
 - collecting
@@ -31,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Early Tape Format
+genres:
+- all
 ---
 
 # Four-Track

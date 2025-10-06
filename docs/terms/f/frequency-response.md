@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - cartridge
 - speaker
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +26,8 @@ tags:
 term: Frequency Response
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Frequency Response

@@ -4,8 +4,6 @@ context: technical
 decade: 1970s
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - limited-edition-run
 - one-off-pressing
 - cut-out-remainder
-slug: under-run-pressing
+slug: under-run-pressing-short-run-press
 status: active
 summary: '**noun / manufacturing slang.** A **pressing run that produced fewer copies
   than planned**, often due to plant shutdown, contract limit, or cancelled order.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Short-Run Press
+genres:
+- all
 ---
 
 # Under-Run Pressing

@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - stylus
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ regions:
 see_also:
 - rip-from-vinyl
 - stylus
-slug: needle
+slug: needle-drop
 status: active
-summary: "**noun / slang.** 1 The act of lowering the stylus onto a record. 2 An informal\
-  \ term for a digital recording made by playing a vinyl record (a \u201Cneedle-drop\
-  \ transfer\u201D). \u2800"
+summary: '**noun / slang.** 1 The act of lowering the stylus onto a record. 2 An informal
+  term for a digital recording made by playing a vinyl record (a “needle-drop transfer”).
+  ⠀'
 tags:
 - equipment
 - dj-related
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Drop
+genres:
+- Hip Hop
 ---
 
 # Needle

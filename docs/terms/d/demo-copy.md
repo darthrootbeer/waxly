@@ -7,8 +7,6 @@ domains:
 - collecting
 equipment_association:
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -19,9 +17,8 @@ see_also:
 - radio-edit
 slug: demo-copy
 status: active
-summary: "A promotional pressing distributed to radio stations, reviewers, or shops\
-  \ before official release\u2014often stamped or stickered \u201CFor Demonstration\
-  \ Only.\u201D"
+summary: A promotional pressing distributed to radio stations, reviewers, or shops
+  before official release—often stamped or stickered “For Demonstration Only.”
 tags:
 - dj-related
 - pressing
@@ -31,6 +28,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Promotional Demo
+genres:
+- all
 ---
 
 # Demo Copy

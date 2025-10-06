@@ -5,8 +5,6 @@ domains:
 - pressing_technique
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,8 +15,8 @@ see_also:
 - visual-grade
 slug: fish-eye-label
 status: active
-summary: "**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form\
-  \ under the label paper, creating a \u201Cfish-eye\u201D appearance."
+summary: '**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form
+  under the label paper, creating a “fish-eye” appearance.'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pressing Defect
+genres:
+- all
 ---
 
 # Fish-Eye Label

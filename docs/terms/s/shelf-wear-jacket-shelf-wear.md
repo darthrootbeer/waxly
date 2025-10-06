@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - ring-wear
 - seam-split
 - corner-ding
-slug: shelf-wear
+slug: shelf-wear-jacket-shelf-wear
 status: active
 summary: '**noun / grading flaw.** **Rubbing or color loss** along jacket edges, corners,
   or faces from years of sliding in/out of tight shelves.'
@@ -20,6 +18,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Jacket Shelf-Wear
+genres:
+- all
 ---
 
 # Shelf-Wear

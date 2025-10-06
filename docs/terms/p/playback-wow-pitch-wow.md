@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,7 +14,7 @@ see_also:
 - off-center-pressing
 - wow-flutter
 - platter-speed-stability
-slug: playback-wow
+slug: playback-wow-pitch-wow
 status: active
 summary: '**noun / defect.** A slow, cyclical pitch variation (wow) audible on sustained
   notes, often caused by off-center pressings, warped discs, or unstable turntable
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Pitch-WOW
+genres:
+- all
 ---
 
 # Playback WOW

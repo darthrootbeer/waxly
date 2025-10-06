@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - turntable
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -16,10 +14,10 @@ see_also:
 - 33-1-3-rpm-lp
 - 45-rpm-single
 - 78-rpm-shellac
-slug: speed-change-knob
+slug: speed-change-knob-rpm-selector
 status: active
-summary: "**noun / deck control.** A **manual or electronic switch that selects 33\u2153\
-  , 45, or 78 RPM** on a turntable."
+summary: '**noun / deck control.** A **manual or electronic switch that selects 33⅓,
+  45, or 78 RPM** on a turntable.'
 tags:
 - equipment
 term: Speed-Change Knob
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - RPM Selector
+genres:
+- Electronic
 ---
 
 # Speed-Change Knob

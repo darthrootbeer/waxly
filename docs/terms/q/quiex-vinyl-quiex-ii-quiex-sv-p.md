@@ -5,8 +5,6 @@ decade: 1980s
 domains:
 - pressing_technique
 - quality_control
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - low-noise-vinyl-compound
 - translucent-wax
 - virgin-vinyl
-slug: quiex-vinyl
+slug: quiex-vinyl-quiex-ii-quiex-sv-p
 status: active
 summary: noun / audiophile pressing compound. A proprietary low-noise translucent
   vinyl formula (usually brownish-purple when held to light) developed by the Specialty
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Quiex II, Quiex SV-P
+genres:
+- all
 ---
 
 # Quiex Vinyl

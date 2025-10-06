@@ -6,9 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -17,11 +14,11 @@ see_also:
 - hot-cut
 - loudness-war-cut
 - groove-spacing
-slug: plus-cut
+slug: plus-cut-hot-plus-cut
 status: active
-summary: "**noun / mastering slang.** A colloquial term for an aggressively loud cut\
-  \ where engineers pushed groove amplitude beyond standard specs \u2014 prized by\
-  \ DJs for punch but risky for tracking."
+summary: '**noun / mastering slang.** A colloquial term for an aggressively loud cut
+  where engineers pushed groove amplitude beyond standard specs — prized by DJs for
+  punch but risky for tracking.'
 tags:
 - dj-related
 - pressing
@@ -30,6 +27,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Hot-Plus Cut
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Plus-Cut

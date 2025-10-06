@@ -3,21 +3,21 @@ complexity: intermediate
 context: technical
 equipment_association:
 - tonearm
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
 - US
-slug: universal-groove
+slug: universal-groove-standard
 status: active
-summary: "\u201CThe audiophile unipivot tone-arm tracks beautifully once you get used\
-  \ to its loose feel.\u201D"
+summary: “The audiophile unipivot tone-arm tracks beautifully once you get used to
+  its loose feel.”
 term: Universal Groove
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Standard
+genres:
+- all
 ---
 
 # Universal Groove

@@ -3,9 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- hip_hop
-- classical
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +22,9 @@ tags:
 term: Tone-Poem Sleeve Art
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Classical
 ---
 
 # Tone-Poem Sleeve Art

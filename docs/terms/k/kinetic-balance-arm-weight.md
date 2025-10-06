@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - tonearm
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: Kinetic-Balance Arm Weight
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Kinetic-Balance Arm Weight

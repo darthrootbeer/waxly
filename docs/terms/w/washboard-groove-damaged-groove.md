@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,10 +11,10 @@ see_also:
 - groove-burn
 - cue-burn
 - groove-wear
-slug: washboard-groove
+slug: washboard-groove-damaged-groove
 status: active
-summary: "**noun / defect slang.** A **groove that looks and feels wavy like a washboard**\
-  \ \u2014 usually from heat or stylus mistracking, leading to audible distortion."
+summary: '**noun / defect slang.** A **groove that looks and feels wavy like a washboard**
+  — usually from heat or stylus mistracking, leading to audible distortion.'
 tags:
 - equipment
 term: Washboard Groove
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Damaged Groove
+genres:
+- all
 ---
 
 # Washboard Groove

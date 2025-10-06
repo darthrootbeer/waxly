@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - hype-sticker
 - price-code-sticker
 - original-shrink
-slug: repertoire-sticker
+slug: repertoire-sticker-catalog-hype-sticker
 status: active
-summary: "**noun / retail ephemera.** A **sticker highlighting the artist\u2019s back-catalog\
-  \ titles** or label\u2019s other offerings, often on early LP shrink-wraps."
+summary: '**noun / retail ephemera.** A **sticker highlighting the artist’s back-catalog
+  titles** or label’s other offerings, often on early LP shrink-wraps.'
 term: Repertoire Sticker
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Catalog Hype Sticker
+genres:
+- Hip Hop
 ---
 
 # Repertoire Sticker

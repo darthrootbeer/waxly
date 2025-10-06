@@ -6,8 +6,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Idler-Wheel Drive
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Idler-Wheel Drive

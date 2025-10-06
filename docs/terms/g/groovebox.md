@@ -7,9 +7,6 @@ domains:
 equipment_association:
 - turntable
 - amplifier
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -32,6 +29,9 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - DJ/Producer Slang
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Groovebox

@@ -4,8 +4,6 @@ context: technical
 decade: 1970s
 domains:
 - pressing_technique
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - punch-hole-cut-out
 - cut-corner-promo
 - remaindered-stock
-slug: saw-cut-notch
+slug: saw-cut-notch-saw-mark-cut-out
 status: active
-summary: "**noun / retail remainder mark.** A **thin saw-blade cut in the LP jacket\u2019\
-  s spine or edge** to indicate remaindered or discounted stock \u2014 akin to punch-hole\
-  \ and cut-corner marks."
+summary: '**noun / retail remainder mark.** A **thin saw-blade cut in the LP jacket’s
+  spine or edge** to indicate remaindered or discounted stock — akin to punch-hole
+  and cut-corner marks.'
 tags:
 - pressing
 - historical
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Saw-Mark Cut-Out
+genres:
+- all
 ---
 
 # Saw-Cut Notch

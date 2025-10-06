@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,10 +11,10 @@ see_also:
 - wall-copy
 - grail
 - nm-grade
-slug: collectors-corner
+slug: collectors-corner-record-shop-slang
 status: active
-summary: "**noun / slang.** A section of a shop reserved for high-priced or rare vinyl\
-  \ \u2014 often behind the counter or in a glass case."
+summary: '**noun / slang.** A section of a shop reserved for high-priced or rare vinyl
+  — often behind the counter or in a glass case.'
 tags:
 - collecting
 term: Collectors' Corner
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Record-Shop Slang
+genres:
+- all
 ---
 
 # Collectors' Corner

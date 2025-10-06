@@ -7,8 +7,6 @@ domains:
 - collecting
 equipment_association:
 - mixer
-genre_association:
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - dedicated-mono-mix
 - phase-cancellation
 - mastering-engineer
-slug: mid-side-fold-down
+slug: mid-side-fold-down-mono-re-cut
 status: active
 summary: '**noun / technical.** A mono vinyl master derived by electronically folding
   down the mid-side channels of a stereo mix, instead of using a dedicated mono mix.'
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Mono Re-Cut
+genres:
+- Electronic
 ---
 
 # Mid-Side Fold-Down

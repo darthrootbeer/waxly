@@ -1,13 +1,11 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
 - US
-slug: write-off-bin
+slug: write-off-bin-cut-out-bin
 status: active
 summary: '**noun / retail slang.** A **bargain bin of remaindered LPs marked by cut-corner,
   saw-cut, or punch-hole sleeves**, heavily discounted by stores.'
@@ -18,6 +16,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cut-Out Bin
+genres:
+- all
 ---
 
 # Write-Off Bin

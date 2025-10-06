@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - marker-scrawl-label
 - promo-stamp
 - play-grade
-slug: pencil
+slug: pencil-marked-label
 status: active
-summary: "**noun / grading / ephemera.** A record whose center label bears light pencil\
-  \ writing (price, initials, catalog #) \u2014 usually removable and less devaluing\
-  \ than ink marker."
+summary: '**noun / grading / ephemera.** A record whose center label bears light pencil
+  writing (price, initials, catalog #) — usually removable and less devaluing than
+  ink marker.'
 tags:
 - historical
 term: Pencil
@@ -23,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Marked Label
+genres:
+- all
 ---
 
 # Pencil

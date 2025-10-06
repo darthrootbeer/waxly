@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,15 +9,17 @@ see_also:
 - a-side
 - b-side
 - hidden-gem
-slug: flip
+slug: flip-side
 status: active
-summary: "**noun / slang.** The reverse side of a single \u2014 traditionally the\
-  \ non-hit song paired with the A-side."
+summary: '**noun / slang.** The reverse side of a single — traditionally the non-hit
+  song paired with the A-side.'
 term: Flip
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Side
+genres:
+- all
 ---
 
 # Flip

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - record-tote
 - divider-card
 - flight-case
-slug: show-box
+slug: show-box-record-show-bin
 status: active
 summary: '**noun / collector slang.** A **portable crate or bin** dealers use at record-fairs
   and shows for easy browsing display.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Record Show Bin
+genres:
+- all
 ---
 
 # Show-Box

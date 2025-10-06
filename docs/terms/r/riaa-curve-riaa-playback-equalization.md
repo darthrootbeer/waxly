@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - mastering
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -24,6 +22,8 @@ tags:
 term: RIAA Curve (RIAA Playback Equalization)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # RIAA Curve (RIAA Playback Equalization)

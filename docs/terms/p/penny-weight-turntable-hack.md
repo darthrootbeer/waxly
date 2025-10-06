@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - tracking-force
 - groove-wear
 - ceramic-cartridge
-slug: penny-weight
+slug: penny-weight-turntable-hack
 status: active
-summary: "**noun / DIY slang.** Adding a coin (often a penny) atop the headshell to\
-  \ increase tracking force for skipping or worn records \u2014 a common home-user\
-  \ hack, not recommended for valuable vinyl."
+summary: '**noun / DIY slang.** Adding a coin (often a penny) atop the headshell to
+  increase tracking force for skipping or worn records — a common home-user hack,
+  not recommended for valuable vinyl.'
 tags:
 - equipment
 term: Penny-Weight
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Turntable Hack
+genres:
+- all
 ---
 
 # Penny-Weight

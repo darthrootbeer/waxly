@@ -5,8 +5,6 @@ decade: 1980s
 equipment_association:
 - tonearm
 - amplifier
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Tone-Arm Tube Damping
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Tone-Arm Tube Damping

@@ -5,8 +5,6 @@ domains:
 - equipment
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -26,6 +24,8 @@ tags:
 term: Inner-Groove Distortion
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Inner-Groove Distortion

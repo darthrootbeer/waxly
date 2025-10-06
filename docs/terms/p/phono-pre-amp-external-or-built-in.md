@@ -7,8 +7,6 @@ domains:
 equipment_association:
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -17,7 +15,7 @@ see_also:
 - phono-input
 - riaa-curve
 - gain-stage
-slug: phono-pre-amp
+slug: phono-pre-amp-external-or-built-in
 status: active
 summary: '**noun / technical.** An amplifier circuit that boosts the tiny signal from
   a phono cartridge to line-level while applying RIAA equalization.'
@@ -29,6 +27,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - External or Built-In
+genres:
+- all
 ---
 
 # Phono Pre-Amp

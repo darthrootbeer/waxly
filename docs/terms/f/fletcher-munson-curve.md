@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -13,11 +11,11 @@ see_also:
 - equal-loudness-curve
 - loudness-switch
 - riaa-curve
-slug: fletcher
+slug: fletcher-munson-curve
 status: active
-summary: "noun / technical. The original 1933 equal-loudness contour graph that shows\
-  \ how human hearing is less sensitive to bass/treble at low levels \u2014 influenced\
-  \ tone-control and loudness-button design on..."
+summary: noun / technical. The original 1933 equal-loudness contour graph that shows
+  how human hearing is less sensitive to bass/treble at low levels — influenced tone-control
+  and loudness-button design on...
 tags:
 - technical
 - historical
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Munson Curve
+genres:
+- Hip Hop
 ---
 
 # Fletcher

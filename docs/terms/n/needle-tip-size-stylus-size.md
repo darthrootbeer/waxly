@@ -6,8 +6,6 @@ domains:
 - collecting
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,11 @@ see_also:
 - conical-stylus
 - elliptical-stylus
 - micro-line-stylus
-slug: needle-tip-size
+slug: needle-tip-size-stylus-size
 status: active
-summary: "noun / technical. The diameter of the stylus tip, expressed in mils (thousandths\
-  \ of an inch) or micrometers; critical for matching groove type \u2014 3-mil for\
-  \ 78s, 1-mil for mono LP, 0.7-mil for stere..."
+summary: noun / technical. The diameter of the stylus tip, expressed in mils (thousandths
+  of an inch) or micrometers; critical for matching groove type — 3-mil for 78s, 1-mil
+  for mono LP, 0.7-mil for stere...
 tags:
 - equipment
 - pressing
@@ -31,6 +29,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Stylus Size
+genres:
+- all
 ---
 
 # Needle-Tip Size

@@ -4,8 +4,6 @@ context: technical
 domains:
 - pressing_technique
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - matrix-number
 - pressing-plant-code
 - label-variant
-slug: cat-no
+slug: cat-no-catalog-number
 status: active
-summary: "**noun / abbreviation.** A unique alphanumeric code assigned by a label\
-  \ to identify a specific release or pressing \u2014 often printed on spine, label,\
-  \ and run-out."
+summary: '**noun / abbreviation.** A unique alphanumeric code assigned by a label
+  to identify a specific release or pressing — often printed on spine, label, and
+  run-out.'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Catalog Number
+genres:
+- all
 ---
 
 # Cat-No.

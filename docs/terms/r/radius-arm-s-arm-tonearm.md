@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - tonearm
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -15,7 +13,7 @@ see_also:
 - straight-arm
 - tangential-arm
 - headshell
-slug: radius-arm
+slug: radius-arm-s-arm-tonearm
 status: active
 summary: '**noun / hi-fi term.** A **curved S-shaped tonearm** whose pivot radius
   helps minimize tracking-angle error across the disc.'
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - S-Arm Tonearm
+genres:
+- Hip Hop
 ---
 
 # Radius Arm

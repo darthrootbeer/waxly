@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - pressing_technique
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -22,6 +20,8 @@ tags:
 term: Photo-Etched B-Side
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Photo-Etched B-Side

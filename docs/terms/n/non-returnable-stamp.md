@@ -5,8 +5,6 @@ domains:
 - dj_technique
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -25,6 +23,8 @@ tags:
 term: Non-Returnable Stamp
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Non-Returnable Stamp

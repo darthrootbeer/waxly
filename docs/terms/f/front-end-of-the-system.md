@@ -9,8 +9,6 @@ equipment_association:
 - tonearm
 - cartridge
 - amplifier
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -19,11 +17,11 @@ see_also:
 - back-end
 - signal-chain
 - pre-amp
-slug: front-end
+slug: front-end-of-the-system
 status: active
-summary: "**noun / audio slang.** Refers collectively to the signal-origin components\
-  \ of a vinyl playback system \u2014 primarily the turntable, tonearm, and cartridge\
-  \ before amplification."
+summary: '**noun / audio slang.** Refers collectively to the signal-origin components
+  of a vinyl playback system — primarily the turntable, tonearm, and cartridge before
+  amplification.'
 tags:
 - equipment
 - collecting
@@ -32,6 +30,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - of the System
+genres:
+- all
 ---
 
 # Front-End

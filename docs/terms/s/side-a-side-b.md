@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,11 @@ see_also:
 - flip-side
 - lead-in-groove
 - double-a-side
-slug: side-a
+slug: side-a-side-b
 status: active
-summary: "**noun / format convention.** The **two sides of a record** \u2014 historically\
-  \ *Side A* hosts the featured single or first half of the LP sequence, *Side B*\
-  \ the flip or secondary tracks."
+summary: '**noun / format convention.** The **two sides of a record** — historically
+  *Side A* hosts the featured single or first half of the LP sequence, *Side B* the
+  flip or secondary tracks.'
 tags:
 - pressing
 - historical
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Side-B
+genres:
+- all
 ---
 
 # Side-A

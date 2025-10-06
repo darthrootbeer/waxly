@@ -4,8 +4,6 @@ context: technical
 domains:
 - mastering
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - locked-groove
 - spiral-track-trick
 - run-out-etching
-slug: y-groove-junction
+slug: y-groove-junction-run-out-crossover
 status: active
-summary: "**noun / cutting-room slang.** A **rare groove-geometry quirk where two\
-  \ run-out spirals merge like a \u2018Y\u2019-shaped junction** \u2014 usually from\
-  \ a cutting-lathe mis-feed or playful locked-groove trick."
+summary: '**noun / cutting-room slang.** A **rare groove-geometry quirk where two
+  run-out spirals merge like a ‘Y’-shaped junction** — usually from a cutting-lathe
+  mis-feed or playful locked-groove trick.'
 tags:
 - pressing
 - collecting
@@ -27,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Run-Out Crossover
+genres:
+- all
 ---
 
 # Y-Groove Junction

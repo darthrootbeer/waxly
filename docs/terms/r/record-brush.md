@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: '**noun / accessory.** A **hand-held brush**, usually carbon-fiber or v
 term: Record Brush
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Record Brush

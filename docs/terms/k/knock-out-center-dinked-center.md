@@ -4,8 +4,6 @@ context: technical
 domains:
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,10 @@ see_also:
 - dinked-45
 - 45-adapter
 - jukebox-ep
-slug: knock-out-center
+slug: knock-out-center-dinked-center
 status: active
-summary: "**noun / slang / historical.** A detachable perforated center piece on many\
-  \ European 45-RPM singles that could be \u201Cknocked-out\u201D to fit large-spindle\
-  \ jukeboxes."
+summary: '**noun / slang / historical.** A detachable perforated center piece on many
+  European 45-RPM singles that could be “knocked-out” to fit large-spindle jukeboxes.'
 tags:
 - dj-related
 - collecting
@@ -28,6 +25,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Dinked Center
+genres:
+- Hip Hop
 ---
 
 # Knock-Out Center

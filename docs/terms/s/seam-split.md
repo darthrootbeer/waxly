@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,16 +9,18 @@ see_also:
 - corner-ding
 - shelf-wear
 - return-to-jacket-sleeve
-slug: seam
+slug: seam-split
 status: active
-summary: "**noun / jacket-grading flaw.** A **tear or separation along a jacket\u2019\
-  s glued seam**, often from records being stored or shipped inside the jacket without\
-  \ protection."
+summary: '**noun / jacket-grading flaw.** A **tear or separation along a jacket’s
+  glued seam**, often from records being stored or shipped inside the jacket without
+  protection.'
 term: Seam
 updated: '2025-10-06'
 verification: unverified
 aka:
 - Split
+genres:
+- all
 ---
 
 # Seam

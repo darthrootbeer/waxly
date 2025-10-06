@@ -5,8 +5,6 @@ domains:
 - quality_control
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,11 @@ see_also:
 - promo-copy
 - dj-copy
 - play-grade
-slug: marker
+slug: marker-scrawl-label
 status: active
-summary: "**noun / slang.** A record whose center label has handwritten DJ notes \u2014\
-  \ BPM, key, or club owner\u2019s initials \u2014 often lowering resale grade but\
-  \ telling a story of past use."
+summary: '**noun / slang.** A record whose center label has handwritten DJ notes —
+  BPM, key, or club owner’s initials — often lowering resale grade but telling a story
+  of past use.'
 tags:
 - dj-related
 - collecting
@@ -28,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Scrawl Label
+genres:
+- Hip Hop
 ---
 
 # Marker

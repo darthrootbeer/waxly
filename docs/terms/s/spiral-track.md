@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - dj_technique
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -17,6 +15,8 @@ tags:
 term: Spiral-Track Locked Groove
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Spiral-Track Locked Groove

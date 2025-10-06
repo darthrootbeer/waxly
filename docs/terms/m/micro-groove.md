@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,11 +9,10 @@ see_also:
 - macro-groove
 - stylus-size
 - lp
-slug: micro
+slug: micro-groove
 status: active
-summary: "**noun / technical / historical.** The finer, narrower groove standard introduced\
-  \ by Columbia in 1948 for LPs and 45s, allowing 20-plus minutes per side at 33\u2153\
-  \ RPM."
+summary: '**noun / technical / historical.** The finer, narrower groove standard introduced
+  by Columbia in 1948 for LPs and 45s, allowing 20-plus minutes per side at 33⅓ RPM.'
 tags:
 - technical
 - historical
@@ -24,6 +21,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Groove
+genres:
+- all
 ---
 
 # Micro

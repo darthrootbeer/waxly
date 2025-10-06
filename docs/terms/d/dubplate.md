@@ -8,9 +8,6 @@ domains:
 - dj_technique
 equipment_association:
 - mixer
-genre_association:
-- hip_hop
-- electronic
 popularity: 5
 pos: noun
 regions:
@@ -30,6 +27,9 @@ tags:
 term: Dubplate
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Electronic
 ---
 
 # Dubplate

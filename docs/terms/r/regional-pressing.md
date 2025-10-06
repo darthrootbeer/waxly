@@ -8,8 +8,6 @@ domains:
 equipment_association:
 - mixer
 - amplifier
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -30,6 +28,8 @@ tags:
 term: Regional Pressing
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Regional Pressing

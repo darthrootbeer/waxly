@@ -4,8 +4,6 @@ context: technical
 domains:
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,11 +12,11 @@ see_also:
 - mint-minus
 - vg
 - goldmine-grading
-slug: near-mint
+slug: near-mint-nm-nm
 status: active
-summary: "**noun / grading term.** A record grading just below Mint \u2014 virtually\
-  \ flawless with only superficial hairline scuffs that do not affect play; jacket\
-  \ likewise crisp with minimal shelf-wear."
+summary: '**noun / grading term.** A record grading just below Mint — virtually flawless
+  with only superficial hairline scuffs that do not affect play; jacket likewise crisp
+  with minimal shelf-wear.'
 tags:
 - collecting
 term: Near-Mint
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - NM / NM-
+genres:
+- all
 ---
 
 # Near-Mint

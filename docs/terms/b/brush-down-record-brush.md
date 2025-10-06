@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - anti-static-brush
 - record-care-kit
 - stylus-cleaner
-slug: brush-down
+slug: brush-down-record-brush
 status: active
 summary: '**noun / verb.** A quick cleaning pass using a carbon-fiber or velvet brush
   to remove surface dust before play.'
@@ -24,6 +22,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Record Brush
+genres:
+- all
 ---
 
 # Brush-Down

@@ -6,9 +6,6 @@ domains:
 - equipment
 equipment_association:
 - turntable
-genre_association:
-- electronic
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +25,9 @@ tags:
 term: Speed-Box / External Speed Controller
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Electronic
+- Rock
 ---
 
 # Speed-Box / External Speed Controller

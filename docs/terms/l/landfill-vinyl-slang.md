@@ -5,8 +5,6 @@ decade: 2010s
 domains:
 - quality_control
 - collecting
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -15,11 +13,10 @@ see_also:
 - budget-pressing
 - k-tel-compilation
 - cut-out
-slug: landfill-vinyl
+slug: landfill-vinyl-slang
 status: active
-summary: "**noun / slang.** Collector\u2019s derogatory term for cheaply produced,\
-  \ mass-market LPs or reissues considered disposable or of little musical/artistic\
-  \ value."
+summary: '**noun / slang.** Collector’s derogatory term for cheaply produced, mass-market
+  LPs or reissues considered disposable or of little musical/artistic value.'
 tags:
 - collecting
 term: Landfill Vinyl
@@ -27,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - slang
+genres:
+- Rock
 ---
 
 # Landfill Vinyl

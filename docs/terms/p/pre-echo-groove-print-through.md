@@ -5,8 +5,6 @@ domains:
 - mastering
 - dj_technique
 - collecting
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +26,8 @@ tags:
 term: Pre-Echo (Groove-Print-Through)
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
 ---
 
 # Pre-Echo (Groove-Print-Through)

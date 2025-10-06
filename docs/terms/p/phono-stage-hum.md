@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - ground-loop-hum
 - patch-cable-hum
 - shielding
-slug: phono
+slug: phono-stage-hum
 status: active
 summary: '**noun / technical / slang.** A low-frequency hum introduced by poorly grounded
   or shielded phono-stage circuits or cables.'
@@ -22,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Stage Hum
+genres:
+- all
 ---
 
 # Phono

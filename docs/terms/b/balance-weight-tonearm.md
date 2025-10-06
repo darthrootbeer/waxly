@@ -4,8 +4,6 @@ context: technical
 equipment_association:
 - tonearm
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -14,7 +12,7 @@ see_also:
 - tracking-force
 - auxiliary-weight
 - anti-skate
-slug: balance-weight
+slug: balance-weight-tonearm
 status: active
 summary: The counterweight at the rear of a tonearm used to set the proper tracking
   force for the stylus.
@@ -25,6 +23,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Tonearm
+genres:
+- all
 ---
 
 # Balance Weight

@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 domains:
 - collecting
-genre_association:
-- jazz
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - macro-groove
 - pre-war-shellac-78
 - steel-needle-pickup
-slug: shellac-disc
+slug: shellac-disc-78-rpm-shellac
 status: active
 summary: noun / historical format. A pre-vinyl disc made of shellac and mineral filler,
   usually 10-inch 78 RPM records produced from the 1890s through early 1950s. Brittle,
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - 78 RPM Shellac
+genres:
+- Jazz
 ---
 
 # Shellac Disc

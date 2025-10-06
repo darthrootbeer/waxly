@@ -6,8 +6,6 @@ domains:
 - pressing_technique
 - quality_control
 - collecting
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -27,6 +25,8 @@ tags:
 term: Warp-Resistant Pressing
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Warp-Resistant Pressing

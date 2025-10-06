@@ -6,9 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - amplifier
-genre_association:
-- hip_hop
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -28,6 +25,9 @@ tags:
 term: Hot Cut
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Hip Hop
+- Rock
 ---
 
 # Hot Cut

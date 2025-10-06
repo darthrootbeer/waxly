@@ -6,8 +6,6 @@ domains:
 - dj_technique
 equipment_association:
 - turntable
-genre_association:
-- hip_hop
 popularity: 5
 pos: noun
 regions:
@@ -16,11 +14,10 @@ see_also:
 - cabinet-rumble
 - acoustic-feedback
 - isolation-feet
-slug: knock-on-rumble
+slug: knock-on-rumble-feedback-rumble
 status: active
-summary: "**noun / slang.** Low-frequency vibration introduced when nearby doors slam,\
-  \ subs pound, or furniture resonates, \u201Cknocking-on\u201D into a sensitive turntable\
-  \ setup."
+summary: '**noun / slang.** Low-frequency vibration introduced when nearby doors slam,
+  subs pound, or furniture resonates, “knocking-on” into a sensitive turntable setup.'
 tags:
 - equipment
 - dj-related
@@ -29,6 +26,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Feedback Rumble
+genres:
+- Hip Hop
 ---
 
 # Knock-On Rumble

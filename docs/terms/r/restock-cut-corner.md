@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - punch-hole-cut-out
 - saw-cut-notch
 - remaindered-stock
-slug: restock-cut
+slug: restock-cut-corner
 status: active
 summary: '**noun / retail remainder mark.** A **corner of the jacket clipped off**
   to mark discounted or remaindered stock once returned or unsold.'
@@ -22,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Corner
+genres:
+- all
 ---
 
 # Restock Cut

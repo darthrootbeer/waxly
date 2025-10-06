@@ -6,8 +6,6 @@ domains:
 - quality_control
 equipment_association:
 - amplifier
-genre_association:
-- rock
 popularity: 5
 pos: noun
 regions:
@@ -23,6 +21,8 @@ tags:
 term: Mirror-Finish Stamper
 updated: '2025-10-06'
 verification: unverified
+genres:
+- Rock
 ---
 
 # Mirror-Finish Stamper

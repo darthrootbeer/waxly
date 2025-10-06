@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,6 +11,8 @@ summary: '--- *[Back to Lexicon](../README.md) | [Next Chapter](../chapters/chap
 term: go
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # go

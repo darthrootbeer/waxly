@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -18,6 +16,8 @@ summary: A 7-inch extended-play record made specifically for jukeboxes — often
 term: Jukebox EP
 updated: '2025-10-06'
 verification: unverified
+genres:
+- all
 ---
 
 # Jukebox EP

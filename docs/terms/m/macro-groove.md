@@ -3,8 +3,6 @@ complexity: intermediate
 context: technical
 equipment_association:
 - stylus
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -13,7 +11,7 @@ see_also:
 - micro-groove
 - stylus-size
 - transcription-disc
-slug: macro
+slug: macro-groove
 status: active
 summary: '**noun / historical.** A wider groove format used on early LPs and most
   78-RPM records before the modern micro-groove standard. Requires a larger stylus
@@ -26,6 +24,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Groove
+genres:
+- all
 ---
 
 # Macro

@@ -1,8 +1,6 @@
 ---
 complexity: intermediate
 context: technical
-genre_association:
-- all
 popularity: 5
 pos: noun
 regions:
@@ -11,7 +9,7 @@ see_also:
 - cut-corner-jacket
 - saw-cut-notch
 - promo-stamp-cut-out
-slug: v-notch-jacket
+slug: v-notch-jacket-cut-corner-mark
 status: active
 summary: '**noun / cut-out remainder style.** A **jacket with a triangular or V-shaped
   notch clipped from a corner** to mark discounted or remainder stock.'
@@ -22,6 +20,8 @@ updated: '2025-10-06'
 verification: unverified
 aka:
 - Cut-Corner Mark
+genres:
+- all
 ---
 
 # V-Notch Jacket
