@@ -26,12 +26,11 @@ verification: unverified
 aka:
 - Torture-Track LP
 genres:
-- all
----
+- all---
 
 # Tracking-Test Record
 
-**Definition:** **noun / setup tool.** A **special test LP with progressively harder-to-track grooves** used to verify cartridge alignment, anti-skate, and suspension health.
+**Definition:** **noun / setup tool.** A **special test LP with progressively harder-to-track grooves** used to verify cartridge alignment, [anti](../a/anti-skate/)-skate, and suspension health.
 
 **Etymology:** Plain — record designed to *test tracking*.
 

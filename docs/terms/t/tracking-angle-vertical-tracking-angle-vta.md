@@ -30,10 +30,9 @@ verification: unverified
 aka:
 - VTA
 genres:
-- Hip Hop
----
+- Hip Hop---
 
-# Tracking Angle / Vertical Tracking Angle
+# Tracking Angle / [Vertical Tracking Angle](../v/vertical-tracking-angle-vta/)
 
 **Definition:** **noun / hi-fi geometry term.** The **angle at which the stylus sits in the groove relative to the record surface** — ideally matches the angle of the cutter head (~20°). Adjustable via tone-arm height.
 

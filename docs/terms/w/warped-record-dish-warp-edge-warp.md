@@ -26,12 +26,11 @@ verification: unverified
 aka:
 - Dish-Warp / Edge-Warp
 genres:
-- all
----
+- all---
 
 # Warped Record
 
-**Definition:** **noun / condition flaw.** A **record whose plane is bent or wavy** due to heat, storage pressure, or pressing defects — described as *dish-warp* (concave/convex) or *edge-warp* (rim-only).
+**Definition:** **noun / condition flaw.** A **record whose plane is bent or wavy** due to heat, storage pressure, or pressing defects — described as *[dish](../d/dish-warp/)-warp* (concave/convex) or *[edge](../e/edge-warp/)-warp* (rim-only).
 
 **Etymology:** Descriptive — vinyl surface has *warped*.
 

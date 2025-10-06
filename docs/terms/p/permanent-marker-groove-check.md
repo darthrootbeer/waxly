@@ -25,14 +25,13 @@ verification: unverified
 aka:
 - Check
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Permanent Marker Groove
 
 **Definition:** **noun / club-DJ hack / slang.** Marking a small dot or line on the vinyl’s surface (outside lead-in) with a Sharpie to locate cue points visually in low-light booths — risky but common in some scenes.
 
-**Etymology:** Descriptive — *permanent-marker* used as a *groove-check* guide.
+**Etymology:** Descriptive — *permanent-[marker](../m/marker-scrawl-label/)* used as a *[groove](../g/groove-wear/)-check* guide.
 
 **Example:** “The house DJ left a permanent-marker groove-check on every hot cue spot.”
 

@@ -27,12 +27,11 @@ term: Retipped Stylus
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Rock
----
+- Rock---
 
 # Retipped Stylus
 
-**Definition:** **noun / cartridge-service term.** A **stylus assembly whose original diamond tip has been replaced** (often with an upgraded profile) by a specialist instead of buying a full new cartridge.
+**Definition:** **noun / [cartridge](../c/cartridge/)-service term.** A **stylus assembly whose original diamond tip has been replaced** (often with an upgraded profile) by a specialist instead of buying a full new cartridge.
 
 **Etymology:** *Re-tipped* = given a new diamond tip.
 

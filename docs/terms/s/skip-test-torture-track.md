@@ -27,12 +27,11 @@ verification: unverified
 aka:
 - Torture Track
 genres:
-- all
----
+- all---
 
 # Skip-Test
 
-**Definition:** **noun / cartridge-setup term.** A **special test-record band cut at extreme velocity** to evaluate a cartridge’s tracking ability without skipping.
+**Definition:** **noun / [cartridge](../c/cartridge/)-setup term.** A **special test-record band cut at extreme velocity** to evaluate a cartridge’s tracking ability without skipping.
 
 **Etymology:** Plain — record *test* for groove-tracking *skips*.
 

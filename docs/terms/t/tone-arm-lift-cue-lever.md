@@ -30,10 +30,9 @@ verification: unverified
 aka:
 - Cue-Lever
 genres:
-- Hip Hop
----
+- Hip Hop---
 
-# Tone-Arm Lift
+# [Tone](../t/tone-arm/)-Arm Lift
 
 **Definition:** **noun / deck control.** A **damped mechanical or hydraulic lever** that raises and lowers the tone-arm gently to prevent stylus or groove damage.
 

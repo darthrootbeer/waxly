@@ -20,12 +20,11 @@ verification: unverified
 aka:
 - Split
 genres:
-- all
----
+- all---
 
 # Seam
 
-**Definition:** **noun / jacket-grading flaw.** A **tear or separation along a jacket’s glued seam**, often from records being stored or shipped inside the jacket without protection.
+**Definition:** **noun / [jacket](../j/jacket/)-grading flaw.** A **tear or separation along a jacket’s glued seam**, often from records being stored or shipped inside the jacket without protection.
 
 **Etymology:** Literal — jacket *seam* has *split*.
 

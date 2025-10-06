@@ -24,12 +24,11 @@ verification: unverified
 aka:
 - VG / NM / etc.
 genres:
-- all
----
+- all---
 
 # Sleeve Grading
 
-**Definition:** **noun / collector practice.** The **condition rating of a record’s outer jacket or sleeve** using standard grading scales — Mint (M), Near Mint (NM), Very Good (VG), Good (G), etc.
+**Definition:** **noun / collector practice.** The **condition rating of a record’s outer jacket or sleeve** using standard grading scales — [Mint](../m/mint-minus/) (M), Near Mint (NM), Very Good (VG), Good (G), etc.
 
 **Etymology:** Plain — *sleeve* condition *grading*.
 

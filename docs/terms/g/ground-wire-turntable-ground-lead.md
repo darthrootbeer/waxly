@@ -27,10 +27,9 @@ verification: unverified
 aka:
 - Turntable Ground Lead
 genres:
-- all
----
+- all---
 
-# Ground-Wire
+# [Ground](../g/ground-loop-hum/)-Wire
 
 **Definition:** A dedicated wire that bonds the turntable chassis to the amplifier’s ground to prevent hum and static.
 

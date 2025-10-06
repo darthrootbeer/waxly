@@ -26,14 +26,13 @@ term: Hand-Etched Matrix
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Hand-Etched Matrix
 
 **Definition:** A matrix/run-out inscription scratched by hand into the lacquer by the mastering engineer — often includes initials or pressing info.
 
-**Etymology:** Plain description: the *matrix number* is *hand-etched.*
+**Etymology:** Plain description: the *[matrix number](../m/matrix-number/)* is *hand-etched.*
 
 **Example:** “Look for the hand-etched ‘Porky Prime Cut’ in the dead-wax — that’s George Peckham’s signature.”
 

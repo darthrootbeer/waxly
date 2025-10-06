@@ -29,12 +29,11 @@ term: Turntablist
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Turntablist
 
-**Definition:** **noun / DJ culture term.** A **DJ who treats the turntable as a musical instrument**, manipulating records with scratching, beat-juggling, body-tricks, etc.
+**Definition:** **noun / DJ culture term.** A **DJ who treats the turntable as a musical instrument**, manipulating records with scratching, [beat](../b/beat-matching/)-juggling, body-tricks, etc.
 
 **Etymology:** Hip-hop-era coinage — *turntable* + instrumentalist → *turntablist*.
 

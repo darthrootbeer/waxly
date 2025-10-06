@@ -24,14 +24,13 @@ term: Deep Groove
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Jazz
----
+- Jazz---
 
 # Deep Groove
 
 **Definition:** A wide recessed ring around the label area on many 1950s–early ’60s LPs, a by-product of early pressing molds.
 
-**Etymology:** Descriptive—an actual *groove* pressed deep into the label area.
+**Etymology:** Descriptive—an actual *[groove](../g/groove-wear/)* pressed deep into the label area.
 
 **Example:** “That Blue Note original has the classic deep-groove label—proof it’s an early pressing.”
 

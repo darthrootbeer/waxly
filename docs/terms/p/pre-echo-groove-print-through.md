@@ -27,10 +27,9 @@ term: Pre-Echo (Groove-Print-Through)
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Hip Hop
----
+- Hip Hop---
 
-# Pre-Echo (Groove-Print-Through)
+# Pre-Echo ([Groove](../g/groove-wear/)-Print-Through)
 
 **Definition:** **noun / technical artifact.** A faint “ghost” of a loud musical passage heard about 1.8 seconds before it actually starts — caused by groove wall vibrations imprinting adjacent grooves during cutting or plating.
 

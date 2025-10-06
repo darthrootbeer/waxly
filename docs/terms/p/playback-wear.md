@@ -16,12 +16,11 @@ term: Playback Wear
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
 # Playback Wear
 
-**Definition:** **noun / technical.** Cumulative groove damage caused by repeated plays, especially with heavy or worn styli — manifests as hiss, distortion, or loss of high-end detail.
+**Definition:** **noun / technical.** Cumulative [groove](../g/groove-wear/) damage caused by repeated plays, especially with heavy or worn styli — manifests as hiss, distortion, or loss of high-end detail.
 
 **Etymology:** Literal — groove *wear* from repeated *playback.*
 

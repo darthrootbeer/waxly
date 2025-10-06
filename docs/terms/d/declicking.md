@@ -17,14 +17,13 @@ term: Declicking
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Rock
----
+- Rock---
 
 # Declicking
 
 **Definition:** **noun / verb.** The process of digitally or mechanically removing clicks and pops from vinyl playback or transfers.
 
-**Etymology:** Literal—removing *click* noise.
+**Etymology:** Literal—removing *click* [noise](../n/noise-floor/).
 
 **Example:** “That archival rip was carefully declicked in iZotope before pressing to CD.”
 

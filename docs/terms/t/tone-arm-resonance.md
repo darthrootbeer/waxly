@@ -25,10 +25,9 @@ term: Tone-Arm Resonance
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
-# Tone-Arm Resonance
+# [Tone](../t/tone-arm/)-Arm Resonance
 
 **Definition:** **noun / hi-fi performance spec.** The **natural resonant frequency created by the mass of the tone-arm and the compliance of the cartridge’s cantilever suspension** — ideally falls between 8-12 Hz to avoid rumble or audible bass-boost.
 

@@ -24,14 +24,13 @@ verification: unverified
 aka:
 - Shrink
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Shrink-Wrap
 
 **Definition:** **noun / packaging.** A **tight plastic film heat-shrunk around retail LP jackets** to keep them factory-fresh and tamper-evident.
 
-**Etymology:** Descriptive — jacket *wrapped* in heat-*shrink* film.
+**Etymology:** Descriptive — [jacket](../j/jacket/) *wrapped* in heat-*shrink* film.
 
 **Example:** “Original-shrink with hype-sticker intact boosts a first-press LP’s collector value.”
 

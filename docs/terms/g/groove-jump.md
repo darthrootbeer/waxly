@@ -27,10 +27,9 @@ verification: unverified
 aka:
 - Jump
 genres:
-- Hip Hop
----
+- Hip Hop---
 
-# Groove
+# [Groove](../g/groove-wear/)
 
 **Definition:** **noun / slang.** When the stylus physically hops out of one spiral groove into the next (or back) — often due to a warp, foot-fall vibration, or too-light tracking.
 

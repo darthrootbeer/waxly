@@ -23,12 +23,11 @@ verification: unverified
 aka:
 - Warp
 genres:
-- all
----
+- all---
 
 # Pinch
 
-**Definition:** **noun / defect.** A small crescent-shaped warp at the record’s edge caused by uneven cooling during pressing — often creates audible “thump” each revolution.
+**Definition:** **noun / defect.** A small crescent-shaped warp at the record’s [edge](../e/edge-warp/) caused by uneven cooling during pressing — often creates audible “thump” each revolution.
 
 **Etymology:** Descriptive — edge *warp* formed by *pinch* pressure of press plates.
 

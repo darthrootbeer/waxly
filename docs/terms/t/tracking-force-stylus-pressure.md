@@ -30,12 +30,11 @@ verification: unverified
 aka:
 - Stylus Pressure
 genres:
-- all
----
+- all---
 
 # Tracking Force
 
-**Definition:** **noun / cartridge-setup spec.** The **downward pressure in grams applied by the tone-arm to keep the stylus seated in the groove** — specified by cartridge maker.
+**Definition:** **noun / [cartridge](../c/cartridge/)-setup spec.** The **downward pressure in grams applied by the tone-arm to keep the stylus seated in the groove** — specified by cartridge maker.
 
 **Etymology:** Plain — *force* with which stylus *tracks* the groove.
 

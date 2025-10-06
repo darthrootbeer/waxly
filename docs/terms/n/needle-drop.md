@@ -26,10 +26,9 @@ verification: unverified
 aka:
 - Drop
 genres:
-- Hip Hop
----
+- Hip Hop---
 
-# Needle
+# [Needle](../n/needle-wear/)
 
 **Definition:** **noun / slang.** 1 The act of lowering the stylus onto a record. 2 An informal term for a digital recording made by playing a vinyl record (a “needle-drop transfer”). ⠀
 

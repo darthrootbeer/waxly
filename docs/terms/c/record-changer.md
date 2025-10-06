@@ -27,10 +27,9 @@ verification: unverified
 aka:
 - Stack-Loader)
 genres:
-- Rock
----
+- Rock---
 
-# Changer (Record Changer
+# Changer ([Record Changer](../r/record-changer-stack-changer/)
 
 **Definition:** A turntable mechanism — popular mid-century — that automatically drops the next record from a stacked spindle after each side finishes.
 

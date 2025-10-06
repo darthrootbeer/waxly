@@ -14,8 +14,7 @@ term: Zero-Inner-Groove-Distortion Cut
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
-# Zero-Inner-Groove-Distortion Cut
+# Zero-Inner-[Groove](../g/groove-wear/)-Distortion Cut
 

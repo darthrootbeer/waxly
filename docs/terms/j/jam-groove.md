@@ -22,14 +22,13 @@ term: Jam Groove
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Jam Groove
 
 **Definition:** **noun / slang.** A long, often improvised instrumental section captured on record — prized by DJs for its extended rhythm bed.
 
-**Etymology:** From live-band *jam* sessions laid into the *groove.*
+**Etymology:** From live-band *jam* sessions laid into the *[groove](../g/groove-wear/).*
 
 **Example:** “Side-two’s jam groove rides that conga-drum vamp for six solid minutes — disco-DJ heaven.”
 

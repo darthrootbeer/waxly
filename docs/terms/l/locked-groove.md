@@ -23,12 +23,11 @@ term: Locked Groove
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Electronic
----
+- Electronic---
 
 # Locked Groove
 
-**Definition:** **noun / technical / creative.** A circular groove at the end of a side where the stylus loops indefinitely instead of spiraling to the label — can be silent, contain a loop of sound, or be used for hidden tracks.
+**Definition:** **noun / technical / creative.** A circular [groove](../g/groove-wear/) at the end of a side where the stylus loops indefinitely instead of spiraling to the label — can be silent, contain a loop of sound, or be used for hidden tracks.
 
 **Etymology:** Literal — a *groove* that stays *locked* in a loop.
 

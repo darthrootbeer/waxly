@@ -19,12 +19,11 @@ updated: '2025-10-06'
 verification: unverified
 genres:
 - Hip Hop
-- Rock
----
+- Rock---
 
 # Wrap-Around Gatefold
 
-**Definition:** **noun / jacket design.** A **gatefold sleeve whose artwork continues in one continuous image across both panels and the spine**, often extending inside as well.
+**Definition:** **noun / jacket design.** A **[gatefold](../g/gatefold/) sleeve whose artwork continues in one continuous image across both panels and the spine**, often extending inside as well.
 
 **Etymology:** Graphic-design term — art *wraps around* the *gatefold*.
 

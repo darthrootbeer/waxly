@@ -28,14 +28,13 @@ aka:
 - Suitcase Player
 genres:
 - Hip Hop
-- Rock
----
+- Rock---
 
 # Portable Record Changer
 
 **Definition:** **noun / hardware / historical.** A compact suitcase-style phonograph with built-in speaker and auto-changer mechanism, common in mid-20th-century homes and dorms.
 
-**Etymology:** Descriptive — *portable* all-in-one *record changer*.
+**Etymology:** Descriptive — *portable* all-in-one *[record changer](../r/record-changer-stack-changer/)*.
 
 **Example:** “The retro portable record changer stacked a whole night’s worth of 45s.”
 

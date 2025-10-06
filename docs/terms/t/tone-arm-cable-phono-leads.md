@@ -28,10 +28,9 @@ verification: unverified
 aka:
 - Phono Leads
 genres:
-- all
----
+- all---
 
-# Tone-Arm Cable
+# [Tone](../t/tone-arm/)-Arm Cable
 
 **Definition:** **noun / hi-fi wiring.** The **shielded low-capacitance cable** carrying the delicate cartridge signal to the phono pre-amp — often hard-wired or detachable RCA leads.
 

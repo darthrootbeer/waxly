@@ -29,12 +29,11 @@ aka:
 - Groove
 genres:
 - Hip Hop
-- Electronic
----
+- Electronic---
 
 # Jump
 
-**Definition:** **noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps or vibration; similar to groove-jump.
+**Definition:** **noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps or vibration; similar to [groove](../g/groove-wear/)-jump.
 
 **Etymology:** Descriptive — the needle *jumps* the *groove.*
 

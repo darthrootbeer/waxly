@@ -25,12 +25,11 @@ term: Removable Headshell Leads
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
 # Removable Headshell Leads
 
-**Definition:** **noun / tone-arm part.** The **tiny color-coded wires** with push-on clips that connect cartridge pins to the headshell terminals.
+**Definition:** **noun / [tone](../t/tone-arm/)-arm part.** The **tiny color-coded wires** with push-on clips that connect cartridge pins to the headshell terminals.
 
 **Etymology:** Literal — *leads* that are *removable* from headshell.
 

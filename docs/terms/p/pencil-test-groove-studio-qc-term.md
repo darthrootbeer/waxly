@@ -26,10 +26,9 @@ verification: unverified
 aka:
 - Studio QC Term
 genres:
-- all
----
+- all---
 
-# Pencil-Test Groove
+# [Pencil](../p/pencil-marked-label/)-Test Groove
 
 **Definition:** **noun / mastering slang.** A quick QC method where engineers drag a soft pencil across a test lacquer’s groove to feel for uniform depth or ridges — rarely done today.
 

@@ -30,12 +30,11 @@ verification: unverified
 aka:
 - Locked Skip
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Skip-Loop
 
-**Definition:** **noun / groove defect / DJ trick.** Either a **groove-damage defect that causes the stylus to loop-replay** a short segment or, in DJ use, a deliberate locked-groove sample loop.
+**Definition:** **noun / [groove](../g/groove-wear/) defect / DJ trick.** Either a **groove-damage defect that causes the stylus to loop-replay** a short segment or, in DJ use, a deliberate locked-groove sample loop.
 
 **Etymology:** *Skip* causes a repeating *loop*.
 

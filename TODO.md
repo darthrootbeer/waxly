@@ -117,6 +117,7 @@
 - [ ] `000059` - Related-terms card per entry
 - [ ] `000060` - Faceted search for tags/domains/eras
 - [ ] `000061` - Copy-code buttons for technical terms
+- [ ] `000097` - Visual popularity indicator bars: Color-coded bars (red=1-2, golden=5, green=8-10) showing term popularity on 1-10 scale for quick visual reference
 
 ### Content Expansions
 

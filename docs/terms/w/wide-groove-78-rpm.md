@@ -26,14 +26,13 @@ verification: unverified
 aka:
 - 78 RPM
 genres:
-- all
----
+- all---
 
-# Wide-Groove
+# Wide-[Groove](../g/groove-wear/)
 
 **Definition:** A **heavy puck or clamp placed on the record spindle to improve contact with the platter**, helping tame warps and resonance.
 
-**Etymology:** Descriptive — groove is *wide/macro* compared to modern micro-groove.
+**Etymology:** Descriptive — groove is *wide/[macro](../m/macro-groove/)* compared to modern micro-groove.
 
 **Example:** “Play those wide-groove 78s with a proper 3-mil stylus to avoid chatter.”
 

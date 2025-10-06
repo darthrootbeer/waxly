@@ -25,8 +25,7 @@ verification: unverified
 aka:
 - Vinyl Biscuit Weight
 genres:
-- all
----
+- all---
 
 # Net-Weight
 
@@ -34,7 +33,7 @@ genres:
 
 **Etymology:** Industrial term for *net weight* of raw material charge.
 
-**Example:** “Plant QC rejected the run — net-weight was off, leading to thin, dish-warped LPs.”
+**Example:** “Plant QC rejected the run — net-weight was off, leading to thin, [dish](../d/dish-warp/)-warped LPs.”
 
 **Cultural Note:** * Part of quality-control specs that audiophile labels advertise on hype-stickers.
 

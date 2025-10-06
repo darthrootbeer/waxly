@@ -23,14 +23,13 @@ term: Zero-Balance Tone-Arm
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
 # Zero-Balance Tone-Arm
 
-**Definition:** **noun / hi-fi setup feature.** A **tone-arm that’s first balanced to float level at ‘zero’ before dialing in the tracking-force with a calibrated counterweight** — standard on most quality decks.
+**Definition:** **noun / hi-fi setup feature.** A **[tone](../t/tone-arm/)-arm that’s first balanced to float level at ‘zero’ before dialing in the tracking-force with a calibrated counterweight** — standard on most quality decks.
 
-**Etymology:** Promotional phrase — claims *zero* audible *inner-groove distortion*.
+**Etymology:** Promotional phrase — claims *zero* audible *inner-[groove](../g/groove-wear/) distortion*.
 
 **Example:** “The audiophile reissue advertises a zero-inner-groove-distortion cut thanks to advanced pitch computer.”
 
