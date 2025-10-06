@@ -40,6 +40,7 @@ If you're viewing this repository:
 ### Timeline
 
 - **Current**: Project structure setup and content reorganization (v1.0.0)
+- **Version**: 1.0.0 - Initial release with complete lexicon structure
 - **Recent**: Content migration from original markdown files
 - **Next**: Chapter organization and web presentation layer
 - **Future**: Enhanced navigation, search, and community features

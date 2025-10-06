@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Planned
+- Record label database with parent/subsidiary relationships (P3 Priority)
+- Enhanced search functionality
+- Mobile app version
+
+## [1.0.0] - 2025-01-27
+
 ### Added
 - Initial project structure based on OA-MD best practices
 - Complete vinyl lexicon content with A-Z organization

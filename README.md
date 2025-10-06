@@ -12,7 +12,8 @@ The Vinyl Lexicon is a comprehensive reference guide covering the terminology, c
 
 This repository contains the complete markdown-formatted source content for the Vinyl Lexicon, organized as a digital book for easy navigation and community collaboration.
 
-**Current Status:** Content development and organization
+**Current Status:** Content development and organization  
+**Version:** 1.0.0
 
 ## 🎯 What's Included
 
