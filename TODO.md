@@ -41,6 +41,18 @@
 - [ ] `000086` - Implement genre/style pages in lexicon that link to and reference Discogs as authoritative source
 - [ ] `000087` - Add "discogs_genre_url" and "discogs_style_urls" fields to schema for storing canonical Discogs references
 
+### Phase 5 - AI & Machine Learning Integration
+
+- [ ] `000088` - Add AI-friendly metadata fields to schema (complexity_level, domain_expertise, usage_frequency, temporal_relevance, cultural_significance, technical_accuracy)
+- [ ] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption
+- [ ] `000090` - Create copy-as-markdown functionality for easy AI training data extraction
+- [ ] `000091` - Build machine-readable entity relationships and knowledge graph structure
+- [ ] `000092` - Add API endpoints for AI consumption (/api/terms/search, /api/terms/embeddings, /api/terms/graph)
+- [ ] `000093` - Create AI training dataset exports in multiple formats (JSON, CSV, TXT, RDF/Turtle)
+- [ ] `000094` - Implement semantic embeddings and vector database preparation
+- [ ] `000095` - Add contextual keywords and cross-reference mapping for knowledge graph traversal
+- [ ] `000096` - Create structured prompts and context-aware formatting for different AI use cases
+
 ### Infrastructure & Setup
 
 - [ ] `000025` - Write schema and validator for term front-matter

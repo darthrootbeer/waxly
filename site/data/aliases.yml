@@ -1,0 +1,491 @@
+# Vinyl Lexicon Aliases
+# Alternative names and spellings for terms
+
+aliases:
+  # A/B Test Press
+  "a-b-test-press":
+    - "AB test press"
+    - "test pressing"
+    - "comparison pressing"
+  
+  # Acetate
+  "acetate":
+    - "lacquer"
+    - "reference disc"
+    - "cutting disc"
+    - "master lacquer"
+  
+  # Acoustic Suspension
+  "acoustic-suspension":
+    - "sealed box"
+    - "infinite baffle"
+    - "air suspension"
+  
+  # Add-On Arm Weight
+  "add-on-arm-weight":
+    - "auxiliary weight"
+    - "counterweight"
+    - "arm weight"
+  
+  # Album
+  "album":
+    - "LP"
+    - "long player"
+    - "record"
+    - "vinyl"
+  
+  # Alignment Protractor
+  "alignment-protractor":
+    - "cartridge alignment tool"
+    - "tonearm protractor"
+    - "alignment gauge"
+  
+  # Alternate Take
+  "alternate-take":
+    - "alternative take"
+    - "different version"
+    - "outtake"
+  
+  # Anti-Skate
+  "anti-skate":
+    - "anti-skating"
+    - "bias adjustment"
+    - "lateral balance"
+  
+  # Back-Spinning
+  "back-spinning":
+    - "backspinning"
+    - "rewinding"
+    - "reverse spinning"
+  
+  # Back-Splice
+  "back-splice":
+    - "back-tape"
+    - "tape splice"
+    - "edit splice"
+  
+  # Balance Weight
+  "balance-weight":
+    - "counterweight"
+    - "tonearm weight"
+    - "balance adjustment"
+  
+  # Banding
+  "banding":
+    - "groove banding"
+    - "track separation"
+    - "silent grooves"
+  
+  # Battle Record
+  "battle-record":
+    - "scratch record"
+    - "DJ record"
+    - "break record"
+  
+  # Beat Juggling
+  "beat-juggling":
+    - "beat juggling"
+    - "rhythm juggling"
+    - "pattern juggling"
+  
+  # Break
+  "break":
+    - "breakbeat"
+    - "drum break"
+    - "rhythm break"
+  
+  # Breakbeat
+  "breakbeat":
+    - "break"
+    - "drum break"
+    - "rhythm section"
+  
+  # B-Side
+  "b-side":
+    - "flip side"
+    - "back side"
+    - "secondary side"
+  
+  # Cartridge
+  "cartridge":
+    - "phono cartridge"
+    - "pickup cartridge"
+    - "needle cartridge"
+  
+  # Center Hole
+  "center-hole":
+    - "spindle hole"
+    - "center hole"
+    - "label hole"
+  
+  # Changer
+  "changer":
+    - "record changer"
+    - "automatic changer"
+    - "stacker"
+  
+  # Clean
+  "clean":
+    - "mint"
+    - "pristine"
+    - "like new"
+  
+  # Cue
+  "cue":
+    - "cueing"
+    - "positioning"
+    - "starting point"
+  
+  # Cut
+  "cut":
+    - "lacquer cut"
+    - "master cut"
+    - "cutting"
+  
+  # Cutter
+  "cutter":
+    - "cutting head"
+    - "cutting stylus"
+    - "lacquer cutter"
+  
+  # Dead Wax
+  "dead-wax":
+    - "runout groove"
+    - "lead-out"
+    - "end groove"
+  
+  # Direct Drive
+  "direct-drive":
+    - "direct drive"
+    - "DD"
+    - "motor drive"
+  
+  # Disc
+  "disc":
+    - "record"
+    - "vinyl"
+    - "platter"
+  
+  # DJ
+  "dj":
+    - "disc jockey"
+    - "deejay"
+    - "turntablist"
+  
+  # Double Album
+  "double-album":
+    - "2LP"
+    - "double LP"
+    - "two-record set"
+  
+  # Drop
+  "drop":
+    - "drop-in"
+    - "mix point"
+    - "cue point"
+  
+  # Dub
+  "dub":
+    - "dubplate"
+    - "version"
+    - "instrumental"
+  
+  # Dubplate
+  "dubplate":
+    - "dub"
+    - "acetate"
+    - "reference disc"
+  
+  # EP
+  "ep":
+    - "extended play"
+    - "mini-album"
+    - "short album"
+  
+  # Equalization
+  "equalization":
+    - "EQ"
+    - "RIAA curve"
+    - "frequency response"
+  
+  # Fade
+  "fade":
+    - "fade-out"
+    - "fade-in"
+    - "crossfade"
+  
+  # First Pressing
+  "first-pressing":
+    - "original pressing"
+    - "first issue"
+    - "original release"
+  
+  # Flutter
+  "flutter":
+    - "wow and flutter"
+    - "speed variation"
+    - "pitch variation"
+  
+  # 45
+  "45":
+    - "single"
+    - "7-inch"
+    - "45 RPM"
+  
+  # 78
+  "78":
+    - "78 RPM"
+    - "shellac"
+    - "78 record"
+  
+  # Groove
+  "groove":
+    - "track"
+    - "cut"
+    - "spiral"
+  
+  # Headshell
+  "headshell":
+    - "cartridge mount"
+    - "tonearm head"
+    - "cartridge holder"
+  
+  # Hi-Fi
+  "hi-fi":
+    - "high fidelity"
+    - "high-fidelity"
+    - "audiophile"
+  
+  # Hot
+  "hot":
+    - "loud"
+    - "high level"
+    - "compressed"
+  
+  # Inner Groove
+  "inner-groove":
+    - "inside groove"
+    - "center groove"
+    - "label area"
+  
+  # Jukebox
+  "jukebox":
+    - "jukebox"
+    - "record player"
+    - "coin-op"
+  
+  # Lacquer
+  "lacquer":
+    - "acetate"
+    - "cutting disc"
+    - "master lacquer"
+  
+  # Lead-In
+  "lead-in":
+    - "run-in groove"
+    - "lead-in groove"
+    - "start groove"
+  
+  # Lead-Out
+  "lead-out":
+    - "runout groove"
+    - "dead wax"
+    - "end groove"
+  
+  # Lock Groove
+  "lock-groove":
+    - "locked groove"
+    - "infinite loop"
+    - "endless groove"
+  
+  # LP
+  "lp":
+    - "album"
+    - "long player"
+    - "33 1/3"
+  
+  # Master
+  "master":
+    - "master tape"
+    - "original master"
+    - "source"
+  
+  # Matrix
+  "matrix":
+    - "matrix number"
+    - "stamper number"
+    - "pressing number"
+  
+  # Mix
+  "mix":
+    - "blend"
+    - "transition"
+    - "crossfade"
+  
+  # Mono
+  "mono":
+    - "monaural"
+    - "monophonic"
+    - "single channel"
+  
+  # Needle
+  "needle":
+    - "stylus"
+    - "pickup"
+    - "cartridge"
+  
+  # Outer Groove
+  "outer-groove":
+    - "outside groove"
+    - "edge groove"
+    - "perimeter groove"
+  
+  # Overhang
+  "overhang":
+    - "stylus overhang"
+    - "cartridge overhang"
+    - "alignment overhang"
+  
+  # Phono
+  "phono":
+    - "phono input"
+    - "phono stage"
+    - "phono preamp"
+  
+  # Pickup
+  "pickup":
+    - "cartridge"
+    - "needle"
+    - "stylus"
+  
+  # Platter
+  "platter":
+    - "turntable platter"
+    - "record platter"
+    - "disc"
+  
+  # Preamp
+  "preamp":
+    - "preamplifier"
+    - "phono stage"
+    - "phono preamp"
+  
+  # Pressing
+  "pressing":
+    - "issue"
+    - "release"
+    - "edition"
+  
+  # Record
+  "record":
+    - "vinyl"
+    - "disc"
+    - "album"
+  
+  # Remix
+  "remix":
+    - "re-edit"
+    - "version"
+    - "alternative mix"
+  
+  # RIAA
+  "riaa":
+    - "RIAA curve"
+    - "equalization"
+    - "frequency response"
+  
+  # Rumble
+  "rumble":
+    - "turntable rumble"
+    - "mechanical noise"
+    - "vibration"
+  
+  # Runout
+  "runout":
+    - "dead wax"
+    - "lead-out"
+    - "end groove"
+  
+  # Scratch
+  "scratch":
+    - "scratching"
+    - "turntablism"
+    - "DJ technique"
+  
+  # Single
+  "single":
+    - "45"
+    - "7-inch"
+    - "45 RPM"
+  
+  # Skip
+  "skip":
+    - "jump"
+    - "hop"
+    - "track jump"
+  
+  # Sleeve
+  "sleeve":
+    - "jacket"
+    - "cover"
+    - "outer sleeve"
+  
+  # Speed
+  "speed":
+    - "RPM"
+    - "revolutions per minute"
+    - "rotation speed"
+  
+  # Stereo
+  "stereo":
+    - "stereophonic"
+    - "two-channel"
+    - "dual channel"
+  
+  # Stylus
+  "stylus":
+    - "needle"
+    - "pickup"
+    - "cartridge tip"
+  
+  # Test Pressing
+  "test-pressing":
+    - "test press"
+    - "reference pressing"
+    - "sample pressing"
+  
+  # Tonearm
+  "tonearm":
+    - "tone arm"
+    - "pickup arm"
+    - "cartridge arm"
+  
+  # Tracking
+  "tracking":
+    - "tracking force"
+    - "downforce"
+    - "stylus pressure"
+  
+  # Turntable
+  "turntable":
+    - "record player"
+    - "deck"
+    - "platter"
+  
+  # Vinyl
+  "vinyl":
+    - "record"
+    - "disc"
+    - "LP"
+  
+  # Warp
+  "warp":
+    - "warped"
+    - "bent"
+    - "distorted"
+  
+  # Wow
+  "wow":
+    - "wow and flutter"
+    - "speed variation"
+    - "pitch variation"

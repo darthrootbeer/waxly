@@ -1,0 +1,88 @@
+/* Pagefind Search UI Customization */
+.pagefind-ui {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: var(--md-primary-fg-color);
+  --pagefind-ui-text: var(--md-default-fg-color);
+  --pagefind-ui-background: var(--md-default-bg-color);
+  --pagefind-ui-border: var(--md-default-fg-color--lightest);
+  --pagefind-ui-tag: var(--md-accent-fg-color);
+}
+
+.pagefind-ui__search-input {
+  border-radius: 0.5rem;
+  border: 1px solid var(--pagefind-ui-border);
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  background: var(--pagefind-ui-background);
+  color: var(--pagefind-ui-text);
+}
+
+.pagefind-ui__search-input:focus {
+  outline: none;
+  border-color: var(--pagefind-ui-primary);
+  box-shadow: 0 0 0 2px rgba(var(--md-primary-fg-color--rgb), 0.2);
+}
+
+.pagefind-ui__results-area {
+  margin-top: 1rem;
+}
+
+.pagefind-ui__result {
+  border: 1px solid var(--pagefind-ui-border);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  background: var(--pagefind-ui-background);
+  transition: all 0.2s ease;
+}
+
+.pagefind-ui__result:hover {
+  border-color: var(--pagefind-ui-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pagefind-ui__result-title {
+  color: var(--pagefind-ui-primary);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.pagefind-ui__result-excerpt {
+  color: var(--pagefind-ui-text);
+  line-height: 1.5;
+}
+
+.pagefind-ui__result-tags {
+  margin-top: 0.5rem;
+}
+
+.pagefind-ui__result-tag {
+  background: var(--pagefind-ui-tag);
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  margin-right: 0.5rem;
+}
+
+/* Hide default MkDocs search when Pagefind is active */
+.md-search {
+  display: none;
+}
+
+/* Custom search button for Pagefind */
+.pagefind-search-trigger {
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+}
+
+.pagefind-search-trigger:hover {
+  background: var(--md-accent-fg-color);
+  transform: translateY(-1px);
+}

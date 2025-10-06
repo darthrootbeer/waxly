@@ -1,0 +1,440 @@
+# Vinyl Lexicon Redirects
+# URL redirects for aliases and alternative spellings
+
+redirects:
+  # A/B Test Press aliases
+  "ab-test-press": "terms/a/a-b-test-press"
+  "test-pressing": "terms/a/a-b-test-press"
+  "comparison-pressing": "terms/a/a-b-test-press"
+  
+  # Acetate aliases
+  "lacquer": "terms/a/acetate"
+  "reference-disc": "terms/a/acetate"
+  "cutting-disc": "terms/a/acetate"
+  "master-lacquer": "terms/a/acetate"
+  
+  # Acoustic Suspension aliases
+  "sealed-box": "terms/a/acoustic-suspension"
+  "infinite-baffle": "terms/a/acoustic-suspension"
+  "air-suspension": "terms/a/acoustic-suspension"
+  
+  # Add-On Arm Weight aliases
+  "auxiliary-weight": "terms/a/add-on-arm-weight"
+  "counterweight": "terms/a/add-on-arm-weight"
+  "arm-weight": "terms/a/add-on-arm-weight"
+  
+  # Album aliases
+  "lp": "terms/a/album"
+  "long-player": "terms/a/album"
+  "record": "terms/a/album"
+  "vinyl": "terms/a/album"
+  
+  # Alignment Protractor aliases
+  "cartridge-alignment-tool": "terms/a/alignment-protractor"
+  "tonearm-protractor": "terms/a/alignment-protractor"
+  "alignment-gauge": "terms/a/alignment-protractor"
+  
+  # Alternate Take aliases
+  "alternative-take": "terms/a/alternate-take"
+  "different-version": "terms/a/alternate-take"
+  "outtake": "terms/a/alternate-take"
+  
+  # Anti-Skate aliases
+  "anti-skating": "terms/a/anti-skate"
+  "bias-adjustment": "terms/a/anti-skate"
+  "lateral-balance": "terms/a/anti-skate"
+  
+  # Back-Spinning aliases
+  "backspinning": "terms/b/back-spinning"
+  "rewinding": "terms/b/back-spinning"
+  "reverse-spinning": "terms/b/back-spinning"
+  
+  # Back-Splice aliases
+  "back-tape": "terms/b/back-splice"
+  "tape-splice": "terms/b/back-splice"
+  "edit-splice": "terms/b/back-splice"
+  
+  # Balance Weight aliases
+  "counterweight": "terms/b/balance-weight"
+  "tonearm-weight": "terms/b/balance-weight"
+  "balance-adjustment": "terms/b/balance-weight"
+  
+  # Banding aliases
+  "groove-banding": "terms/b/banding"
+  "track-separation": "terms/b/banding"
+  "silent-grooves": "terms/b/banding"
+  
+  # Battle Record aliases
+  "scratch-record": "terms/b/battle-record"
+  "dj-record": "terms/b/battle-record"
+  "break-record": "terms/b/battle-record"
+  
+  # Beat Juggling aliases
+  "beat-juggling": "terms/b/beat-juggling"
+  "rhythm-juggling": "terms/b/beat-juggling"
+  "pattern-juggling": "terms/b/beat-juggling"
+  
+  # Break aliases
+  "breakbeat": "terms/b/break"
+  "drum-break": "terms/b/break"
+  "rhythm-break": "terms/b/break"
+  
+  # Breakbeat aliases
+  "break": "terms/b/breakbeat"
+  "drum-break": "terms/b/breakbeat"
+  "rhythm-section": "terms/b/breakbeat"
+  
+  # B-Side aliases
+  "flip-side": "terms/b/b-side"
+  "back-side": "terms/b/b-side"
+  "secondary-side": "terms/b/b-side"
+  
+  # Cartridge aliases
+  "phono-cartridge": "terms/c/cartridge"
+  "pickup-cartridge": "terms/c/cartridge"
+  "needle-cartridge": "terms/c/cartridge"
+  
+  # Center Hole aliases
+  "spindle-hole": "terms/c/center-hole"
+  "center-hole": "terms/c/center-hole"
+  "label-hole": "terms/c/center-hole"
+  
+  # Changer aliases
+  "record-changer": "terms/c/changer"
+  "automatic-changer": "terms/c/changer"
+  "stacker": "terms/c/changer"
+  
+  # Clean aliases
+  "mint": "terms/c/clean"
+  "pristine": "terms/c/clean"
+  "like-new": "terms/c/clean"
+  
+  # Cue aliases
+  "cueing": "terms/c/cue"
+  "positioning": "terms/c/cue"
+  "starting-point": "terms/c/cue"
+  
+  # Cut aliases
+  "lacquer-cut": "terms/c/cut"
+  "master-cut": "terms/c/cut"
+  "cutting": "terms/c/cut"
+  
+  # Cutter aliases
+  "cutting-head": "terms/c/cutter"
+  "cutting-stylus": "terms/c/cutter"
+  "lacquer-cutter": "terms/c/cutter"
+  
+  # Dead Wax aliases
+  "runout-groove": "terms/d/dead-wax"
+  "lead-out": "terms/d/dead-wax"
+  "end-groove": "terms/d/dead-wax"
+  
+  # Direct Drive aliases
+  "direct-drive": "terms/d/direct-drive"
+  "dd": "terms/d/direct-drive"
+  "motor-drive": "terms/d/direct-drive"
+  
+  # Disc aliases
+  "record": "terms/d/disc"
+  "vinyl": "terms/d/disc"
+  "platter": "terms/d/disc"
+  
+  # DJ aliases
+  "disc-jockey": "terms/d/dj"
+  "deejay": "terms/d/dj"
+  "turntablist": "terms/d/dj"
+  
+  # Double Album aliases
+  "2lp": "terms/d/double-album"
+  "double-lp": "terms/d/double-album"
+  "two-record-set": "terms/d/double-album"
+  
+  # Drop aliases
+  "drop-in": "terms/d/drop"
+  "mix-point": "terms/d/drop"
+  "cue-point": "terms/d/drop"
+  
+  # Dub aliases
+  "dubplate": "terms/d/dub"
+  "version": "terms/d/dub"
+  "instrumental": "terms/d/dub"
+  
+  # Dubplate aliases
+  "dub": "terms/d/dubplate"
+  "acetate": "terms/d/dubplate"
+  "reference-disc": "terms/d/dubplate"
+  
+  # EP aliases
+  "extended-play": "terms/e/ep"
+  "mini-album": "terms/e/ep"
+  "short-album": "terms/e/ep"
+  
+  # Equalization aliases
+  "eq": "terms/e/equalization"
+  "riaa-curve": "terms/e/equalization"
+  "frequency-response": "terms/e/equalization"
+  
+  # Fade aliases
+  "fade-out": "terms/f/fade"
+  "fade-in": "terms/f/fade"
+  "crossfade": "terms/f/fade"
+  
+  # First Pressing aliases
+  "original-pressing": "terms/f/first-pressing"
+  "first-issue": "terms/f/first-pressing"
+  "original-release": "terms/f/first-pressing"
+  
+  # Flutter aliases
+  "wow-and-flutter": "terms/f/flutter"
+  "speed-variation": "terms/f/flutter"
+  "pitch-variation": "terms/f/flutter"
+  
+  # 45 aliases
+  "single": "terms/4/45"
+  "7-inch": "terms/4/45"
+  "45-rpm": "terms/4/45"
+  
+  # 78 aliases
+  "78-rpm": "terms/7/78"
+  "shellac": "terms/7/78"
+  "78-record": "terms/7/78"
+  
+  # Groove aliases
+  "track": "terms/g/groove"
+  "cut": "terms/g/groove"
+  "spiral": "terms/g/groove"
+  
+  # Headshell aliases
+  "cartridge-mount": "terms/h/headshell"
+  "tonearm-head": "terms/h/headshell"
+  "cartridge-holder": "terms/h/headshell"
+  
+  # Hi-Fi aliases
+  "high-fidelity": "terms/h/hi-fi"
+  "high-fidelity": "terms/h/hi-fi"
+  "audiophile": "terms/h/hi-fi"
+  
+  # Hot aliases
+  "loud": "terms/h/hot"
+  "high-level": "terms/h/hot"
+  "compressed": "terms/h/hot"
+  
+  # Inner Groove aliases
+  "inside-groove": "terms/i/inner-groove"
+  "center-groove": "terms/i/inner-groove"
+  "label-area": "terms/i/inner-groove"
+  
+  # Jukebox aliases
+  "jukebox": "terms/j/jukebox"
+  "record-player": "terms/j/jukebox"
+  "coin-op": "terms/j/jukebox"
+  
+  # Lacquer aliases
+  "acetate": "terms/l/lacquer"
+  "cutting-disc": "terms/l/lacquer"
+  "master-lacquer": "terms/l/lacquer"
+  
+  # Lead-In aliases
+  "run-in-groove": "terms/l/lead-in"
+  "lead-in-groove": "terms/l/lead-in"
+  "start-groove": "terms/l/lead-in"
+  
+  # Lead-Out aliases
+  "runout-groove": "terms/l/lead-out"
+  "dead-wax": "terms/l/lead-out"
+  "end-groove": "terms/l/lead-out"
+  
+  # Lock Groove aliases
+  "locked-groove": "terms/l/lock-groove"
+  "infinite-loop": "terms/l/lock-groove"
+  "endless-groove": "terms/l/lock-groove"
+  
+  # LP aliases
+  "album": "terms/l/lp"
+  "long-player": "terms/l/lp"
+  "33-1-3": "terms/l/lp"
+  
+  # Master aliases
+  "master-tape": "terms/m/master"
+  "original-master": "terms/m/master"
+  "source": "terms/m/master"
+  
+  # Matrix aliases
+  "matrix-number": "terms/m/matrix"
+  "stamper-number": "terms/m/matrix"
+  "pressing-number": "terms/m/matrix"
+  
+  # Mix aliases
+  "blend": "terms/m/mix"
+  "transition": "terms/m/mix"
+  "crossfade": "terms/m/mix"
+  
+  # Mono aliases
+  "monaural": "terms/m/mono"
+  "monophonic": "terms/m/mono"
+  "single-channel": "terms/m/mono"
+  
+  # Needle aliases
+  "stylus": "terms/n/needle"
+  "pickup": "terms/n/needle"
+  "cartridge": "terms/n/needle"
+  
+  # Outer Groove aliases
+  "outside-groove": "terms/o/outer-groove"
+  "edge-groove": "terms/o/outer-groove"
+  "perimeter-groove": "terms/o/outer-groove"
+  
+  # Overhang aliases
+  "stylus-overhang": "terms/o/overhang"
+  "cartridge-overhang": "terms/o/overhang"
+  "alignment-overhang": "terms/o/overhang"
+  
+  # Phono aliases
+  "phono-input": "terms/p/phono"
+  "phono-stage": "terms/p/phono"
+  "phono-preamp": "terms/p/phono"
+  
+  # Pickup aliases
+  "cartridge": "terms/p/pickup"
+  "needle": "terms/p/pickup"
+  "stylus": "terms/p/pickup"
+  
+  # Platter aliases
+  "turntable-platter": "terms/p/platter"
+  "record-platter": "terms/p/platter"
+  "disc": "terms/p/platter"
+  
+  # Preamp aliases
+  "preamplifier": "terms/p/preamp"
+  "phono-stage": "terms/p/preamp"
+  "phono-preamp": "terms/p/preamp"
+  
+  # Pressing aliases
+  "issue": "terms/p/pressing"
+  "release": "terms/p/pressing"
+  "edition": "terms/p/pressing"
+  
+  # Record aliases
+  "vinyl": "terms/r/record"
+  "disc": "terms/r/record"
+  "album": "terms/r/record"
+  
+  # Remix aliases
+  "re-edit": "terms/r/remix"
+  "version": "terms/r/remix"
+  "alternative-mix": "terms/r/remix"
+  
+  # RIAA aliases
+  "riaa-curve": "terms/r/riaa"
+  "equalization": "terms/r/riaa"
+  "frequency-response": "terms/r/riaa"
+  
+  # Rumble aliases
+  "turntable-rumble": "terms/r/rumble"
+  "mechanical-noise": "terms/r/rumble"
+  "vibration": "terms/r/rumble"
+  
+  # Runout aliases
+  "dead-wax": "terms/r/runout"
+  "lead-out": "terms/r/runout"
+  "end-groove": "terms/r/runout"
+  
+  # Scratch aliases
+  "scratching": "terms/s/scratch"
+  "turntablism": "terms/s/scratch"
+  "dj-technique": "terms/s/scratch"
+  
+  # Single aliases
+  "45": "terms/s/single"
+  "7-inch": "terms/s/single"
+  "45-rpm": "terms/s/single"
+  
+  # Skip aliases
+  "jump": "terms/s/skip"
+  "hop": "terms/s/skip"
+  "track-jump": "terms/s/skip"
+  
+  # Sleeve aliases
+  "jacket": "terms/s/sleeve"
+  "cover": "terms/s/sleeve"
+  "outer-sleeve": "terms/s/sleeve"
+  
+  # Speed aliases
+  "rpm": "terms/s/speed"
+  "revolutions-per-minute": "terms/s/speed"
+  "rotation-speed": "terms/s/speed"
+  
+  # Stereo aliases
+  "stereophonic": "terms/s/stereo"
+  "two-channel": "terms/s/stereo"
+  "dual-channel": "terms/s/stereo"
+  
+  # Stylus aliases
+  "needle": "terms/s/stylus"
+  "pickup": "terms/s/stylus"
+  "cartridge-tip": "terms/s/stylus"
+  
+  # Test Pressing aliases
+  "test-press": "terms/t/test-pressing"
+  "reference-pressing": "terms/t/test-pressing"
+  "sample-pressing": "terms/t/test-pressing"
+  
+  # Tonearm aliases
+  "tone-arm": "terms/t/tonearm"
+  "pickup-arm": "terms/t/tonearm"
+  "cartridge-arm": "terms/t/tonearm"
+  
+  # Tracking aliases
+  "tracking-force": "terms/t/tracking"
+  "downforce": "terms/t/tracking"
+  "stylus-pressure": "terms/t/tracking"
+  
+  # Turntable aliases
+  "record-player": "terms/t/turntable"
+  "deck": "terms/t/turntable"
+  "platter": "terms/t/turntable"
+  
+  # Vinyl aliases
+  "record": "terms/v/vinyl"
+  "disc": "terms/v/vinyl"
+  "lp": "terms/v/vinyl"
+  
+  # Warp aliases
+  "warped": "terms/w/warp"
+  "bent": "terms/w/warp"
+  "distorted": "terms/w/warp"
+  
+  # Wow aliases
+  "wow-and-flutter": "terms/w/wow"
+  "speed-variation": "terms/w/wow"
+  "pitch-variation": "terms/w/wow"
+
+  # Cleaned up slug redirects
+  "auxiliary-weight-dj-slang-slug": "terms/a/auxiliary-weight"
+  "back-splice-aka-back-tape": "terms/b/back-splice"
+  "blank-groove-locked-groove": "terms/b/blank-groove"
+  "blank-label-white-label": "terms/b/blank-label"
+  "changer-record-changer-stack-loader": "terms/r/record-changer"
+  "closed-groove-loop-locked-groove": "terms/c/closed-groove"
+  "dead-wax-run-out-area": "terms/d/dead-wax"
+  "demo-copy-promotional-demo": "terms/d/demo-copy"
+  "dj-pool-record-pool": "terms/d/dj-pool"
+  "drop-spindle-changer-spindle": "terms/d/drop-spindle"
+  "electric-pick-up-early-term-for-cartridge": "terms/e/electric-pickup"
+  "fig-leaf-sleeve-collector-slang": "terms/f/fig-leaf-sleeve"
+  "fish-eye-label-pressing-defect": "terms/f/fish-eye-label"
+  "flanging-tape-vinyl-effect": "terms/f/flanging"
+  "flight-case-road-case": "terms/f/flight-case"
+  "foam-rot-aging-defect": "terms/f/foam-rot"
+  "groovebox-djproducer-slang": "terms/g/groovebox"
+  "guitar-shaped-picture-disc-novelty-vinyl": "terms/g/guitar-shaped-picture-disc"
+  "hard-bop-pressing-collector-slang": "terms/h/hard-bop-pressing"
+  "j-cut-groove-pressing-defect": "terms/j/j-cut-groove"
+  "j-cut-single-collector-slang": "terms/j/j-cut-single"
+  "non-fill-pressing-defect": "terms/n/non-fill"
+  "perpetual-motion-loop-locked-groove-loop": "terms/p/perpetual-motion-loop"
+  "quirky-cut-sleeve-novelty-die-cut-jacket": "terms/q/quirky-cut-sleeve"
+  "reference-lacquer-reference-disc": "terms/r/reference-lacquer"
+  "seam-stress-ring-wear-humorous-slang": "terms/s/seam-stress-ring-wear"
+  "spiral-track-locked-groove": "terms/s/spiral-track"
+  "zoo-label-novelty-45": "terms/z/zoo-label"
