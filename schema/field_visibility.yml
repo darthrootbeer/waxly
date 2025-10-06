@@ -1,0 +1,133 @@
+# Field Visibility Configuration
+# Defines which schema fields are visible by default in the lexicon
+# Individual terms can override these defaults using the 'visible_sections' field
+
+# Core fields - always visible, required for basic term display
+core_fields:
+  - term
+  - slug
+  - pos
+  - summary
+  - updated
+
+# Default visible fields - shown unless term overrides
+default_visible:
+  - aliases
+  - aka
+  - tags
+  - domains
+  - regions
+  - eras
+  - see_also
+  - sources
+  - popularity
+  - complexity
+  - status
+  - context
+  - verification
+
+# Default hidden fields - only shown if term explicitly enables
+default_hidden:
+  - first_attested
+  - pronunciation
+  - decade
+  - user_rating
+  - contributor
+  - discussion
+  - media
+  - bibliography
+  - translation
+  - usage_notes
+  - equipment_association
+  - genres
+  - styles
+
+# Advanced sections - hidden by default, enable per-term for rich content
+advanced_sections:
+  technical_specs:
+    visible: false
+    subsections:
+      - dimensions
+      - materials
+      - manufacturing_process
+      - cost_impact
+  
+  historical_timeline:
+    visible: false
+    subsections:
+      - introduction_year
+      - peak_usage_era
+      - decline_era
+      - revival_era
+      - notable_examples
+  
+  cultural_impact:
+    visible: false
+    subsections:
+      - collector_value
+      - rarity_factor
+      - condition_sensitivity
+      - preservation_notes
+  
+  relationships:
+    visible: false
+    subsections:
+      - parent_concept
+      - child_concepts
+      - requires
+      - enables
+      - conflicts_with
+  
+  usage_context:
+    visible: false
+    subsections:
+      - primary_use_cases
+      - secondary_use_cases
+      - avoid_when
+      - best_practices
+  
+  quality_indicators:
+    visible: false
+    subsections:
+      - grading_factors
+      - common_defects
+      - restoration_possible
+      - authenticity_marks
+  
+  market_data:
+    visible: false
+    subsections:
+      - price_premium
+      - market_demand
+      - investment_potential
+      - reproduction_quality
+  
+  advanced_search:
+    visible: false
+    subsections:
+      - search_keywords
+      - related_artists
+      - related_labels
+
+# Display rules for conditional visibility
+display_rules:
+  # Show technical_specs for equipment/pressing terms
+  show_technical_specs_when:
+    - tags: [equipment, pressing, technical]
+    - domains: [equipment, pressing_technique]
+  
+  # Show market_data for collectible items
+  show_market_data_when:
+    - tags: [collecting, historical]
+    - domains: [market, collecting]
+  
+  # Show cultural_impact for historical/cultural terms
+  show_cultural_impact_when:
+    - tags: [historical, cultural, collecting]
+    - domains: [cultural, historical]
+  
+  # Show quality_indicators for collectible items
+  show_quality_indicators_when:
+    - tags: [collecting, quality-control]
+    - domains: [collecting, quality_control]
+

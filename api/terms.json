@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "title": "Vinyl Lexicon Terms API",
+    "description": "JSON API for all vinyl lexicon terms",
+    "version": "1.0.0",
+    "last_updated": "2025-01-27",
+    "total_terms": 1,
+    "generated_by": "vinyl-lexicon-api-generator"
+  },
+  "terms": [
+    {
+      "term": "Acetate",
+      "slug": "acetate",
+      "pos": "noun",
+      "aliases": ["lacquer", "reference disc", "cutting disc"],
+      "tags": ["equipment", "pressing", "mastering"],
+      "domains": ["pressing_technique", "mastering"],
+      "regions": ["US", "UK", "JA"],
+      "eras": ["1940s", "1950s", "1960s"],
+      "first_attested": "1940s",
+      "pronunciation": "/ˈæsɪteɪt/",
+      "see_also": ["dubplate", "lacquer-cut", "reference-disc"],
+      "sources": [
+        {
+          "label": "Audio Engineering Society",
+          "url": "https://example.com"
+        }
+      ],
+      "summary": "A soft lacquer-coated aluminum disc used to cut the first playable copy",
+      "updated": "2025-01-27",
+      "popularity": 7,
+      "complexity": "intermediate",
+      "status": "active",
+      "context": "technical",
+      "verification": "verified",
+      "equipment_association": ["pressing_plant", "mastering"],
+      "genre_association": ["all"],
+      "decade": "1950s"
+    }
+  ]
+}

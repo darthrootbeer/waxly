@@ -10,29 +10,32 @@ The Vinyl Lexicon is a comprehensive reference guide covering the terminology, c
 
 ## 📚 About This Project
 
-This repository contains the complete markdown-formatted source content for the Vinyl Lexicon, organized as a digital book for easy navigation and community collaboration.
+This repository contains a comprehensive wiki-style database of vinyl record culture terminology, built with modern best practices for maximum searchability and community collaboration.
 
-**Current Status:** Content development and organization  
-**Version:** 1.0.0
+**Current Status:** Major restructuring from book format to wiki-style database  
+**Version:** 2.0.0 (Restructuring Phase)
 
 ## 🎯 What's Included
 
-- **Complete Lexicon** - Comprehensive A-Z reference of vinyl terminology
-- **Cultural Context** - Historical notes and cultural significance
+- **Complete Lexicon** - 500+ terms with rich metadata and cross-references
+- **Cultural Context** - Historical notes, regional variations, and cultural significance
 - **Technical Details** - Equipment specifications and audio engineering concepts
-- **Professional Structure** - Organized for easy navigation and contribution
+- **Modern Architecture** - Wiki-style database with one-term-per-file structure
+- **Advanced Search** - Tag-based filtering, popularity ratings, complexity levels
+- **Community Features** - Contribution workflow, validation, and quality control
 
 ## 🚀 Getting Started
 
-1. **Explore the Lexicon** - Start with `content/books/vinyl-lexicon/`
-2. **Check the Changelog** - See what's new in `CHANGELOG.md`
-3. **Review the Roadmap** - Current priorities in `TODO.md`
+1. **Explore the Lexicon** - Browse terms in `docs/terms/` (after restructuring)
+2. **Check the Roadmap** - Current priorities in `TODO.md`
+3. **Review the Plan** - Restructuring details in project documentation
+4. **Contribute** - See `CONTRIBUTING.md` for guidelines
 
 ## 📋 Project Status
 
-- **Content:** Complete lexicon with A-Z organization
-- **Structure:** Professional book format with chapters
-- **Next:** Web presentation and enhanced navigation
+- **Content:** 500+ terms across 24 chapters (A-Z)
+- **Structure:** Migrating from book format to wiki-style database
+- **Next:** Complete restructuring with rich metadata and modern architecture
 
 ## 🤝 Contributing
 

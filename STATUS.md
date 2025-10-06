@@ -2,50 +2,52 @@
 
 ## ⚠️ DEVELOPMENT STATUS
 
-**This repository is currently in active development and being restructured for GitHub hosting.**
+**This repository is currently undergoing major restructuring from book format to wiki-style database architecture.**
 
-### Current Status: STRUCTURE SETUP
+### Current Status: MAJOR RESTRUCTURING
 
-- **Project Structure**: Scaffolded based on OA-MD best practices
-- **Content Organization**: Vinyl lexicon content being reorganized into book format
-- **Documentation**: Standard project files created (README, CHANGELOG, LICENSE, CONTRIBUTING)
-- **Assets**: Directory structure prepared for web presentation materials
-- **Tools**: Directory prepared for content processing utilities
-- **Git Integration**: Ready for repository initialization and GitHub hosting
+- **Project Structure**: Migrating from book/chapter model to wiki-style database
+- **Content Organization**: Converting 500+ terms from 24 chapters to individual files with rich metadata
+- **Architecture**: Implementing one-term-per-file structure with 25+ metadata fields
+- **Documentation**: Updated for new wiki-style architecture and modern best practices
+- **Tools**: Preparing migration scripts for content conversion and validation
+- **Git Integration**: Ready for GitHub Pages deployment with MkDocs + Pagefind search
 
 ### What This Means
 
-- This is a **content organization** project with **existing vinyl lexicon content**
-- The framework is being set up following established best practices
-- **Content includes** comprehensive A-Z vinyl terminology reference
-- **Structure follows** digital book methodology from OA-MD project
-- This serves as a **community-driven vinyl culture resource**
+- This is a **major architectural transformation** from book to wiki-style database
+- **Content preservation**: All existing 500+ terms will be migrated with enhanced metadata
+- **Modern standards**: Following best practices for wiki-style knowledge bases
+- **Enhanced searchability**: Rich metadata enables advanced filtering and discovery
+- **Community-ready**: Built for collaborative contribution and quality control
 
 ### Content Status
 
-- **Complete Lexicon**: A-Z reference with etymology, examples, and cultural notes
-- **Organization**: Being restructured from single files to chapter-based format
-- **Cross-References**: Existing "See also" links between related terms
-- **Cultural Context**: Historical notes and cultural significance included
-- **Technical Details**: Equipment specifications and audio engineering concepts
+- **Complete Lexicon**: 500+ terms across 24 chapters (A-Z) with rich cultural context
+- **Migration Plan**: Converting to one-term-per-file structure with 25+ metadata fields
+- **Enhanced Cross-References**: Upgrading "See also" links to proper slug-based system
+- **Rich Metadata**: Adding popularity, complexity, regional variations, equipment associations
+- **Quality Control**: Implementing validation schemas and contribution workflows
 
 ### For Contributors
 
 If you're viewing this repository:
-1. **Understand** this is being restructured from existing content
-2. **Content is comprehensive** but being reorganized for better navigation
-3. **Structure follows** established best practices for digital books
-4. **Check** `TODO.md` for current development priorities
+
+1. **Understand** this is undergoing major restructuring from book to wiki format
+2. **Content is comprehensive** - 500+ terms with rich cultural context
+3. **New architecture** follows modern wiki-style database best practices
+4. **Check** `TODO.md` for detailed restructuring plan and current priorities
 
 ### Timeline
 
-- **Current**: Project structure setup and content reorganization (v1.0.0)
-- **Version**: 1.0.0 - Initial release with complete lexicon structure
-- **Recent**: Content migration from original markdown files
-- **Next**: Chapter organization and web presentation layer
+- **Current**: Major restructuring from book format to wiki-style database (v2.0.0)
+- **Phase 1**: Create new directory structure and migration scripts
+- **Phase 2**: Convert 500+ terms to individual files with rich metadata
+- **Phase 3**: Generate navigation hubs and implement search functionality
+- **Phase 4**: Deploy to GitHub Pages with MkDocs + Pagefind search
 - **Future**: Enhanced navigation, search, and community features
 - **Ultimate Goal**: Comprehensive digital vinyl culture reference
 
 ---
 
-*Last Updated: 2025-01-27*
+**Last Updated**: 2025-01-27

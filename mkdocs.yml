@@ -1,0 +1,101 @@
+site_name: Vinyl Lexicon
+site_description: Comprehensive digital reference for vinyl record culture, terminology, and collecting
+site_author: Vinyl Lexicon Contributors
+site_url: https://darthrootbeer.github.io/vinyl-lexicon
+
+repo_name: darthrootbeer/vinyl-lexicon
+repo_url: https://github.com/darthrootbeer/vinyl-lexicon
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search:
+      lang: en
+  - tags:
+      tags_file: docs/data/tags.yml
+  - awesome-pages
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: darthrootbeer
+      repo: vinyl-lexicon
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contribute: contribute.md
+  - Terms:
+    - Browse by Letter: letters/
+    - Browse by Tag: tags/
+    - All Terms: terms/
+  - API: api/terms.json
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/darthrootbeer/vinyl-lexicon
+  version:
+    provider: mike
+
+copyright: Copyright &copy; 2025 Vinyl Lexicon Contributors

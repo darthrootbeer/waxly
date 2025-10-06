@@ -1,0 +1,27 @@
+# MkDocs and plugins
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
+mkdocs-awesome-pages-plugin>=2.9.0
+mkdocs-tags-plugin>=1.0.0
+mkdocs-redirects>=1.2.0
+
+# Validation and processing
+jsonschema>=4.17.0
+pyyaml>=6.0
+click>=8.1.0
+rich>=13.0.0
+
+# Development tools
+pre-commit>=3.3.0
+black>=23.7.0
+isort>=5.12.0
+flake8>=6.0.0
+yamllint>=1.32.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Documentation
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0
