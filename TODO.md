@@ -4,13 +4,16 @@
 
 ### MVP Phase - Week 1 (Priority 1)
 
-- [ ] `000008` - **RESTRUCTURE PROJECT**: Migrate from book/chapter model to wiki-style database architecture
-- [ ] `000009` - Create new repo structure: `data/`, `docs/`, `scripts/`, `schema/`, `api/` directories
-- [ ] `000010` - Implement one-term-per-file structure with rich front-matter metadata
+- [x] `000008` - **RESTRUCTURE PROJECT**: Migrate from book/chapter model to wiki-style database architecture - (2025-10-06_16.45.00)
+- [x] `000009` - Create new repo structure: `data/`, `docs/`, `scripts/`, `schema/`, `api/` directories - (2025-10-06_16.45.00)
+- [x] `000010` - Implement one-term-per-file structure with rich front-matter metadata - (2025-10-06_16.45.00)
 - [x] `000011` - Create term validation schema and data integrity system - (2025-10-06_15.30.00)
 - [x] `00002A` - Extend schema with advanced metadata fields (technical specs, historical timeline, cultural impact, relationships, usage context, quality indicators, market data, advanced search) - (2025-10-06_15.30.00)
 - [x] `00002B` - Create field visibility system with global defaults and per-term overrides - (2025-10-06_15.30.00)
 - [x] `00002C` - Implement Discogs genre/style taxonomy (Genre > Style hierarchy, 16 official genres, 1-3 genres per term, 1-6 styles per term) - (2025-10-06_15.45.00)
+- [x] `00002D` - Clean up slugs and term names (270 terms processed, removed descriptive suffixes, moved alternate terms to aka field) - (2025-10-06_16.45.00)
+- [x] `00002E` - Comprehensive project cleanup (removed duplicate backup files, legacy content, ~25MB saved) - (2025-10-06_16.45.00)
+- [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
 - [ ] `000012` - Set up MkDocs with Material theme and Pagefind search
 - [ ] `000013` - Deploy to GitHub Pages with CI/CD pipeline
 
@@ -82,6 +85,16 @@
 - [x] `000005` - Set up tools directory for content processing and conversion utilities - (2025-01-27_14.50.00)
 - [x] `000006` - Initialize Git repository and configure for GitHub hosting - (2025-01-27_14.55.00)
 - [x] `000007` - Create web presentation layer for digital book experience - (2025-01-27_15.00.00)
+- [x] `000008` - **RESTRUCTURE PROJECT**: Migrate from book/chapter model to wiki-style database architecture - (2025-10-06_16.45.00)
+- [x] `000009` - Create new repo structure: `data/`, `docs/`, `scripts/`, `schema/`, `api/` directories - (2025-10-06_16.45.00)
+- [x] `000010` - Implement one-term-per-file structure with rich front-matter metadata - (2025-10-06_16.45.00)
+- [x] `000011` - Create term validation schema and data integrity system - (2025-10-06_15.30.00)
+- [x] `00002A` - Extend schema with advanced metadata fields (technical specs, historical timeline, cultural impact, relationships, usage context, quality indicators, market data, advanced search) - (2025-10-06_15.30.00)
+- [x] `00002B` - Create field visibility system with global defaults and per-term overrides - (2025-10-06_15.30.00)
+- [x] `00002C` - Implement Discogs genre/style taxonomy (Genre > Style hierarchy, 16 official genres, 1-3 genres per term, 1-6 styles per term) - (2025-10-06_15.45.00)
+- [x] `00002D` - Clean up slugs and term names (270 terms processed, removed descriptive suffixes, moved alternate terms to aka field) - (2025-10-06_16.45.00)
+- [x] `00002E` - Comprehensive project cleanup (removed duplicate backup files, legacy content, ~25MB saved) - (2025-10-06_16.45.00)
+- [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
 
 ## Future Enhancements
 
