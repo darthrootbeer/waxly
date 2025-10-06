@@ -29,7 +29,7 @@ aka:
 genres:
 - Hip Hop---
 
-# [Groove](../g/groove-wear/)
+# [Groove](../g/groove-wear.md)
 
 **Definition:** **noun / slang.** When the stylus physically hops out of one spiral groove into the next (or back) — often due to a warp, foot-fall vibration, or too-light tracking.
 

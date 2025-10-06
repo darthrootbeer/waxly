@@ -4,18 +4,18 @@ Browse all vinyl terminology terms starting with the letter **G**.
 
 ## Terms (12 total)
 
-- [gatefold](terms/g/gatefold/)
-- [generation-loss](terms/g/generation-loss/)
-- [go](terms/g/go/)
-- [groove-burn](terms/g/groove-burn/)
-- [groove-guard](terms/g/groove-guard/)
-- [groove-jump](terms/g/groove-jump/)
-- [groove-spacing-pitch](terms/g/groove-spacing-pitch/)
-- [groove-wear](terms/g/groove-wear/)
-- [groovebox](terms/g/groovebox/)
-- [ground-loop-hum](terms/g/ground-loop-hum/)
-- [ground-wire-turntable-ground-lead](terms/g/ground-wire-turntable-ground-lead/)
-- [guitar-shaped-picture-disc](terms/g/guitar-shaped-picture-disc/)
+- [gatefold](../terms/g/gatefold.md)
+- [generation-loss](../terms/g/generation-loss.md)
+- [go](../terms/g/go.md)
+- [groove-burn](../terms/g/groove-burn.md)
+- [groove-guard](../terms/g/groove-guard.md)
+- [groove-jump](../terms/g/groove-jump.md)
+- [groove-spacing-pitch](../terms/g/groove-spacing-pitch.md)
+- [groove-wear](../terms/g/groove-wear.md)
+- [groovebox](../terms/g/groovebox.md)
+- [ground-loop-hum](../terms/g/ground-loop-hum.md)
+- [ground-wire-turntable-ground-lead](../terms/g/ground-wire-turntable-ground-lead.md)
+- [guitar-shaped-picture-disc](../terms/g/guitar-shaped-picture-disc.md)
 
 
 ---

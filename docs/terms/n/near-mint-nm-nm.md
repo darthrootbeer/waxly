@@ -27,7 +27,7 @@ aka:
 genres:
 - all---
 
-# Near-[Mint](../m/mint-minus/)
+# Near-[Mint](../m/mint-minus.md)
 
 **Definition:** **noun / grading term.** A record grading just below Mint — virtually flawless with only superficial hairline scuffs that do not affect play; jacket likewise crisp with minimal shelf-wear.
 

@@ -4,18 +4,18 @@ Browse all vinyl terminology terms starting with the letter **E**.
 
 ## Terms (12 total)
 
-- [edge-warp](terms/e/edge-warp/)
-- [edison-disc](terms/e/edison-disc/)
-- [eight-track-cartridge](terms/e/eight-track-cartridge/)
-- [electric-pickup](terms/e/electric-pickup/)
-- [elliptical-stylus](terms/e/elliptical-stylus/)
-- [emi-electric-musical-industries](terms/e/emi-electric-musical-industries/)
-- [ep-extended-play](terms/e/ep-extended-play/)
-- [eq-equalization](terms/e/eq-equalization/)
-- [equal-loudness-curve](terms/e/equal-loudness-curve/)
-- [etched-side-etching](terms/e/etched-side-etching/)
-- [etching-run-out-etching](terms/e/etching-run-out-etching/)
-- [ex-library-copy](terms/e/ex-library-copy/)
+- [edge-warp](../terms/e/edge-warp.md)
+- [edison-disc](../terms/e/edison-disc.md)
+- [eight-track-cartridge](../terms/e/eight-track-cartridge.md)
+- [electric-pickup](../terms/e/electric-pickup.md)
+- [elliptical-stylus](../terms/e/elliptical-stylus.md)
+- [emi-electric-musical-industries](../terms/e/emi-electric-musical-industries.md)
+- [ep-extended-play](../terms/e/ep-extended-play.md)
+- [eq-equalization](../terms/e/eq-equalization.md)
+- [equal-loudness-curve](../terms/e/equal-loudness-curve.md)
+- [etched-side-etching](../terms/e/etched-side-etching.md)
+- [etching-run-out-etching](../terms/e/etching-run-out-etching.md)
+- [ex-library-copy](../terms/e/ex-library-copy.md)
 
 
 ---

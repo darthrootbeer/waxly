@@ -29,7 +29,7 @@ genres:
 
 # Variable-Pitch Groove Cutting
 
-**Definition:** **noun / mastering technique.** A **lathe system that automatically adjusts the spacing (‘pitch’) of grooves depending on the upcoming signal’s loudness** — conserves disc space while avoiding [groove](../g/groove-wear/) collisions.
+**Definition:** **noun / mastering technique.** A **lathe system that automatically adjusts the spacing (‘pitch’) of grooves depending on the upcoming signal’s loudness** — conserves disc space while avoiding [groove](../g/groove-wear.md) collisions.
 
 **Etymology:** Cutting-room jargon — groove *pitch* made *variable* by preview signal.
 

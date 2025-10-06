@@ -29,7 +29,7 @@ aka:
 genres:
 - all---
 
-# [Tone](../t/tone-arm/)-Arm Rest
+# [Tone](../t/tone-arm.md)-Arm Rest
 
 **Definition:** **noun / deck feature.** A **small cradle or clip that secures the tone-arm when not in use** — protects stylus and arm bearings during transport or dust-cover closing.
 

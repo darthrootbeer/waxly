@@ -26,7 +26,7 @@ genres:
 
 # Yoke-Mount Cartridge
 
-**Definition:** **noun / [cartridge](../c/cartridge/)-body style.** A **cartridge whose generator assembly is supported by a central ‘yoke’ bracket** — an older construction style sometimes seen in broadcast or rugged DJ cartridges.
+**Definition:** **noun / [cartridge](../c/cartridge.md)-body style.** A **cartridge whose generator assembly is supported by a central ‘yoke’ bracket** — an older construction style sometimes seen in broadcast or rugged DJ cartridges.
 
 **Etymology:** Mechanical descriptor — generator held by a metal *yoke*.
 

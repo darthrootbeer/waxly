@@ -28,7 +28,7 @@ genres:
 
 # Pressing Defect
 
-**Definition:** **noun / manufacturing term.** A general catch-all for any physical flaw created during the record-pressing cycle — e.g., non-fill, stitching, off-[center hole](../c/center-hole-spindle-hole/), bubbles, scuffs, warps.
+**Definition:** **noun / manufacturing term.** A general catch-all for any physical flaw created during the record-pressing cycle — e.g., non-fill, stitching, off-[center hole](../c/center-hole-spindle-hole.md), bubbles, scuffs, warps.
 
 **Etymology:** Plain industrial phrase: flaw born in the *pressing* stage.
 

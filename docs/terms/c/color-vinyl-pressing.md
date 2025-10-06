@@ -27,7 +27,7 @@ genres:
 
 # Color-Vinyl Pressing
 
-**Definition:** Vinyl records pressed in colored PVC instead of standard black carbon-loaded compound — can be opaque, [translucent](../t/translucent-vinyl-variant/), or even marbled.
+**Definition:** Vinyl records pressed in colored PVC instead of standard black carbon-loaded compound — can be opaque, [translucent](../t/translucent-vinyl-variant.md), or even marbled.
 
 **Etymology:** Literal — vinyl of a different color.
 

@@ -27,7 +27,7 @@ genres:
 
 # Equal-Loudness Curve
 
-**Definition:** A frequency-response graph (e.g., [Fletcher](../f/fletcher-munson-curve/)-Munson) showing how human hearing perceives bass/treble at different volumes — influences mastering and tone-control design for vinyl playback.
+**Definition:** A frequency-response graph (e.g., [Fletcher](../f/fletcher-munson-curve.md)-Munson) showing how human hearing perceives bass/treble at different volumes — influences mastering and tone-control design for vinyl playback.
 
 **Etymology:** Describes curves of *equal perceived loudness.*
 

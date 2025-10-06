@@ -4,15 +4,15 @@ Browse all vinyl terminology terms starting with the letter **Q**.
 
 ## Terms (9 total)
 
-- [q-up-auto-tone-arm-lifter](terms/q/q-up-auto-tone-arm-lifter/)
-- [quad-cut-stylus-cd-4-compatible-stylus](terms/q/quad-cut-stylus-cd-4-compatible-stylus/)
-- [quad-decoder-demodulator](terms/q/quad-decoder-demodulator/)
-- [quadraphonic-lp-quad-lp](terms/q/quadraphonic-lp-quad-lp/)
-- [quartz-lock-aka-quartz-synth-pitch-lock](terms/q/quartz-lock-aka-quartz-synth-pitch-lock/)
-- [quick-change-headshell](terms/q/quick-change-headshell/)
-- [quick-release-clamp](terms/q/quick-release-clamp/)
-- [quiex-vinyl-quiex-ii-quiex-sv-p](terms/q/quiex-vinyl-quiex-ii-quiex-sv-p/)
-- [quirky-cut-sleeve](terms/q/quirky-cut-sleeve/)
+- [q-up-auto-tone-arm-lifter](../terms/q/q-up-auto-tone-arm-lifter.md)
+- [quad-cut-stylus-cd-4-compatible-stylus](../terms/q/quad-cut-stylus-cd-4-compatible-stylus.md)
+- [quad-decoder-demodulator](../terms/q/quad-decoder-demodulator.md)
+- [quadraphonic-lp-quad-lp](../terms/q/quadraphonic-lp-quad-lp.md)
+- [quartz-lock-aka-quartz-synth-pitch-lock](../terms/q/quartz-lock-aka-quartz-synth-pitch-lock.md)
+- [quick-change-headshell](../terms/q/quick-change-headshell.md)
+- [quick-release-clamp](../terms/q/quick-release-clamp.md)
+- [quiex-vinyl-quiex-ii-quiex-sv-p](../terms/q/quiex-vinyl-quiex-ii-quiex-sv-p.md)
+- [quirky-cut-sleeve](../terms/q/quirky-cut-sleeve.md)
 
 
 ---

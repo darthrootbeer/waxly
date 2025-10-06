@@ -4,12 +4,12 @@ Browse all vinyl terminology terms starting with the letter **Y**.
 
 ## Terms (6 total)
 
-- [y-groove-junction-run-out-crossover](terms/y/y-groove-junction-run-out-crossover/)
-- [y-splitter-rca-cable](terms/y/y-splitter-rca-cable/)
-- [yard-sale-find](terms/y/yard-sale-find/)
-- [yellow-label-promo](terms/y/yellow-label-promo/)
-- [yes](terms/y/yes/)
-- [yoke-mount-cartridge](terms/y/yoke-mount-cartridge/)
+- [y-groove-junction-run-out-crossover](../terms/y/y-groove-junction-run-out-crossover.md)
+- [y-splitter-rca-cable](../terms/y/y-splitter-rca-cable.md)
+- [yard-sale-find](../terms/y/yard-sale-find.md)
+- [yellow-label-promo](../terms/y/yellow-label-promo.md)
+- [yes](../terms/y/yes.md)
+- [yoke-mount-cartridge](../terms/y/yoke-mount-cartridge.md)
 
 
 ---

@@ -27,7 +27,7 @@ aka:
 genres:
 - all---
 
-# [Micro](../m/micro-groove/)-Line Stylus
+# [Micro](../m/micro-groove.md)-Line Stylus
 
 **Definition:** **noun / technical.** A stylus profile with a very narrow, elongated contact patch that traces deeper into the groove walls, reducing distortion and inner-groove wear.
 

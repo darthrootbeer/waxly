@@ -33,7 +33,7 @@ genres:
 
 # Jump
 
-**Definition:** **noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps or vibration; similar to [groove](../g/groove-wear/)-jump.
+**Definition:** **noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps or vibration; similar to [groove](../g/groove-wear.md)-jump.
 
 **Etymology:** Descriptive — the needle *jumps* the *groove.*
 

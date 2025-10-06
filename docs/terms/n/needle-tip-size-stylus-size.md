@@ -32,9 +32,9 @@ aka:
 genres:
 - all---
 
-# [Needle](../n/needle-wear/)-Tip Size
+# [Needle](../n/needle-wear.md)-Tip Size
 
-**Definition:** **noun / technical.** The diameter of the stylus tip, expressed in mils (thousandths of an inch) or micrometers; critical for matching [groove](../g/groove-wear/) type — 3-mil for 78s, 1-mil for mono LP, 0.7-mil for stereo micro-groove.
+**Definition:** **noun / technical.** The diameter of the stylus tip, expressed in mils (thousandths of an inch) or micrometers; critical for matching [groove](../g/groove-wear.md) type — 3-mil for 78s, 1-mil for mono LP, 0.7-mil for stereo micro-groove.
 
 **Etymology:** Literal — the *size* of the stylus *needle-tip.*
 

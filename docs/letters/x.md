@@ -4,9 +4,9 @@ Browse all vinyl terminology terms starting with the letter **X**.
 
 ## Terms (3 total)
 
-- [x-cut-test-groove](terms/x/x-cut-test-groove/)
-- [x-rated-cover-art](terms/x/x-rated-cover-art/)
-- [x-y-stereo-pickup-test](terms/x/x-y-stereo-pickup-test/)
+- [x-cut-test-groove](../terms/x/x-cut-test-groove.md)
+- [x-rated-cover-art](../terms/x/x-rated-cover-art.md)
+- [x-y-stereo-pickup-test](../terms/x/x-y-stereo-pickup-test.md)
 
 
 ---

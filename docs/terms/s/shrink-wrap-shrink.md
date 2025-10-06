@@ -30,7 +30,7 @@ genres:
 
 **Definition:** **noun / packaging.** A **tight plastic film heat-shrunk around retail LP jackets** to keep them factory-fresh and tamper-evident.
 
-**Etymology:** Descriptive — [jacket](../j/jacket/) *wrapped* in heat-*shrink* film.
+**Etymology:** Descriptive — [jacket](../j/jacket.md) *wrapped* in heat-*shrink* film.
 
 **Example:** “Original-shrink with hype-sticker intact boosts a first-press LP’s collector value.”
 

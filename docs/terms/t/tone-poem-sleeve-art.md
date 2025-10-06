@@ -26,7 +26,7 @@ genres:
 - Hip Hop
 - Classical---
 
-# [Tone](../t/tone-arm/)-Poem Sleeve Art
+# [Tone](../t/tone-arm.md)-Poem Sleeve Art
 
 **Definition:** **noun / 1950s-60s LP-art slang.** A **romantic marketing term for lush painted or photographic sleeve art** meant to visually evoke the “tone-poem” style of light classical & mood-music LPs.
 

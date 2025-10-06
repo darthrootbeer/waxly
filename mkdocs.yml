@@ -41,10 +41,11 @@ plugins:
 
 # Pagefind search configuration
 extra_css:
-  - assets/styles/pagefind.css
+  - assets/stylesheets/pagefind.css
 
 extra_javascript:
   - https://unpkg.com/pagefind@1.0.0/dist/pagefind-ui.js
+
 
 markdown_extensions:
   - abbr
@@ -94,8 +95,9 @@ nav:
   - Terms:
     - Browse by Letter: letters/
     - Browse by Tag: tags/
-    - All Terms: terms/
+    - All Terms: terms/index.md
   - API: api/terms.json
+
 
 extra:
   social:

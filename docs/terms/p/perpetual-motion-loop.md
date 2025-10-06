@@ -27,7 +27,7 @@ genres:
 
 # Perpetual Motion Loop
 
-**Definition:** **noun / novelty / experimental.** A creatively cut [locked groove](../l/locked-groove/) designed to repeat a rhythmic or melodic phrase endlessly until the needle is lifted.
+**Definition:** **noun / novelty / experimental.** A creatively cut [locked groove](../l/locked-groove.md) designed to repeat a rhythmic or melodic phrase endlessly until the needle is lifted.
 
 **Etymology:** Playful name for the infinite-playing *locked groove*.
 

@@ -26,7 +26,7 @@ verification: unverified
 genres:
 - Rock---
 
-# [Tone](../t/tone-arm/)-Arm Tube Damping
+# [Tone](../t/tone-arm.md)-Arm Tube Damping
 
 **Definition:** **noun / audiophile tweak.** A **method of reducing unwanted micro-resonances inside the tone-arm wand** by injecting silicone fluid, foam, or using constrained-layer sleeves.
 

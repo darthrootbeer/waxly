@@ -28,7 +28,7 @@ genres:
 
 # Flat-Edge Pressing
 
-**Definition:** **noun / historical.** An LP manufactured without the small raised outer lip common after the early ’60s — has a perfectly flat [edge](../e/edge-warp/) all the way to the rim.
+**Definition:** **noun / historical.** An LP manufactured without the small raised outer lip common after the early ’60s — has a perfectly flat [edge](../e/edge-warp.md) all the way to the rim.
 
 **Etymology:** Descriptive — *flat* record *edge.*
 

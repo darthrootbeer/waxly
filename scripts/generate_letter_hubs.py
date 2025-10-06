@@ -54,8 +54,9 @@ Browse all vinyl terminology terms starting with the letter **{letter_upper}**.
 """
 
     for term in terms:
-        # Create a relative link to the term
-        link_path = term["path"].replace(".md", "/")
+        # Create a relative link to the term from letters/ directory
+        # Convert terms/a/term.md to ../terms/a/term.md
+        link_path = "../" + term["path"]
         content += f"- [{term['name']}]({link_path})\n"
 
     content += f"""

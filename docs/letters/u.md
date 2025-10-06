@@ -4,17 +4,17 @@ Browse all vinyl terminology terms starting with the letter **U**.
 
 ## Terms (11 total)
 
-- [ultra-sonic-record-cleaner](terms/u/ultra-sonic-record-cleaner/)
-- [ultra-thin-flexi-disc](terms/u/ultra-thin-flexi-disc/)
-- [un-banded-lp-continuous-groove-album](terms/u/un-banded-lp-continuous-groove-album/)
-- [un-dinked-45-solid-centre-45](terms/u/un-dinked-45-solid-centre-45/)
-- [unclamped-edge-warp](terms/u/unclamped-edge-warp/)
-- [under-run-pressing-short-run-press](terms/u/under-run-pressing-short-run-press/)
-- [unipivot-tone-arm](terms/u/unipivot-tone-arm/)
-- [universal-groove-standard](terms/u/universal-groove-standard/)
-- [up-grade-copy](terms/u/up-grade-copy/)
-- [up-tempo-floor-filler](terms/u/up-tempo-floor-filler/)
-- [upscale-re-press-audiophile-reissue](terms/u/upscale-re-press-audiophile-reissue/)
+- [ultra-sonic-record-cleaner](../terms/u/ultra-sonic-record-cleaner.md)
+- [ultra-thin-flexi-disc](../terms/u/ultra-thin-flexi-disc.md)
+- [un-banded-lp-continuous-groove-album](../terms/u/un-banded-lp-continuous-groove-album.md)
+- [un-dinked-45-solid-centre-45](../terms/u/un-dinked-45-solid-centre-45.md)
+- [unclamped-edge-warp](../terms/u/unclamped-edge-warp.md)
+- [under-run-pressing-short-run-press](../terms/u/under-run-pressing-short-run-press.md)
+- [unipivot-tone-arm](../terms/u/unipivot-tone-arm.md)
+- [universal-groove-standard](../terms/u/universal-groove-standard.md)
+- [up-grade-copy](../terms/u/up-grade-copy.md)
+- [up-tempo-floor-filler](../terms/u/up-tempo-floor-filler.md)
+- [upscale-re-press-audiophile-reissue](../terms/u/upscale-re-press-audiophile-reissue.md)
 
 
 ---

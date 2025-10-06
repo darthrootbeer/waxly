@@ -4,16 +4,16 @@ Browse all vinyl terminology terms starting with the letter **I**.
 
 ## Terms (10 total)
 
-- [idler-wheel-drive](terms/i/idler-wheel-drive/)
-- [in-store-play-copy](terms/i/in-store-play-copy/)
-- [index](terms/index/)
-- [inner-groove-distortion](terms/i/inner-groove-distortion/)
-- [inner-sleeve](terms/i/inner-sleeve/)
-- [inner-sleeve-rash](terms/i/inner-sleeve-rash/)
-- [intermodulation-distortion](terms/i/intermodulation-distortion/)
-- [isolation-feet-isolation-platform](terms/i/isolation-feet-isolation-platform/)
-- [italian-pressing](terms/i/italian-pressing/)
-- [ivory-label-variant](terms/i/ivory-label-variant/)
+- [idler-wheel-drive](../terms/i/idler-wheel-drive.md)
+- [in-store-play-copy](../terms/i/in-store-play-copy.md)
+- [index](../terms/index.md)
+- [inner-groove-distortion](../terms/i/inner-groove-distortion.md)
+- [inner-sleeve](../terms/i/inner-sleeve.md)
+- [inner-sleeve-rash](../terms/i/inner-sleeve-rash.md)
+- [intermodulation-distortion](../terms/i/intermodulation-distortion.md)
+- [isolation-feet-isolation-platform](../terms/i/isolation-feet-isolation-platform.md)
+- [italian-pressing](../terms/i/italian-pressing.md)
+- [ivory-label-variant](../terms/i/ivory-label-variant.md)
 
 
 ---

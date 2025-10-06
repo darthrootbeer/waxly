@@ -16,5 +16,5 @@ verification: unverified
 genres:
 - all---
 
-# Zero-Inner-[Groove](../g/groove-wear/)-Distortion Cut
+# Zero-Inner-[Groove](../g/groove-wear.md)-Distortion Cut
 

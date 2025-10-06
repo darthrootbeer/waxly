@@ -30,7 +30,7 @@ genres:
 
 # Headshell Lead Wires
 
-**Definition:** Four tiny color-coded wires (L+, L–, R+, R–) that connect the cartridge pins to the [headshell](../h/headshell/) contacts — a common upgrade path for audiophiles chasing better conductivity.
+**Definition:** Four tiny color-coded wires (L+, L–, R+, R–) that connect the cartridge pins to the [headshell](../h/headshell.md) contacts — a common upgrade path for audiophiles chasing better conductivity.
 
 **Etymology:** Literal — *lead wires* attached to the *headshell.*
 

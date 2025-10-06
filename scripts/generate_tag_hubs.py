@@ -72,8 +72,9 @@ Browse all vinyl terminology terms related to **{tag_title.lower()}**.
 """
 
     for term in terms:
-        # Create a relative link to the term
-        link_path = term["path"].replace(".md", "/")
+        # Create a relative link to the term from tags/ directory
+        # Convert terms/a/term.md to ../terms/a/term.md
+        link_path = "../" + term["path"]
         display_name = term.get("title", term["name"])
         content += f"- [{display_name}]({link_path})\n"
 
@@ -139,7 +140,7 @@ Browse all vinyl terminology terms related to **{description.lower()}**.
 
         for term in unique_terms:
             # Create a relative link to the term
-            link_path = term["path"].replace(".md", "/")
+            link_path = term["path"]
             display_name = term.get("title", term["name"])
             content += f"- [{display_name}]({link_path})\n"
 

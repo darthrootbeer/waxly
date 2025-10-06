@@ -32,7 +32,7 @@ genres:
 
 # Off-Center Pressing
 
-**Definition:** **noun / [pressing defect](../p/pressing-defect/).** A defect where the record’s center hole isn’t perfectly aligned with the stamper’s groove spiral, causing the tonearm to sway slightly as it plays.
+**Definition:** **noun / [pressing defect](../p/pressing-defect.md).** A defect where the record’s center hole isn’t perfectly aligned with the stamper’s groove spiral, causing the tonearm to sway slightly as it plays.
 
 **Etymology:** Literal — the spindle hole is *off-center*.
 

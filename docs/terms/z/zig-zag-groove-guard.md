@@ -28,7 +28,7 @@ genres:
 
 **Definition:** **noun / packaging-mould feature.** A **slight zig-zag raised lip pattern on some LP edges or labels designed to keep stacked records’ grooves from rubbing when sleeveless**.
 
-**Etymology:** Visual descriptor — [edge](../e/edge-warp/)/label lip moulded with a *zig-zag* pattern acting as a *[groove](../g/groove-wear/)-guard*.
+**Etymology:** Visual descriptor — [edge](../e/edge-warp.md)/label lip moulded with a *zig-zag* pattern acting as a *[groove](../g/groove-wear.md)-guard*.
 
 **Example:** “The early RCA Dynaflex pressings added a zig-zag groove-guard ring to protect playing surfaces in shipping.”
 

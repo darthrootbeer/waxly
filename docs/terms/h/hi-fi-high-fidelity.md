@@ -24,7 +24,7 @@ verification: unverified
 genres:
 - all---
 
-# Hi-Fi (High-[Fidelity](../f/fidelity/))
+# Hi-Fi (High-[Fidelity](../f/fidelity.md))
 
 **Definition:** **noun / slang / marketing.** A term describing audio equipment capable of accurate, high-quality sound reproduction; became synonymous with serious home-stereo gear in the LP era.
 

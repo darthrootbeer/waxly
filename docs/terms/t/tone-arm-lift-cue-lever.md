@@ -32,7 +32,7 @@ aka:
 genres:
 - Hip Hop---
 
-# [Tone](../t/tone-arm/)-Arm Lift
+# [Tone](../t/tone-arm.md)-Arm Lift
 
 **Definition:** **noun / deck control.** A **damped mechanical or hydraulic lever** that raises and lowers the tone-arm gently to prevent stylus or groove damage.
 

@@ -29,7 +29,7 @@ verification: unverified
 genres:
 - Hip Hop---
 
-# Pre-Echo ([Groove](../g/groove-wear/)-Print-Through)
+# Pre-Echo ([Groove](../g/groove-wear.md)-Print-Through)
 
 **Definition:** **noun / technical artifact.** A faint “ghost” of a loud musical passage heard about 1.8 seconds before it actually starts — caused by groove wall vibrations imprinting adjacent grooves during cutting or plating.
 

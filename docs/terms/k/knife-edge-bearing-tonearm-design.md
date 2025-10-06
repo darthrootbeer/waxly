@@ -29,7 +29,7 @@ genres:
 
 # Knife-Edge Bearing
 
-**Definition:** **noun / technical.** A precision tonearm-pivot design where the arm rides on hardened steel knife-[edge](../e/edge-warp/) races, minimizing friction for better stylus tracking.
+**Definition:** **noun / technical.** A precision tonearm-pivot design where the arm rides on hardened steel knife-[edge](../e/edge-warp.md) races, minimizing friction for better stylus tracking.
 
 **Etymology:** Descriptive — pivots literally rest on a sharp *knife-edge* ridge.
 

@@ -23,7 +23,7 @@ genres:
 
 **Definition:** **noun / verb.** The process of digitally or mechanically removing clicks and pops from vinyl playback or transfers.
 
-**Etymology:** Literal—removing *click* [noise](../n/noise-floor/).
+**Etymology:** Literal—removing *click* [noise](../n/noise-floor.md).
 
 **Example:** “That archival rip was carefully declicked in iZotope before pressing to CD.”
 

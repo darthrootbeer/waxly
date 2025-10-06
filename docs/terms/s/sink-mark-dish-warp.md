@@ -27,7 +27,7 @@ genres:
 
 # Sink-Mark
 
-**Definition:** **noun / [pressing defect](../p/pressing-defect/).** A **slight concave warp** across the record face, usually caused by uneven cooling of the vinyl biscuit puck after pressing.
+**Definition:** **noun / [pressing defect](../p/pressing-defect.md).** A **slight concave warp** across the record face, usually caused by uneven cooling of the vinyl biscuit puck after pressing.
 
 **Etymology:** Plant slang — center *sinks* inward during cooling.
 

@@ -32,7 +32,7 @@ aka:
 genres:
 - Hip Hop---
 
-# Tracking Angle / [Vertical Tracking Angle](../v/vertical-tracking-angle-vta/)
+# Tracking Angle / [Vertical Tracking Angle](../v/vertical-tracking-angle-vta.md)
 
 **Definition:** **noun / hi-fi geometry term.** The **angle at which the stylus sits in the groove relative to the record surface** — ideally matches the angle of the cutter head (~20°). Adjustable via tone-arm height.
 

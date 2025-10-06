@@ -4,19 +4,19 @@ Browse all vinyl terminology terms starting with the letter **J**.
 
 ## Terms (13 total)
 
-- [j-curve-eq-broadcast-quirk](terms/j/j-curve-eq-broadcast-quirk/)
-- [j-curve-tonearm](terms/j/j-curve-tonearm/)
-- [j-cut-groove](terms/j/j-cut-groove/)
-- [j-cut-single](terms/j/j-cut-single/)
-- [j-cut-splice-edit](terms/j/j-cut-splice-edit/)
-- [jacket](terms/j/jacket/)
-- [jacket-flap-flap-back-sleeve](terms/j/jacket-flap-flap-back-sleeve/)
-- [jam-groove](terms/j/jam-groove/)
-- [japanese-pressing](terms/j/japanese-pressing/)
-- [jitter-digital-to-vinyl-transfers](terms/j/jitter-digital-to-vinyl-transfers/)
-- [jukebox-ep](terms/j/jukebox-ep/)
-- [jukebox-strip](terms/j/jukebox-strip/)
-- [jump-groove](terms/j/jump-groove/)
+- [j-curve-eq-broadcast-quirk](../terms/j/j-curve-eq-broadcast-quirk.md)
+- [j-curve-tonearm](../terms/j/j-curve-tonearm.md)
+- [j-cut-groove](../terms/j/j-cut-groove.md)
+- [j-cut-single](../terms/j/j-cut-single.md)
+- [j-cut-splice-edit](../terms/j/j-cut-splice-edit.md)
+- [jacket](../terms/j/jacket.md)
+- [jacket-flap-flap-back-sleeve](../terms/j/jacket-flap-flap-back-sleeve.md)
+- [jam-groove](../terms/j/jam-groove.md)
+- [japanese-pressing](../terms/j/japanese-pressing.md)
+- [jitter-digital-to-vinyl-transfers](../terms/j/jitter-digital-to-vinyl-transfers.md)
+- [jukebox-ep](../terms/j/jukebox-ep.md)
+- [jukebox-strip](../terms/j/jukebox-strip.md)
+- [jump-groove](../terms/j/jump-groove.md)
 
 
 ---

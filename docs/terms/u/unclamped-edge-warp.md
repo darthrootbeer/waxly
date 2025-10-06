@@ -33,7 +33,7 @@ genres:
 
 **Definition:** **noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling or storage pressure — usually flattenable with a weight or clamp.
 
-**Etymology:** Descriptive — *[edge](../e/edge-warp/)-warp* left *unclamped*.
+**Etymology:** Descriptive — *[edge](../e/edge-warp.md)-warp* left *unclamped*.
 
 **Example:** “The LP shows a minor unclamped edge-warp that disappears under a reflex clamp.”
 

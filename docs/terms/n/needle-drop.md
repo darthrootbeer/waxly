@@ -28,7 +28,7 @@ aka:
 genres:
 - Hip Hop---
 
-# [Needle](../n/needle-wear/)
+# [Needle](../n/needle-wear.md)
 
 **Definition:** **noun / slang.** 1 The act of lowering the stylus onto a record. 2 An informal term for a digital recording made by playing a vinyl record (a “needle-drop transfer”). ⠀
 

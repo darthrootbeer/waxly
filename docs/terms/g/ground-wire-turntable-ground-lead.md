@@ -29,7 +29,7 @@ aka:
 genres:
 - all---
 
-# [Ground](../g/ground-loop-hum/)-Wire
+# [Ground](../g/ground-loop-hum.md)-Wire
 
 **Definition:** A dedicated wire that bonds the turntable chassis to the amplifier’s ground to prevent hum and static.
 

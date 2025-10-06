@@ -25,7 +25,7 @@ verification: unverified
 genres:
 - all---
 
-# Ivory-[Label Variant](../l/label-variant/)
+# Ivory-[Label Variant](../l/label-variant.md)
 
 **Definition:** **noun / slang.** A collector nickname for certain pressings distinguished by a pale ivory-colored label background — often limited to early or export runs.
 

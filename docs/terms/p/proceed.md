@@ -7,7 +7,7 @@ regions:
 - US
 slug: proceed
 status: active
-summary: '--- *[Back to Lexicon](../README.md) | [Next Chapter](../chapters/chapter-w.md)*'
+summary: "Navigation term for continuing to next section"
 term: Proceed
 updated: '2025-10-06'
 verification: unverified

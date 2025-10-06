@@ -30,7 +30,7 @@ genres:
 
 # Guitar-Shaped Picture Disc
 
-**Definition:** **noun / novelty.** A shaped [picture disc](../p/picture-disc/) die-cut to resemble a guitar (or other object) while still playable around its circular center.
+**Definition:** **noun / novelty.** A shaped [picture disc](../p/picture-disc.md) die-cut to resemble a guitar (or other object) while still playable around its circular center.
 
 **Etymology:** Literal — *picture disc* pressed in a novelty *guitar* shape.
 

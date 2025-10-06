@@ -29,7 +29,7 @@ genres:
 
 # Macro
 
-**Definition:** **noun / historical.** A wider [groove](../g/groove-wear/) format used on early LPs and most 78-RPM records before the modern micro-groove standard. Requires a larger stylus tip (around 3 mil).
+**Definition:** **noun / historical.** A wider [groove](../g/groove-wear.md) format used on early LPs and most 78-RPM records before the modern micro-groove standard. Requires a larger stylus tip (around 3 mil).
 
 **Etymology:** From *macro* meaning large + *groove*.
 

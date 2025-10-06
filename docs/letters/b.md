@@ -4,19 +4,19 @@ Browse all vinyl terminology terms starting with the letter **B**.
 
 ## Terms (13 total)
 
-- [back-spinning](terms/b/back-spinning/)
-- [back-splice](terms/b/back-splice/)
-- [balance-weight-tonearm](terms/b/balance-weight-tonearm/)
-- [banding-groove-banding](terms/b/banding-groove-banding/)
-- [basket-case-copy](terms/b/basket-case-copy/)
-- [beat-matching](terms/b/beat-matching/)
-- [belt-drive-turntable](terms/b/belt-drive-turntable/)
-- [binaural-recording](terms/b/binaural-recording/)
-- [blank-groove](terms/b/blank-groove/)
-- [blank-label](terms/b/blank-label/)
-- [bootleg](terms/b/bootleg/)
-- [breakbeat](terms/b/breakbeat/)
-- [brush-down-record-brush](terms/b/brush-down-record-brush/)
+- [back-spinning](../terms/b/back-spinning.md)
+- [back-splice](../terms/b/back-splice.md)
+- [balance-weight-tonearm](../terms/b/balance-weight-tonearm.md)
+- [banding-groove-banding](../terms/b/banding-groove-banding.md)
+- [basket-case-copy](../terms/b/basket-case-copy.md)
+- [beat-matching](../terms/b/beat-matching.md)
+- [belt-drive-turntable](../terms/b/belt-drive-turntable.md)
+- [binaural-recording](../terms/b/binaural-recording.md)
+- [blank-groove](../terms/b/blank-groove.md)
+- [blank-label](../terms/b/blank-label.md)
+- [bootleg](../terms/b/bootleg.md)
+- [breakbeat](../terms/b/breakbeat.md)
+- [brush-down-record-brush](../terms/b/brush-down-record-brush.md)
 
 
 ---

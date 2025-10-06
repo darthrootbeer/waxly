@@ -4,19 +4,19 @@ Browse all vinyl terminology terms starting with the letter **O**.
 
 ## Terms (13 total)
 
-- [obi-strip](terms/o/obi-strip/)
-- [off-center-pressing](terms/o/off-center-pressing/)
-- [ohm-load-cartridge-load-impedance](terms/o/ohm-load-cartridge-load-impedance/)
-- [one-sided-lp-one-sider](terms/o/one-sided-lp-one-sider/)
-- [one-step-pressing-aka-supervinyl-one-step](terms/o/one-step-pressing-aka-supervinyl-one-step/)
-- [open-reel-to-vinyl-transfer](terms/o/open-reel-to-vinyl-transfer/)
-- [optical-soundtrack-disc-historical](terms/o/optical-soundtrack-disc-historical/)
-- [original-master-recording-omr](terms/o/original-master-recording-omr/)
-- [out-of-print-oop](terms/o/out-of-print-oop/)
-- [outer-jacket-outer-sleeve](terms/o/outer-jacket-outer-sleeve/)
-- [outer-ring-clamp-peripheral-ring](terms/o/outer-ring-clamp-peripheral-ring/)
-- [overdub-to-disc-direct-to-disc-overdub](terms/o/overdub-to-disc-direct-to-disc-overdub/)
-- [oversized-13-inch-disc-transcription-promo](terms/o/oversized-13-inch-disc-transcription-promo/)
+- [obi-strip](../terms/o/obi-strip.md)
+- [off-center-pressing](../terms/o/off-center-pressing.md)
+- [ohm-load-cartridge-load-impedance](../terms/o/ohm-load-cartridge-load-impedance.md)
+- [one-sided-lp-one-sider](../terms/o/one-sided-lp-one-sider.md)
+- [one-step-pressing-aka-supervinyl-one-step](../terms/o/one-step-pressing-aka-supervinyl-one-step.md)
+- [open-reel-to-vinyl-transfer](../terms/o/open-reel-to-vinyl-transfer.md)
+- [optical-soundtrack-disc-historical](../terms/o/optical-soundtrack-disc-historical.md)
+- [original-master-recording-omr](../terms/o/original-master-recording-omr.md)
+- [out-of-print-oop](../terms/o/out-of-print-oop.md)
+- [outer-jacket-outer-sleeve](../terms/o/outer-jacket-outer-sleeve.md)
+- [outer-ring-clamp-peripheral-ring](../terms/o/outer-ring-clamp-peripheral-ring.md)
+- [overdub-to-disc-direct-to-disc-overdub](../terms/o/overdub-to-disc-direct-to-disc-overdub.md)
+- [oversized-13-inch-disc-transcription-promo](../terms/o/oversized-13-inch-disc-transcription-promo.md)
 
 
 ---

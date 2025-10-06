@@ -27,7 +27,7 @@ aka:
 genres:
 - all---
 
-# Poly-[Vinyl Chloride](../v/vinyl-chloride-pvc/)
+# Poly-[Vinyl Chloride](../v/vinyl-chloride-pvc.md)
 
 **Definition:** **noun / material.** The thermoplastic polymer used to press modern records — standard black or color-tinted compound with plasticizers for flexibility.
 

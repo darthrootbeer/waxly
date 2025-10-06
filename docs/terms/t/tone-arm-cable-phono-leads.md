@@ -30,7 +30,7 @@ aka:
 genres:
 - all---
 
-# [Tone](../t/tone-arm/)-Arm Cable
+# [Tone](../t/tone-arm.md)-Arm Cable
 
 **Definition:** **noun / hi-fi wiring.** The **shielded low-capacitance cable** carrying the delicate cartridge signal to the phono pre-amp — often hard-wired or detachable RCA leads.
 

@@ -28,7 +28,7 @@ genres:
 
 # Regroove
 
-**Definition:** **noun / studio slang.** A **second pass of [groove](../g/groove-wear/)-cutting** on the same side — either to fix errors or to add extra lead-in/out groove space.
+**Definition:** **noun / studio slang.** A **second pass of [groove](../g/groove-wear.md)-cutting** on the same side — either to fix errors or to add extra lead-in/out groove space.
 
 **Etymology:** Engineer slang — to *re-groove* a side.
 

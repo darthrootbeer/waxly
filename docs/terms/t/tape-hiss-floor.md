@@ -7,7 +7,7 @@ regions:
 - US
 slug: tape-hiss-floor
 status: active
-summary: '--- *[Back to Lexicon](../README.md) | [Next Chapter](../chapters/chapter-t.md)*'
+summary: "Navigation term for continuing to next section"
 term: Tape-Hiss Floor
 updated: '2025-10-06'
 verification: unverified

@@ -31,7 +31,7 @@ aka:
 genres:
 - all---
 
-# [Needle](../n/needle-wear/)-Talk
+# [Needle](../n/needle-wear.md)-Talk
 
 **Definition:** **noun / historical slang.** The faint mechanical sound heard directly from the stylus vibrating in the groove, audible close to the turntable even with amp volume off.
 

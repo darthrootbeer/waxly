@@ -24,9 +24,9 @@ aka:
 genres:
 - all---
 
-# [Playback Wear](../p/playback-wear/)
+# [Playback Wear](../p/playback-wear.md)
 
-**Definition:** **noun / technical.** Cumulative [groove](../g/groove-wear/) damage caused by repeated plays, especially with heavy or worn styli — manifests as hiss, distortion, or loss of high-end detail.
+**Definition:** **noun / technical.** Cumulative [groove](../g/groove-wear.md) damage caused by repeated plays, especially with heavy or worn styli — manifests as hiss, distortion, or loss of high-end detail.
 
 **Etymology:** Literal — groove *wear* from repeated *playback.*
 

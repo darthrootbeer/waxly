@@ -45,7 +45,7 @@ Use the search bar above to find terms by:
 We welcome contributions! Whether you're adding new terms, improving existing definitions, or providing cultural context, your input helps preserve and expand vinyl culture knowledge.
 
 - [How to Contribute](contribute.md)
-- [Term Format Guidelines](contribute.md#term-format)
+- [Term Format Guidelines](contribute/#-term-format-guidelines)
 - [Quality Standards](contribute.md#quality-standards)
 
 ## 📊 Project Stats

@@ -33,7 +33,7 @@ genres:
 
 # Phono Input
 
-**Definition:** **noun / technical.** An amplifier input with the specialized equalization and gain required for magnetic-cartridge signals; often labeled “[PHONO](../p/phono-stage-hum/)” on vintage receivers.
+**Definition:** **noun / technical.** An amplifier input with the specialized equalization and gain required for magnetic-cartridge signals; often labeled “[PHONO](../p/phono-stage-hum.md)” on vintage receivers.
 
 **Etymology:** From *phonograph* input.
 

@@ -25,7 +25,7 @@ genres:
 
 # Zip-Tone Pops
 
-**Definition:** **noun / playback noise slang.** A **crackly ‘zip-[tone](../t/tone-arm/)’ series of static pops heard on dusty or statically charged records at needle-drop**.
+**Definition:** **noun / playback noise slang.** A **crackly ‘zip-[tone](../t/tone-arm.md)’ series of static pops heard on dusty or statically charged records at needle-drop**.
 
 **Etymology:** Onomatopoeia — sounds like a faint *zip-tone* crackle.
 

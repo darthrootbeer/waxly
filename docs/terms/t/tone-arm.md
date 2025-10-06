@@ -32,7 +32,7 @@ genres:
 
 # Tone
 
-**Definition:** **noun / turntable component.** The **pivoting or linear-tracking arm that holds the headshell & [cartridge](../c/cartridge/)**, guiding the stylus through the groove.
+**Definition:** **noun / turntable component.** The **pivoting or linear-tracking arm that holds the headshell & [cartridge](../c/cartridge.md)**, guiding the stylus through the groove.
 
 **Etymology:** Literal — the arm that carries the audio *tone*.
 

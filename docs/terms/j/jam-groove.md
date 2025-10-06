@@ -28,7 +28,7 @@ genres:
 
 **Definition:** **noun / slang.** A long, often improvised instrumental section captured on record — prized by DJs for its extended rhythm bed.
 
-**Etymology:** From live-band *jam* sessions laid into the *[groove](../g/groove-wear/).*
+**Etymology:** From live-band *jam* sessions laid into the *[groove](../g/groove-wear.md).*
 
 **Example:** “Side-two’s jam groove rides that conga-drum vamp for six solid minutes — disco-DJ heaven.”
 

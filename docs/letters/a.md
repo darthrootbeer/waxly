@@ -4,17 +4,17 @@ Browse all vinyl terminology terms starting with the letter **A**.
 
 ## Terms (11 total)
 
-- [ab-test-press](terms/a/ab-test-press/)
-- [acetate](terms/a/acetate/)
-- [acoustic-suspension](terms/a/acoustic-suspension/)
-- [add-on-arm-weight](terms/a/add-on-arm-weight/)
-- [album](terms/a/album/)
-- [alignment-protractor](terms/a/alignment-protractor/)
-- [alternate-take](terms/a/alternate-take/)
-- [anti-skate](terms/a/anti-skate/)
-- [audiophile-pressing](terms/a/audiophile-pressing/)
-- [automatic-return](terms/a/automatic-return/)
-- [auxiliary-weight](terms/a/auxiliary-weight/)
+- [ab-test-press](../terms/a/ab-test-press.md)
+- [acetate](../terms/a/acetate.md)
+- [acoustic-suspension](../terms/a/acoustic-suspension.md)
+- [add-on-arm-weight](../terms/a/add-on-arm-weight.md)
+- [album](../terms/a/album.md)
+- [alignment-protractor](../terms/a/alignment-protractor.md)
+- [alternate-take](../terms/a/alternate-take.md)
+- [anti-skate](../terms/a/anti-skate.md)
+- [audiophile-pressing](../terms/a/audiophile-pressing.md)
+- [automatic-return](../terms/a/automatic-return.md)
+- [auxiliary-weight](../terms/a/auxiliary-weight.md)
 
 
 ---

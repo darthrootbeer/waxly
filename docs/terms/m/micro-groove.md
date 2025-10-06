@@ -26,7 +26,7 @@ genres:
 
 # Micro
 
-**Definition:** **noun / technical / historical.** The finer, narrower [groove](../g/groove-wear/) standard introduced by Columbia in 1948 for LPs and 45s, allowing 20-plus minutes per side at 33⅓ RPM.
+**Definition:** **noun / technical / historical.** The finer, narrower [groove](../g/groove-wear.md) standard introduced by Columbia in 1948 for LPs and 45s, allowing 20-plus minutes per side at 33⅓ RPM.
 
 **Etymology:** From *micro* meaning small + *groove.*
 

@@ -25,7 +25,7 @@ aka:
 genres:
 - all---
 
-# [Seam](../s/seam-split/)-Stress Ring-Wear
+# [Seam](../s/seam-split.md)-Stress Ring-Wear
 
 **Definition:** **noun / collector slang.** A tongue-in-cheek term for **severe ring-wear and seam damage** on well-traveled jackets.
 
