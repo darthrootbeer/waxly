@@ -5,9 +5,10 @@ Helps new contributors get started with the development environment.
 """
 
 import os
-import sys
 import subprocess
+import sys
 from pathlib import Path
+
 import click
 
 
@@ -15,7 +16,9 @@ def run_command(cmd, description, check=True):
     """Run a command and handle errors."""
     print(f"🔄 {description}...")
     try:
-        result = subprocess.run(cmd, shell=True, check=check, capture_output=True, text=True)
+        result = subprocess.run(
+            cmd, shell=True, check=check, capture_output=True, text=True
+        )
         if result.returncode == 0:
             print(f"✅ {description} completed successfully")
             return True
@@ -49,11 +52,11 @@ def check_git():
 def setup_virtual_environment():
     """Set up Python virtual environment."""
     venv_path = Path("venv")
-    
+
     if venv_path.exists():
         print("✅ Virtual environment already exists")
         return True
-    
+
     if run_command("python -m venv venv", "Creating virtual environment"):
         print("✅ Virtual environment created")
         return True
@@ -65,13 +68,13 @@ def install_dependencies():
     if not Path("requirements.txt").exists():
         print("❌ requirements.txt not found")
         return False
-    
+
     # Determine the correct pip command based on OS
-    if os.name == 'nt':  # Windows
+    if os.name == "nt":  # Windows
         pip_cmd = "venv\\Scripts\\pip"
     else:  # Unix-like
         pip_cmd = "venv/bin/pip"
-    
+
     if run_command(f"{pip_cmd} install -r requirements.txt", "Installing dependencies"):
         return True
     return False
@@ -80,12 +83,14 @@ def install_dependencies():
 def validate_setup():
     """Validate the setup by running validation scripts."""
     # Determine the correct python command based on OS
-    if os.name == 'nt':  # Windows
+    if os.name == "nt":  # Windows
         python_cmd = "venv\\Scripts\\python"
     else:  # Unix-like
         python_cmd = "venv/bin/python"
-    
-    if run_command(f"{python_cmd} scripts/validate_terms.py", "Validating term files", check=False):
+
+    if run_command(
+        f"{python_cmd} scripts/validate_terms.py", "Validating term files", check=False
+    ):
         print("✅ Validation completed (warnings are normal for new setups)")
         return True
     return False
@@ -94,11 +99,11 @@ def validate_setup():
 def test_mkdocs():
     """Test MkDocs installation and build."""
     # Determine the correct mkdocs command based on OS
-    if os.name == 'nt':  # Windows
+    if os.name == "nt":  # Windows
         mkdocs_cmd = "venv\\Scripts\\mkdocs"
     else:  # Unix-like
         mkdocs_cmd = "venv/bin/mkdocs"
-    
+
     if run_command(f"{mkdocs_cmd} build --quiet", "Testing MkDocs build", check=False):
         print("✅ MkDocs build successful")
         return True
@@ -106,42 +111,42 @@ def test_mkdocs():
 
 
 @click.command()
-@click.option('--skip-validation', is_flag=True, help='Skip validation steps')
-@click.option('--skip-mkdocs', is_flag=True, help='Skip MkDocs testing')
+@click.option("--skip-validation", is_flag=True, help="Skip validation steps")
+@click.option("--skip-mkdocs", is_flag=True, help="Skip MkDocs testing")
 def main(skip_validation, skip_mkdocs):
     """Set up the Vinyl Lexicon development environment."""
     print("🚀 Setting up Vinyl Lexicon development environment")
     print("=" * 50)
-    
+
     # Check prerequisites
     if not check_python_version():
         return 1
-    
+
     if not check_git():
         return 1
-    
+
     # Set up virtual environment
     if not setup_virtual_environment():
         return 1
-    
+
     # Install dependencies
     if not install_dependencies():
         return 1
-    
+
     # Validate setup
     if not skip_validation:
         if not validate_setup():
             print("⚠️  Validation had issues, but setup can continue")
-    
+
     # Test MkDocs
     if not skip_mkdocs:
         if not test_mkdocs():
             print("⚠️  MkDocs test had issues, but setup can continue")
-    
+
     print("\n🎉 Setup completed successfully!")
     print("\nNext steps:")
     print("1. Activate the virtual environment:")
-    if os.name == 'nt':  # Windows
+    if os.name == "nt":  # Windows
         print("   venv\\Scripts\\activate")
     else:  # Unix-like
         print("   source venv/bin/activate")
@@ -149,9 +154,9 @@ def main(skip_validation, skip_mkdocs):
     print("   mkdocs serve")
     print("3. Open http://127.0.0.1:8000 in your browser")
     print("\nFor more information, see docs/contribute.md")
-    
+
     return 0
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     sys.exit(main())

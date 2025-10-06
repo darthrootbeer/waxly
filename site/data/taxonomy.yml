@@ -12,7 +12,7 @@ tags:
       - amplifiers
       - speakers
       - accessories
-  
+
   pressing:
     description: "Record manufacturing and production"
     subcategories:
@@ -20,7 +20,7 @@ tags:
       - quality_control
       - variants
       - materials
-  
+
   mastering:
     description: "Audio mastering and preparation"
     subcategories:
@@ -28,7 +28,7 @@ tags:
       - lacquers
       - test_pressings
       - quality_control
-  
+
   dj_related:
     description: "DJ techniques and performance"
     subcategories:
@@ -36,7 +36,7 @@ tags:
       - mixing
       - performance
       - techniques
-  
+
   collecting:
     description: "Record collecting and commerce"
     subcategories:
@@ -45,7 +45,7 @@ tags:
       - rarity
       - market
       - storage
-  
+
   quality_control:
     description: "Quality assessment and testing"
     subcategories:
@@ -53,14 +53,14 @@ tags:
       - grading
       - defects
       - standards
-  
+
   slang:
     description: "Informal or colloquial terminology"
     subcategories:
       - regional
       - generational
       - subcultural
-  
+
   technical:
     description: "Technical specifications and engineering"
     subcategories:
@@ -68,21 +68,21 @@ tags:
       - measurements
       - engineering
       - physics
-  
+
   historical:
     description: "Terms from specific historical periods"
     subcategories:
       - obsolete
       - archaic
       - period_specific
-  
+
   cultural:
     description: "Cultural context and significance"
     subcategories:
       - social
       - artistic
       - movement_specific
-  
+
   genre_specific:
     description: "Terms specific to music genres"
     subcategories:
@@ -91,21 +91,21 @@ tags:
       - jazz
       - rock
       - classical
-  
+
   regional:
     description: "Geographic variations in terminology"
     subcategories:
       - us_regional
       - international
       - local_variations
-  
+
   obsolete:
     description: "Terms no longer in common use"
     subcategories:
       - historical
       - replaced
       - deprecated
-  
+
   modern:
     description: "Contemporary terminology"
     subcategories:
@@ -116,31 +116,31 @@ tags:
 domains:
   pressing_technique:
     description: "Record pressing methods and processes"
-  
+
   mastering:
     description: "Audio mastering and preparation techniques"
-  
+
   quality_control:
     description: "Quality assessment and testing procedures"
-  
+
   equipment:
     description: "Hardware and technical specifications"
-  
+
   dj_technique:
     description: "DJ performance and mixing techniques"
-  
+
   collecting:
     description: "Record collecting and market practices"
-  
+
   market:
     description: "Commercial and economic aspects"
-  
+
   cultural:
     description: "Cultural and social context"
-  
+
   historical:
     description: "Historical development and evolution"
-  
+
   regional:
     description: "Geographic and cultural variations"
 
@@ -152,7 +152,7 @@ regions:
       - west_coast
       - midwest
       - south
-  
+
   UK:
     description: "United Kingdom"
     subregions:
@@ -160,38 +160,38 @@ regions:
       - scotland
       - wales
       - northern_ireland
-  
+
   JA:
     description: "Japan"
     subregions:
       - tokyo
       - osaka
       - regional
-  
+
   DE:
     description: "Germany"
-  
+
   FR:
     description: "France"
-  
+
   IT:
     description: "Italy"
-  
+
   ES:
     description: "Spain"
-  
+
   CA:
     description: "Canada"
-  
+
   AU:
     description: "Australia"
-  
+
   BR:
     description: "Brazil"
-  
+
   MX:
     description: "Mexico"
-  
+
   global:
     description: "Worldwide usage"
 
@@ -199,39 +199,39 @@ eras:
   1940s:
     description: "1940-1949"
     context: "Early vinyl era, 78rpm dominance"
-  
+
   1950s:
     description: "1950-1959"
     context: "LP introduction, hi-fi development"
-  
+
   1960s:
     description: "1960-1969"
     context: "Stereo adoption, rock era"
-  
+
   1970s:
     description: "1970-1979"
     context: "Vinyl golden age, disco era"
-  
+
   1980s:
     description: "1980-1989"
     context: "CD introduction, hip-hop emergence"
-  
+
   1990s:
     description: "1990-1999"
     context: "CD dominance, vinyl decline"
-  
+
   2000s:
     description: "2000-2009"
     context: "Digital music, vinyl revival begins"
-  
+
   2010s:
     description: "2010-2019"
     context: "Vinyl resurgence, streaming era"
-  
+
   2020s:
     description: "2020-2029"
     context: "Modern vinyl culture, hybrid digital/analog"
-  
+
   modern:
     description: "Contemporary usage"
     context: "Current terminology and practices"
@@ -243,21 +243,21 @@ complexity_levels:
       - "record"
       - "turntable"
       - "album"
-  
+
   intermediate:
     description: "Terms requiring some knowledge"
     examples:
       - "cartridge"
       - "tracking force"
       - "test pressing"
-  
+
   advanced:
     description: "Technical or specialized terms"
     examples:
       - "azimuth alignment"
       - "groove modulation"
       - "lacquer cutting"
-  
+
   expert:
     description: "Highly technical or esoteric terms"
     examples:
@@ -269,39 +269,39 @@ popularity_scale:
   1:
     description: "Rarely used, historical only"
     context: "Obsolete or very specialized"
-  
+
   2:
     description: "Occasionally used, mostly historical"
     context: "Known to experts and historians"
-  
+
   3:
     description: "Sometimes used, limited context"
     context: "Specialized or regional usage"
-  
+
   4:
     description: "Moderately used, specific contexts"
     context: "Industry or enthusiast usage"
-  
+
   5:
     description: "Regularly used, known to enthusiasts"
     context: "Common in vinyl communities"
-  
+
   6:
     description: "Frequently used, well-known"
     context: "Widely recognized in vinyl culture"
-  
+
   7:
     description: "Very common, mainstream usage"
     context: "Known to general music enthusiasts"
-  
+
   8:
     description: "Extremely common, universal"
     context: "Widely used across all contexts"
-  
+
   9:
     description: "Ubiquitous, essential terminology"
     context: "Fundamental to vinyl culture"
-  
+
   10:
     description: "Universal, cross-cultural usage"
     context: "Known to general public"

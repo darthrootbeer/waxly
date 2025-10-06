@@ -27,7 +27,7 @@ echo "✅ Git repository verified"
 # Create GitHub repository (requires GitHub CLI)
 if command -v gh &> /dev/null; then
     echo "📡 Creating GitHub repository..."
-    
+
     # Check if repository already exists
     if gh repo view vinyl-lexicon &> /dev/null; then
         echo "⚠️  Repository 'vinyl-lexicon' already exists on GitHub"
@@ -35,22 +35,22 @@ if command -v gh &> /dev/null; then
         gh repo create vinyl-lexicon --public --description "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
         echo "✅ GitHub repository created"
     fi
-    
+
     # Add remote origin
     git remote add origin https://github.com/$(gh api user --jq .login)/vinyl-lexicon.git 2>/dev/null || echo "⚠️  Remote origin already exists"
-    
+
     # Push to GitHub
     echo "📤 Pushing to GitHub..."
     git push -u origin master
-    
+
     echo "✅ Repository pushed to GitHub"
-    
+
     # Enable GitHub Pages
     echo "🌐 Setting up GitHub Pages..."
     gh api repos/$(gh api user --jq .login)/vinyl-lexicon/pages -X POST -f source[branch]=master -f source[path]=/ 2>/dev/null || echo "⚠️  GitHub Pages may already be configured"
-    
+
     echo "✅ GitHub Pages enabled"
-    
+
 else
     echo "⚠️  GitHub CLI not found. Please install it or set up the repository manually:"
     echo "   1. Create a new repository on GitHub called 'vinyl-lexicon'"

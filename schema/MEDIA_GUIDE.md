@@ -360,9 +360,9 @@ Use the `media` field in custom templates:
 
 ### Recommendations by Scale
 
-**Under 50MB:** Store directly in repo (no LFS needed)  
-**50-500MB:** Use Git LFS for images  
-**500MB-2GB:** Consider CDN or separate asset repo  
+**Under 50MB:** Store directly in repo (no LFS needed)
+**50-500MB:** Use Git LFS for images
+**500MB-2GB:** Consider CDN or separate asset repo
 **2GB+:** Definitely use CDN (Cloudinary, Imgix, etc.)
 
 ## Best Practices

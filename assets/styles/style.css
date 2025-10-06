@@ -172,15 +172,15 @@ h4 {
     body {
         padding: 10px;
     }
-    
+
     h1 {
         font-size: 2em;
     }
-    
+
     .nav-links {
         flex-direction: column;
     }
-    
+
     .chapter-index {
         grid-template-columns: 1fr;
     }
@@ -192,11 +192,11 @@ h4 {
         background: white;
         color: black;
     }
-    
+
     .navigation {
         display: none;
     }
-    
+
     .term-definition {
         break-inside: avoid;
         box-shadow: none;
