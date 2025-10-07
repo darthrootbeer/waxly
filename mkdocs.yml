@@ -1,10 +1,10 @@
-site_name: Vinyl Lexicon
-site_description: Comprehensive digital reference for vinyl record culture, terminology, and collecting
-site_author: Vinyl Lexicon Contributors
-site_url: https://darthrootbeer.github.io/vinyl-lexicon
+site_name: Waxly
+site_description: The Language of Vinyl, Defined. Comprehensive digital reference for vinyl record culture and terminology.
+site_author: Waxly Contributors
+site_url: https://hellowaxly.com
 
-repo_name: darthrootbeer/vinyl-lexicon
-repo_url: https://github.com/darthrootbeer/vinyl-lexicon
+repo_name: waxly/waxly
+repo_url: https://github.com/waxly/waxly
 edit_uri: edit/main/docs/
 
 theme:
@@ -39,9 +39,10 @@ plugins:
       lang: en
   - awesome-pages
 
-# Pagefind search configuration
+# Custom styling and search configuration
 extra_css:
   - assets/stylesheets/pagefind.css
+  - assets/stylesheets/waxly.css
 
 extra_javascript:
   - https://unpkg.com/pagefind@1.0.0/dist/pagefind-ui.js
@@ -73,8 +74,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: darthrootbeer
-      repo: vinyl-lexicon
+      user: waxly
+      repo: waxly
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
@@ -105,8 +106,8 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/darthrootbeer/vinyl-lexicon
+      link: https://github.com/waxly/waxly
   version:
     provider: mike
 
-copyright: Copyright &copy; 2025 Vinyl Lexicon Contributors
+copyright: Copyright &copy; 2025 Waxly. All rights reserved.

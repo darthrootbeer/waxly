@@ -1,0 +1,469 @@
+<!-- User Preferences for Sensitive Content Display -->
+<!-- This template provides user controls for viewing culturally sensitive content -->
+
+<div id="sensitivity-preferences" class="sensitivity-preferences-panel">
+  <div class="preferences-header">
+    <h3>Content Display Preferences</h3>
+    <p>Control how culturally sensitive or inappropriate content is displayed</p>
+  </div>
+
+  <div class="preference-section">
+    <div class="preference-item">
+      <label class="preference-label">
+        <input type="checkbox" id="show-sensitive-content" class="preference-checkbox">
+        <span class="checkbox-custom"></span>
+        <span class="preference-text">
+          <strong>Show culturally sensitive content</strong>
+          <small>Display terms with historical bias, offensive language, or inappropriate terminology</small>
+        </span>
+      </label>
+    </div>
+
+    <div class="preference-item">
+      <label class="preference-label">
+        <input type="checkbox" id="age-verification" class="preference-checkbox">
+        <span class="checkbox-custom"></span>
+        <span class="preference-text">
+          <strong>I am 18 years or older</strong>
+          <small>Required to view sensitive content with explicit language or mature themes</small>
+        </span>
+      </label>
+    </div>
+
+    <div class="preference-item">
+      <label class="preference-label">
+        <input type="checkbox" id="show-obscuration" class="preference-checkbox" checked>
+        <span class="checkbox-custom"></span>
+        <span class="preference-text">
+          <strong>Use content obscuration</strong>
+          <small>Blur or censor sensitive terms until clicked/hovered (recommended)</small>
+        </span>
+      </label>
+    </div>
+
+    <div class="preference-item">
+      <label class="preference-label">
+        <input type="checkbox" id="show-warnings" class="preference-checkbox" checked>
+        <span class="checkbox-custom"></span>
+        <span class="preference-text">
+          <strong>Show content warnings</strong>
+          <small>Display warning banners for sensitive content</small>
+        </span>
+      </label>
+    </div>
+  </div>
+
+  <div class="preference-actions">
+    <button id="save-preferences" class="btn btn-primary">Save Preferences</button>
+    <button id="reset-preferences" class="btn btn-secondary">Reset to Defaults</button>
+  </div>
+
+  <div class="preference-info">
+    <h4>About These Settings</h4>
+    <ul>
+      <li><strong>Educational Purpose:</strong> The Vinyl Lexicon includes historically accurate terms for educational purposes</li>
+      <li><strong>Historical Context:</strong> Sensitive terms are presented with historical context and modern alternatives</li>
+      <li><strong>Your Choice:</strong> You control what content you see based on your comfort level</li>
+      <li><strong>Privacy:</strong> Preferences are stored locally on your device</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Sensitivity Status Indicator -->
+<div id="sensitivity-status" class="sensitivity-status-bar">
+  <span class="status-icon">ℹ️</span>
+  <span class="status-text">Sensitive content is hidden. <a href="#" onclick="showSensitivityPreferences()">Adjust preferences</a></span>
+</div>
+
+<!-- JavaScript for user preferences -->
+<script>
+class SensitivityPreferences {
+  constructor() {
+    this.defaults = {
+      showSensitiveContent: false,
+      ageVerification: false,
+      showObscuration: true,
+      showWarnings: true
+    };
+
+    this.preferences = this.loadPreferences();
+    this.setupEventListeners();
+    this.applyPreferences();
+    this.updateStatusDisplay();
+  }
+
+  loadPreferences() {
+    try {
+      const stored = localStorage.getItem('vinyl-lexicon-sensitivity-preferences');
+      if (stored) {
+        return { ...this.defaults, ...JSON.parse(stored) };
+      }
+    } catch (e) {
+      console.warn('Could not load sensitivity preferences:', e);
+    }
+    return { ...this.defaults };
+  }
+
+  savePreferences() {
+    try {
+      localStorage.setItem('vinyl-lexicon-sensitivity-preferences', JSON.stringify(this.preferences));
+      this.applyPreferences();
+      this.updateStatusDisplay();
+      this.showSaveConfirmation();
+    } catch (e) {
+      console.warn('Could not save sensitivity preferences:', e);
+    }
+  }
+
+  resetPreferences() {
+    this.preferences = { ...this.defaults };
+    this.savePreferences();
+    this.updateForm();
+  }
+
+  updateForm() {
+    document.getElementById('show-sensitive-content').checked = this.preferences.showSensitiveContent;
+    document.getElementById('age-verification').checked = this.preferences.ageVerification;
+    document.getElementById('show-obscuration').checked = this.preferences.showObscuration;
+    document.getElementById('show-warnings').checked = this.preferences.showWarnings;
+  }
+
+  setupEventListeners() {
+    // Save button
+    document.getElementById('save-preferences').addEventListener('click', () => {
+      this.preferences.showSensitiveContent = document.getElementById('show-sensitive-content').checked;
+      this.preferences.ageVerification = document.getElementById('age-verification').checked;
+      this.preferences.showObscuration = document.getElementById('show-obscuration').checked;
+      this.preferences.showWarnings = document.getElementById('show-warnings').checked;
+      this.savePreferences();
+    });
+
+    // Reset button
+    document.getElementById('reset-preferences').addEventListener('click', () => {
+      this.resetPreferences();
+    });
+
+    // Real-time updates for some preferences
+    document.getElementById('show-sensitive-content').addEventListener('change', () => {
+      this.preferences.showSensitiveContent = document.getElementById('show-sensitive-content').checked;
+      this.applyPreferences();
+    });
+
+    document.getElementById('age-verification').addEventListener('change', () => {
+      this.preferences.ageVerification = document.getElementById('age-verification').checked;
+      this.applyPreferences();
+    });
+  }
+
+  applyPreferences() {
+    const body = document.body;
+
+    // Apply classes based on preferences
+    body.classList.toggle('sensitive-content-enabled', this.preferences.showSensitiveContent);
+    body.classList.toggle('age-verified', this.preferences.ageVerification);
+    body.classList.toggle('obscuration-enabled', this.preferences.showObscuration);
+    body.classList.toggle('warnings-enabled', this.preferences.showWarnings);
+
+    // Update sensitive content display
+    this.updateSensitiveContentDisplay();
+  }
+
+  updateSensitiveContentDisplay() {
+    const sensitiveElements = document.querySelectorAll('.sensitive-content');
+
+    sensitiveElements.forEach(element => {
+      const sensitivityLevel = element.dataset.sensitivityLevel;
+      const hasAgeRestriction = element.dataset.ageRestricted === 'true';
+
+      // Determine if content should be shown
+      let shouldShow = this.preferences.showSensitiveContent;
+
+      // Check age restrictions
+      if (hasAgeRestriction && !this.preferences.ageVerification) {
+        shouldShow = false;
+      }
+
+      // Apply display rules
+      if (shouldShow) {
+        element.classList.add('content-visible');
+        element.classList.remove('content-hidden');
+
+        // Apply obscuration if enabled
+        if (this.preferences.showObscuration) {
+          element.classList.add('obscuration-enabled');
+        } else {
+          element.classList.remove('obscuration-enabled');
+        }
+
+        // Apply warnings if enabled
+        if (this.preferences.showWarnings) {
+          element.classList.add('warnings-enabled');
+        } else {
+          element.classList.remove('warnings-enabled');
+        }
+      } else {
+        element.classList.add('content-hidden');
+        element.classList.remove('content-visible');
+      }
+    });
+  }
+
+  updateStatusDisplay() {
+    const statusBar = document.getElementById('sensitivity-status');
+
+    if (this.preferences.showSensitiveContent) {
+      statusBar.style.display = 'none';
+    } else {
+      statusBar.style.display = 'block';
+    }
+  }
+
+  showSaveConfirmation() {
+    // Create temporary confirmation message
+    const confirmation = document.createElement('div');
+    confirmation.className = 'preference-confirmation';
+    confirmation.textContent = 'Preferences saved successfully!';
+    confirmation.style.cssText = `
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: #28a745;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 4px;
+      z-index: 1000;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    `;
+
+    document.body.appendChild(confirmation);
+
+    setTimeout(() => {
+      confirmation.remove();
+    }, 3000);
+  }
+
+  // Public method to check if content should be shown
+  shouldShowSensitiveContent(level, ageRestricted = false) {
+    if (!this.preferences.showSensitiveContent) return false;
+    if (ageRestricted && !this.preferences.ageVerification) return false;
+    return true;
+  }
+}
+
+// Global functions
+function showSensitivityPreferences() {
+  document.getElementById('sensitivity-preferences').style.display = 'block';
+}
+
+function hideSensitivityPreferences() {
+  document.getElementById('sensitivity-preferences').style.display = 'none';
+}
+
+// Initialize when DOM is ready
+document.addEventListener('DOMContentLoaded', () => {
+  window.sensitivityPreferences = new SensitivityPreferences();
+});
+</script>
+
+<!-- CSS for sensitivity preferences -->
+<style>
+.sensitivity-preferences-panel {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  z-index: 1000;
+  max-width: 500px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding: 24px;
+}
+
+.preferences-header h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.preferences-header p {
+  color: #666;
+  margin-bottom: 24px;
+}
+
+.preference-section {
+  margin-bottom: 24px;
+}
+
+.preference-item {
+  margin-bottom: 16px;
+}
+
+.preference-label {
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+  gap: 12px;
+}
+
+.preference-checkbox {
+  display: none;
+}
+
+.checkbox-custom {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  background: white;
+  flex-shrink: 0;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.preference-checkbox:checked + .checkbox-custom {
+  background: #007bff;
+  border-color: #007bff;
+}
+
+.preference-checkbox:checked + .checkbox-custom::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.preference-text {
+  flex: 1;
+}
+
+.preference-text strong {
+  display: block;
+  color: #333;
+  margin-bottom: 4px;
+}
+
+.preference-text small {
+  color: #666;
+  line-height: 1.4;
+}
+
+.preference-actions {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.btn-primary {
+  background: #007bff;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #0056b3;
+}
+
+.btn-secondary {
+  background: #6c757d;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background: #545b62;
+}
+
+.preference-info {
+  background: #f8f9fa;
+  padding: 16px;
+  border-radius: 4px;
+  border-left: 4px solid #007bff;
+}
+
+.preference-info h4 {
+  margin-top: 0;
+  color: #007bff;
+}
+
+.preference-info ul {
+  margin-bottom: 0;
+}
+
+.preference-info li {
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.sensitivity-status-bar {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  padding: 12px 16px;
+  margin: 16px 0;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-icon {
+  font-size: 1.2em;
+}
+
+.status-text {
+  flex: 1;
+  color: #856404;
+}
+
+.status-text a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.status-text a:hover {
+  text-decoration: underline;
+}
+
+/* Body classes for global preference application */
+.sensitive-content-enabled .sensitive-content.content-hidden {
+  display: block;
+}
+
+.sensitive-content-enabled .sensitive-content.content-visible {
+  display: block;
+}
+
+.age-verified .age-restricted {
+  display: block;
+}
+
+.obscuration-enabled .obscuration-required {
+  filter: blur(8px);
+}
+
+.obscuration-enabled .obscuration-required.revealed {
+  filter: none;
+}
+
+.warnings-enabled .sensitivity-warning {
+  display: block;
+}
+
+.warnings-disabled .sensitivity-warning {
+  display: none;
+}
+</style>

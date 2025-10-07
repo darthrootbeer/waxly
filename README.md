@@ -1,37 +1,41 @@
-# Vinyl Lexicon
+# Waxly
 
-> Digital reference for vinyl record terminology and culture
+> The Language of Vinyl, Defined.
 
-## What is this?
+## Overview
 
-A comprehensive, searchable database of vinyl record terminology, equipment specs, and cultural context. Built for collectors, DJs, and audiophiles.
+Waxly is a searchable database documenting vinyl record terminology, equipment, techniques, and culture. It serves collectors, DJs, audiophiles, and anyone interested in vinyl records.
 
-## Quick Start
+**Visit the site**: [hellowaxly.com](https://hellowaxly.com)
 
-- **Browse terms**: `docs/terms/` (A-Z structure)
-- **Search**: Built-in Pagefind search
-- **Contribute**: See [CONTRIBUTING.md](CONTRIBUTING.md)
+## What's Inside
 
-## Features
+- **500+ terms** covering vinyl terminology and culture
+- **Rich content** including definitions, cultural context, and historical notes
+- **Advanced search** with filtering by category, era, and region
+- **Cross-references** linking related terminology
+- **Global coverage** with regional variations
 
-- **500+ terms** with rich metadata
-- **Advanced search** with filtering
-- **Cultural context** and historical notes
-- **Technical specifications** for equipment
-- **Community-driven** with validation
+## Structure
 
-## Status
-
-**Version 2.1.0** - Enhanced schema with advanced metadata fields, cleaned slugs, and comprehensive project cleanup.
+- `/docs` - Site content and term database
+- `/docs/terms` - Individual term entries (organized A-Z)
+- `/docs/about.md` - Project information
+- `/docs/contribute.md` - Contribution guidelines
+- `/schema` - Data structure documentation
 
 ## Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Have knowledge to share? We welcome contributions from the vinyl community. See [docs/contribute.md](docs/contribute.md) for details.
 
 ## License
 
-Content: [CC BY 4.0](LICENSE) - Free to use with attribution
+Content: [CC BY-SA 4.0](LICENSE) - Free to use with attribution and share-alike terms
+
+## Version
+
+**2.1.0** - Active development and expansion
 
 ---
 
-*Preserving vinyl culture knowledge for the community.*
+*Preserving vinyl culture knowledge for the community*

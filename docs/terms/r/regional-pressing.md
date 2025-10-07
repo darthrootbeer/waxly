@@ -29,8 +29,7 @@ term: Regional Pressing
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Regional Pressing
 
@@ -40,5 +39,5 @@ genres:
 
 **Example:** “That Midwest garage-rock single exists only as a 1967 regional pressing on a tiny label.”
 
-**Cultural Note:** * A hot sub-field for crate-diggers hunting obscure soul, funk, garage, gospel, and punk records.
+**Cultural Note:** * A hot sub-field for crate-diggers hunting obscure soul, [funk](../f/funk.md), garage, gospel, and punk records.
 

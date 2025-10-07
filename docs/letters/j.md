@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **J**.
 
-## Terms (13 total)
+## Terms (15 total)
 
 - [j-curve-eq-broadcast-quirk](../terms/j/j-curve-eq-broadcast-quirk.md)
 - [j-curve-tonearm](../terms/j/j-curve-tonearm.md)
@@ -13,6 +13,8 @@ Browse all vinyl terminology terms starting with the letter **J**.
 - [jacket-flap-flap-back-sleeve](../terms/j/jacket-flap-flap-back-sleeve.md)
 - [jam-groove](../terms/j/jam-groove.md)
 - [japanese-pressing](../terms/j/japanese-pressing.md)
+- [jazz](../terms/j/jazz.md)
+- [jazz-funk](../terms/j/jazz-funk.md)
 - [jitter-digital-to-vinyl-transfers](../terms/j/jitter-digital-to-vinyl-transfers.md)
 - [jukebox-ep](../terms/j/jukebox-ep.md)
 - [jukebox-strip](../terms/j/jukebox-strip.md)

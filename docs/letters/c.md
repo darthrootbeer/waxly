@@ -2,14 +2,17 @@
 
 Browse all vinyl terminology terms starting with the letter **C**.
 
-## Terms (17 total)
+## Terms (25 total)
 
 - [cabinet-rumble](../terms/c/cabinet-rumble.md)
 - [carbon-fiber-brush](../terms/c/carbon-fiber-brush.md)
 - [cartridge](../terms/c/cartridge.md)
 - [cat-no-catalog-number](../terms/c/cat-no-catalog-number.md)
 - [center-hole-spindle-hole](../terms/c/center-hole-spindle-hole.md)
+- [chicago-blues](../terms/c/chicago-blues.md)
 - [clamshell-case](../terms/c/clamshell-case.md)
+- [classic-rock](../terms/c/classic-rock.md)
+- [classical](../terms/c/classical.md)
 - [clean-cut-groove](../terms/c/clean-cut-groove.md)
 - [cleaning-solution-record-cleaning-fluid](../terms/c/cleaning-solution-record-cleaning-fluid.md)
 - [clip-on-headshell-weight](../terms/c/clip-on-headshell-weight.md)
@@ -18,8 +21,13 @@ Browse all vinyl terminology terms starting with the letter **C**.
 - [color-vinyl-pressing](../terms/c/color-vinyl-pressing.md)
 - [compilation-album](../terms/c/compilation-album.md)
 - [concept-album](../terms/c/concept-album.md)
+- [conscious-hip-hop](../terms/c/conscious-hip-hop.md)
 - [console-stereo](../terms/c/console-stereo.md)
+- [contemporary-folk](../terms/c/contemporary-folk.md)
 - [continue](../terms/c/continue.md)
+- [cool-jazz](../terms/c/cool-jazz.md)
+- [country](../terms/c/country.md)
+- [country-rock](../terms/c/country-rock.md)
 - [cue-lever-lift-lever](../terms/c/cue-lever-lift-lever.md)
 
 

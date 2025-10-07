@@ -9,6 +9,7 @@
     "slug",
     "pos",
     "summary",
+    "created",
     "updated"
   ],
   "properties": {
@@ -191,10 +192,17 @@
       "minLength": 10,
       "maxLength": 200
     },
+    "created": {
+      "type": "string",
+      "description": "Creation date and time in ISO-8601 format with timezone",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{3})?([+-]\\d{2}:\\d{2}|Z)$"
+    },
     "updated": {
       "type": "string",
-      "description": "Last update date in ISO format",
-      "format": "date"
+      "description": "Last update date and time in ISO-8601 format with timezone",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{3})?([+-]\\d{2}:\\d{2}|Z)$"
     },
     "popularity": {
       "type": "integer",
@@ -266,38 +274,22 @@
     },
     "genres": {
       "type": "array",
-      "description": "Discogs-style genre classification (1-3 typically)",
+      "description": "References to genre entries in the lexicon (1-3 typically)",
       "items": {
         "type": "string",
-        "enum": [
-          "all",
-          "Blues",
-          "Brass & Military",
-          "Children's",
-          "Classical",
-          "Electronic",
-          "Folk, World, & Country",
-          "Funk / Soul",
-          "Hip Hop",
-          "Jazz",
-          "Latin",
-          "Non-Music",
-          "Pop",
-          "Reggae",
-          "Rock",
-          "Stage & Screen"
-        ]
+        "pattern": "^[a-z0-9-]+$",
+        "description": "Slug of a genre entry in the lexicon"
       },
       "uniqueItems": true,
       "maxItems": 3
     },
     "styles": {
       "type": "array",
-      "description": "Discogs-style sub-genre classification (1-6 typically)",
+      "description": "References to style entries in the lexicon (1-6 typically)",
       "items": {
         "type": "string",
-        "minLength": 1,
-        "maxLength": 100
+        "pattern": "^[a-z0-9-]+$",
+        "description": "Slug of a style entry in the lexicon"
       },
       "uniqueItems": true,
       "maxItems": 6
@@ -412,6 +404,40 @@
       "description": "Important usage information or warnings",
       "maxLength": 500
     },
+    "regional_variations": {
+      "type": "array",
+      "description": "Regional names, variations, or slang terms for this concept",
+      "items": {
+        "type": "object",
+        "required": ["region", "term"],
+        "properties": {
+          "region": {
+            "type": "string",
+            "description": "Geographic region or country",
+            "enum": ["US", "UK", "JA", "DE", "FR", "IT", "ES", "CA", "AU", "BR", "MX", "global", "other"],
+            "maxLength": 50
+          },
+          "term": {
+            "type": "string",
+            "description": "Regional name or variation",
+            "minLength": 1,
+            "maxLength": 100
+          },
+          "notes": {
+            "type": "string",
+            "description": "Additional context about the regional usage",
+            "maxLength": 200
+          },
+          "usage_context": {
+            "type": "string",
+            "description": "When or where this variation is used",
+            "enum": ["formal", "informal", "slang", "technical", "historical"],
+            "maxLength": 50
+          }
+        }
+      },
+      "uniqueItems": true
+    },
     "technical_specs": {
       "type": "object",
       "description": "Technical specifications for equipment/packaging terms",
@@ -518,6 +544,84 @@
           "type": "string",
           "description": "How to preserve or care for this",
           "maxLength": 500
+        }
+      }
+    },
+    "cultural_sensitivity": {
+      "type": "object",
+      "description": "Content warnings and sensitivity information",
+      "properties": {
+        "has_sensitive_content": {
+          "type": "boolean",
+          "description": "Whether this term contains culturally sensitive or inappropriate content"
+        },
+        "sensitivity_level": {
+          "type": "string",
+          "description": "Level of cultural sensitivity concern",
+          "enum": [
+            "mild",
+            "moderate",
+            "high",
+            "very_high"
+          ]
+        },
+        "sensitivity_types": {
+          "type": "array",
+          "description": "Types of sensitivity concerns",
+          "items": {
+            "type": "string",
+            "enum": [
+              "racial",
+              "ethnic",
+              "gender",
+              "sexual",
+              "religious",
+              "ableist",
+              "classist",
+              "ageist",
+              "historical_bias",
+              "outdated_terminology",
+              "offensive_slang",
+              "derogatory"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "content_warning": {
+          "type": "string",
+          "description": "Specific warning message for users",
+          "maxLength": 200
+        },
+        "historical_context": {
+          "type": "string",
+          "description": "Historical context explaining why this term is problematic",
+          "maxLength": 500
+        },
+        "modern_alternatives": {
+          "type": "array",
+          "description": "Modern, appropriate alternatives to this term",
+          "items": {
+            "type": "string",
+            "maxLength": 100
+          },
+          "uniqueItems": true
+        },
+        "obscuration_method": {
+          "type": "string",
+          "description": "How to obscure sensitive content in display",
+          "enum": [
+            "blur",
+            "censor",
+            "hover_reveal",
+            "click_reveal",
+            "expandable",
+            "none"
+          ]
+        },
+        "age_restricted": {
+          "type": "boolean",
+          "description": "Whether this content requires 18+ age verification",
+          "default": false
         }
       }
     },

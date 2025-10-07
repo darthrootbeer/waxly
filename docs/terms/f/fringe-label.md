@@ -19,8 +19,7 @@ verification: unverified
 aka:
 - Label
 genres:
-- Rock
----
+- Rock---
 
 # Fringe
 
@@ -30,5 +29,5 @@ genres:
 
 **Example:** “That doom-metal LP came out on a fringe-label that pressed only 300 copies.”
 
-**Cultural Note:** * Crate-diggers love fringe-labels for unearthed regional funk, garage-rock, and DIY punk gems.
+**Cultural Note:** * Crate-diggers love fringe-labels for unearthed regional funk, garage-[rock](../r/rock.md), and DIY punk gems.
 

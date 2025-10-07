@@ -29,12 +29,11 @@ aka:
 genres:
 - Hip Hop
 - Jazz
-- Rock
----
+- Rock---
 
 # Side-Long Track
 
-**Definition:** **noun / sequencing term.** A **single extended composition that fills nearly an entire LP side** — typical in prog-rock, ambient, jazz, or DJ-mix albums.
+**Definition:** **noun / sequencing term.** A **single extended composition that fills nearly an entire LP side** — typical in prog-[rock](../r/rock.md), [ambient](../a/ambient.md), [jazz](../j/jazz.md), or DJ-mix albums.
 
 **Etymology:** Literal — a track that spans the *side-length*.
 

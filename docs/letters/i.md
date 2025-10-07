@@ -2,11 +2,13 @@
 
 Browse all vinyl terminology terms starting with the letter **I**.
 
-## Terms (10 total)
+## Terms (12 total)
 
 - [idler-wheel-drive](../terms/i/idler-wheel-drive.md)
 - [in-store-play-copy](../terms/i/in-store-play-copy.md)
 - [index](../terms/index.md)
+- [indie-rock](../terms/i/indie-rock.md)
+- [industrial](../terms/i/industrial.md)
 - [inner-groove-distortion](../terms/i/inner-groove-distortion.md)
 - [inner-sleeve](../terms/i/inner-sleeve.md)
 - [inner-sleeve-rash](../terms/i/inner-sleeve-rash.md)

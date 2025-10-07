@@ -1,0 +1,394 @@
+<!-- Sensitive Content Display Template -->
+<!-- This template handles the display of culturally sensitive terms with appropriate warnings and obscuration -->
+
+<div class="sensitive-content-wrapper">
+  {% if page.cultural_sensitivity and page.cultural_sensitivity.has_sensitive_content %}
+
+    <!-- Sensitivity Content Container -->
+    <div class="sensitive-content"
+         data-sensitivity-level="{{ page.cultural_sensitivity.sensitivity_level }}"
+         data-age-restricted="{% if page.cultural_sensitivity.sensitivity_level == 'very_high' %}true{% else %}false{% endif %}">
+
+      <!-- Warning Banner (only shown if warnings enabled) -->
+      <div class="sensitivity-warning warnings-enabled" role="alert">
+        <div class="warning-header">
+          <span class="warning-icon">⚠️</span>
+          <strong>Content Warning</strong>
+        </div>
+
+        <div class="warning-message">
+          {{ page.cultural_sensitivity.content_warning or "This term contains culturally sensitive or historically inappropriate language." }}
+        </div>
+
+        {% if page.cultural_sensitivity.sensitivity_level %}
+          <div class="sensitivity-level level-{{ page.cultural_sensitivity.sensitivity_level }}">
+            Sensitivity Level: {{ page.cultural_sensitivity.sensitivity_level.title() }}
+            {% if page.cultural_sensitivity.sensitivity_level == 'very_high' %}
+              <span class="age-restriction">(18+ Content)</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        {% if page.cultural_sensitivity.sensitivity_types %}
+          <div class="sensitivity-types">
+            Concerns: {{ page.cultural_sensitivity.sensitivity_types | join(", ") }}
+          </div>
+        {% endif %}
+
+        <!-- Preference Notice -->
+        <div class="preference-notice">
+          <p><strong>Content is hidden by default.</strong>
+             <a href="#" onclick="showSensitivityPreferences()">Adjust your display preferences</a>
+             to view this content with appropriate warnings and context.</p>
+        </div>
+      </div>
+
+      <!-- Historical Context -->
+      {% if page.cultural_sensitivity.historical_context %}
+        <div class="historical-context">
+          <h4>Historical Context</h4>
+          <p>{{ page.cultural_sensitivity.historical_context }}</p>
+        </div>
+      {% endif %}
+
+      <!-- Modern Alternatives -->
+      {% if page.cultural_sensitivity.modern_alternatives %}
+        <div class="modern-alternatives">
+          <h4>Modern Alternatives</h4>
+          <p>Consider using these contemporary terms instead:</p>
+          <ul>
+            {% for alternative in page.cultural_sensitivity.modern_alternatives %}
+              <li><strong>{{ alternative }}</strong></li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      <!-- Term Display with Obscuration -->
+      <div class="term-display">
+        <h1 class="term-title">
+          {% if page.cultural_sensitivity.obscuration_method == "blur" %}
+            <span class="obscured obscuration-required blur-text" data-obscuration="blur">{{ page.term }}</span>
+            <button class="reveal-btn" onclick="revealContent(this)">Click to reveal</button>
+          {% elif page.cultural_sensitivity.obscuration_method == "censor" %}
+            <span class="obscured obscuration-required censored">{{ page.term | replace(page.term, "*" * page.term | length) }}</span>
+            <button class="reveal-btn" onclick="revealContent(this)">Click to reveal</button>
+          {% elif page.cultural_sensitivity.obscuration_method == "click_reveal" %}
+            <span class="obscured obscuration-required click-reveal" onclick="revealContent(this)">{{ page.term }}</span>
+            <span class="click-hint">(Click to reveal)</span>
+          {% elif page.cultural_sensitivity.obscuration_method == "hover_reveal" %}
+            <span class="obscured obscuration-required hover-reveal" onmouseover="revealContent(this)" onmouseout="obscureContent(this)">{{ page.term }}</span>
+          {% elif page.cultural_sensitivity.obscuration_method == "expandable" %}
+            <details class="expandable-term">
+              <summary class="term-summary">{{ page.term }} <span class="expand-hint">(Click to expand)</span></summary>
+              <div class="term-content">
+                {{ content }}
+              </div>
+            </details>
+          {% else %}
+            {{ page.term }}
+          {% endif %}
+        </h1>
+      </div>
+
+      <!-- Main Content -->
+      <div class="term-content">
+        {{ content }}
+      </div>
+
+    </div> <!-- End sensitive-content container -->
+
+  {% else %}
+    <!-- Normal display for non-sensitive terms -->
+    <h1 class="term-title">{{ page.term }}</h1>
+    {{ content }}
+  {% endif %}
+</div>
+
+<!-- JavaScript for content revelation -->
+<script>
+function revealContent(element) {
+  const wrapper = element.closest('.sensitive-content-wrapper');
+  const obscured = wrapper.querySelector('.obscured');
+  const button = wrapper.querySelector('.reveal-btn');
+  const hint = wrapper.querySelector('.click-hint');
+
+  if (obscured) {
+    obscured.classList.remove('obscured');
+    obscured.classList.add('revealed');
+  }
+
+  if (button) {
+    button.style.display = 'none';
+  }
+
+  if (hint) {
+    hint.style.display = 'none';
+  }
+}
+
+function obscureContent(element) {
+  const wrapper = element.closest('.sensitive-content-wrapper');
+  const revealed = wrapper.querySelector('.revealed');
+  const button = wrapper.querySelector('.reveal-btn');
+  const hint = wrapper.querySelector('.click-hint');
+
+  if (revealed) {
+    revealed.classList.remove('revealed');
+    revealed.classList.add('obscured');
+  }
+
+  if (button) {
+    button.style.display = 'inline-block';
+  }
+
+  if (hint) {
+    hint.style.display = 'inline';
+  }
+}
+</script>
+
+<!-- CSS for sensitive content styling -->
+<style>
+.sensitive-content-wrapper {
+  position: relative;
+}
+
+.sensitivity-warning {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.warning-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.warning-icon {
+  font-size: 1.2em;
+}
+
+.warning-message {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+
+.sensitivity-level {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.sensitivity-level.level-mild {
+  background: #d4edda;
+  color: #155724;
+}
+
+.sensitivity-level.level-moderate {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.sensitivity-level.level-high {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.sensitivity-level.level-very_high {
+  background: #f5c6cb;
+  color: #491217;
+}
+
+.sensitivity-types {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.historical-context,
+.modern-alternatives {
+  background: #f8f9fa;
+  border-left: 4px solid #007bff;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 4px;
+}
+
+.historical-context h4,
+.modern-alternatives h4 {
+  margin-top: 0;
+  color: #007bff;
+}
+
+.obscured {
+  position: relative;
+}
+
+.blur-text {
+  filter: blur(8px);
+  transition: filter 0.3s ease;
+}
+
+.blur-text.revealed {
+  filter: blur(0);
+}
+
+.censored {
+  background: #000;
+  color: #000;
+  user-select: none;
+}
+
+.censored.revealed {
+  background: transparent;
+  color: inherit;
+}
+
+.click-reveal {
+  cursor: pointer;
+  border-bottom: 2px dashed #007bff;
+  color: #007bff;
+}
+
+.click-reveal.revealed {
+  border-bottom: none;
+  color: inherit;
+  cursor: default;
+}
+
+.hover-reveal {
+  cursor: help;
+  border-bottom: 1px dotted #666;
+}
+
+.hover-reveal.revealed {
+  border-bottom: none;
+}
+
+.reveal-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 8px;
+  font-size: 0.8em;
+}
+
+.reveal-btn:hover {
+  background: #0056b3;
+}
+
+.click-hint {
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+}
+
+.expandable-term {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+.term-summary {
+  padding: 12px;
+  cursor: pointer;
+  background: #f8f9fa;
+  font-weight: bold;
+}
+
+.term-summary:hover {
+  background: #e9ecef;
+}
+
+.term-content {
+  padding: 16px;
+  border-top: 1px solid #ddd;
+}
+
+.expand-hint {
+  font-weight: normal;
+  color: #666;
+  font-size: 0.9em;
+}
+
+/* User Preference Integration */
+.preference-notice {
+  background: #e3f2fd;
+  border: 1px solid #bbdefb;
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 4px;
+}
+
+.preference-notice p {
+  margin: 0;
+  color: #1565c0;
+  font-size: 0.9em;
+}
+
+.preference-notice a {
+  color: #0d47a1;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.preference-notice a:hover {
+  text-decoration: underline;
+}
+
+.age-restriction {
+  background: #ff5722;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+
+/* Content visibility based on user preferences */
+.sensitive-content.content-hidden {
+  display: none;
+}
+
+.sensitive-content.content-visible {
+  display: block;
+}
+
+.sensitive-content.content-hidden .term-content {
+  display: none;
+}
+
+/* Obscuration based on preferences */
+.obscuration-enabled .obscuration-required {
+  filter: blur(8px);
+  transition: filter 0.3s ease;
+}
+
+.obscuration-enabled .obscuration-required.revealed {
+  filter: blur(0);
+}
+
+.obscuration-disabled .obscuration-required {
+  filter: none;
+}
+
+/* Warning display based on preferences */
+.warnings-enabled .sensitivity-warning {
+  display: block;
+}
+
+.warnings-disabled .sensitivity-warning {
+  display: none;
+}
+</style>

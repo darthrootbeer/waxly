@@ -1,491 +1,862 @@
-# Vinyl Lexicon Aliases
-# Alternative names and spellings for terms
-
 aliases:
-  # A/B Test Press
-  "a-b-test-press":
-    - "AB test press"
-    - "test pressing"
-    - "comparison pressing"
-
-  # Acetate
-  "acetate":
-    - "lacquer"
-    - "reference disc"
-    - "cutting disc"
-    - "master lacquer"
-
-  # Acoustic Suspension
-  "acoustic-suspension":
-    - "sealed box"
-    - "infinite baffle"
-    - "air suspension"
-
-  # Add-On Arm Weight
-  "add-on-arm-weight":
-    - "auxiliary weight"
-    - "counterweight"
-    - "arm weight"
-
-  # Album
-  "album":
-    - "LP"
-    - "long player"
-    - "record"
-    - "vinyl"
-
-  # Alignment Protractor
-  "alignment-protractor":
-    - "cartridge alignment tool"
-    - "tonearm protractor"
-    - "alignment gauge"
-
-  # Alternate Take
-  "alternate-take":
-    - "alternative take"
-    - "different version"
-    - "outtake"
-
-  # Anti-Skate
-  "anti-skate":
-    - "anti-skating"
-    - "bias adjustment"
-    - "lateral balance"
-
-  # Back-Spinning
-  "back-spinning":
-    - "backspinning"
-    - "rewinding"
-    - "reverse spinning"
-
-  # Back-Splice
-  "back-splice":
-    - "back-tape"
-    - "tape splice"
-    - "edit splice"
-
-  # Balance Weight
-  "balance-weight":
-    - "counterweight"
-    - "tonearm weight"
-    - "balance adjustment"
-
-  # Banding
-  "banding":
-    - "groove banding"
-    - "track separation"
-    - "silent grooves"
-
-  # Battle Record
-  "battle-record":
-    - "scratch record"
-    - "DJ record"
-    - "break record"
-
-  # Beat Juggling
-  "beat-juggling":
-    - "beat juggling"
-    - "rhythm juggling"
-    - "pattern juggling"
-
-  # Break
-  "break":
-    - "breakbeat"
-    - "drum break"
-    - "rhythm break"
-
-  # Breakbeat
-  "breakbeat":
-    - "break"
-    - "drum break"
-    - "rhythm section"
-
-  # B-Side
-  "b-side":
-    - "flip side"
-    - "back side"
-    - "secondary side"
-
-  # Cartridge
-  "cartridge":
-    - "phono cartridge"
-    - "pickup cartridge"
-    - "needle cartridge"
-
-  # Center Hole
-  "center-hole":
-    - "spindle hole"
-    - "center hole"
-    - "label hole"
-
-  # Changer
-  "changer":
-    - "record changer"
-    - "automatic changer"
-    - "stacker"
-
-  # Clean
-  "clean":
-    - "mint"
-    - "pristine"
-    - "like new"
-
-  # Cue
-  "cue":
-    - "cueing"
-    - "positioning"
-    - "starting point"
-
-  # Cut
-  "cut":
-    - "lacquer cut"
-    - "master cut"
-    - "cutting"
-
-  # Cutter
-  "cutter":
-    - "cutting head"
-    - "cutting stylus"
-    - "lacquer cutter"
-
-  # Dead Wax
-  "dead-wax":
-    - "runout groove"
-    - "lead-out"
-    - "end groove"
-
-  # Direct Drive
-  "direct-drive":
-    - "direct drive"
-    - "DD"
-    - "motor drive"
-
-  # Disc
-  "disc":
-    - "record"
-    - "vinyl"
-    - "platter"
-
-  # DJ
-  "dj":
-    - "disc jockey"
-    - "deejay"
-    - "turntablist"
-
-  # Double Album
-  "double-album":
-    - "2LP"
-    - "double LP"
-    - "two-record set"
-
-  # Drop
-  "drop":
-    - "drop-in"
-    - "mix point"
-    - "cue point"
-
-  # Dub
-  "dub":
-    - "dubplate"
-    - "version"
-    - "instrumental"
-
-  # Dubplate
-  "dubplate":
-    - "dub"
-    - "acetate"
-    - "reference disc"
-
-  # EP
-  "ep":
-    - "extended play"
-    - "mini-album"
-    - "short album"
-
-  # Equalization
-  "equalization":
-    - "EQ"
-    - "RIAA curve"
-    - "frequency response"
-
-  # Fade
-  "fade":
-    - "fade-out"
-    - "fade-in"
-    - "crossfade"
-
-  # First Pressing
-  "first-pressing":
-    - "original pressing"
-    - "first issue"
-    - "original release"
-
-  # Flutter
-  "flutter":
-    - "wow and flutter"
-    - "speed variation"
-    - "pitch variation"
-
-  # 45
-  "45":
-    - "single"
-    - "7-inch"
-    - "45 RPM"
-
-  # 78
-  "78":
-    - "78 RPM"
-    - "shellac"
-    - "78 record"
-
-  # Groove
-  "groove":
-    - "track"
-    - "cut"
-    - "spiral"
-
-  # Headshell
-  "headshell":
-    - "cartridge mount"
-    - "tonearm head"
-    - "cartridge holder"
-
-  # Hi-Fi
-  "hi-fi":
-    - "high fidelity"
-    - "high-fidelity"
-    - "audiophile"
-
-  # Hot
-  "hot":
-    - "loud"
-    - "high level"
-    - "compressed"
-
-  # Inner Groove
-  "inner-groove":
-    - "inside groove"
-    - "center groove"
-    - "label area"
-
-  # Jukebox
-  "jukebox":
-    - "jukebox"
-    - "record player"
-    - "coin-op"
-
-  # Lacquer
-  "lacquer":
-    - "acetate"
-    - "cutting disc"
-    - "master lacquer"
-
-  # Lead-In
-  "lead-in":
-    - "run-in groove"
-    - "lead-in groove"
-    - "start groove"
-
-  # Lead-Out
-  "lead-out":
-    - "runout groove"
-    - "dead wax"
-    - "end groove"
-
-  # Lock Groove
-  "lock-groove":
-    - "locked groove"
-    - "infinite loop"
-    - "endless groove"
-
-  # LP
-  "lp":
-    - "album"
-    - "long player"
-    - "33 1/3"
-
-  # Master
-  "master":
-    - "master tape"
-    - "original master"
-    - "source"
-
-  # Matrix
-  "matrix":
-    - "matrix number"
-    - "stamper number"
-    - "pressing number"
-
-  # Mix
-  "mix":
-    - "blend"
-    - "transition"
-    - "crossfade"
-
-  # Mono
-  "mono":
-    - "monaural"
-    - "monophonic"
-    - "single channel"
-
-  # Needle
-  "needle":
-    - "stylus"
-    - "pickup"
-    - "cartridge"
-
-  # Outer Groove
-  "outer-groove":
-    - "outside groove"
-    - "edge groove"
-    - "perimeter groove"
-
-  # Overhang
-  "overhang":
-    - "stylus overhang"
-    - "cartridge overhang"
-    - "alignment overhang"
-
-  # Phono
-  "phono":
-    - "phono input"
-    - "phono stage"
-    - "phono preamp"
-
-  # Pickup
-  "pickup":
-    - "cartridge"
-    - "needle"
-    - "stylus"
-
-  # Platter
-  "platter":
-    - "turntable platter"
-    - "record platter"
-    - "disc"
-
-  # Preamp
-  "preamp":
-    - "preamplifier"
-    - "phono stage"
-    - "phono preamp"
-
-  # Pressing
-  "pressing":
-    - "issue"
-    - "release"
-    - "edition"
-
-  # Record
-  "record":
-    - "vinyl"
-    - "disc"
-    - "album"
-
-  # Remix
-  "remix":
-    - "re-edit"
-    - "version"
-    - "alternative mix"
-
-  # RIAA
-  "riaa":
-    - "RIAA curve"
-    - "equalization"
-    - "frequency response"
-
-  # Rumble
-  "rumble":
-    - "turntable rumble"
-    - "mechanical noise"
-    - "vibration"
-
-  # Runout
-  "runout":
-    - "dead wax"
-    - "lead-out"
-    - "end groove"
-
-  # Scratch
-  "scratch":
-    - "scratching"
-    - "turntablism"
-    - "DJ technique"
-
-  # Single
-  "single":
-    - "45"
-    - "7-inch"
-    - "45 RPM"
-
-  # Skip
-  "skip":
-    - "jump"
-    - "hop"
-    - "track jump"
-
-  # Sleeve
-  "sleeve":
-    - "jacket"
-    - "cover"
-    - "outer sleeve"
-
-  # Speed
-  "speed":
-    - "RPM"
-    - "revolutions per minute"
-    - "rotation speed"
-
-  # Stereo
-  "stereo":
-    - "stereophonic"
-    - "two-channel"
-    - "dual channel"
-
-  # Stylus
-  "stylus":
-    - "needle"
-    - "pickup"
-    - "cartridge tip"
-
-  # Test Pressing
-  "test-pressing":
-    - "test press"
-    - "reference pressing"
-    - "sample pressing"
-
-  # Tonearm
-  "tonearm":
-    - "tone arm"
-    - "pickup arm"
-    - "cartridge arm"
-
-  # Tracking
-  "tracking":
-    - "tracking force"
-    - "downforce"
-    - "stylus pressure"
-
-  # Turntable
-  "turntable":
-    - "record player"
-    - "deck"
-    - "platter"
-
-  # Vinyl
-  "vinyl":
-    - "record"
-    - "disc"
-    - "LP"
-
-  # Warp
-  "warp":
-    - "warped"
-    - "bent"
-    - "distorted"
-
-  # Wow
-  "wow":
-    - "wow and flutter"
-    - "speed variation"
-    - "pitch variation"
+  '45':
+  - single
+  - 7-inch
+  - 45 RPM
+  '78':
+  - 78 RPM
+  - shellac
+  - 78 record
+  a-b-test-press:
+  - AB test press
+  - test pressing
+  - comparison pressing
+  acetate:
+  - lacquer
+  - reference disc
+  - cutting disc
+  - master lacquer
+  acoustic-suspension:
+  - sealed box
+  - infinite baffle
+  - air suspension
+  add-on-arm-weight:
+  - auxiliary weight
+  - counterweight
+  - arm weight
+  album:
+  - LP
+  - long player
+  - record
+  - vinyl
+  alignment-protractor:
+  - cartridge alignment tool
+  - tonearm protractor
+  - alignment gauge
+  alternate-take:
+  - alternative take
+  - different version
+  - outtake
+  anti-skate:
+  - Skate
+  - anti-skating
+  - bias adjustment
+  - lateral balance
+  auxiliary-weight:
+  - "DJ Slang: \u201CSlug\u201D"
+  b-side:
+  - flip side
+  - back side
+  - secondary side
+  back-spinning:
+  - Spinning
+  - backspinning
+  - reverse spinning
+  - rewinding
+  back-splice:
+  - a.k.a. Back-Tape
+  - back-tape
+  - edit splice
+  - tape splice
+  balance-weight:
+  - counterweight
+  - tonearm weight
+  - balance adjustment
+  balance-weight-tonearm:
+  - Tonearm
+  banding:
+  - groove banding
+  - track separation
+  - silent grooves
+  banding-groove-banding:
+  - Groove Banding
+  basket-case-copy:
+  - Case Copy
+  battle-record:
+  - scratch record
+  - DJ record
+  - break record
+  beat-juggling:
+  - beat juggling
+  - rhythm juggling
+  - pattern juggling
+  beat-matching:
+  - Matching
+  blank-groove:
+  - Locked Groove
+  blank-label:
+  - White-Label
+  break:
+  - breakbeat
+  - drum break
+  - rhythm break
+  breakbeat:
+  - break
+  - drum break
+  - rhythm section
+  brush-down-record-brush:
+  - Record Brush
+  carbon-fiber-brush:
+  - Fiber Brush
+  cartridge:
+  - phono cartridge
+  - pickup cartridge
+  - needle cartridge
+  cat-no-catalog-number:
+  - Catalog Number
+  center-hole:
+  - spindle hole
+  - center hole
+  - label hole
+  center-hole-spindle-hole:
+  - Spindle Hole
+  changer:
+  - record changer
+  - automatic changer
+  - stacker
+  clean:
+  - mint
+  - pristine
+  - like new
+  clean-cut-groove:
+  - Cut Groove
+  cleaning-solution-record-cleaning-fluid:
+  - Record-Cleaning Fluid
+  closed-groove:
+  - Locked Groove
+  collectors-corner-record-shop-slang:
+  - Record-Shop Slang
+  cue:
+  - cueing
+  - positioning
+  - starting point
+  cue-lever-lift-lever:
+  - Lift-Lever
+  cut:
+  - lacquer cut
+  - master cut
+  - cutting
+  cutter:
+  - cutting head
+  - cutting stylus
+  - lacquer cutter
+  d2c-direct-to-consumer-vinyl:
+  - to-Consumer Vinyl)
+  dead-wax:
+  - Run-Out Area
+  - end groove
+  - lead-out
+  - runout groove
+  demo-copy:
+  - Promotional Demo
+  direct-drive:
+  - direct drive
+  - DD
+  - motor drive
+  disc:
+  - record
+  - vinyl
+  - platter
+  dish-warp:
+  - Warp
+  dj:
+  - disc jockey
+  - deejay
+  - turntablist
+  dj-pool:
+  - Record Pool
+  double-album:
+  - 2LP
+  - Album
+  - double LP
+  - two-record set
+  drop:
+  - drop-in
+  - mix point
+  - cue point
+  drop-spindle:
+  - Changer Spindle
+  dub:
+  - dubplate
+  - version
+  - instrumental
+  dubplate:
+  - dub
+  - acetate
+  - reference disc
+  edge-warp:
+  - Warp
+  eight-track-cartridge:
+  - Cartridge
+  electric-pickup:
+  - Early Term for Cartridge
+  ep:
+  - extended play
+  - mini-album
+  - short album
+  equalization:
+  - EQ
+  - RIAA curve
+  - frequency response
+  etched-side-etching:
+  - Etching
+  etching-run-out-etching:
+  - Out Etching)
+  fade:
+  - fade-out
+  - fade-in
+  - crossfade
+  fig-leaf-sleeve:
+  - Collector Slang
+  finger-lift-headshell-finger-lift:
+  - Headshell Finger-Lift
+  first-pressing:
+  - original pressing
+  - first issue
+  - original release
+  fish-eye-label:
+  - Pressing Defect
+  flanging:
+  - Vinyl Effect)
+  flash-cut-hot-cut:
+  - Hot-Cut
+  fletcher-munson-curve:
+  - Munson Curve
+  flexi-disc:
+  - Disc
+  flight-case:
+  - Road Case
+  flip-side:
+  - Side
+  flutter:
+  - wow and flutter
+  - speed variation
+  - pitch variation
+  foam-rot:
+  - Aging Defect
+  four-track-early-tape-format:
+  - Early Tape Format
+  fringe-label:
+  - Label
+  front-end-of-the-system:
+  - of the System
+  groove:
+  - track
+  - cut
+  - spiral
+  groove-jump:
+  - Jump
+  groove-spacing-pitch:
+  - Pitch
+  groove-wear:
+  - Wear
+  groovebox:
+  - DJ/Producer Slang
+  ground-loop-hum:
+  - Loop Hum
+  ground-wire-turntable-ground-lead:
+  - Turntable Ground Lead
+  guitar-shaped-picture-disc:
+  - Novelty Vinyl
+  hanging-groove-aka-suspended-groove:
+  - "aka \u201CSuspended Groove\u201D"
+  hard-bop-pressing:
+  - Collector Slang
+  headshell:
+  - cartridge mount
+  - tonearm head
+  - cartridge holder
+  heavyweight-vinyl-180-gram-200-gram:
+  - 180-Gram / 200-Gram
+  hi-fi:
+  - high fidelity
+  - high-fidelity
+  - audiophile
+  hidden-track-secret-track:
+  - Secret Track
+  hot:
+  - loud
+  - high level
+  - compressed
+  hum-bucker-phono-cartridge-type:
+  - Phono Cartridge Type
+  inner-groove:
+  - inside groove
+  - center groove
+  - label area
+  isolation-feet-isolation-platform:
+  - Isolation Platform
+  j-curve-eq-broadcast-quirk:
+  - Broadcast Quirk
+  j-cut-groove:
+  - Pressing Defect
+  j-cut-single:
+  - Collector Slang
+  jacket-flap-flap-back-sleeve:
+  - Flap-Back Sleeve
+  jitter-digital-to-vinyl-transfers:
+  - to-Vinyl Transfers)
+  jukebox:
+  - jukebox
+  - record player
+  - coin-op
+  jump-groove:
+  - Groove
+  kerf-cut-groove-lathe-artifact:
+  - Lathe Artifact
+  kick-drum-cut-hot-dance-cut:
+  - Hot Dance-Cut
+  kitsch-cover-lp:
+  - Cover LP
+  knife-edge-bearing-tonearm-design:
+  - Tonearm Design
+  knock-on-rumble-feedback-rumble:
+  - Feedback Rumble
+  knock-out-bin-knock-down-bin:
+  - Knock-Down Bin
+  knock-out-center-dinked-center:
+  - Dinked Center
+  lacquer:
+  - acetate
+  - cutting disc
+  - master lacquer
+  lacquer-over-aluminum-disc-transcription-pre-lp:
+  - Transcription / Pre-LP
+  landfill-vinyl-slang:
+  - slang
+  lathe-cut-record:
+  - Cut Record
+  lead-in:
+  - run-in groove
+  - lead-in groove
+  - start groove
+  lead-out:
+  - runout groove
+  - dead wax
+  - end groove
+  lock-groove:
+  - locked groove
+  - infinite loop
+  - endless groove
+  lp:
+  - album
+  - long player
+  - 33 1/3
+  lyric-sleeve-lyric-inner:
+  - Lyric Inner
+  macro-groove:
+  - Groove
+  marker-scrawl-label:
+  - Scrawl Label
+  master:
+  - master tape
+  - original master
+  - source
+  matrix:
+  - matrix number
+  - stamper number
+  - pressing number
+  maxi-single:
+  - Single
+  mechanical-copyright-stamp-mcps-biem:
+  - MCPS / BIEM
+  micro-groove:
+  - Groove
+  micro-line-stylus-aka-line-contact:
+  - a.k.a. Line-Contact
+  mid-side-fold-down-mono-re-cut:
+  - Mono Re-Cut
+  mint-minus:
+  - Minus
+  mix:
+  - blend
+  - transition
+  - crossfade
+  mono:
+  - monaural
+  - monophonic
+  - single channel
+  moving-coil-cartridge-mc:
+  - MC
+  moving-magnet-cartridge-mm:
+  - MM
+  multi-groove-record-trick-groove:
+  - Trick-Groove
+  narrow-band-mono:
+  - Band Mono
+  near-mint-nm-nm:
+  - NM / NM-
+  needle:
+  - stylus
+  - pickup
+  - cartridge
+  needle-drop:
+  - Drop
+  needle-talk-stylus-talk:
+  - Stylus Talk
+  needle-tip-size-stylus-size:
+  - Stylus Size
+  needle-wear:
+  - Wear
+  net-weight-vinyl-biscuit-weight:
+  - Vinyl Biscuit Weight
+  new-old-stock-nos:
+  - NOS
+  noise-floor:
+  - Floor
+  non-fill:
+  - Pressing Defect
+  null-test-audio-phase-test:
+  - Audio Phase Test
+  one-sided-lp-one-sider:
+  - One-Sider
+  one-step-pressing-aka-supervinyl-one-step:
+  - a.k.a. SuperVinyl One-Step
+  optical-soundtrack-disc-historical:
+  - Historical
+  original-master-recording-omr:
+  - OMR
+  out-of-print-oop:
+  - OOP
+  outer-groove:
+  - outside groove
+  - edge groove
+  - perimeter groove
+  outer-jacket-outer-sleeve:
+  - Outer Sleeve
+  outer-ring-clamp-peripheral-ring:
+  - Peripheral Ring
+  overdub-to-disc-direct-to-disc-overdub:
+  - Direct-to-Disc Overdub
+  overhang:
+  - stylus overhang
+  - cartridge overhang
+  - alignment overhang
+  oversized-13-inch-disc-transcription-promo:
+  - Transcription / Promo
+  parallel-tracking-arm:
+  - Tracking Arm
+  party-cut-slang:
+  - Slang
+  patch-cable-hum:
+  - Cable Hum
+  pencil-marked-label:
+  - Marked Label
+  pencil-test-groove-studio-qc-term:
+  - Studio QC Term
+  penny-weight-turntable-hack:
+  - Turntable Hack
+  percussion-break-aka-breakbeat:
+  - a.k.a. Breakbeat
+  permanent-marker-groove-check:
+  - Check
+  perpetual-motion-loop:
+  - Locked-Groove Loop
+  perspex-dust-cover:
+  - Cover
+  phono:
+  - phono input
+  - phono stage
+  - phono preamp
+  phono-input-phono-stage:
+  - Phono Stage
+  phono-pre-amp-external-or-built-in:
+  - External or Built-In
+  phono-stage-hum:
+  - Stage Hum
+  pickup:
+  - cartridge
+  - needle
+  - stylus
+  pinch-warp:
+  - Warp
+  pitch-lock-quartz-lock:
+  - Quartz-Lock
+  plain-sleeve-45:
+  - Sleeve 45
+  platter:
+  - turntable platter
+  - record platter
+  - disc
+  platter-ring-wear-shadow:
+  - Wear Shadow
+  playback-wearcontinued:
+  - continued
+  playback-weight-tracking-force:
+  - Tracking Force
+  playback-wow-pitch-wow:
+  - Pitch-WOW
+  plexiglass-dust-cover:
+  - Cover
+  plus-cut-hot-plus-cut:
+  - Hot-Plus Cut
+  poly-vinyl-chloride-pvc:
+  - PVC
+  polybag-sealed-copy:
+  - Sealed Copy
+  polylined-rice-paper-sleeve-mofi-style:
+  - MoFi-Style
+  pop-out-center-aka-jukebox-spider:
+  - a.k.a. Jukebox Spider
+  portable-record-changer-suitcase-player:
+  - Suitcase Player
+  power-pop-lp:
+  - Pop LP
+  pre-echo-post-echo-pair:
+  - Post-Echo Pair
+  preamp:
+  - preamplifier
+  - phono stage
+  - phono preamp
+  pressing:
+  - issue
+  - release
+  - edition
+  pressing-ring-aka-label-ring:
+  - a.k.a. Label Ring
+  pressing-weight-140-g-180-g-200-g:
+  - 140 g / 180 g / 200 g
+  price-code-sticker-price-box:
+  - Price-Box
+  private-press-private-label-pressing:
+  - Private-Label Pressing
+  promo-copy-promotional-pressing:
+  - Promotional Pressing
+  promo-stamp-gold-stamp-promo:
+  - Gold-Stamp Promo
+  protective-poly-outer-japanese-resealable:
+  - Japanese Resealable
+  push-out-center-uk-style-45:
+  - UK-Style 45
+  quad-cut-stylus-cd-4-compatible-stylus:
+  - CD-4 Compatible Stylus
+  quad-decoder-demodulator:
+  - Demodulator
+  quadraphonic-lp-quad-lp:
+  - Quad LP
+  quiex-vinyl-quiex-ii-quiex-sv-p:
+  - Quiex II, Quiex SV-P
+  quirky-cut-sleeve:
+  - Novelty Die-Cut Jacket
+  radius-arm-s-arm-tonearm:
+  - S-Arm Tonearm
+  rca-shaded-dog-label:
+  - "Dog\u201D Label"
+  re-grind-vinyl-re-ground-compound:
+  - Re-Ground Compound
+  re-master-remastered-edition:
+  - Remastered Edition
+  re-press-repressing:
+  - Repressing
+  record:
+  - vinyl
+  - disc
+  - album
+  record-changer:
+  - Stack-Loader)
+  record-changer-stack-changer:
+  - Stack-Changer
+  record-clamp-center-weight:
+  - Center Weight
+  record-cleaning-machine-rcm:
+  - RCM
+  record-shelf-wear:
+  - Wear
+  record-stand-now-playing-stand:
+  - Now-Playing Stand
+  record-weight-center-weight:
+  - Center Weight
+  red-wax-pressing-red-vinyl-pressing:
+  - Red-Vinyl Pressing
+  reference-lacquer:
+  - Reference Disc
+  reflex-clamp-reflex-weight:
+  - Reflex Weight
+  regroove-recut-groove:
+  - Recut Groove
+  reinforced-groove-heavy-cut-groove:
+  - Heavy-Cut Groove
+  remix:
+  - re-edit
+  - version
+  - alternative mix
+  repertoire-sticker-catalog-hype-sticker:
+  - Catalog Hype Sticker
+  resonance-control-footers-isolation-feet:
+  - Isolation Feet
+  restock-cut-corner:
+  - Corner
+  return-to-jacket-sleeve-archival-practice:
+  - Archival Practice
+  reverb-tank-dub-cut:
+  - Tank Dub Cut
+  reverse-groove-inside-out-cut:
+  - Inside-Out Cut
+  reversible-picture-sleeve-double-sided-sleeve:
+  - Double-Sided Sleeve
+  riaa:
+  - RIAA curve
+  - equalization
+  - frequency response
+  rumble:
+  - turntable rumble
+  - mechanical noise
+  - vibration
+  runout:
+  - dead wax
+  - lead-out
+  - end groove
+  sacd-hybrid-disc-super-audio-cd-hybrid:
+  - Super Audio CD Hybrid
+  safety-groove-safety-runout:
+  - Safety-Runout
+  sampler-lp-promo-sampler:
+  - Promo Sampler
+  sampling-tonearm-servo-traced-arm:
+  - Servo-Traced Arm
+  saw-cut-notch-saw-mark-cut-out:
+  - Saw-Mark Cut-Out
+  scissor-cut-obi-fold-over-obi:
+  - Fold-Over Obi
+  scratch:
+  - scratching
+  - turntablism
+  - DJ technique
+  sealed-copy-still-sealed-ss:
+  - SS
+  seam-split:
+  - Split
+  seam-stress-ring-wear:
+  - Humorous Slang
+  seven-inch-single-7-inch-45:
+  - 7-Inch, 45
+  shaded-dog-label-rca-victor:
+  - RCA Victor
+  shelf-wear-jacket-shelf-wear:
+  - Jacket Shelf-Wear
+  shellac-disc-78-rpm-shellac:
+  - 78 RPM Shellac
+  shellac-needles-steel-needles:
+  - Steel Needles
+  short-spindle-adapter-45-adapter:
+  - 45 Adapter
+  shotgun-groove-wide-cut-disco-groove:
+  - Wide-Cut Disco Groove
+  shoulder-cut-sleeve-die-cut-display-sleeve:
+  - Die-Cut Display Sleeve
+  show-box-record-show-bin:
+  - Record Show Bin
+  shrink-wrap-shrink:
+  - Shrink
+  side-a-side-b:
+  - Side-B
+  side-chain-side-chain-cut:
+  - Side-Chain Cut
+  side-loader-sleeve-side-opening-sleeve:
+  - Side-Opening Sleeve
+  side-long-track-side-length-cut:
+  - Side-Length Cut
+  signal-to-noise-ratio-sn:
+  - S/N
+  silver-label-promo:
+  - Label Promo
+  single:
+  - '45'
+  - 7-inch
+  - 45 RPM
+  single-sided-lp-one-sided-disc:
+  - One-Sided Disc
+  single-step-plating-direct-metal-mastering-style:
+  - Direct Metal Mastering Style
+  sink-mark-dish-warp:
+  - Dish-Warp
+  sintered-bronze-bearing-tone-arm-platter:
+  - Tone-arm / Platter
+  sizzle-cymbal-test-audiophile-check-track:
+  - Audiophile Check Track
+  skip:
+  - jump
+  - hop
+  - track jump
+  skip-guard-groove-raised-guard-groove:
+  - Raised-Guard Groove
+  skip-loop-locked-skip:
+  - Locked Skip
+  skip-test-torture-track:
+  - Torture Track
+  sleaveface-sleeveface-meme:
+  - Meme
+  sleeve:
+  - jacket
+  - cover
+  - outer sleeve
+  sleeve-grading-vg-nm-etc:
+  - VG / NM / etc.
+  sleeve-notes-liner-notes:
+  - Liner Notes
+  sleeve-protector-outer-poly-sleeve:
+  - Outer Poly Sleeve
+  slip-mat-burn-mat-burn-ring:
+  - Mat-Burn Ring
+  slow-cut-lacquer-wide-pitch-cut:
+  - Wide-Pitch Cut
+  small-hole-45-standard-hole-single:
+  - Standard-Hole Single
+  sound-system-special-dub-plate-special:
+  - Dub-Plate Special
+  sound-wave-etching-visual-wave-jacket-art:
+  - Visual-Wave Jacket Art
+  spacer-ring-spindle-spacer:
+  - Spindle Spacer
+  speed:
+  - RPM
+  - revolutions per minute
+  - rotation speed
+  speed-change-knob-rpm-selector:
+  - RPM Selector
+  speed-pull-idler-pitch-pull-idler:
+  - Pitch-Pull Idler
+  spider-insert-45-spider:
+  - 45 Spider
+  spiral-groove-lead-in-lead-out:
+  - Lead-Out
+  stereo:
+  - stereophonic
+  - two-channel
+  - dual channel
+  stylus:
+  - needle
+  - pickup
+  - cartridge tip
+  target-label-lp:
+  - Label LP
+  test-pressing:
+  - test press
+  - reference pressing
+  - sample pressing
+  test-pressing-tp:
+  - TP
+  thermoplastic-biscuit-puck:
+  - Puck
+  three-sided-lp-hidden-side-album:
+  - Hidden-Side Album
+  thrift-store-find-thrift-dig:
+  - Thrift-Dig
+  time-code-vinyl-dvs-control-vinyl:
+  - DVS Control Vinyl
+  timing-strip-track-timing-sticker:
+  - Track-Timing Sticker
+  tone-arm:
+  - Arm
+  tone-arm-cable-phono-leads:
+  - Phono Leads
+  tone-arm-lift-cue-lever:
+  - Cue-Lever
+  tone-arm-rest-arm-lock:
+  - Arm-Lock
+  tonearm:
+  - tone arm
+  - pickup arm
+  - cartridge arm
+  top-loader-sleeve-top-opening-jacket:
+  - Top-Opening Jacket
+  track-banded-lp-banded-groove-album:
+  - Banded-Groove Album
+  track-listing-sticker-song-hype-sticker:
+  - Song-Hype Sticker
+  tracking:
+  - tracking force
+  - downforce
+  - stylus pressure
+  tracking-angle-vertical-tracking-angle-vta:
+  - VTA
+  tracking-force-stylus-pressure:
+  - Stylus Pressure
+  tracking-test-record-torture-track-lp:
+  - Torture-Track LP
+  transcription-disc-16-inch-transcription:
+  - 16-Inch Transcription
+  translucent-vinyl-variant:
+  - Vinyl Variant
+  transparent-vinyl-pressing:
+  - Vinyl Pressing
+  turntable:
+  - record player
+  - deck
+  - platter
+  turntable-mat-platter-mat:
+  - Platter Mat
+  un-banded-lp-continuous-groove-album:
+  - Continuous-Groove Album
+  un-dinked-45-solid-centre-45:
+  - Solid-Centre 45
+  unclamped-edge-warp:
+  - Warp
+  under-run-pressing-short-run-press:
+  - Short-Run Press
+  unipivot-tone-arm:
+  - Arm
+  universal-groove-standard:
+  - Standard
+  upscale-re-press-audiophile-reissue:
+  - Audiophile Reissue
+  v-notch-jacket-cut-corner-mark:
+  - Cut-Corner Mark
+  vacuum-platter-vacuum-hold-down:
+  - Vacuum Hold-Down
+  valve-amp-valve-phono-uk:
+  - UK
+  velvet-dust-brush-velvet-pad-cleaner:
+  - Velvet-Pad Cleaner
+  vertical-cut-groove-hill-and-dale-cut:
+  - Hill-and-Dale Cut
+  vertical-tracking-angle-vta:
+  - VTA
+  vertical-tracking-linear-arm-tangential-arm:
+  - Tangential Arm
+  vinyl:
+  - record
+  - disc
+  - LP
+  vinyl-chloride-pvc:
+  - PVC
+  vinyl-jacket-pvc-outer-bag-hazard:
+  - PVC Outer Bag Hazard
+  vinyl-weight-pressing-weight:
+  - Pressing Weight
+  virgin-vinyl-virgin-compound-pressing:
+  - Virgin-Compound Pressing
+  warp:
+  - warped
+  - bent
+  - distorted
+  warped-record-dish-warp-edge-warp:
+  - Dish-Warp / Edge-Warp
+  wash-clean-method-wet-play-vintage:
+  - Vintage
+  washboard-groove-damaged-groove:
+  - Damaged Groove
+  wax-poetics-magazine-term:
+  - Magazine & Term
+  wax-stamp-promo-gold-stamp-promo:
+  - Gold-Stamp Promo
+  weight-clamp-record-weight:
+  - Record Weight
+  wide-groove-78-rpm:
+  - 78 RPM
+  wide-spindle-45-large-hole-single:
+  - Large-Hole Single
+  wow:
+  - wow and flutter
+  - speed variation
+  - pitch variation
+  write-off-bin-cut-out-bin:
+  - Cut-Out Bin
+  y-groove-junction-run-out-crossover:
+  - Run-Out Crossover
+  yellow-label-promo:
+  - Label Promo
+  zip-tone-pops-static-zip-noise:
+  - Static-Zip Noise
+  zipper-cover-sleeve:
+  - Cover Sleeve

@@ -29,8 +29,7 @@ aka:
 - Slang
 genres:
 - Hip Hop
-- Electronic
----
+- Electronic---
 
 # Party Cut
 
@@ -40,5 +39,5 @@ genres:
 
 **Example:** “That party cut’s bassline hits hard — it’s the go-to opener for the set.”
 
-**Cultural Note:** * A staple term of disco, house, and hip-hop vinyl culture.
+**Cultural Note:** * A staple term of disco, [house](../h/house.md), and hip-hop vinyl culture.
 

@@ -26,10 +26,9 @@ updated: '2025-10-06'
 verification: unverified
 genres:
 - Hip Hop
-- Rock
----
+- Rock---
 
-# Pop-Guard (a.k.a. Dust-Pop Filter)
+# [Pop](../p/pop.md)-Guard (a.k.a. Dust-Pop Filter)
 
 **Definition:** **noun / DJ accessory / slang.** A felt or fabric pad placed over the stylus or under the mat to reduce static pops and protect against airborne dust — mostly informal term.
 

@@ -27,8 +27,7 @@ aka:
 - White-Label
 genres:
 - Hip Hop
-- Electronic
----
+- Electronic---
 
 # Blank Label
 
@@ -38,5 +37,5 @@ genres:
 
 **Example:** “I’ve got the original U.K. white-label of that rave anthem — came in a die-cut sleeve with just a sticker catalog number.”
 
-**Cultural Note:** * Crucial to dance-music scenes (garage, jungle, techno) where DJs wanted hot tracks before official release.
+**Cultural Note:** * Crucial to dance-music scenes (garage, jungle, [techno](../t/techno.md)) where DJs wanted hot tracks before official release.
 

@@ -26,8 +26,7 @@ verification: unverified
 aka:
 - Private-Label Pressing
 genres:
-- Jazz
----
+- Jazz---
 
 # Private-Press
 
@@ -37,5 +36,5 @@ genres:
 
 **Example:** “That rural Ohio private-press psych-folk LP had only 200 copies made and is a grail today.”
 
-**Cultural Note:** * A vast, eccentric realm beloved by crate-diggers for unpolished regional soul, jazz, gospel, psych, and high-school-band albums.
+**Cultural Note:** * A vast, eccentric realm beloved by crate-diggers for unpolished regional soul, [jazz](../j/jazz.md), gospel, psych, and high-school-band albums.
 

@@ -2,19 +2,26 @@
 
 Browse all vinyl terminology terms starting with the letter **A**.
 
-## Terms (11 total)
+## Terms (18 total)
 
 - [ab-test-press](../terms/a/ab-test-press.md)
 - [acetate](../terms/a/acetate.md)
 - [acoustic-suspension](../terms/a/acoustic-suspension.md)
 - [add-on-arm-weight](../terms/a/add-on-arm-weight.md)
+- [african](../terms/a/african.md)
 - [album](../terms/a/album.md)
 - [alignment-protractor](../terms/a/alignment-protractor.md)
 - [alternate-take](../terms/a/alternate-take.md)
+- [alternative-hip-hop](../terms/a/alternative-hip-hop.md)
+- [alternative-rock](../terms/a/alternative-rock.md)
+- [ambient](../terms/a/ambient.md)
 - [anti-skate](../terms/a/anti-skate.md)
+- [art-pop](../terms/a/art-pop.md)
+- [asian](../terms/a/asian.md)
 - [audiophile-pressing](../terms/a/audiophile-pressing.md)
 - [automatic-return](../terms/a/automatic-return.md)
 - [auxiliary-weight](../terms/a/auxiliary-weight.md)
+- [avant-garde](../terms/a/avant-garde.md)
 
 
 ---

@@ -1,0 +1,474 @@
+generated_at: '2025-10-06T21:09:11.304518'
+total_terms_checked: 568
+terms_with_issues: 64
+sensitivity_summary:
+  ageist: 27
+  classist: 27
+  racial: 8
+  historical_bias: 4
+  ableist: 1
+terms_needing_review:
+- term: Restock Cut
+  file: terms/r/restock-cut-corner.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Re-Grind Vinyl
+  file: terms/r/re-grind-vinyl-re-ground-compound.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Record Changer
+  file: terms/r/record-changer-stack-changer.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Un-Banded LP
+  file: terms/u/un-banded-lp-continuous-groove-album.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Un-Dinked 45
+  file: terms/u/un-dinked-45-solid-centre-45.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Ivory-Label Variant
+  file: terms/i/ivory-label-variant.md
+  issues:
+  - Definition contains 'colored' (potentially racial)
+  sensitivity_types:
+  - racial
+  sensitivity_level: high
+- term: New-Old-Stock
+  file: terms/n/new-old-stock-nos.md
+  issues:
+  - Term contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Gatefold
+  file: terms/g/gatefold.md
+  issues:
+  - Term contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Ground
+  file: terms/g/ground-loop-hum.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Groove Guard
+  file: terms/g/groove-guard.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Zero-Rumble Spec
+  file: terms/z/zero-rumble-spec.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Tone
+  file: terms/t/tone-arm.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Translucent
+  file: terms/t/translucent-vinyl-variant.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Target
+  file: terms/t/target-label-lp.md
+  issues:
+  - Definition contains 'colored' (potentially racial)
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - racial
+  - ageist
+  sensitivity_level: high
+- term: Side-A
+  file: terms/s/side-a-side-b.md
+  issues:
+  - 'Contains sensitivity context clue: ''historically'''
+  sensitivity_types:
+  - historical_bias
+  sensitivity_level: mild
+- term: Shibata Stylus
+  file: terms/s/shibata-stylus.md
+  issues:
+  - Definition contains 'race' (potentially racial)
+  sensitivity_types:
+  - racial
+  sensitivity_level: high
+- term: Single-Sided LP
+  file: terms/s/single-sided-lp-one-sided-disc.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Scissor-Cut Obi
+  file: terms/s/scissor-cut-obi-fold-over-obi.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Silver
+  file: terms/s/silver-label-promo.md
+  issues:
+  - Definition contains 'colored' (potentially racial)
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - racial
+  - classist
+  sensitivity_level: high
+- term: Speed-Pull Idler
+  file: terms/s/speed-pull-idler-pitch-pull-idler.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Full-Range Speaker
+  file: terms/f/full-range-speaker.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Flat-Edge Pressing
+  file: terms/f/flat-edge-pressing.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Fig-Leaf Sleeve
+  file: terms/f/fig-leaf-sleeve.md
+  issues:
+  - 'Contains sensitivity context clue: ''controversial'''
+  sensitivity_types:
+  - historical_bias
+  sensitivity_level: mild
+- term: Flamenco
+  file: terms/f/flamenco.md
+  issues:
+  - Term contains 'lame' (potentially ableist)
+  - Definition contains 'lame' (potentially ableist)
+  sensitivity_types:
+  - ableist
+  sensitivity_level: mild
+- term: Outer Jacket
+  file: terms/o/outer-jacket-outer-sleeve.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Old School Hip Hop
+  file: terms/o/old-school-hip-hop.md
+  issues:
+  - Term contains 'old' (potentially ageist)
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Hip-Pocket Disc
+  file: terms/h/hip-pocket-disc.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Hand-Numbered Edition
+  file: terms/h/hand-numbered-edition.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Headshell Lead Wires
+  file: terms/h/headshell-lead-wires.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Hot Cut
+  file: terms/h/hot-cut.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Headshell
+  file: terms/h/headshell.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Half-Speed Mastering
+  file: terms/h/half-speed-mastering.md
+  issues:
+  - Definition contains 'race' (potentially racial)
+  sensitivity_types:
+  - racial
+  sensitivity_level: high
+- term: Micro-Line Stylus
+  file: terms/m/micro-line-stylus-aka-line-contact.md
+  issues:
+  - Definition contains 'race' (potentially racial)
+  sensitivity_types:
+  - racial
+  sensitivity_level: high
+- term: Mail-Order-Only Release
+  file: terms/m/mail-order-only-release.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Mid-Side Fold-Down
+  file: terms/m/mid-side-fold-down-mono-re-cut.md
+  issues:
+  - Term contains 'old' (potentially ageist)
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Moving-Magnet Cartridge
+  file: terms/m/moving-magnet-cartridge-mm.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Jacket Flap
+  file: terms/j/jacket-flap-flap-back-sleeve.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - classist
+  - ageist
+  sensitivity_level: moderate
+- term: Color-Vinyl Pressing
+  file: terms/c/color-vinyl-pressing.md
+  issues:
+  - Definition contains 'colored' (potentially racial)
+  sensitivity_types:
+  - racial
+  sensitivity_level: high
+- term: Cartridge
+  file: terms/c/cartridge.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Cleaning Solution
+  file: terms/c/cleaning-solution-record-cleaning-fluid.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Drop-Spindle
+  file: terms/d/drop-spindle.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Deep Groove
+  file: terms/d/deep-groove.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Variable Reluctance Cartridge
+  file: terms/v/variable-reluctance-cartridge.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: EP (Extended Play)
+  file: terms/e/ep-extended-play.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Edge
+  file: terms/e/edge-warp.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Basket
+  file: terms/b/basket-case-copy.md
+  issues:
+  - Definition contains 'poor' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Knife-Edge Bearing
+  file: terms/k/knife-edge-bearing-tonearm-design.md
+  issues:
+  - Definition contains 'race' (potentially racial)
+  sensitivity_types:
+  - racial
+  sensitivity_level: high
+- term: Lathe
+  file: terms/l/lathe-cut-record.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Landfill Vinyl
+  file: terms/l/landfill-vinyl-slang.md
+  issues:
+  - 'Contains sensitivity context clue: ''derogatory'''
+  sensitivity_types:
+  - historical_bias
+  sensitivity_level: mild
+- term: Library Music LP
+  file: terms/l/library-music-lp.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Yoke-Mount Cartridge
+  file: terms/y/yoke-mount-cartridge.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Promo Stamp
+  file: terms/p/promo-stamp-gold-stamp-promo.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Portable Record Changer
+  file: terms/p/portable-record-changer-suitcase-player.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Paste-On Slick Jacket
+  file: terms/p/paste-on-slick-jacket.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Plain
+  file: terms/p/plain-sleeve-45.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Phono
+  file: terms/p/phono-stage-hum.md
+  issues:
+  - Definition contains 'poor' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Patch
+  file: terms/p/patch-cable-hum.md
+  issues:
+  - Definition contains 'poor' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Permanent Marker Groove
+  file: terms/p/permanent-marker-groove-check.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Pirated Pressing
+  file: terms/p/pirated-pressing.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Penny-Weight
+  file: terms/p/penny-weight-turntable-hack.md
+  issues:
+  - Definition contains 'common' (potentially classist)
+  sensitivity_types:
+  - classist
+  sensitivity_level: mild
+- term: Wing-Flap Inner Sleeve
+  file: terms/w/wing-flap-inner-sleeve.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Wash-Clean Method / Wet-Play
+  file: terms/w/wash-clean-method-wet-play-vintage.md
+  issues:
+  - 'Contains sensitivity context clue: ''obsolete'''
+  sensitivity_types:
+  - historical_bias
+  sensitivity_level: mild
+- term: Warp-Resistant Pressing
+  file: terms/w/warp-resistant-pressing.md
+  issues:
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+- term: Wrap-Around Gatefold
+  file: terms/w/wrap-around-gatefold.md
+  issues:
+  - Term contains 'old' (potentially ageist)
+  - Definition contains 'old' (potentially ageist)
+  sensitivity_types:
+  - ageist
+  sensitivity_level: mild
+recommendations:
+- Review terms with sensitivity issues and add appropriate cultural_sensitivity metadata
+- Consider adding content warnings for terms with 'high' sensitivity levels
+- Provide historical context for outdated terminology
+- Suggest modern alternatives where appropriate
+- Use appropriate obscuration methods (blur, click_reveal, etc.)

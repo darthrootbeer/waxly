@@ -24,12 +24,11 @@ term: Post-Punk Pressing
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Rock
----
+- Rock---
 
 # Post-Punk Pressing
 
-**Definition:** **noun / cultural collector tag.** Any first-wave pressing from the post-punk movement (roughly 1978-1984), prized for raw production and indie-label scarcity.
+**Definition:** **noun / cultural collector tag.** Any first-wave pressing from the post-[punk](../p/punk.md) movement (roughly 1978-1984), prized for raw production and indie-label scarcity.
 
 **Etymology:** Genre label *post-punk* + *pressing*.
 

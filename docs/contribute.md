@@ -1,273 +1,77 @@
-# Contributing to the Vinyl Lexicon
+# Contributing to Waxly
 
-We welcome contributions from vinyl enthusiasts, collectors, audio engineers, DJs, and anyone passionate about preserving vinyl culture knowledge. This guide will help you get started.
+We welcome contributions from vinyl enthusiasts, collectors, audio engineers, DJs, and anyone passionate about vinyl culture. Your knowledge and experience help make this resource better for everyone.
 
-## 🚀 Quick Start
+## How to Contribute
 
-1. **Fork the repository** on GitHub
-2. **Set up local development** (see Development Setup below)
-3. **Create a branch** for your changes
-4. **Make your contributions** following our guidelines
-5. **Validate your changes** using our automated tools
-6. **Submit a pull request** for review
-7. **Collaborate** with the community to refine your contribution
+Have a term to add or improve? Found an error? Want to share regional variations or cultural context? You can contribute in several ways:
 
-## 📝 Types of Contributions
+1. **Submit via GitHub Issues**: Open an issue describing your suggestion
+2. **Contact us directly**: Reach out through GitHub with your contribution
+3. **Share your expertise**: Provide feedback on existing terms
+
+## Types of Contributions
 
 ### Adding New Terms
-- Research and document new terminology
-- Provide clear definitions with examples
-- Include cultural context and historical notes
-- Add cross-references to related terms
+Document new vinyl terminology with clear definitions, examples, and cultural context. Include information about where and when the term is used.
 
 ### Improving Existing Terms
-- Enhance definitions with additional detail
-- Add missing cultural context or examples
-- Correct inaccuracies or outdated information
-- Improve cross-references and linking
+Enhance definitions with additional detail, add missing cultural context, correct inaccuracies, or share regional variations you're familiar with.
 
-### Regional Variations
-- Document geographic differences in terminology
-- Add pronunciation guides for regional variations
-- Provide cultural context for local usage
-- Contribute translations and equivalents
+### Sharing Regional Knowledge
+Document how terms are used differently in different regions, provide pronunciation guides, or contribute translations and local equivalents.
 
-### Multimedia Content
-- Add images of equipment, records, or techniques
-- Contribute audio examples or pronunciation guides
-- Create diagrams or technical illustrations
-- Provide video demonstrations or tutorials
+### Multimedia Contributions
+Share images of equipment or records, audio examples, diagrams, or other media that helps explain terminology.
 
-## 📋 Term Format Guidelines
+## What Makes a Good Entry
 
-### File Structure
-Each term should be a separate Markdown file with rich front-matter. Files are organized by first letter in `docs/terms/{letter}/`:
+### Clear Definitions
+Entries should be easy to understand with practical examples. Definitions should be accurate, factually correct, and comprehensive enough to cover the important aspects of the term.
 
-```yaml
----
-term: "Term Name"
-slug: "term-name"
-pos: "noun"
-aliases: ["alias1", "alias2"]
-tags: ["equipment", "pressing", "quality-control"]
-domains: ["pressing_technique", "quality_control"]
-regions: ["US", "UK"]
-eras: ["1970s", "1980s", "modern"]
-first_attested: "1970s"
-pronunciation: "/tɜrm neɪm/"
-see_also: ["related-term-1", "related-term-2"]
-sources:
-  - label: "Source Name"
-    url: "https://example.com"
-summary: "Brief one-sentence definition"
-updated: "2025-01-27"
-popularity: 6
-complexity: "intermediate"
-status: "active"
-context: "technical"
-verification: "verified"
-equipment_association: ["turntable", "cartridge"]
-genres: ["Rock", "Jazz", "Electronic"]
-decade: "1970s"
----
+### Cultural Context
+Include relevant background information such as where the term originated, when it was first used, how it's used in different communities, and why it matters to vinyl culture.
 
-# Term Name
+### Supporting Information
+When possible, provide:
+- Alternative names or spellings
+- Related terminology
+- Historical background
+- Regional differences
+- Relevant genres or equipment
 
-**Definition:** Clear, concise definition of the term.
+## Quality Standards
 
-**Etymology:** Origin and development of the term (when known).
+All contributions are reviewed for:
+- **Accuracy**: Factually correct and current information
+- **Clarity**: Easy to understand definitions and examples
+- **Completeness**: Covers important aspects of the term
+- **Cultural sensitivity**: Respectful and inclusive representation
+- **Proper attribution**: Sources cited when applicable
 
-**Example:** Practical example of the term in use.
+## Frequently Asked Questions
 
-**Cultural Note:** Historical context, cultural significance, or interesting facts.
-```
+**How do I know if a term already exists?**
+Use the search function or browse alphabetically through the terms.
 
-### Required Fields
-- `term`: The canonical name of the term
-- `slug`: URL-friendly version (lowercase, hyphens) - must match filename
-- `pos`: Part of speech (noun, verb, adjective, etc.)
-- `summary`: One-sentence definition
-- `updated`: ISO date (YYYY-MM-DD)
+**What if I'm not sure about something?**
+Submit what you know and note any uncertainties. The community can help verify and refine the information.
 
-### Recommended Fields
-- `aliases`: Alternative names or spellings
-- `tags`: Categorization tags (equipment, pressing, dj-related, etc.)
-- `regions`: Geographic usage areas (US, UK, etc.)
-- `eras`: Time periods when term was/is used
-- `see_also`: Related terms for cross-referencing
-- `popularity`: Current usage level (1-10 scale)
-- `complexity`: User skill level (beginner/intermediate/advanced/expert)
-- `genres`: Associated music genres (use Discogs taxonomy)
+**Can I contribute terms from languages other than English?**
+Yes! We document regional variations and terms from vinyl communities worldwide.
 
-### Genre Taxonomy
-Use these standardized genre values from the Discogs taxonomy:
-- "Rock", "Pop", "Jazz", "Classical", "Electronic", "Hip Hop"
-- "Funk / Soul", "Blues", "Reggae", "Latin", "Folk, World, & Country"
-- "Non-Music", "Children's", "Brass & Military", "Stage & Screen"
+**What if I find an error?**
+Let us know via GitHub Issues or contact us directly with the correction.
 
-## 🎯 Quality Standards
+**How long does review take?**
+Review times vary, but we appreciate your patience as we ensure quality and accuracy.
 
-### Definition Quality
-- **Clear and concise**: Easy to understand for target audience
-- **Accurate**: Factually correct and up-to-date
-- **Complete**: Covers all important aspects of the term
-- **Contextual**: Includes relevant background information
+## Contact
 
-### Cultural Sensitivity
-- **Respectful**: Acknowledge cultural origins and significance
-- **Inclusive**: Represent diverse perspectives and experiences
-- **Accurate**: Avoid stereotypes or misrepresentations
-- **Contextual**: Provide appropriate historical and cultural context
-
-### Technical Accuracy
-- **Verified**: Information should be fact-checked and sourced
-- **Current**: Reflects modern understanding and usage
-- **Precise**: Uses correct technical terminology
-- **Comprehensive**: Covers all relevant technical aspects
-
-## 🔍 Review Process
-
-### Pull Request Review
-1. **Automated checks**: Linting, validation, and formatting
-2. **Community review**: Feedback from other contributors
-3. **Expert validation**: Technical accuracy verification
-4. **Final approval**: Maintainer sign-off and merge
-
-### Review Criteria
-- **Content quality**: Accuracy, completeness, and clarity
-- **Format compliance**: Follows established guidelines
-- **Cultural sensitivity**: Appropriate and respectful representation
-- **Technical accuracy**: Correct information and terminology
-- **Cross-references**: Proper linking to related terms
-
-## 🛠️ Development Setup
-
-### Prerequisites
-- Git for version control
-- Python 3.8+ for validation scripts
-- MkDocs for local development server
-- Node.js (optional, for Pagefind search)
-
-### Local Development
-```bash
-# Clone your fork
-git clone https://github.com/your-username/vinyl-lexicon.git
-cd vinyl-lexicon
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run validation
-python scripts/validate_terms.py
-
-# Start development server
-mkdocs serve
-```
-
-### Available Scripts
-- **`validate_terms.py`**: Check front-matter completeness and schema compliance
-- **`fix_validation_issues.py`**: Automatically fix common validation errors
-- **`autolink_cross_references.py`**: Add cross-references between terms
-- **`generate_letter_hubs.py`**: Generate letter-based navigation pages
-- **`generate_tag_hubs.py`**: Generate tag-based navigation pages
-
-### Validation Tools
-- **Term validation**: Check front-matter completeness and format
-- **Schema validation**: Validate against `schema/term.schema.json`
-- **Link checking**: Verify cross-references and internal links
-- **Content linting**: Ensure consistent formatting and style
-- **Autolinking**: Automatically create cross-references between related terms
-
-## 📚 Resources
-
-### Reference Materials
-- [Term Schema Documentation](../schema/term.schema.json) - Complete field definitions and validation rules
-- [Tag Taxonomy](../docs/data/taxonomy.yml) - Available tags and categories
-- [Field Visibility Guide](../schema/VISIBILITY_GUIDE.md) - Which fields appear in different contexts
-- [Media Guide](../schema/MEDIA_GUIDE.md) - Guidelines for multimedia content
-- [Discogs Taxonomy](../schema/DISCOGS_TAXONOMY.md) - Genre classification system
-
-### Project Structure
-- **`docs/terms/{letter}/`**: Individual term files organized by first letter
-- **`docs/letters/`**: Auto-generated letter hub pages
-- **`docs/tags/`**: Auto-generated tag hub pages
-- **`scripts/`**: Validation and automation tools
-- **`schema/`**: JSON schemas and documentation
-
-### Community
-- **GitHub Issues**: Bug reports, feature requests, and discussions
-- **Pull Requests**: Submit contributions and improvements
-- **GitHub Discussions**: Community conversations and Q&A
-
-## 🎉 Recognition
-
-### Contributor Credits
-- All contributors are credited in the repository
-- Significant contributions are highlighted in release notes
-- Community members are recognized for their expertise and dedication
-
-### Contributor Levels
-- **Contributor**: Any meaningful contribution
-- **Reviewer**: Regular contributor with review privileges
-- **Maintainer**: Core team member with merge privileges
-- **Expert**: Recognized authority in specific domains
-
-## ❓ Frequently Asked Questions
-
-### Q: How do I know if a term already exists?
-A: Use the search functionality or browse by letter. Check for aliases and alternative spellings.
-
-### Q: What if I'm not sure about the accuracy of information?
-A: Mark the term as `verification: "needs_research"` and include your sources. The community can help verify.
-
-### Q: Can I contribute terms in languages other than English?
-A: Yes! Use the `translation` field and `regions` field to document multilingual terms.
-
-### Q: How do I handle controversial or disputed terms?
-A: Present multiple perspectives fairly, cite sources, and use the `discussion` field for community input.
-
-### Q: What if I find an error in an existing term?
-A: Submit a pull request with corrections, or open an issue to discuss the changes needed.
-
-### Q: How do I run the validation tools?
-A: Use `python scripts/validate_terms.py` to check all terms, or `python scripts/fix_validation_issues.py` to automatically fix common issues.
-
-### Q: What if my term doesn't pass validation?
-A: Check the error messages and use the fix script, or refer to the schema documentation for field requirements.
-
-## 🔧 Automated Workflows
-
-### Pre-commit Validation
-Before submitting your changes, run these commands:
-
-```bash
-# Validate all terms
-python scripts/validate_terms.py
-
-# Fix common validation issues
-python scripts/fix_validation_issues.py
-
-# Regenerate navigation pages
-python scripts/generate_letter_hubs.py
-python scripts/generate_tag_hubs.py
-
-# Add cross-references
-python scripts/autolink_cross_references.py
-
-# Test MkDocs build
-mkdocs build
-```
-
-### Common Issues and Fixes
-- **Schema validation errors**: Use `fix_validation_issues.py` to automatically fix common problems
-- **Missing cross-references**: Run `autolink_cross_references.py` to add links between related terms
-- **Broken navigation**: Regenerate hub pages with the generate scripts
-- **Link validation errors**: Check that all internal links use proper `.md` extensions
+To contribute or ask questions:
+- **GitHub Issues**: [github.com/darthrootbeer/vinyl-lexicon/issues](https://github.com/darthrootbeer/vinyl-lexicon/issues)
+- **GitHub**: [darthrootbeer/vinyl-lexicon](https://github.com/darthrootbeer/vinyl-lexicon)
 
 ---
 
-*Thank you for contributing to the Vinyl Lexicon! Your efforts help preserve and expand the knowledge that makes vinyl culture so rich and diverse.*
+*Thank you for helping preserve vinyl culture knowledge!*

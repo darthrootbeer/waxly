@@ -16,6 +16,126 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Record label database with parent/subsidiary relationships
 - Mobile app version
 
+## [2.6.0] - 2025-10-07
+
+### Changed
+
+- **Rebranded to Waxly**: Complete rebrand from "Vinyl Lexicon" to "Waxly"
+  - New tagline: "The Language of Vinyl, Defined."
+  - Updated all documentation, configuration files, and site metadata
+  - New custom domain: hellowaxly.com
+- **GitHub Pages Setup**:
+  - Created automated deployment workflow
+  - Added CNAME file for custom domain
+  - Configured for public hosting
+- **Custom Styling**:
+  - New dark record-sleeve-inspired aesthetic
+  - Custom CSS with Waxly brand colors (matte black #0a0a0a, warm gold #ffb400)
+  - Enhanced typography and navigation styling
+
+### Added
+
+- GitHub Actions workflow for automated deployment
+- Custom Waxly CSS theme with dark aesthetic
+- CNAME file for hellowaxly.com custom domain
+- Updated site configuration for public hosting
+
+## [2.5.0] - 2025-10-07
+
+### Changed
+
+- **Site Simplification**: Transformed site into Wikipedia-style public resource
+  - Landing page (index.md) now focuses solely on content access
+  - Removed technical language about pull requests, installations, and development setup
+  - Moved project meta-information, statistics, and architecture details to About page
+- **Documentation Updates**:
+  - Simplified contribute.md to remove Git commands and technical workflows
+  - Updated README.md to be less developer-focused
+  - Updated CONTRIBUTING.md to emphasize accessibility over technical process
+- **User Experience**: Site now presents as a clean reference resource rather than a developer project
+
+### Removed
+
+- Technical setup instructions from main documentation
+- Git workflow and command references from public-facing pages
+- Developer-centric language from landing and contribute pages
+
+## [2.4.0] - 2025-10-06
+
+### Added
+
+- **Individual Discogs Genre & Style Entries**: Created 96 individual lexicon entries for all Discogs genres and styles instead of using enum fields
+- **Cultural Sensitivity System**: Comprehensive system for handling inappropriate or offensive terms with warnings and user controls
+- **User Preference System**: Checkbox-based controls for displaying sensitive content with age verification (18+)
+- **Content Obscuration Methods**: 6 different ways to hide/reveal sensitive content (blur, censor, hover_reveal, click_reveal, expandable, none)
+- **Age Verification System**: 18+ checkbox requirement for mature content with automatic filtering
+- **Persistent User Preferences**: localStorage-based preference system that remembers user choices across sessions
+- **Automated Sensitivity Detection**: Script to scan all 568 terms and identify potential sensitivity issues
+- **Regional Variations Field**: New schema field for regional names, variations, and slang terms with geographic context
+- **ISO-8601 Datetime Fields**: Updated `created` and `updated` fields to use proper datetime format with timezone support
+- **Discogs API Integration Framework**: Prepared infrastructure for v3.0 automated sync with Discogs database
+
+### Changed
+
+- **Schema Structure**: Converted genres and styles from enum fields to references to individual lexicon entries
+- **Field Visibility System**: All fields now visible by default with proper documentation
+- **Term Validation**: Enhanced validation with cultural sensitivity and age restriction support
+- **Documentation**: Updated all guides to reflect new field structure and sensitivity handling
+
+### Fixed
+
+- **Field Display Issues**: Resolved problem where "aka" field wasn't showing due to visibility configuration
+- **Schema Consistency**: Ensured all new fields are properly integrated into validation and display systems
+- **Cultural Sensitivity Handling**: Proper warnings and context for historically inappropriate terminology
+
+### Technical
+
+- **New Scripts**: `generate_discogs_entries.py`, `check_cultural_sensitivity.py`, `discogs_sync.py`
+- **New Templates**: `sensitive_content.html`, `sensitivity_preferences.html`, `sensitivity_nav.html`
+- **Enhanced Schema**: Added `cultural_sensitivity` and `regional_variations` objects with comprehensive validation
+- **User Interface**: Complete preference system with real-time updates and persistent storage
+
+## [2.3.0] - 2025-10-06
+
+### Added
+
+- **MkDocs Integration**: Complete documentation site with Material theme
+- **Pagefind Search**: Advanced search functionality for the documentation site
+- **AI Integration**: Advanced AI features for content processing and enhancement
+- **Autolinking System**: Automatic cross-reference linking between terms
+- **Pre-commit Hooks**: Automated validation and quality control system
+- **Letter and Tag Hub Pages**: Automatic generation of navigation hub pages
+- **Enhanced Validation**: Comprehensive validation system for content quality
+
+### Changed
+
+- **Documentation Structure**: Streamlined README, CONTRIBUTING, and STATUS files
+- **Site Display**: Fixed navigation and display issues
+- **Version Management**: Improved semantic versioning and version management tools
+
+### Fixed
+
+- **Site Navigation**: Resolved display and navigation issues
+- **Validation Issues**: Fixed content validation problems
+- **GitHub Pages**: Removed GitHub Pages configuration and references
+
+## [2.2.0] - 2025-10-06
+
+### Added
+
+- **MkDocs Setup**: Initial MkDocs configuration with Material theme
+- **Hub Page Generation**: Automatic generation of letter and tag hub pages
+- **Cross-Reference Autolinking**: Script for automatic cross-reference linking
+
+### Changed
+
+- **Documentation**: Refined contributor documentation and guidelines
+- **Project Structure**: Enhanced project organization and file structure
+
+### Fixed
+
+- **Validation**: Fixed various validation issues throughout the project
+
 ## [2.1.0] - 2025-10-06
 
 ### Added
@@ -101,4 +221,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-**Last Updated**: 2025-01-27
+**Last Updated**: 2025-10-06

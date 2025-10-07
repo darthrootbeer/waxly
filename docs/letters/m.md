@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **M**.
 
-## Terms (19 total)
+## Terms (23 total)
 
 - [macro-groove](../terms/m/macro-groove.md)
 - [magnetic-cartridge](../terms/m/magnetic-cartridge.md)
@@ -16,13 +16,17 @@ Browse all vinyl terminology terms starting with the letter **M**.
 - [micro-groove](../terms/m/micro-groove.md)
 - [micro-line-stylus-aka-line-contact](../terms/m/micro-line-stylus-aka-line-contact.md)
 - [mid-side-fold-down-mono-re-cut](../terms/m/mid-side-fold-down-mono-re-cut.md)
+- [middle-eastern](../terms/m/middle-eastern.md)
 - [mint-minus](../terms/m/mint-minus.md)
 - [mirror-finish-stamper](../terms/m/mirror-finish-stamper.md)
+- [modern-classical](../terms/m/modern-classical.md)
 - [mono-switch](../terms/m/mono-switch.md)
+- [motown](../terms/m/motown.md)
 - [moving-coil-cartridge-mc](../terms/m/moving-coil-cartridge-mc.md)
 - [moving-magnet-cartridge-mm](../terms/m/moving-magnet-cartridge-mm.md)
 - [multi-disc-box-set](../terms/m/multi-disc-box-set.md)
 - [multi-groove-record-trick-groove](../terms/m/multi-groove-record-trick-groove.md)
+- [musical-theater](../terms/m/musical-theater.md)
 
 
 ---

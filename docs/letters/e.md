@@ -2,12 +2,15 @@
 
 Browse all vinyl terminology terms starting with the letter **E**.
 
-## Terms (12 total)
+## Terms (17 total)
 
 - [edge-warp](../terms/e/edge-warp.md)
 - [edison-disc](../terms/e/edison-disc.md)
 - [eight-track-cartridge](../terms/e/eight-track-cartridge.md)
+- [electric-blues](../terms/e/electric-blues.md)
 - [electric-pickup](../terms/e/electric-pickup.md)
+- [electro](../terms/e/electro.md)
+- [electronic](../terms/e/electronic.md)
 - [elliptical-stylus](../terms/e/elliptical-stylus.md)
 - [emi-electric-musical-industries](../terms/e/emi-electric-musical-industries.md)
 - [ep-extended-play](../terms/e/ep-extended-play.md)
@@ -15,7 +18,9 @@ Browse all vinyl terminology terms starting with the letter **E**.
 - [equal-loudness-curve](../terms/e/equal-loudness-curve.md)
 - [etched-side-etching](../terms/e/etched-side-etching.md)
 - [etching-run-out-etching](../terms/e/etching-run-out-etching.md)
+- [european-folk](../terms/e/european-folk.md)
 - [ex-library-copy](../terms/e/ex-library-copy.md)
+- [experimental](../terms/e/experimental.md)
 
 
 ---

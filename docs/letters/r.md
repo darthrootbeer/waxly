@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **R**.
 
-## Terms (41 total)
+## Terms (46 total)
 
 - [rack-jobber-sticker](../terms/r/rack-jobber-sticker.md)
 - [radius-arm-s-arm-tonearm](../terms/r/radius-arm-s-arm-tonearm.md)
@@ -30,6 +30,7 @@ Browse all vinyl terminology terms starting with the letter **R**.
 - [red-wax-pressing-red-vinyl-pressing](../terms/r/red-wax-pressing-red-vinyl-pressing.md)
 - [reference-lacquer](../terms/r/reference-lacquer.md)
 - [reflex-clamp-reflex-weight](../terms/r/reflex-clamp-reflex-weight.md)
+- [reggae](../terms/r/reggae.md)
 - [regional-pressing](../terms/r/regional-pressing.md)
 - [regroove-recut-groove](../terms/r/regroove-recut-groove.md)
 - [reinforced-groove-heavy-cut-groove](../terms/r/reinforced-groove-heavy-cut-groove.md)
@@ -44,7 +45,11 @@ Browse all vinyl terminology terms starting with the letter **R**.
 - [reverb-tank-dub-cut](../terms/r/reverb-tank-dub-cut.md)
 - [reverse-groove-inside-out-cut](../terms/r/reverse-groove-inside-out-cut.md)
 - [reversible-picture-sleeve-double-sided-sleeve](../terms/r/reversible-picture-sleeve-double-sided-sleeve.md)
+- [rhythm-blues](../terms/r/rhythm-blues.md)
 - [riaa-curve-riaa-playback-equalization](../terms/r/riaa-curve-riaa-playback-equalization.md)
+- [rock](../terms/r/rock.md)
+- [romantic](../terms/r/romantic.md)
+- [roots-reggae](../terms/r/roots-reggae.md)
 
 
 ---

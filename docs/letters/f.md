@@ -2,15 +2,17 @@
 
 Browse all vinyl terminology terms starting with the letter **F**.
 
-## Terms (21 total)
+## Terms (29 total)
 
 - [fanzine](../terms/f/fanzine.md)
 - [feedthrough](../terms/f/feedthrough.md)
 - [fidelity](../terms/f/fidelity.md)
 - [fig-leaf-sleeve](../terms/f/fig-leaf-sleeve.md)
+- [film-score](../terms/f/film-score.md)
 - [finger-lift-headshell-finger-lift](../terms/f/finger-lift-headshell-finger-lift.md)
 - [first-pressing](../terms/f/first-pressing.md)
 - [fish-eye-label](../terms/f/fish-eye-label.md)
+- [flamenco](../terms/f/flamenco.md)
 - [flanging](../terms/f/flanging.md)
 - [flash-cut-hot-cut](../terms/f/flash-cut-hot-cut.md)
 - [flat-edge-pressing](../terms/f/flat-edge-pressing.md)
@@ -19,12 +21,18 @@ Browse all vinyl terminology terms starting with the letter **F**.
 - [flight-case](../terms/f/flight-case.md)
 - [flip-side](../terms/f/flip-side.md)
 - [foam-rot](../terms/f/foam-rot.md)
+- [folk](../terms/f/folk.md)
+- [folk-rock](../terms/f/folk-rock.md)
 - [foot-fall-feedback](../terms/f/foot-fall-feedback.md)
 - [four-track-early-tape-format](../terms/f/four-track-early-tape-format.md)
+- [free-jazz](../terms/f/free-jazz.md)
 - [frequency-response](../terms/f/frequency-response.md)
 - [fringe-label](../terms/f/fringe-label.md)
 - [front-end-of-the-system](../terms/f/front-end-of-the-system.md)
 - [full-range-speaker](../terms/f/full-range-speaker.md)
+- [funk](../terms/f/funk.md)
+- [funk-rock](../terms/f/funk-rock.md)
+- [fusion](../terms/f/fusion.md)
 
 
 ---

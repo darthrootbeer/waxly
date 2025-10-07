@@ -2,8 +2,9 @@
 
 Browse all vinyl terminology terms starting with the letter **G**.
 
-## Terms (12 total)
+## Terms (14 total)
 
+- [gangsta-rap](../terms/g/gangsta-rap.md)
 - [gatefold](../terms/g/gatefold.md)
 - [generation-loss](../terms/g/generation-loss.md)
 - [go](../terms/g/go.md)
@@ -15,6 +16,7 @@ Browse all vinyl terminology terms starting with the letter **G**.
 - [groovebox](../terms/g/groovebox.md)
 - [ground-loop-hum](../terms/g/ground-loop-hum.md)
 - [ground-wire-turntable-ground-lead](../terms/g/ground-wire-turntable-ground-lead.md)
+- [grunge](../terms/g/grunge.md)
 - [guitar-shaped-picture-disc](../terms/g/guitar-shaped-picture-disc.md)
 
 

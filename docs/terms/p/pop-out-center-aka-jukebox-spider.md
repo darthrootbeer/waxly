@@ -22,10 +22,9 @@ verification: unverified
 aka:
 - a.k.a. Jukebox Spider
 genres:
-- Rock
----
+- Rock---
 
-# Pop-Out Center
+# [Pop](../p/pop.md)-Out Center
 
 **Definition:** **noun / 7-inch single part.** The large center section of many 45 RPM singles that can be punched out to fit jukebox spindles or snapped back in for standard players.
 

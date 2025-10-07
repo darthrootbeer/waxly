@@ -23,8 +23,7 @@ term: Alternate Take
 updated: '2025-10-06'
 verification: unverified
 genres:
-- Jazz
----
+- Jazz---
 
 # Alternate Take
 
@@ -34,5 +33,5 @@ genres:
 
 **Example:** “That Blue Note reissue includes the fiery alternate take that never made the original 1964 LP.”
 
-**Cultural Note:** * Hunting for alternate-take pressings is a cornerstone of deep-cut collecting in jazz, blues, and reggae.
+**Cultural Note:** * Hunting for alternate-take pressings is a cornerstone of deep-cut collecting in jazz, [blues](../b/blues.md), and reggae.
 

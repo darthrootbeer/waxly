@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **L**.
 
-## Terms (16 total)
+## Terms (17 total)
 
 - [label-variant](../terms/l/label-variant.md)
 - [lacquer-cut](../terms/l/lacquer-cut.md)
@@ -10,6 +10,7 @@ Browse all vinyl terminology terms starting with the letter **L**.
 - [laminated-jacket](../terms/l/laminated-jacket.md)
 - [landfill-vinyl-slang](../terms/l/landfill-vinyl-slang.md)
 - [lathe-cut-record](../terms/l/lathe-cut-record.md)
+- [latin](../terms/l/latin.md)
 - [lead-in-groove](../terms/l/lead-in-groove.md)
 - [lead-out-groove](../terms/l/lead-out-groove.md)
 - [leatherette-case](../terms/l/leatherette-case.md)

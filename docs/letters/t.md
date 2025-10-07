@@ -2,11 +2,14 @@
 
 Browse all vinyl terminology terms starting with the letter **T**.
 
-## Terms (32 total)
+## Terms (39 total)
 
+- [tango](../terms/t/tango.md)
 - [tape-hiss-floor](../terms/t/tape-hiss-floor.md)
 - [tape-splice-pop](../terms/t/tape-splice-pop.md)
 - [target-label-lp](../terms/t/target-label-lp.md)
+- [techno](../terms/t/techno.md)
+- [teen-pop](../terms/t/teen-pop.md)
 - [test-pressing-tp](../terms/t/test-pressing-tp.md)
 - [thermoplastic-biscuit-puck](../terms/t/thermoplastic-biscuit-puck.md)
 - [three-sided-lp-hidden-side-album](../terms/t/three-sided-lp-hidden-side-album.md)
@@ -29,13 +32,17 @@ Browse all vinyl terminology terms starting with the letter **T**.
 - [tracking-angle-vertical-tracking-angle-vta](../terms/t/tracking-angle-vertical-tracking-angle-vta.md)
 - [tracking-force-stylus-pressure](../terms/t/tracking-force-stylus-pressure.md)
 - [tracking-test-record-torture-track-lp](../terms/t/tracking-test-record-torture-track-lp.md)
+- [traditional-folk](../terms/t/traditional-folk.md)
+- [trance](../terms/t/trance.md)
 - [transcription-disc-16-inch-transcription](../terms/t/transcription-disc-16-inch-transcription.md)
 - [translucent-vinyl-variant](../terms/t/translucent-vinyl-variant.md)
 - [transparent-vinyl-pressing](../terms/t/transparent-vinyl-pressing.md)
+- [trap](../terms/t/trap.md)
 - [turntable-isolation-platform](../terms/t/turntable-isolation-platform.md)
 - [turntable-mat-platter-mat](../terms/t/turntable-mat-platter-mat.md)
 - [turntable-rumble](../terms/t/turntable-rumble.md)
 - [turntablist](../terms/t/turntablist.md)
+- [tv-soundtrack](../terms/t/tv-soundtrack.md)
 
 
 ---

@@ -21,10 +21,9 @@ term: Punk-Era 7-Inch
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
-# Punk-Era 7-Inch
+# [Punk](../p/punk.md)-Era 7-Inch
 
 **Definition:** **noun / cultural collector tag.** A 7-inch single released during the original late-’70s punk explosion — frequently on tiny indie labels with Xeroxed sleeves.
 

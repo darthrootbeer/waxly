@@ -2,10 +2,11 @@
 
 Browse all vinyl terminology terms starting with the letter **S**.
 
-## Terms (55 total)
+## Terms (65 total)
 
 - [sacd-hybrid-disc-super-audio-cd-hybrid](../terms/s/sacd-hybrid-disc-super-audio-cd-hybrid.md)
 - [safety-groove-safety-runout](../terms/s/safety-groove-safety-runout.md)
+- [salsa](../terms/s/salsa.md)
 - [sampler-lp-promo-sampler](../terms/s/sampler-lp-promo-sampler.md)
 - [sampling-tonearm-servo-traced-arm](../terms/s/sampling-tonearm-servo-traced-arm.md)
 - [sandpaper-jacket](../terms/s/sandpaper-jacket.md)
@@ -38,6 +39,7 @@ Browse all vinyl terminology terms starting with the letter **S**.
 - [sink-mark-dish-warp](../terms/s/sink-mark-dish-warp.md)
 - [sintered-bronze-bearing-tone-arm-platter](../terms/s/sintered-bronze-bearing-tone-arm-platter.md)
 - [sizzle-cymbal-test-audiophile-check-track](../terms/s/sizzle-cymbal-test-audiophile-check-track.md)
+- [ska](../terms/s/ska.md)
 - [skip-guard-groove-raised-guard-groove](../terms/s/skip-guard-groove-raised-guard-groove.md)
 - [skip-loop-locked-skip](../terms/s/skip-loop-locked-skip.md)
 - [skip-test-torture-track](../terms/s/skip-test-torture-track.md)
@@ -48,10 +50,15 @@ Browse all vinyl terminology terms starting with the letter **S**.
 - [slip-mat-burn-mat-burn-ring](../terms/s/slip-mat-burn-mat-burn-ring.md)
 - [slow-cut-lacquer-wide-pitch-cut](../terms/s/slow-cut-lacquer-wide-pitch-cut.md)
 - [small-hole-45-standard-hole-single](../terms/s/small-hole-45-standard-hole-single.md)
+- [smooth-jazz](../terms/s/smooth-jazz.md)
 - [sonic-signature](../terms/s/sonic-signature.md)
+- [soul](../terms/s/soul.md)
+- [soul-blues](../terms/s/soul-blues.md)
 - [sound-effects-library-disc](../terms/s/sound-effects-library-disc.md)
 - [sound-system-special-dub-plate-special](../terms/s/sound-system-special-dub-plate-special.md)
 - [sound-wave-etching-visual-wave-jacket-art](../terms/s/sound-wave-etching-visual-wave-jacket-art.md)
+- [soundtrack](../terms/s/soundtrack.md)
+- [southern-soul](../terms/s/southern-soul.md)
 - [spacer-ring-spindle-spacer](../terms/s/spacer-ring-spindle-spacer.md)
 - [speed-box-external-speed-controller](../terms/s/speed-box-external-speed-controller.md)
 - [speed-change-knob-rpm-selector](../terms/s/speed-change-knob-rpm-selector.md)
@@ -59,6 +66,9 @@ Browse all vinyl terminology terms starting with the letter **S**.
 - [spider-insert-45-spider](../terms/s/spider-insert-45-spider.md)
 - [spiral-groove-lead-in-lead-out](../terms/s/spiral-groove-lead-in-lead-out.md)
 - [spiral-track](../terms/s/spiral-track.md)
+- [swing](../terms/s/swing.md)
+- [symphony](../terms/s/symphony.md)
+- [synth-pop](../terms/s/synth-pop.md)
 
 
 ---

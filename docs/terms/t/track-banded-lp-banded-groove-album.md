@@ -26,8 +26,7 @@ aka:
 - Banded-Groove Album
 genres:
 - Rock
-- Classical
----
+- Classical---
 
 # Track-Banded LP
 
@@ -35,7 +34,7 @@ genres:
 
 **Etymology:** Literal — LP sides *banded* between *tracks*.
 
-**Example:** “Classical LPs were often un-banded, but pop LPs almost always track-banded for DJs.”
+**Example:** “Classical LPs were often un-banded, but [pop](../p/pop.md) LPs almost always track-banded for DJs.”
 
 **Cultural Note:** * Banded vs. un-banded grooves often indicate target market (classical vs. pop/radio).
 

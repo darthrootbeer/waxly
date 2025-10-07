@@ -2,20 +2,24 @@
 
 Browse all vinyl terminology terms starting with the letter **H**.
 
-## Terms (14 total)
+## Terms (18 total)
 
 - [half-speed-mastering](../terms/h/half-speed-mastering.md)
 - [hand-etched-matrix](../terms/h/hand-etched-matrix.md)
 - [hand-numbered-edition](../terms/h/hand-numbered-edition.md)
 - [hanging-groove-aka-suspended-groove](../terms/h/hanging-groove-aka-suspended-groove.md)
 - [hard-bop-pressing](../terms/h/hard-bop-pressing.md)
+- [hard-rock](../terms/h/hard-rock.md)
 - [headshell](../terms/h/headshell.md)
 - [headshell-lead-wires](../terms/h/headshell-lead-wires.md)
 - [heavyweight-vinyl-180-gram-200-gram](../terms/h/heavyweight-vinyl-180-gram-200-gram.md)
 - [hi-fi-high-fidelity](../terms/h/hi-fi-high-fidelity.md)
 - [hidden-track-secret-track](../terms/h/hidden-track-secret-track.md)
+- [hip-hop](../terms/h/hip-hop.md)
 - [hip-pocket-disc](../terms/h/hip-pocket-disc.md)
+- [honky-tonk](../terms/h/honky-tonk.md)
 - [hot-cut](../terms/h/hot-cut.md)
+- [house](../terms/h/house.md)
 - [hum-bucker-phono-cartridge-type](../terms/h/hum-bucker-phono-cartridge-type.md)
 - [hum-loop-isolator](../terms/h/hum-loop-isolator.md)
 

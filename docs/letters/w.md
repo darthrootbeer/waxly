@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **W**.
 
-## Terms (16 total)
+## Terms (19 total)
 
 - [wall-mount-turntable-shelf](../terms/w/wall-mount-turntable-shelf.md)
 - [warp-resistant-pressing](../terms/w/warp-resistant-pressing.md)
@@ -14,9 +14,12 @@ Browse all vinyl terminology terms starting with the letter **W**.
 - [wax-slang-for-record](../terms/w/wax-slang-for-record.md)
 - [wax-stamp-promo-gold-stamp-promo](../terms/w/wax-stamp-promo-gold-stamp-promo.md)
 - [weight-clamp-record-weight](../terms/w/weight-clamp-record-weight.md)
+- [western](../terms/w/western.md)
 - [wide-groove-78-rpm](../terms/w/wide-groove-78-rpm.md)
 - [wide-spindle-45-large-hole-single](../terms/w/wide-spindle-45-large-hole-single.md)
 - [wing-flap-inner-sleeve](../terms/w/wing-flap-inner-sleeve.md)
+- [world](../terms/w/world.md)
+- [world-music](../terms/w/world-music.md)
 - [wow-flutter](../terms/w/wow-flutter.md)
 - [wrap-around-gatefold](../terms/w/wrap-around-gatefold.md)
 - [write-off-bin-cut-out-bin](../terms/w/write-off-bin-cut-out-bin.md)

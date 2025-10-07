@@ -24,14 +24,13 @@ verification: unverified
 aka:
 - Re-Ground Compound
 genres:
-- Hip Hop
----
+- Hip Hop---
 
 # Re-Grind Vinyl
 
 **Definition:** **noun / manufacturing term.** Vinyl compound **made from ground-up scrap trimmings or returned records** blended back into new pressings — common in budget LPs.
 
-**Etymology:** Industrial: *re-grind* = re-ground PVC reused for pressing.
+**Etymology:** [Industrial](../i/industrial.md): *re-grind* = re-ground PVC reused for pressing.
 
 **Example:** “The oil-crisis ’70s saw labels switching to cheaper re-grind vinyl — noisier surfaces resulted.”
 

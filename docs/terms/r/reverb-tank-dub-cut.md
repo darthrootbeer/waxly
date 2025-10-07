@@ -30,12 +30,11 @@ verification: unverified
 aka:
 - Tank Dub Cut
 genres:
-- all
----
+- all---
 
 # Reverb
 
-**Definition:** **noun / reggae / dub-plate slang.** A **version mix sent hot through a spring-reverb tank** during cutting — a signature sonic texture of Jamaican dub culture.
+**Definition:** **noun / [reggae](../r/reggae.md) / [dub](../d/dub.md)-plate slang.** A **version mix sent hot through a spring-reverb tank** during cutting — a signature sonic texture of Jamaican dub culture.
 
 **Etymology:** Studio slang — dub *cut* through *reverb tank*.
 

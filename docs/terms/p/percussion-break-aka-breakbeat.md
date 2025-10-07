@@ -24,12 +24,11 @@ aka:
 - a.k.a. Breakbeat
 genres:
 - Hip Hop
-- Electronic
----
+- Electronic---
 
 # Percussion Break
 
-**Definition:** **noun / DJ / cultural.** A short drum-only section in a song that DJs isolate and loop for dancers or MCs — often hunted on funk, soul, and disco vinyl.
+**Definition:** **noun / DJ / cultural.** A short drum-only section in a song that DJs isolate and loop for dancers or MCs — often hunted on funk, [soul](../s/soul.md), and disco vinyl.
 
 **Etymology:** *Break* in the arrangement spotlighting *percussion.*
 

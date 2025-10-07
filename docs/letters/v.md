@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **V**.
 
-## Terms (17 total)
+## Terms (18 total)
 
 - [v-notch-jacket-cut-corner-mark](../terms/v/v-notch-jacket-cut-corner-mark.md)
 - [vacuum-platter-vacuum-hold-down](../terms/v/vacuum-platter-vacuum-hold-down.md)
@@ -15,6 +15,7 @@ Browse all vinyl terminology terms starting with the letter **V**.
 - [vertical-cut-groove-hill-and-dale-cut](../terms/v/vertical-cut-groove-hill-and-dale-cut.md)
 - [vertical-tracking-angle-vta](../terms/v/vertical-tracking-angle-vta.md)
 - [vertical-tracking-linear-arm-tangential-arm](../terms/v/vertical-tracking-linear-arm-tangential-arm.md)
+- [video-game-music](../terms/v/video-game-music.md)
 - [vinyl-chloride-pvc](../terms/v/vinyl-chloride-pvc.md)
 - [vinyl-coated-inner-sleeve](../terms/v/vinyl-coated-inner-sleeve.md)
 - [vinyl-jacket-pvc-outer-bag-hazard](../terms/v/vinyl-jacket-pvc-outer-bag-hazard.md)

@@ -2,14 +2,17 @@
 
 Browse all vinyl terminology terms starting with the letter **D**.
 
-## Terms (15 total)
+## Terms (22 total)
 
 - [d2c-direct-to-consumer-vinyl](../terms/d/d2c-direct-to-consumer-vinyl.md)
 - [damping-tonearm-damping](../terms/d/damping-tonearm-damping.md)
+- [dance-pop](../terms/d/dance-pop.md)
+- [dancehall](../terms/d/dancehall.md)
 - [de-warping](../terms/d/de-warping.md)
 - [dead-wax](../terms/d/dead-wax.md)
 - [declicking](../terms/d/declicking.md)
 - [deep-groove](../terms/d/deep-groove.md)
+- [delta-blues](../terms/d/delta-blues.md)
 - [demo-copy](../terms/d/demo-copy.md)
 - [die-cut-sleeve](../terms/d/die-cut-sleeve.md)
 - [direct-drive-turntable](../terms/d/direct-drive-turntable.md)
@@ -17,8 +20,12 @@ Browse all vinyl terminology terms starting with the letter **D**.
 - [dish-warp](../terms/d/dish-warp.md)
 - [dj-pool](../terms/d/dj-pool.md)
 - [double-album](../terms/d/double-album.md)
+- [drone](../terms/d/drone.md)
 - [drop-spindle](../terms/d/drop-spindle.md)
+- [drum-bass](../terms/d/drum-bass.md)
+- [dub](../terms/d/dub.md)
 - [dubplate](../terms/d/dubplate.md)
+- [dubstep](../terms/d/dubstep.md)
 
 
 ---

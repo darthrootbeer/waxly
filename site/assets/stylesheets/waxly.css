@@ -1,0 +1,194 @@
+/* Waxly Custom Styling - Dark Record-Sleeve Aesthetic */
+
+:root {
+  --waxly-black: #0a0a0a;
+  --waxly-dark: #1a1a1a;
+  --waxly-gray: #e6e6e6;
+  --waxly-gold: #ffb400;
+  --waxly-blue: #50b7f5;
+  --waxly-border: #222;
+}
+
+/* Override Material theme for landing page */
+.md-typeset h1 {
+  color: var(--waxly-gold);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--waxly-gold);
+  font-weight: 600;
+}
+
+.md-typeset a {
+  color: var(--waxly-blue);
+  text-decoration: none;
+}
+
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+.md-typeset blockquote {
+  border-left: 4px solid var(--waxly-gold);
+  background-color: rgba(255, 180, 0, 0.05);
+}
+
+/* Dark mode enhancements */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #0a0a0a;
+  --md-accent-fg-color: #ffb400;
+}
+
+/* Letter navigation styling */
+.md-typeset .letter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 2rem 0;
+}
+
+.md-typeset .letter-nav a {
+  padding: 0.5rem 1rem;
+  background: var(--waxly-dark);
+  border: 1px solid var(--waxly-border);
+  border-radius: 4px;
+  color: var(--waxly-gray);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.md-typeset .letter-nav a:hover {
+  background: var(--waxly-gold);
+  color: var(--waxly-black);
+  border-color: var(--waxly-gold);
+  text-decoration: none;
+}
+
+/* Horizontal rule styling */
+.md-typeset hr {
+  border: 0;
+  height: 1px;
+  background: var(--waxly-border);
+  margin: 2rem 0;
+}
+
+/* Code and pre blocks */
+.md-typeset code,
+.md-typeset pre {
+  background: rgba(10, 10, 10, 0.5);
+  border: 1px solid var(--waxly-border);
+}
+
+/* Footer customization */
+.md-footer {
+  background-color: var(--waxly-black);
+}
+
+.md-footer-meta {
+  background-color: var(--waxly-black);
+}
+
+/* Search bar enhancements */
+.md-search__input {
+  background-color: var(--waxly-dark);
+  border: 1px solid var(--waxly-border);
+}
+
+.md-search__input::placeholder {
+  color: #666;
+}
+
+/* Tag styling for term pages */
+.md-typeset .tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  margin: 0.2rem;
+  background: rgba(255, 180, 0, 0.1);
+  border: 1px solid var(--waxly-gold);
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: var(--waxly-gold);
+}
+
+/* Hero section for landing page */
+.waxly-hero {
+  text-align: center;
+  padding: 3rem 0;
+  border-bottom: 1px solid var(--waxly-border);
+  margin-bottom: 2rem;
+}
+
+.waxly-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.waxly-hero .tagline {
+  font-size: 1.5rem;
+  color: var(--waxly-gray);
+  font-weight: 300;
+  margin-bottom: 1rem;
+}
+
+.waxly-hero .description {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--waxly-gray);
+  opacity: 0.9;
+}
+
+/* Button styling */
+.md-typeset .waxly-button {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  margin: 1rem 0.5rem;
+  background: var(--waxly-gold);
+  color: var(--waxly-black);
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.md-typeset .waxly-button:hover {
+  background: var(--waxly-blue);
+  color: white;
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 180, 0, 0.3);
+}
+
+/* Stats section */
+.waxly-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: rgba(26, 26, 26, 0.5);
+  border-radius: 8px;
+  border: 1px solid var(--waxly-border);
+}
+
+.waxly-stat {
+  text-align: center;
+}
+
+.waxly-stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--waxly-gold);
+  line-height: 1;
+}
+
+.waxly-stat-label {
+  font-size: 0.9rem;
+  color: var(--waxly-gray);
+  opacity: 0.8;
+  margin-top: 0.5rem;
+}

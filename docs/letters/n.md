@@ -2,7 +2,7 @@
 
 Browse all vinyl terminology terms starting with the letter **N**.
 
-## Terms (15 total)
+## Terms (18 total)
 
 - [nab-eq-national-association-of-broadcasters-equalization](../terms/n/nab-eq-national-association-of-broadcasters-equalization.md)
 - [narrow-band-mono](../terms/n/narrow-band-mono.md)
@@ -12,11 +12,14 @@ Browse all vinyl terminology terms starting with the letter **N**.
 - [needle-tip-size-stylus-size](../terms/n/needle-tip-size-stylus-size.md)
 - [needle-wear](../terms/n/needle-wear.md)
 - [neo-psychedelic-wax](../terms/n/neo-psychedelic-wax.md)
+- [neo-soul](../terms/n/neo-soul.md)
 - [net-weight-vinyl-biscuit-weight](../terms/n/net-weight-vinyl-biscuit-weight.md)
 - [new-old-stock-nos](../terms/n/new-old-stock-nos.md)
+- [noise](../terms/n/noise.md)
 - [noise-floor](../terms/n/noise-floor.md)
 - [non-fill](../terms/n/non-fill.md)
 - [non-returnable-stamp](../terms/n/non-returnable-stamp.md)
+- [northern-soul](../terms/n/northern-soul.md)
 - [not-for-sale-copy](../terms/n/not-for-sale-copy.md)
 - [null-test-audio-phase-test](../terms/n/null-test-audio-phase-test.md)
 

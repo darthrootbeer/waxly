@@ -2,19 +2,26 @@
 
 Browse all vinyl terminology terms starting with the letter **B**.
 
-## Terms (13 total)
+## Terms (20 total)
 
 - [back-spinning](../terms/b/back-spinning.md)
 - [back-splice](../terms/b/back-splice.md)
 - [balance-weight-tonearm](../terms/b/balance-weight-tonearm.md)
 - [banding-groove-banding](../terms/b/banding-groove-banding.md)
+- [baroque](../terms/b/baroque.md)
+- [baroque-pop](../terms/b/baroque-pop.md)
 - [basket-case-copy](../terms/b/basket-case-copy.md)
 - [beat-matching](../terms/b/beat-matching.md)
+- [bebop](../terms/b/bebop.md)
 - [belt-drive-turntable](../terms/b/belt-drive-turntable.md)
+- [big-band](../terms/b/big-band.md)
 - [binaural-recording](../terms/b/binaural-recording.md)
 - [blank-groove](../terms/b/blank-groove.md)
 - [blank-label](../terms/b/blank-label.md)
+- [bluegrass](../terms/b/bluegrass.md)
+- [blues](../terms/b/blues.md)
 - [bootleg](../terms/b/bootleg.md)
+- [bossa-nova](../terms/b/bossa-nova.md)
 - [breakbeat](../terms/b/breakbeat.md)
 - [brush-down-record-brush](../terms/b/brush-down-record-brush.md)
 

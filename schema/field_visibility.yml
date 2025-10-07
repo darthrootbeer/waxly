@@ -8,6 +8,7 @@ core_fields:
   - slug
   - pos
   - summary
+  - created
   - updated
 
 # Default visible fields - shown unless term overrides
@@ -25,9 +26,6 @@ default_visible:
   - status
   - context
   - verification
-
-# Default hidden fields - only shown if term explicitly enables
-default_hidden:
   - first_attested
   - pronunciation
   - decade
@@ -41,11 +39,16 @@ default_hidden:
   - equipment_association
   - genres
   - styles
+  - regional_variations
 
-# Advanced sections - hidden by default, enable per-term for rich content
+# Default hidden fields - only shown if term explicitly enables
+# (Currently empty - all fields are visible by default)
+default_hidden: []
+
+# Advanced sections - visible by default, can be hidden per-term if needed
 advanced_sections:
   technical_specs:
-    visible: false
+    visible: true
     subsections:
       - dimensions
       - materials
@@ -53,7 +56,7 @@ advanced_sections:
       - cost_impact
 
   historical_timeline:
-    visible: false
+    visible: true
     subsections:
       - introduction_year
       - peak_usage_era
@@ -62,15 +65,27 @@ advanced_sections:
       - notable_examples
 
   cultural_impact:
-    visible: false
+    visible: true
     subsections:
       - collector_value
       - rarity_factor
       - condition_sensitivity
       - preservation_notes
 
+  cultural_sensitivity:
+    visible: true
+    subsections:
+      - has_sensitive_content
+      - sensitivity_level
+      - sensitivity_types
+      - content_warning
+      - historical_context
+      - modern_alternatives
+      - obscuration_method
+      - age_restricted
+
   relationships:
-    visible: false
+    visible: true
     subsections:
       - parent_concept
       - child_concepts
@@ -79,7 +94,7 @@ advanced_sections:
       - conflicts_with
 
   usage_context:
-    visible: false
+    visible: true
     subsections:
       - primary_use_cases
       - secondary_use_cases
@@ -87,7 +102,7 @@ advanced_sections:
       - best_practices
 
   quality_indicators:
-    visible: false
+    visible: true
     subsections:
       - grading_factors
       - common_defects
@@ -95,7 +110,7 @@ advanced_sections:
       - authenticity_marks
 
   market_data:
-    visible: false
+    visible: true
     subsections:
       - price_premium
       - market_demand
@@ -103,30 +118,38 @@ advanced_sections:
       - reproduction_quality
 
   advanced_search:
-    visible: false
+    visible: true
     subsections:
       - search_keywords
       - related_artists
       - related_labels
 
 # Display rules for conditional visibility
+# Note: All fields are now visible by default, but these rules can still be used
+# for UI hints or special styling based on content relevance
 display_rules:
-  # Show technical_specs for equipment/pressing terms
-  show_technical_specs_when:
+  # Highlight technical_specs for equipment/pressing terms
+  highlight_technical_specs_when:
     - tags: [equipment, pressing, technical]
     - domains: [equipment, pressing_technique]
 
-  # Show market_data for collectible items
-  show_market_data_when:
+  # Highlight market_data for collectible items
+  highlight_market_data_when:
     - tags: [collecting, historical]
     - domains: [market, collecting]
 
-  # Show cultural_impact for historical/cultural terms
-  show_cultural_impact_when:
+  # Highlight cultural_impact for historical/cultural terms
+  highlight_cultural_impact_when:
     - tags: [historical, cultural, collecting]
     - domains: [cultural, historical]
 
-  # Show quality_indicators for collectible items
-  show_quality_indicators_when:
+  # Highlight quality_indicators for collectible items
+  highlight_quality_indicators_when:
     - tags: [collecting, quality-control]
     - domains: [collecting, quality_control]
+
+  # Highlight cultural_sensitivity for terms with sensitive content
+  highlight_cultural_sensitivity_when:
+    - cultural_sensitivity.has_sensitive_content: true
+    - tags: [historical, cultural, slang]
+    - domains: [cultural, historical]

@@ -27,8 +27,7 @@ updated: '2025-10-06'
 verification: unverified
 genres:
 - Jazz
-- Rock
----
+- Rock---
 
 # Japanese Pressing
 
@@ -38,5 +37,5 @@ genres:
 
 **Example:** “The Japanese pressing of that Fleetwood Mac LP is dead-quiet between tracks and comes with an obi-strip.”
 
-**Cultural Note:** * Coveted for jazz, city-pop, and ’70s-’80s rock titles; obi-strip intactness greatly affects resale value.
+**Cultural Note:** * Coveted for jazz, city-[pop](../p/pop.md), and ’70s-’80s rock titles; obi-strip intactness greatly affects resale value.
 

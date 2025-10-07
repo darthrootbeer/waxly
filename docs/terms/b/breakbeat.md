@@ -1,38 +1,45 @@
 ---
-complexity: intermediate
-context: technical
-domains:
-- dj_technique
-popularity: 5
-pos: noun
-regions:
-- US
-see_also:
-- battle-breaks
-- back-splice
-- sampler
-slug: breakbeat
-status: active
-summary: The percussive instrumental section of a funk, soul, or disco record, historically
-  looped by DJs as the rhythmic backbone for hip-hop, jungle, and breakdance.
-tags:
-- dj-related
-- historical
 term: Breakbeat
-updated: '2025-10-06'
-verification: unverified
+slug: breakbeat
+pos: noun
+summary: '**Breakbeat** - A musical style within the Electronic genre, classified
+  according to Discogs taxonomy.'
+created: '2025-10-06T21:04:01.807602Z'
+updated: '2025-10-06T21:04:01.807602Z'
+tags:
+- style
+- discogs
+- classification
+domains:
+- cultural
+regions:
+- global
+eras:
+- modern
+popularity: 6
+complexity: intermediate
+status: active
+context: formal
+verification: verified
+equipment_association: []
 genres:
-- Hip Hop
-- Electronic
----
+- all
+sources:
+- label: Discogs
+  url: https://www.discogs.com/
+relationships:
+  parent_concept: electronic
+discussion: This is an official style classification from Discogs within the Electronic
+  genre.---
 
 # Breakbeat
 
-**Definition:** The percussive instrumental section of a funk, soul, or disco record, historically looped by DJs as the rhythmic backbone for hip-hop, jungle, and breakdance.
+**Definition:** A specific musical style within the broader electronic genre classification.
 
-**Etymology:** Refers to the *break* in the song where the beat plays alone.
+**Context:** Breakbeat represents a distinct approach to music within its parent genre, characterized by specific musical elements, cultural influences, or historical development.
 
-**Example:** “The ‘Amen Brother’ breakbeat pressed to countless 12-inches basically invented drum-and-bass.”
+**Usage:** Style classifications like Breakbeat help music enthusiasts identify and categorize specific sounds and approaches within broader genre categories.
 
-**Cultural Note:** * Foundation of multiple genres; breakbeat-hunting is still a crate-digger obsession.
+**Source:** This classification is based on the official Discogs taxonomy, ensuring consistency with the world's largest music database.
 
+**Note:** For the most up-to-date definitions and classifications, refer to the official Discogs database at [[discogs](../d/discogs.md).com](https://www.discogs.com/).

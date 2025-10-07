@@ -23,8 +23,7 @@ updated: '2025-10-06'
 verification: unverified
 genres:
 - Hip Hop
-- Electronic
----
+- Electronic---
 
 # Up-Tempo Floor-Filler
 
@@ -34,5 +33,5 @@ genres:
 
 **Example:** “Every disco crate needs a few up-tempo floor-fillers to rescue a lagging crowd.”
 
-**Cultural Note:** * Core vocabulary in disco, house, and soul-DJ culture.
+**Cultural Note:** * Core vocabulary in disco, [house](../h/house.md), and soul-DJ culture.
 

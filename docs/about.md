@@ -1,128 +1,75 @@
-# About the Vinyl Lexicon
+# About Waxly
 
-## 🎵 Our Mission
+## Overview
 
-The Vinyl Lexicon is a comprehensive, community-driven digital reference for vinyl record culture, terminology, and collecting. We preserve and document the rich vocabulary that has developed around vinyl records, from technical specifications to cultural slang, ensuring this knowledge remains accessible for future generations.
+Waxly is a comprehensive digital reference for vinyl record culture, terminology, and collecting. We document and preserve the rich vocabulary that has developed around vinyl records—from technical specifications to cultural slang—ensuring this knowledge remains accessible for future generations.
 
-## 📚 What We Cover
+## What We Cover
 
 ### Equipment & Technology
-- Turntables, tonearms, cartridges, and styli
-- Mixers, amplifiers, and audio equipment
-- Pressing plants, mastering, and manufacturing
-- Quality control and testing procedures
+Turntables, tonearms, cartridges, styli, mixers, amplifiers, pressing plants, mastering equipment, and quality control procedures.
 
 ### Techniques & Methods
-- DJ techniques and scratching
-- Record care and maintenance
-- Collecting strategies and grading
-- Audio engineering and mastering
+DJ techniques, scratching, record care and maintenance, collecting strategies, grading systems, audio engineering, and mastering techniques.
 
 ### Culture & History
-- Genre-specific terminology
-- Regional variations and slang
-- Historical context and evolution
-- Cultural significance and impact
+Genre-specific terminology, regional variations and slang, historical context and evolution, cultural significance, and the impact of vinyl on music culture.
 
 ### Collecting & Commerce
-- Grading systems and condition codes
-- Market terminology and pricing
-- Label variations and pressings
-- Rarity and value factors
+Grading systems and condition codes, market terminology, pricing conventions, label variations, pressing details, rarity indicators, and value factors.
 
-## 🏗️ Architecture
+## Statistics
 
-### Wiki-Style Database
-Built as a modern knowledge base with:
-- **One-term-per-file structure** for maximum searchability
-- **Rich metadata** with 25+ fields per term
-- **Cross-references** linking related concepts
-- **Version control** for quality and collaboration
+- **500+ terms** covering vinyl culture and terminology
+- **English language** with regional variations (US, UK, Japan, Europe)
+- **Eras covered**: 1940s to present
+- **Global coverage** with local variations and slang
+- **Last updated**: 2025-01-27
 
-### Advanced Features
-- **Popularity ratings** (1-10 scale) for current vs historical usage
-- **Complexity levels** (beginner to expert) for accessibility
-- **Regional variations** tracking geographic differences
-- **Era classification** for historical context
-- **Equipment associations** linking terms to specific gear
-- **Genre connections** for music-specific terminology
+## How It Works
 
-## 🌍 Global Perspective
+### Structure
+Each term is documented with detailed information including definitions, etymology, cultural context, historical notes, regional variations, and cross-references to related terms.
 
-We document terminology from around the world:
-- **United States**: East Coast, West Coast, and regional variations
-- **United Kingdom**: British terminology and cultural context
-- **Japan**: Japanese vinyl culture and technical terms
-- **Europe**: Continental variations and influences
-- **Other Regions**: Contributions from global vinyl communities
+### Organization
+- **Alphabetical browsing**: Navigate by first letter (A-Z)
+- **Category browsing**: Explore by topic (equipment, DJ-related, pressing, genres, historical)
+- **Search functionality**: Find terms by name, category, era, or region
+- **Cross-references**: Discover related terminology and concepts
 
-## 📊 Quality Standards
+### Features
+- Popularity ratings showing current versus historical usage
+- Complexity levels for different skill levels (beginner to expert)
+- Regional variations tracking geographic differences
+- Era classifications providing historical context
+- Equipment associations linking terms to specific gear
+- Genre connections for music-specific terminology
 
-### Verification Process
-- **Source attribution** for all information
-- **Community review** for accuracy and completeness
-- **Expert validation** for technical terms
-- **Cultural sensitivity** for regional variations
+## Global Perspective
 
-### Content Guidelines
-- **Clear definitions** with practical examples
-- **Etymology** when known and relevant
-- **Cultural context** for historical significance
-- **Cross-references** to related terms
-- **Pronunciation guides** for technical terms
+Waxly documents terminology from vinyl communities around the world, including the United States (with East Coast, West Coast, and regional variations), United Kingdom (British terminology and cultural context), Japan (Japanese vinyl culture and technical terms), Europe (continental variations and influences), and other regions worldwide.
 
-## 🤝 Community
+## Content Standards
 
-### Contributors
-We welcome contributions from:
-- **Vinyl enthusiasts** and collectors
-- **Audio engineers** and technicians
-- **DJs and performers**
-- **Music historians** and researchers
-- **Industry professionals**
+All entries are created with attention to accuracy, clarity, and cultural sensitivity. Definitions include practical examples, etymology when known and relevant, cultural and historical context, cross-references to related terms, and pronunciation guides for technical terms where helpful.
 
-### How to Contribute
-- Add new terms or improve existing ones
-- Provide cultural context and historical notes
-- Share regional variations and slang
-- Contribute images, audio, or multimedia content
-- Help with translations and multilingual support
+## Future Development
 
-## 🔮 Future Vision
+Future plans include expanding the database with additional terms and multimedia content, enhancing search and filtering capabilities, adding multilingual support for translations and regional variations, developing educational resources and learning materials, and building integrations and tools for the vinyl community.
 
-### Short Term
-- Complete migration to wiki-style database
-- Enhanced search and filtering capabilities
-- Community contribution workflow
-- Quality control and validation systems
-
-### Long Term
-- **Record Label Universe**: Interactive database of record labels and their relationships
-- **Multilingual support**: Translations and regional variations
-- **Mobile app**: Native iOS and Android applications
-- **API ecosystem**: Tools and integrations for developers
-- **Educational resources**: Learning paths and tutorials
-
-## 📄 License & Usage
+## License & Usage
 
 ### Content License
-All content is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**, allowing:
-- ✅ Free use and sharing
-- ✅ Modification and adaptation
-- ✅ Commercial use
-- ✅ Attribution required
-- ✅ Share-alike requirement
+All content is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**, which allows free use and sharing, modification and adaptation, and commercial use. Attribution is required and share-alike terms apply.
 
 ### Code License
-All code and technical components are licensed under **MIT License**, providing maximum flexibility for developers and contributors.
+Technical components are licensed under **MIT License**, providing flexibility for developers and contributors.
 
-## 📞 Contact & Support
+## Contact
 
+For questions, feedback, or more information:
 - **GitHub**: [darthrootbeer/vinyl-lexicon](https://github.com/darthrootbeer/vinyl-lexicon)
-- **Issues**: Report bugs, request features, or ask questions
-- **Discussions**: Community conversations and collaboration
-- **Contributing**: See our [contribution guidelines](contribute.md)
 
 ---
 
-*The Vinyl Lexicon is built by the community, for the community. Together, we preserve and expand the knowledge that makes vinyl culture so rich and diverse.*
+*Preserving vinyl culture knowledge for the community*

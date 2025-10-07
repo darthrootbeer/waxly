@@ -22,14 +22,13 @@ updated: '2025-10-06'
 verification: unverified
 genres:
 - Jazz
-- Rock
----
+- Rock---
 
 # Tape-Splice Pop
 
 **Definition:** **noun / mastering artifact.** A **tiny audible tick or bump at an analog tape-edit splice** that sometimes transfers to the lacquer if not trimmed out.
 
-**Etymology:** Literal — audible *pop* at the physical *splice* in the tape.
+**Etymology:** Literal — audible *[pop](../p/pop.md)* at the physical *splice* in the tape.
 
 **Example:** “You can hear a faint tape-splice pop before the second chorus — straight off the master reel.”
 

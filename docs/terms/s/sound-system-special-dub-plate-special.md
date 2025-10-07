@@ -29,12 +29,11 @@ aka:
 - Dub-Plate Special
 genres:
 - Hip Hop
-- Electronic
----
+- Electronic---
 
 # Sound-System Special
 
-**Definition:** **noun / reggae & dancehall slang.** A **custom-cut acetate or short-run pressing** made exclusively for a particular sound-system crew, often featuring unique DJ toasts or shout-outs.
+**Definition:** **noun / [reggae](../r/reggae.md) & dancehall slang.** A **custom-cut acetate or short-run pressing** made exclusively for a particular sound-system crew, often featuring unique DJ toasts or shout-outs.
 
 **Etymology:** Caribbean sound-system culture: a *special* cut for one crew’s speakers.
 

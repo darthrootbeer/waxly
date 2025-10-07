@@ -27,12 +27,11 @@ verification: unverified
 aka:
 - Collector Slang
 genres:
-- Jazz
----
+- Jazz---
 
 # Hard-Bop Pressing
 
-**Definition:** **noun / slang.** Jazz-collector shorthand for original mid-’50s–early-’60s LPs from the hard-bop era on labels like Blue Note, Prestige, Riverside — especially those with deep-groove labels and RVG mastering.
+**Definition:** **noun / slang.** [Jazz](../j/jazz.md)-collector shorthand for original mid-’50s–early-’60s LPs from the hard-bop era on labels like Blue Note, Prestige, Riverside — especially those with deep-groove labels and RVG mastering.
 
 **Etymology:** From the *hard-bop* jazz style plus *pressing.*
 

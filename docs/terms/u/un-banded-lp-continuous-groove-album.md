@@ -29,12 +29,11 @@ aka:
 - Continuous-Groove Album
 genres:
 - Hip Hop
-- Classical
----
+- Classical---
 
 # Un-Banded LP
 
-**Definition:** **noun / mastering style.** A **record side without visible track-spacing ‘bands’**, appearing as one continuous groove spiral — common for classical, opera, live, or DJ-mix albums.
+**Definition:** **noun / mastering style.** A **record side without visible track-spacing ‘bands’**, appearing as one continuous groove spiral — common for classical, [opera](../o/opera.md), live, or DJ-mix albums.
 
 **Etymology:** Literal — LP *not banded* between tracks.
 

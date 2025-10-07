@@ -25,8 +25,7 @@ verification: unverified
 aka:
 - 78 RPM Shellac
 genres:
-- Jazz
----
+- Jazz---
 
 # Shellac Disc
 
@@ -36,5 +35,5 @@ genres:
 
 **Example:** “Collectors use a 3-mil stylus and heavier tracking force for vintage shellac discs.”
 
-**Cultural Note:** * Dominant commercial format before the LP era; still prized by early-jazz/blues collectors.
+**Cultural Note:** * Dominant commercial format before the LP era; still prized by early-[jazz](../j/jazz.md)/blues collectors.
 

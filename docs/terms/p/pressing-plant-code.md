@@ -25,14 +25,13 @@ term: Pressing Plant Code
 updated: '2025-10-06'
 verification: unverified
 genres:
-- all
----
+- all---
 
 # Pressing Plant Code
 
 **Definition:** **noun / collector term.** An alphanumeric mark — etched, stamped, or printed on label/run-out — identifying the factory that manufactured the record.
 
-**Etymology:** Industrial: a *code* assigned to each *pressing plant*.
+**Etymology:** [Industrial](../i/industrial.md): a *code* assigned to each *pressing plant*.
 
 **Example:** “The ‘─P’ run-out pressing plant code confirms it came from Columbia’s Pitman, NJ plant.”
 

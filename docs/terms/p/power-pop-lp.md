@@ -23,12 +23,11 @@ verification: unverified
 aka:
 - Pop LP
 genres:
-- Rock
----
+- Rock---
 
 # Power
 
-**Definition:** **noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-pop vinyl releases sought by fans of the power-pop genre.
+**Definition:** **noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-[pop](../p/pop.md) vinyl releases sought by fans of the power-pop genre.
 
 **Etymology:** Genre label *power-pop* + *LP*.
 

@@ -2,8 +2,9 @@
 
 Browse all vinyl terminology terms starting with the letter **P**.
 
-## Terms (65 total)
+## Terms (70 total)
 
+- [p-funk](../terms/p/p-funk.md)
 - [paper-inner-sleeve](../terms/p/paper-inner-sleeve.md)
 - [paper-scuff](../terms/p/paper-scuff.md)
 - [parallel-tracking-arm](../terms/p/parallel-tracking-arm.md)
@@ -45,6 +46,7 @@ Browse all vinyl terminology terms starting with the letter **P**.
 - [poly-vinyl-chloride-pvc](../terms/p/poly-vinyl-chloride-pvc.md)
 - [polybag-sealed-copy](../terms/p/polybag-sealed-copy.md)
 - [polylined-rice-paper-sleeve-mofi-style](../terms/p/polylined-rice-paper-sleeve-mofi-style.md)
+- [pop](../terms/p/pop.md)
 - [pop-guard-aka-dust-pop-filter](../terms/p/pop-guard-aka-dust-pop-filter.md)
 - [pop-out-center-aka-jukebox-spider](../terms/p/pop-out-center-aka-jukebox-spider.md)
 - [portable-record-changer-suitcase-player](../terms/p/portable-record-changer-suitcase-player.md)
@@ -63,10 +65,13 @@ Browse all vinyl terminology terms starting with the letter **P**.
 - [price-code-sticker-price-box](../terms/p/price-code-sticker-price-box.md)
 - [private-press-private-label-pressing](../terms/p/private-press-private-label-pressing.md)
 - [proceed](../terms/p/proceed.md)
+- [progressive-rock](../terms/p/progressive-rock.md)
 - [promo-copy-promotional-pressing](../terms/p/promo-copy-promotional-pressing.md)
 - [promo-stamp-gold-stamp-promo](../terms/p/promo-stamp-gold-stamp-promo.md)
 - [protective-poly-outer-japanese-resealable](../terms/p/protective-poly-outer-japanese-resealable.md)
+- [psychedelic-rock](../terms/p/psychedelic-rock.md)
 - [punch-hole-cut-out](../terms/p/punch-hole-cut-out.md)
+- [punk](../terms/p/punk.md)
 - [punk-era-7-inch](../terms/p/punk-era-7-inch.md)
 - [push-out-center-uk-style-45](../terms/p/push-out-center-uk-style-45.md)
 

@@ -47,6 +47,17 @@
 - [x] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption - (2025-10-06_22.15.00)
 - [x] `000090` - Create copy-as-markdown functionality for easy AI training data extraction - (2025-10-06_22.15.00)
 - [x] `000091` - Build machine-readable entity relationships and knowledge graph structure - (2025-10-06_22.15.00)
+- [x] `000013` - Create individual lexicon entries for each Discogs genre (16 genre entries) - (2025-10-06_21.04.00)
+- [x] `000014` - Create individual lexicon entries for each Discogs style (80 style entries) - (2025-10-06_21.04.00)
+- [x] `000015` - Set up Discogs API integration framework for future v3.0 sync - (2025-10-06_21.04.00)
+- [x] `000016` - Update schema to reference genre/style entries instead of enum fields - (2025-10-06_21.04.00)
+- [x] `000017` - Update cultural sensitivity system to include inappropriate terms with warnings - (2025-10-06_21.09.00)
+- [x] `000018` - Add content obscuration/reveal functionality for sensitive terms - (2025-10-06_21.09.00)
+- [x] `000019` - Update schema and documentation for sensitive content handling - (2025-10-06_21.09.00)
+- [x] `000020` - Create user preference system for sensitive content display - (2025-10-06_21.09.00)
+- [x] `000021` - Add age verification checkbox for 18+ sensitive content - (2025-10-06_21.09.00)
+- [x] `000022` - Implement persistent user preferences with localStorage - (2025-10-06_21.09.00)
+- [x] `000023` - Update sensitive content template to respect user preferences - (2025-10-06_21.09.00)
 - [ ] `000092` - Add API endpoints for AI consumption (/api/terms/search, /api/terms/embeddings, /api/terms/graph)
 - [ ] `000093` - Create AI training dataset exports in multiple formats (JSON, CSV, TXT, RDF/Turtle)
 - [ ] `000094` - Implement semantic embeddings and vector database preparation
@@ -90,6 +101,7 @@
 
 ## Completed Tasks
 
+- [x] `000098` - Simplify site to Wikipedia-style resource: Remove technical/developer language from landing page, contribute page, README, and CONTRIBUTING files - (2025-10-07_10.00.00)
 - [x] `000001` - Create project structure mirroring OA-MD best practices with content/, assets/, tools/, and documentation directories - (2025-01-27_14.30.00)
 - [x] `000002` - Set up standard project documentation files (README.md, CHANGELOG.md, LICENSE, CONTRIBUTING.md, TODO.md) - (2025-01-27_14.35.00)
 - [x] `000003` - Organize vinyl lexicon content into structured book format with chapters - (2025-01-27_14.40.00)
@@ -107,6 +119,36 @@
 - [x] `00002D` - Clean up slugs and term names (270 terms processed, removed descriptive suffixes, moved alternate terms to aka field) - (2025-10-06_16.45.00)
 - [x] `00002E` - Comprehensive project cleanup (removed duplicate backup files, legacy content, ~25MB saved) - (2025-10-06_16.45.00)
 - [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
+- [x] `000012` - Set up MkDocs with Material theme and Pagefind search - (2025-10-06_21.30.00)
+- [x] `000013` - ~~Deploy to GitHub Pages with CI/CD pipeline~~ (Cancelled - using local development only)
+- [x] `000014` - Split remaining letters into one-term-per-file structure - (2025-10-06_21.30.00)
+- [x] `000015` - Run validator to fill missing front-matter - (2025-10-06_21.30.00)
+- [x] `000016` - Generate letter and tag hubs automatically - (2025-10-06_21.30.00)
+- [x] `000017` - Implement autolinking script for cross-references - (2025-10-06_21.30.00)
+- [x] `000018` - Refine contributor documentation - (2025-10-06_21.45.00)
+- [x] `000019` - Add pre-commit hooks and validations - (2025-10-06_21.45.00)
+- [x] `000020` - Set up aliases → redirects system - (2025-10-06_21.45.00)
+- [x] `000021` - Add related-terms sidebar - (2025-10-06_21.45.00)
+- [x] `000022` - Expose JSON export of all terms (/api/terms.json) - (2025-10-06_21.45.00)
+- [x] `000084` - Create Discogs genre/style reference system: Map each genre and style to official Discogs URLs (e.g., /genre/rock, /style/krautrock) - (2025-10-06_22.00.00)
+- [x] `000085` - Investigate Discogs API integration for pulling canonical genre/style descriptions and metadata - (2025-10-06_22.00.00)
+- [x] `000086` - Implement genre/style pages in lexicon that link to and reference Discogs as authoritative source - (2025-10-06_22.00.00)
+- [x] `000087` - Add "discogs_genre_url" and "discogs_style_urls" fields to schema for storing canonical Discogs references - (2025-10-06_22.00.00)
+- [x] `000088` - Add AI-friendly metadata fields to schema (complexity_level, domain_expertise, usage_frequency, temporal_relevance, cultural_significance, technical_accuracy) - (2025-10-06_22.15.00)
+- [x] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption - (2025-10-06_22.15.00)
+- [x] `000090` - Create copy-as-markdown functionality for easy AI training data extraction - (2025-10-06_22.15.00)
+- [x] `000091` - Build machine-readable entity relationships and knowledge graph structure - (2025-10-06_22.15.00)
+- [x] `000013` - Create individual lexicon entries for each Discogs genre (16 genre entries) - (2025-10-06_21.04.00)
+- [x] `000014` - Create individual lexicon entries for each Discogs style (80 style entries) - (2025-10-06_21.04.00)
+- [x] `000015` - Set up Discogs API integration framework for future v3.0 sync - (2025-10-06_21.04.00)
+- [x] `000016` - Update schema to reference genre/style entries instead of enum fields - (2025-10-06_21.04.00)
+- [x] `000017` - Update cultural sensitivity system to include inappropriate terms with warnings - (2025-10-06_21.09.00)
+- [x] `000018` - Add content obscuration/reveal functionality for sensitive terms - (2025-10-06_21.09.00)
+- [x] `000019` - Update schema and documentation for sensitive content handling - (2025-10-06_21.09.00)
+- [x] `000020` - Create user preference system for sensitive content display - (2025-10-06_21.09.00)
+- [x] `000021` - Add age verification checkbox for 18+ sensitive content - (2025-10-06_21.09.00)
+- [x] `000022` - Implement persistent user preferences with localStorage - (2025-10-06_21.09.00)
+- [x] `000023` - Update sensitive content template to respect user preferences - (2025-10-06_21.09.00)
 
 ## Future Enhancements
 
@@ -268,4 +310,4 @@ verification: "verified"
 
 ---
 
-**Last Updated**: 2025-01-27
+**Last Updated**: 2025-10-06
