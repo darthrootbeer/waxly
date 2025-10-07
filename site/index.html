@@ -692,6 +692,9 @@
   <h1>Home</h1>
 
 <style>
+  /* Import Cooper Black font */
+  @import url('https://fonts.cdnfonts.com/css/cooper-black');
+
   /* Hide everything except our coming soon page */
   html, body {
     margin: 0 !important;
@@ -762,18 +765,20 @@
   }
 
   .spinney-message {
-    font-family: 'New York Medium', 'Georgia', serif;
+    font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif;
     font-size: 10vw;
-    font-weight: 500;
+    font-weight: 900;
     line-height: 1.1;
     width: 100%;
     padding: 0 5vw;
+    letter-spacing: 0.02em;
     background: linear-gradient(45deg, #ff6b9d, #c06c84, #6c5ce7, #a29bfe, #fd79a8, #fdcb6e, #ff7675, #74b9ff);
     background-size: 400% 400%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    filter: drop-shadow(0 4px 20px rgba(255, 107, 157, 0.4));
+    -webkit-text-stroke: 0.5px rgba(255, 107, 157, 0.3);
+    filter: drop-shadow(0 6px 25px rgba(255, 107, 157, 0.5));
     animation: psychedelic 8s ease infinite;
     transition: all 0.3s ease;
     cursor: default;
