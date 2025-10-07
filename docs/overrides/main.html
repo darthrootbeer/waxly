@@ -14,15 +14,15 @@
         box-sizing: border-box;
       }
 
-      html, body {
-        margin: 0 !important;
-        padding: 0 !important;
-        overflow: hidden !important;
-        height: 100vh !important;
-        width: 100vw !important;
-        font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif;
-        animation: rainbow-cycle 120s linear infinite !important; /* Apply rainbow animation to body */
-      }
+             html, body {
+               margin: 0 !important;
+               padding: 0 !important;
+               overflow: hidden !important;
+               height: 100vh !important;
+               width: 100vw !important;
+               font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif;
+               background: linear-gradient(135deg, #FF6B6B 0%, #FFE66D 50%, #4ECDC4 100%) !important; /* Fallback rainbow */
+             }
 
       @keyframes rainbow-cycle {
         0% { background: linear-gradient(135deg, #FF6B6B 0%, #FFE66D 50%, #4ECDC4 100%); }
@@ -74,28 +74,40 @@
         top: -9999px !important;
       }
 
-      /* Main container - GUARANTEE everything fits */
-      .spinney-container {
-        position: fixed !important;
-        top: 0 !important;
-        left: 0 !important;
-        height: 100vh !important;
-        width: 100vw !important;
-        max-height: 100vh !important;
-        max-width: 100vw !important;
-        display: flex !important;
-        flex-direction: column !important;
-        justify-content: center !important;
-        align-items: center !important;
-        padding: 2vh 3vw !important;
-        margin: 0 !important;
-        text-align: center !important;
-        background: transparent !important; /* Ensure background is transparent to show rainbow */
-        z-index: 10 !important;
-        pointer-events: none !important; /* Allow clicks to pass through to background */
-        box-sizing: border-box !important;
-        overflow: hidden !important; /* Hide overflow if content is too large */
-      }
+             /* Rainbow background container */
+             .rainbow-bg {
+               position: fixed !important;
+               top: 0 !important;
+               left: 0 !important;
+               height: 100vh !important;
+               width: 100vw !important;
+               z-index: 1 !important;
+               animation: rainbow-cycle 120s linear infinite !important;
+               background: linear-gradient(135deg, #FF6B6B 0%, #FFE66D 50%, #4ECDC4 100%) !important;
+             }
+
+             /* Main container - GUARANTEE everything fits */
+             .spinney-container {
+               position: fixed !important;
+               top: 0 !important;
+               left: 0 !important;
+               height: 100vh !important;
+               width: 100vw !important;
+               max-height: 100vh !important;
+               max-width: 100vw !important;
+               display: flex !important;
+               flex-direction: column !important;
+               justify-content: center !important;
+               align-items: center !important;
+               padding: 2vh 3vw !important;
+               margin: 0 !important;
+               text-align: center !important;
+               background: transparent !important; /* Ensure background is transparent to show rainbow */
+               z-index: 10 !important;
+               pointer-events: none !important; /* Allow clicks to pass through to background */
+               box-sizing: border-box !important;
+               overflow: hidden !important; /* Hide overflow if content is too large */
+             }
 
       /* Image wrapper - constrain to safe area */
       .spinney-image-wrapper {
@@ -127,25 +139,25 @@
         50% { transform: translateY(-10px); }
       }
 
-      /* Text - ensure it NEVER exceeds container */
-      .spinney-message {
-        font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif !important;
-        font-size: min(4.5vw, 4.5vh, 60px) !important; /* Triple min for robust scaling */
-        font-weight: 900 !important;
-        line-height: 1.15 !important;
-        max-width: 90vw !important;
-        max-height: 35vh !important; /* Max height for text */
-        padding: 0 !important;
-        letter-spacing: 0.02em !important;
-        color: #ffffff !important;
-        text-shadow:
-          0 4px 12px rgba(0, 0, 0, 0.4),
-          0 2px 6px rgba(0, 0, 0, 0.3),
-          0 1px 3px rgba(0, 0, 0, 0.2) !important;
-        flex-shrink: 0 !important;
-        pointer-events: auto !important; /* Re-enable pointer events for text */
-        overflow: hidden !important; /* Hide overflow if text is too large */
-      }
+             /* Text - ensure it NEVER exceeds container */
+             .spinney-message {
+               font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif !important;
+               font-size: clamp(24px, 4vw, 60px) !important; /* Better responsive sizing */
+               font-weight: 900 !important;
+               line-height: 1.15 !important;
+               max-width: 90vw !important;
+               max-height: 35vh !important; /* Max height for text */
+               padding: 0 !important;
+               letter-spacing: 0.02em !important;
+               color: #ffffff !important;
+               text-shadow:
+                 0 4px 12px rgba(0, 0, 0, 0.4),
+                 0 2px 6px rgba(0, 0, 0, 0.3),
+                 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+               flex-shrink: 0 !important;
+               pointer-events: auto !important; /* Re-enable pointer events for text */
+               overflow: hidden !important; /* Hide overflow if text is too large */
+             }
 
       /* Responsive - GUARANTEE content fits at all sizes */
       @media (max-width: 1200px) {
@@ -191,22 +203,34 @@
         }
       }
 
-      /* Extra wide screens - be ultra conservative */
-      @media (min-aspect-ratio: 16/9) {
-        .spinney-container {
-          padding: 2vh 4vw !important;
-        }
-        .spinney-image-wrapper {
-          max-height: 35vh !important;
-        }
-        .spinney-image {
-          max-width: min(25vw, 300px) !important;
-          max-height: 35vh !important;
-        }
-        .spinney-message {
-          font-size: min(3.5vw, 3.5vh, 50px) !important;
-        }
-      }
+             /* Extra wide screens - be ultra conservative */
+             @media (min-aspect-ratio: 16/9) {
+               .spinney-container {
+                 padding: 2vh 4vw !important;
+               }
+               .spinney-image-wrapper {
+                 max-height: 35vh !important;
+               }
+               .spinney-image {
+                 max-width: min(25vw, 300px) !important;
+                 max-height: 35vh !important;
+               }
+               .spinney-message {
+                 font-size: clamp(20px, 2.5vw, 45px) !important;
+                 max-width: 80vw !important;
+               }
+             }
+
+             /* Ultra wide screens */
+             @media (min-aspect-ratio: 21/9) {
+               .spinney-message {
+                 font-size: clamp(18px, 2vw, 40px) !important;
+                 max-width: 75vw !important;
+               }
+               .spinney-image {
+                 max-width: min(20vw, 250px) !important;
+               }
+             }
 
       /* Very tall screens (portrait) */
       @media (max-aspect-ratio: 3/4) {
@@ -267,17 +291,18 @@
       document.body.style.width = '100vw';
     });
     </script>
-  </head>
-  <body>
-    <div class="spinney-container">
-      <div class="spinney-image-wrapper">
-        <img src="assets/images/spinney_groovey.png" alt="Spinney" class="spinney-image">
-      </div>
-      <div class="spinney-message">
-        Spinney Sez:<br>Stay Groovy!<br>We're not quite ready yet!
-      </div>
-    </div>
-  </body>
+         </head>
+         <body>
+           <div class="rainbow-bg"></div>
+           <div class="spinney-container">
+             <div class="spinney-image-wrapper">
+               <img src="assets/images/spinney_groovey.png" alt="Spinney" class="spinney-image">
+             </div>
+             <div class="spinney-message">
+               Spinney Sez:<br>Stay Groovy!<br>We're not quite ready yet!
+             </div>
+           </div>
+         </body>
 </html>
 {% else %}
   <!-- Standard MkDocs content for all other pages -->
