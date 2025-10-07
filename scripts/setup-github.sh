@@ -45,11 +45,8 @@ if command -v gh &> /dev/null; then
 
     echo "✅ Repository pushed to GitHub"
 
-    # Enable GitHub Pages
-    echo "🌐 Setting up GitHub Pages..."
-    gh api repos/$(gh api user --jq .login)/vinyl-lexicon/pages -X POST -f source[branch]=master -f source[path]=/ 2>/dev/null || echo "⚠️  GitHub Pages may already be configured"
-
-    echo "✅ GitHub Pages enabled"
+    # Note: GitHub Pages disabled for now - local development only
+    echo "ℹ️  GitHub Pages disabled - using local development only"
 
 else
     echo "⚠️  GitHub CLI not found. Please install it or set up the repository manually:"
@@ -64,8 +61,8 @@ echo "🎉 Setup complete!"
 echo ""
 echo "Next steps:"
 echo "  • Visit your GitHub repository to verify the upload"
-echo "  • Check GitHub Pages settings to enable web hosting"
+echo "  • Run 'mkdocs serve' for local development"
 echo "  • Share the repository with the vinyl community"
 echo ""
 echo "Repository URL: https://github.com/$(gh api user --jq .login 2>/dev/null || echo 'YOUR_USERNAME')/vinyl-lexicon"
-echo "GitHub Pages URL: https://$(gh api user --jq .login 2>/dev/null || echo 'YOUR_USERNAME').github.io/vinyl-lexicon"
+echo "Local development: mkdocs serve --dev-addr=127.0.0.1:8000"

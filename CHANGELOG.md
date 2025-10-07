@@ -81,7 +81,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Convert 500+ terms from 24 chapters to individual files
 - Generate automated navigation hubs (letters, tags)
 - Implement validation schemas and quality control
-- Deploy with MkDocs + Pagefind search on GitHub Pages
+- Deploy with MkDocs + Pagefind search (local development only)
 
 ## [1.0.0] - 2025-01-27 (Initial Release)
 

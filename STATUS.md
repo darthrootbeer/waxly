@@ -15,10 +15,10 @@
 
 ## What's Next
 
-- [ ] Set up MkDocs with Material theme and Pagefind search
-- [ ] Deploy to GitHub Pages with CI/CD pipeline
-- [ ] Generate letter and tag hubs automatically
-- [ ] Implement autolinking for cross-references
+- [x] Set up MkDocs with Material theme and Pagefind search
+- [x] ~~Deploy to GitHub Pages with CI/CD pipeline~~ (Cancelled - using local development only)
+- [x] Generate letter and tag hubs automatically
+- [x] Implement autolinking for cross-references
 
 ## Content Status
 

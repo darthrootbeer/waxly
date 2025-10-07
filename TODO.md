@@ -14,8 +14,8 @@
 - [x] `00002D` - Clean up slugs and term names (270 terms processed, removed descriptive suffixes, moved alternate terms to aka field) - (2025-10-06_16.45.00)
 - [x] `00002E` - Comprehensive project cleanup (removed duplicate backup files, legacy content, ~25MB saved) - (2025-10-06_16.45.00)
 - [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
-- [ ] `000012` - Set up MkDocs with Material theme and Pagefind search
-- [ ] `000013` - Deploy to GitHub Pages with CI/CD pipeline
+- [x] `000012` - Set up MkDocs with Material theme and Pagefind search - (2025-10-06_21.30.00)
+- [x] `000013` - ~~Deploy to GitHub Pages with CI/CD pipeline~~ (Cancelled - using local development only)
 
 ### Phase 2 - Content Migration
 
