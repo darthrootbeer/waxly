@@ -68,7 +68,7 @@ Technical components are licensed under **MIT License**, providing flexibility f
 ## Contact
 
 For questions, feedback, or more information:
-- **GitHub**: [darthrootbeer/vinyl-lexicon](https://github.com/darthrootbeer/vinyl-lexicon)
+- **GitHub**: [darthrootbeer/waxly](https://github.com/darthrootbeer/waxly)
 
 ---
 

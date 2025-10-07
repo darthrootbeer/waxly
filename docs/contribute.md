@@ -69,8 +69,8 @@ Review times vary, but we appreciate your patience as we ensure quality and accu
 ## Contact
 
 To contribute or ask questions:
-- **GitHub Issues**: [github.com/darthrootbeer/vinyl-lexicon/issues](https://github.com/darthrootbeer/vinyl-lexicon/issues)
-- **GitHub**: [darthrootbeer/vinyl-lexicon](https://github.com/darthrootbeer/vinyl-lexicon)
+- **GitHub Issues**: [github.com/darthrootbeer/waxly/issues](https://github.com/darthrootbeer/waxly/issues)
+- **GitHub**: [darthrootbeer/waxly](https://github.com/darthrootbeer/waxly)
 
 ---
 
