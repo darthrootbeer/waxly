@@ -101,6 +101,7 @@
 
 ## Completed Tasks
 
+- [x] `000099` - Expand historical coverage to 1857: Update schema to include 1850s-1930s eras, add historical timeline to About page, update landing page with "Since 1857!" - (2025-10-07_10.15.00)
 - [x] `000098` - Simplify site to Wikipedia-style resource: Remove technical/developer language from landing page, contribute page, README, and CONTRIBUTING files - (2025-10-07_10.00.00)
 - [x] `000001` - Create project structure mirroring OA-MD best practices with content/, assets/, tools/, and documentation directories - (2025-01-27_14.30.00)
 - [x] `000002` - Set up standard project documentation files (README.md, CHANGELOG.md, LICENSE, CONTRIBUTING.md, TODO.md) - (2025-01-27_14.35.00)

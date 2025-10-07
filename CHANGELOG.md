@@ -25,12 +25,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Updated all documentation, configuration files, and site metadata
   - New custom domain: hellowaxly.com
   - Repository renamed from vinyl-lexicon to waxly
-- **GitHub Configuration**:
+- **Expanded Historical Coverage**: Extended timeline from 1940s to **1850s**
+  - Now covers complete history from 1857 phonautograph invention
+  - Added historical context for Edison phonograph (1877) and Berliner gramophone (1887)
+  - Schema updated to include eras: 1850s, 1860s, 1870s, 1880s, 1890s, 1900s, 1910s, 1920s, 1930s
+  - Landing page now prominently displays "Since 1857!"
+  - Documenting 168 years of recorded sound evolution
+- **GitHub Configuration**: 
   - Repository visibility changed to public
   - GitHub Pages enabled with GitHub Actions deployment
   - Automated deployment workflow created and tested
   - Site successfully deployed to https://darthrootbeer.github.io/waxly/
-- **Custom Styling**:
+- **Custom Styling**: 
   - New dark record-sleeve-inspired aesthetic
   - Custom CSS with Waxly brand colors (matte black #0a0a0a, warm gold #ffb400)
   - Enhanced typography and navigation styling
@@ -43,6 +49,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CNAME file for hellowaxly.com custom domain (`docs/CNAME`)
 - Deployment guide with DNS configuration instructions (`DEPLOYMENT_GUIDE.md`)
 - Deployment success summary (`DEPLOYMENT_SUCCESS.md`)
+- Historical timeline section in About page covering 1857-present
+- Nine additional decade options in schema (1850s through 1930s)
 
 ### Fixed
 

@@ -2,7 +2,17 @@
 
 ## Overview
 
-Waxly is a comprehensive digital reference for vinyl record culture, terminology, and collecting. We document and preserve the rich vocabulary that has developed around vinyl records—from technical specifications to cultural slang—ensuring this knowledge remains accessible for future generations.
+Waxly is a comprehensive digital reference for recorded sound culture, terminology, and collecting—spanning from the earliest experiments in 1857 to today's vinyl renaissance. We document and preserve the rich vocabulary that has developed around sound recorded on spinning formats, from the phonautograph and gramophone to modern vinyl records, ensuring this knowledge remains accessible for future generations.
+
+### Historical Timeline
+
+The story of recorded sound begins in **1857** when French inventor Édouard-Léon Scott de Martinville created the phonautograph—the first device to capture sound waves as visible tracings on smoked glass or paper. Though it couldn't play back sound, it marked humanity's first step toward preserving audio.
+
+In **1877**, Thomas Edison achieved the breakthrough of recording and playback with his phonograph, using tinfoil-wrapped cylinders.
+
+Then in **1887**, Emile Berliner introduced the gramophone with its revolutionary flat disc format—the ancestor of modern vinyl records. This innovation laid the foundation for the entire industry we document today.
+
+Waxly covers this entire journey: from those pioneering phonautograph experiments through shellac 78s, vinyl LPs, and into the modern era of audiophile pressings and DJ culture.
 
 ## What We Cover
 
@@ -22,9 +32,10 @@ Grading systems and condition codes, market terminology, pricing conventions, la
 
 - **500+ terms** covering vinyl culture and terminology
 - **English language** with regional variations (US, UK, Japan, Europe)
-- **Eras covered**: 1940s to present
+- **Eras covered**: 1850s to present (from phonautograph to modern vinyl)
 - **Global coverage** with local variations and slang
-- **Last updated**: 2025-01-27
+- **Historical depth**: Documenting 168 years of recorded sound evolution
+- **Last updated**: 2025-10-07
 
 ## How It Works
 

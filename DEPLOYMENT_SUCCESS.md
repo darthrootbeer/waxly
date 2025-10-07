@@ -82,7 +82,8 @@ Type: CNAME, Name: www, Value: darthrootbeer.github.io
 - **500+ terms** covering vinyl terminology
 - **96 genre/style entries** from Discogs taxonomy
 - **Global coverage** with regional variations
-- **Multiple eras** from 1940s to present
+- **Historical span**: 1850s to present (168 years of recorded sound)
+- **Complete timeline**: From phonautograph (1857) to modern vinyl
 - **Rich metadata** for each term
 
 ## 🔧 For Developers

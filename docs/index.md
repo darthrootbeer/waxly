@@ -2,7 +2,9 @@
 
 > **The Language of Vinyl, Defined.**
 
-Waxly is your comprehensive resource for vinyl record terminology, equipment, techniques, and culture. Search or browse over 500 terms covering everything from turntables to DJ techniques, from pressing quality to collecting strategies—the modern lexicon of vinyl culture.
+**Since 1857!**
+
+Waxly is your comprehensive resource for recorded sound terminology, from the earliest phonautograph experiments to modern vinyl culture. Search or browse over 500 terms covering everything from turntables to DJ techniques, from pressing quality to collecting strategies—documenting the complete history of sound recorded on spinning formats.
 
 ## Browse by Letter
 

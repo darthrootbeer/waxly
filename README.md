@@ -2,9 +2,11 @@
 
 > The Language of Vinyl, Defined.
 
+**Since 1857**
+
 ## Overview
 
-Waxly is a searchable database documenting vinyl record terminology, equipment, techniques, and culture. It serves collectors, DJs, audiophiles, and anyone interested in vinyl records.
+Waxly is a searchable database documenting recorded sound terminology, from the phonautograph (1857) to modern vinyl culture. It covers equipment, techniques, culture, and the complete history of sound recorded on spinning formats.
 
 **Visit the site**: [hellowaxly.com](https://hellowaxly.com)
 
