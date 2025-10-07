@@ -19,7 +19,6 @@ Explore terms by topic:
 - **[Equipment](tags/equipment.md)** - Turntables, mixers, cartridges, and accessories
 - **[DJ-Related](tags/dj-related.md)** - DJ techniques, scratching, and performance
 - **[Pressing](tags/pressing.md)** - Manufacturing, quality control, and variants
-- **[Genres](tags/genres.md)** - Music genres and vinyl-specific terminology
 - **[Historical](tags/historical.md)** - Terms from specific eras and cultural movements
 
 ## Search
