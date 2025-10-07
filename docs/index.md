@@ -35,6 +35,73 @@
     margin: 0 !important;
   }
   
+  /* Psychedelic flowing background */
+  .spinney-container::before,
+  .spinney-container::after {
+    content: '';
+    position: absolute;
+    width: 200vw;
+    height: 200vh;
+    top: -50vh;
+    left: -50vw;
+    z-index: 1;
+    opacity: 0.6;
+  }
+  
+  .spinney-container::before {
+    background: 
+      radial-gradient(circle at 20% 30%, rgba(255, 107, 157, 0.4) 0%, transparent 50%),
+      radial-gradient(circle at 80% 70%, rgba(108, 92, 231, 0.4) 0%, transparent 50%),
+      radial-gradient(circle at 40% 80%, rgba(253, 121, 168, 0.4) 0%, transparent 50%),
+      radial-gradient(circle at 60% 20%, rgba(116, 185, 255, 0.4) 0%, transparent 50%),
+      radial-gradient(circle at 90% 40%, rgba(253, 203, 110, 0.4) 0%, transparent 50%),
+      linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+    animation: psychedelicFlow1 30s ease-in-out infinite;
+  }
+  
+  .spinney-container::after {
+    background: 
+      radial-gradient(circle at 70% 60%, rgba(192, 108, 132, 0.3) 0%, transparent 50%),
+      radial-gradient(circle at 30% 40%, rgba(162, 155, 254, 0.3) 0%, transparent 50%),
+      radial-gradient(circle at 50% 90%, rgba(255, 118, 117, 0.3) 0%, transparent 50%),
+      radial-gradient(circle at 10% 50%, rgba(80, 227, 194, 0.3) 0%, transparent 50%);
+    animation: psychedelicFlow2 25s ease-in-out infinite reverse;
+  }
+  
+  @keyframes psychedelicFlow1 {
+    0%, 100% { 
+      transform: translate(0%, 0%) rotate(0deg) scale(1);
+      opacity: 0.6;
+    }
+    25% { 
+      transform: translate(-5%, 5%) rotate(90deg) scale(1.1);
+      opacity: 0.7;
+    }
+    50% { 
+      transform: translate(5%, -5%) rotate(180deg) scale(1);
+      opacity: 0.6;
+    }
+    75% { 
+      transform: translate(-3%, -3%) rotate(270deg) scale(1.05);
+      opacity: 0.7;
+    }
+  }
+  
+  @keyframes psychedelicFlow2 {
+    0%, 100% { 
+      transform: translate(0%, 0%) rotate(0deg) scale(1);
+      opacity: 0.5;
+    }
+    33% { 
+      transform: translate(3%, -4%) rotate(120deg) scale(1.15);
+      opacity: 0.6;
+    }
+    66% { 
+      transform: translate(-4%, 3%) rotate(240deg) scale(1.05);
+      opacity: 0.5;
+    }
+  }
+  
   /* Coming soon page styling - NO SCROLL, perfect centering */
   .spinney-container {
     height: 100vh;
@@ -43,11 +110,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+    position: relative;
     padding: 0;
     margin: 0;
     text-align: center;
     overflow: hidden;
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
   }
   
   .spinney-image-wrapper {
@@ -56,6 +124,8 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 3vh;
+    position: relative;
+    z-index: 10;
   }
   
   .spinney-image {
@@ -64,6 +134,7 @@
     min-width: 200px;
     height: auto;
     animation: float 6s ease-in-out infinite;
+    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.4));
   }
   
   @keyframes float {
@@ -79,43 +150,23 @@
     width: 100%;
     padding: 0 5vw;
     letter-spacing: 0.02em;
-    background: linear-gradient(45deg, #ff6b9d, #c06c84, #6c5ce7, #a29bfe, #fd79a8, #fdcb6e, #ff7675, #74b9ff);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    -webkit-text-stroke: 0.5px rgba(255, 107, 157, 0.3);
-    filter: drop-shadow(0 6px 25px rgba(255, 107, 157, 0.5));
-    animation: psychedelic 8s ease infinite;
+    color: #ffffff;
+    text-shadow: 
+      0 6px 20px rgba(0, 0, 0, 0.4),
+      0 3px 10px rgba(0, 0, 0, 0.3),
+      0 1px 3px rgba(0, 0, 0, 0.5);
     transition: all 0.3s ease;
     cursor: default;
+    position: relative;
+    z-index: 10;
   }
   
   .spinney-message:hover {
-    animation: shimmer 1.5s ease infinite, psychedelic 8s ease infinite;
     transform: scale(1.02);
-    filter: drop-shadow(0 6px 30px rgba(255, 107, 157, 0.6)) hue-rotate(45deg) brightness(1.1);
-  }
-  
-  @keyframes psychedelic {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  @keyframes shimmer {
-    0%, 100% { 
-      filter: drop-shadow(0 4px 20px rgba(255, 107, 157, 0.4)) hue-rotate(0deg) brightness(1); 
-    }
-    25% { 
-      filter: drop-shadow(0 5px 25px rgba(192, 108, 132, 0.5)) hue-rotate(15deg) brightness(1.1); 
-    }
-    50% { 
-      filter: drop-shadow(0 6px 30px rgba(108, 92, 231, 0.6)) hue-rotate(30deg) brightness(1.2); 
-    }
-    75% { 
-      filter: drop-shadow(0 5px 25px rgba(162, 155, 254, 0.5)) hue-rotate(15deg) brightness(1.1); 
-    }
+    text-shadow: 
+      0 8px 30px rgba(0, 0, 0, 0.5),
+      0 4px 15px rgba(0, 0, 0, 0.4),
+      0 2px 5px rgba(0, 0, 0, 0.6);
   }
   
   /* Responsive text sizing - keep it as large as possible */
