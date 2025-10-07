@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/t/tracking-angle-vertical-tracking-angle-vta/",
+  "name": "Tracking Angle Vertical Tracking Angle Vta",
+  "description": "noun / hi-fi geometry term. The angle at which the stylus sits in the groove relative to the record surface — ideally matches the angle of the cutter head (~20°). Adjustable via tone-arm heigh...",
+  "url": "https://vinyl-lexicon.com/terms/t/tracking-angle-vertical-tracking-angle-vta/",
+  "dateModified": "2025-10-06",
+  "identifier": "tracking-angle-vertical-tracking-angle-vta",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "dj-related",
+    "pressing"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/h/hand-etched-matrix/",
+  "name": "Hand Etched Matrix",
+  "description": "A matrix/run-out inscription scratched by hand into the lacquer by the mastering engineer — often includes initials or pressing info.",
+  "url": "https://vinyl-lexicon.com/terms/h/hand-etched-matrix/",
+  "dateModified": "2025-10-06",
+  "identifier": "hand-etched-matrix",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    }
+  ],
+  "keywords": [
+    "dj-related",
+    "pressing",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

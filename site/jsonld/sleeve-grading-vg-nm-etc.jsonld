@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/s/sleeve-grading-vg-nm-etc/",
+  "name": "Sleeve Grading Vg Nm Etc",
+  "description": "**noun / collector practice.** The **condition rating of a record’s outer jacket or sleeve** using standard grading scales — Mint (M), Near Mint (NM), Very Good (VG), Good (G), etc.",
+  "url": "https://vinyl-lexicon.com/terms/s/sleeve-grading-vg-nm-etc/",
+  "dateModified": "2025-10-06",
+  "identifier": "sleeve-grading-vg-nm-etc",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

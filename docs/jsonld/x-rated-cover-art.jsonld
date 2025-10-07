@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/x/x-rated-cover-art/",
+  "name": "X Rated Cover Art",
+  "description": "**noun / mastering test.** A **trial lacquer groove cut in an ‘X’ pattern or cross-hatch** used by engineers to test cutterhead alignment and groove depth before committing to a full lacquer side.",
+  "url": "https://vinyl-lexicon.com/terms/x/x-rated-cover-art/",
+  "dateModified": "2025-10-06",
+  "identifier": "x-rated-cover-art",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

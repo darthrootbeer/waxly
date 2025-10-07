@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/c/cartridge/",
+  "name": "Cartridge",
+  "description": "The removable electro-mechanical pickup at the end of a tonearm that holds the stylus and converts groove vibrations into electrical signals.",
+  "url": "https://vinyl-lexicon.com/terms/c/cartridge/",
+  "dateModified": "2025-10-06",
+  "identifier": "cartridge",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "dj-related",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

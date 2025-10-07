@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/t/top-loader-sleeve-top-opening-jacket/",
+  "name": "Top Loader Sleeve Top Opening Jacket",
+  "description": "**noun / packaging style.** A **jacket or outer sleeve that opens along the top edge** instead of the right side — typical of early UK and Japanese pressings.",
+  "url": "https://vinyl-lexicon.com/terms/t/top-loader-sleeve-top-opening-jacket/",
+  "dateModified": "2025-10-06",
+  "identifier": "top-loader-sleeve-top-opening-jacket",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

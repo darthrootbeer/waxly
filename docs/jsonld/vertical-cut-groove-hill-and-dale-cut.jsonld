@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/v/vertical-cut-groove-hill-and-dale-cut/",
+  "name": "Vertical Cut Groove Hill And Dale Cut",
+  "description": "**noun / historical groove style.** A **groove modulation style where the stylus moves up-and-down (vertical) rather than side-to-side (lateral)** — used in early Edison discs and some 78s.",
+  "url": "https://vinyl-lexicon.com/terms/v/vertical-cut-groove-hill-and-dale-cut/",
+  "dateModified": "2025-10-06",
+  "identifier": "vertical-cut-groove-hill-and-dale-cut",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "pressing",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

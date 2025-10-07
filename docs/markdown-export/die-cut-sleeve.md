@@ -1,0 +1,24 @@
+# Die Cut Sleeve
+
+**Summary:** A jacket with a deliberate cut-out window—showing part of the record label or picture sleeve beneath.
+
+**Tags:** pressing
+
+**Genres:** all
+
+## Content
+
+# Die-Cut Sleeve
+
+**Definition:** A jacket with a deliberate cut-out window—showing part of the record label or picture sleeve beneath.
+
+**Etymology:** Printing term: *die-cut* means cut by a shaped steel die.
+
+**Example:** “The disco 12-inch came in a die-cut sleeve showing the bright yellow label.”
+
+**Cultural Note:** * Iconic for ’70s disco and funk singles and ’80s new-wave packaging flair.
+
+## Metadata
+
+- **Complexity:** intermediate
+- **Popularity:** 5

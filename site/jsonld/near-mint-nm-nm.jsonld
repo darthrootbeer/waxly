@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/n/near-mint-nm-nm/",
+  "name": "Near Mint Nm Nm",
+  "description": "**noun / grading term.** A record grading just below Mint — virtually flawless with only superficial hairline scuffs that do not affect play; jacket likewise crisp with minimal shelf-wear.",
+  "url": "https://vinyl-lexicon.com/terms/n/near-mint-nm-nm/",
+  "dateModified": "2025-10-06",
+  "identifier": "near-mint-nm-nm",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

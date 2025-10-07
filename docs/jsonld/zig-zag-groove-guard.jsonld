@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/z/zig-zag-groove-guard/",
+  "name": "Zig Zag Groove Guard",
+  "description": "**noun / packaging-mould feature.** A **slight zig-zag raised lip pattern on some LP edges or labels designed to keep stacked records’ grooves from rubbing when sleeveless**.",
+  "url": "https://vinyl-lexicon.com/terms/z/zig-zag-groove-guard/",
+  "dateModified": "2025-10-06",
+  "identifier": "zig-zag-groove-guard",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/l/locked-groove/",
+  "name": "Locked Groove",
+  "description": "noun / technical / creative. A circular groove at the end of a side where the stylus loops indefinitely instead of spiraling to the label — can be silent, contain a loop of sound, or be used for h...",
+  "url": "https://vinyl-lexicon.com/terms/l/locked-groove/",
+  "dateModified": "2025-10-06",
+  "identifier": "locked-groove",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "technical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

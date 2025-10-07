@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/n/new-old-stock-nos/",
+  "name": "New Old Stock Nos",
+  "description": "**noun / retail / collector term.** Unused, unopened vintage inventory discovered after decades in storage — applies to sealed records, cartridges, or accessories.",
+  "url": "https://vinyl-lexicon.com/terms/n/new-old-stock-nos/",
+  "dateModified": "2025-10-06",
+  "identifier": "new-old-stock-nos",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "collecting",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

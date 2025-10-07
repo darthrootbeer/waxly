@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/a/acoustic-suspension/",
+  "name": "Acoustic Suspension",
+  "description": "A sealed-box speaker-cabinet design popular from the late ’50s onward, known for tight, deep bass response — a favorite among hi-fi vinyl listeners seeking accurate low-end without port “boom.”",
+  "url": "https://vinyl-lexicon.com/terms/a/acoustic-suspension/",
+  "dateModified": "2025-10-06",
+  "identifier": "acoustic-suspension",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

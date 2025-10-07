@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/h/hi-fi-high-fidelity/",
+  "name": "Hi Fi High Fidelity",
+  "description": "**noun / slang / marketing.** A term describing audio equipment capable of accurate, high-quality sound reproduction; became synonymous with serious home-stereo gear in the LP era.",
+  "url": "https://vinyl-lexicon.com/terms/h/hi-fi-high-fidelity/",
+  "dateModified": "2025-10-06",
+  "identifier": "hi-fi-high-fidelity",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

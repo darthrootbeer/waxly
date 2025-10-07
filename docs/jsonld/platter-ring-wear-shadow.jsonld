@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/p/platter-ring-wear-shadow/",
+  "name": "Platter Ring Wear Shadow",
+  "description": "**noun / grading slang.** A faint circular shadow or gloss change on an LP jacket front or back that mirrors the record’s outline inside — caused by years of pressure and shelf-rub.",
+  "url": "https://vinyl-lexicon.com/terms/p/platter-ring-wear-shadow/",
+  "dateModified": "2025-10-06",
+  "identifier": "platter-ring-wear-shadow",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

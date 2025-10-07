@@ -1,0 +1,115 @@
+# Discogs Genre Taxonomy
+# Official genres and styles from Discogs music database
+
+genres:
+  Electronic:
+    - Ambient
+    - Breakbeat
+    - Drum & Bass
+    - Dubstep
+    - Electro
+    - House
+    - Techno
+    - Trance
+    - Industrial
+    - Synth-pop
+
+  Rock:
+    - Alternative Rock
+    - Classic Rock
+    - Hard Rock
+    - Punk
+    - Grunge
+    - Indie Rock
+    - Progressive Rock
+    - Psychedelic Rock
+
+  Pop:
+    - Dance-pop
+    - Synth-pop
+    - Teen Pop
+    - Art Pop
+    - Baroque Pop
+
+  Jazz:
+    - Bebop
+    - Cool Jazz
+    - Free Jazz
+    - Fusion
+    - Smooth Jazz
+    - Swing
+    - Big Band
+
+  Blues:
+    - Chicago Blues
+    - Delta Blues
+    - Electric Blues
+    - Rhythm & Blues
+    - Soul Blues
+
+  Country:
+    - Bluegrass
+    - Country Rock
+    - Honky Tonk
+    - Western
+
+  Folk:
+    - Folk Rock
+    - Traditional Folk
+    - Contemporary Folk
+    - World Music
+
+  Classical:
+    - Baroque
+    - Romantic
+    - Modern Classical
+    - Opera
+    - Symphony
+
+  Hip Hop:
+    - Old School Hip Hop
+    - Gangsta Rap
+    - Conscious Hip Hop
+    - Alternative Hip Hop
+    - Trap
+
+  Funk:
+    - P-Funk
+    - Funk Rock
+    - Jazz Funk
+
+  Soul:
+    - Northern Soul
+    - Southern Soul
+    - Motown
+    - Neo-Soul
+
+  Reggae:
+    - Roots Reggae
+    - Dub
+    - Dancehall
+    - Ska
+
+  Latin:
+    - Salsa
+    - Bossa Nova
+    - Tango
+    - Flamenco
+
+  World:
+    - African
+    - Asian
+    - Middle Eastern
+    - European Folk
+
+  Experimental:
+    - Avant-garde
+    - Noise
+    - Ambient
+    - Drone
+
+  Soundtrack:
+    - Film Score
+    - TV Soundtrack
+    - Video Game Music
+    - Musical Theater

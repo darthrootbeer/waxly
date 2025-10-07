@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/p/power-pop-lp/",
+  "name": "Power Pop Lp",
+  "description": "**noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-pop vinyl releases sought by fans of the power-pop genre.",
+  "url": "https://vinyl-lexicon.com/terms/p/power-pop-lp/",
+  "dateModified": "2025-10-06",
+  "identifier": "power-pop-lp",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "keywords": [
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

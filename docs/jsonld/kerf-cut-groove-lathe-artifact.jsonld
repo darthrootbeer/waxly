@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/k/kerf-cut-groove-lathe-artifact/",
+  "name": "Kerf Cut Groove Lathe Artifact",
+  "description": "**noun / technical slang.** A rare visual groove pattern resembling tiny wood-saw kerfs, sometimes left by a dull cutting stylus or damaged lacquer surface.",
+  "url": "https://vinyl-lexicon.com/terms/k/kerf-cut-groove-lathe-artifact/",
+  "dateModified": "2025-10-06",
+  "identifier": "kerf-cut-groove-lathe-artifact",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "pressing",
+    "collecting",
+    "technical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

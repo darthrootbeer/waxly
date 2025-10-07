@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/i/isolation-feet-isolation-platform/",
+  "name": "Isolation Feet Isolation Platform",
+  "description": "Shock-absorbing feet or platforms placed under turntables or amps to minimize vibration from floors, speakers, or footsteps.",
+  "url": "https://vinyl-lexicon.com/terms/i/isolation-feet-isolation-platform/",
+  "dateModified": "2025-10-06",
+  "identifier": "isolation-feet-isolation-platform",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "keywords": [
+    "equipment"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

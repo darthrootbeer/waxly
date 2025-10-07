@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/m/multi-disc-box-set/",
+  "name": "Multi Disc Box Set",
+  "description": "A package containing two or more LPs (sometimes mixed with CDs or DVDs) in a single boxed presentation, often with a booklet, poster, or bonus ephemera.",
+  "url": "https://vinyl-lexicon.com/terms/m/multi-disc-box-set/",
+  "dateModified": "2025-10-06",
+  "identifier": "multi-disc-box-set",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "dj-related",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

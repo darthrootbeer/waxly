@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/e/etched-side-etching/",
+  "name": "Etched Side Etching",
+  "description": "A decorative or artistic design laser-etched or chemically inscribed into the blank side of a multi-disc vinyl release.",
+  "url": "https://vinyl-lexicon.com/terms/e/etched-side-etching/",
+  "dateModified": "2025-10-06",
+  "identifier": "etched-side-etching",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

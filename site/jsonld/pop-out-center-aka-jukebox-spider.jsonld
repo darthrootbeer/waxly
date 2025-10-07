@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/p/pop-out-center-aka-jukebox-spider/",
+  "name": "Pop Out Center Aka Jukebox Spider",
+  "description": "**noun / 7-inch single part.** The large center section of many 45 RPM singles that can be punched out to fit jukebox spindles or snapped back in for standard players.",
+  "url": "https://vinyl-lexicon.com/terms/p/pop-out-center-aka-jukebox-spider/",
+  "dateModified": "2025-10-06",
+  "identifier": "pop-out-center-aka-jukebox-spider",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "keywords": [
+    "cultural"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

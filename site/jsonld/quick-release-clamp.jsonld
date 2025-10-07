@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/q/quick-release-clamp/",
+  "name": "Quick Release Clamp",
+  "description": "**noun / hi-fi accessory.** A **center-spindle clamp or weight** with a cam-lock or push-button release for rapidly securing or removing the record during play.",
+  "url": "https://vinyl-lexicon.com/terms/q/quick-release-clamp/",
+  "dateModified": "2025-10-06",
+  "identifier": "quick-release-clamp",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    }
+  ],
+  "keywords": [
+    "equipment"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

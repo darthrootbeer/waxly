@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/j/jump-groove/",
+  "name": "Jump Groove",
+  "description": "**noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps or vibration; similar to groove-jump.",
+  "url": "https://vinyl-lexicon.com/terms/j/jump-groove/",
+  "dateModified": "2025-10-06",
+  "identifier": "jump-groove",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    },
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "dj-related"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

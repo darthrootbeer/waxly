@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/r/record-club-edition/",
+  "name": "Record Club Edition",
+  "description": "**noun / retail variant.** A pressing made **specifically for mail-order record clubs** (Columbia House, RCA Music Service, etc.), sometimes with alternate labels, jacket text, or mastering.",
+  "url": "https://vinyl-lexicon.com/terms/r/record-club-edition/",
+  "dateModified": "2025-10-06",
+  "identifier": "record-club-edition",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

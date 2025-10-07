@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/p/pressing-weight-140-g-180-g-200-g/",
+  "name": "Pressing Weight 140 G 180 G 200 G",
+  "description": "**noun / manufacturing spec.** The target gram-weight of each vinyl disc set by the plant — heavier pressings are stiffer and sometimes marketed as “audiophile 180 gram.”",
+  "url": "https://vinyl-lexicon.com/terms/p/pressing-weight-140-g-180-g-200-g/",
+  "dateModified": "2025-10-06",
+  "identifier": "pressing-weight-140-g-180-g-200-g",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

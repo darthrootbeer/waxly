@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/s/scissor-cut-obi-fold-over-obi/",
+  "name": "Scissor Cut Obi Fold Over Obi",
+  "description": "**noun / Japanese packaging term.** A **narrow folded paper ‘obi’ strip** that slips over the jacket edge and looks like it’s been cut by scissors — typical of late-70s/80s budget Japanese issues.",
+  "url": "https://vinyl-lexicon.com/terms/s/scissor-cut-obi-fold-over-obi/",
+  "dateModified": "2025-10-06",
+  "identifier": "scissor-cut-obi-fold-over-obi",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

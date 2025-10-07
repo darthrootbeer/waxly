@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/t/transparent-vinyl-pressing/",
+  "name": "Transparent Vinyl Pressing",
+  "description": "**noun / color-vinyl format.** A **record made of fully see-through vinyl compound** (clear, tinted, or smoked) rather than opaque black.",
+  "url": "https://vinyl-lexicon.com/terms/t/transparent-vinyl-pressing/",
+  "dateModified": "2025-10-06",
+  "identifier": "transparent-vinyl-pressing",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

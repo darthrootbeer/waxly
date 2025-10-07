@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/t/tracking-test-record-torture-track-lp/",
+  "name": "Tracking Test Record Torture Track Lp",
+  "description": "**noun / setup tool.** A **special test LP with progressively harder-to-track grooves** used to verify cartridge alignment, anti-skate, and suspension health.",
+  "url": "https://vinyl-lexicon.com/terms/t/tracking-test-record-torture-track-lp/",
+  "dateModified": "2025-10-06",
+  "identifier": "tracking-test-record-torture-track-lp",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "equipment"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

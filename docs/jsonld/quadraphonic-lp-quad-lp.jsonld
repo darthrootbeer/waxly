@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/q/quadraphonic-lp-quad-lp/",
+  "name": "Quadraphonic Lp Quad Lp",
+  "description": "noun / format. A 1970s-era vinyl format engineered to deliver four-channel surround sound when played through compatible decoders and amps. Several competing systems existed — SQ, QS, and CD-4...",
+  "url": "https://vinyl-lexicon.com/terms/q/quadraphonic-lp-quad-lp/",
+  "dateModified": "2025-10-06",
+  "identifier": "quadraphonic-lp-quad-lp",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Hip Hop",
+      "url": "https://vinyl-lexicon.com/discogs/genres/hip-hop/"
+    },
+    {
+      "@type": "MusicGenre",
+      "name": "Jazz",
+      "url": "https://vinyl-lexicon.com/discogs/genres/jazz/"
+    },
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "keywords": [
+    "dj-related",
+    "collecting",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

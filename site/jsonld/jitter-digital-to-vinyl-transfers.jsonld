@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/j/jitter-digital-to-vinyl-transfers/",
+  "name": "Jitter Digital To Vinyl Transfers",
+  "description": "**noun / technical.** Minute timing errors in a digital source’s clock signal that can subtly blur transients when cut to lacquer — an audiophile concern for digitally mastered vinyl.",
+  "url": "https://vinyl-lexicon.com/terms/j/jitter-digital-to-vinyl-transfers/",
+  "dateModified": "2025-10-06",
+  "identifier": "jitter-digital-to-vinyl-transfers",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "technical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

@@ -306,6 +306,26 @@
   
   
   
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../discogs/genres/" class="md-tabs__link">
+          
+  
+  
+  Genres
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
     <li class="md-tabs__item">
       <a href="../../api/terms.json" class="md-tabs__link">
         
@@ -558,6 +578,104 @@
   
   
   
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Genres
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Genres
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../discogs/genres/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Browse Genres
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../discogs/styles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Browse Styles
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../api/terms.json" class="md-nav__link">
         
@@ -665,72 +783,44 @@
 
                 
 
-  <!-- Pagefind Search Modal -->
-  <div id="pagefind-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 1000;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: var(--md-default-bg-color); border-radius: 1rem; padding: 2rem; max-width: 800px; width: 90%; max-height: 80vh; overflow-y: auto;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
-        <h2 style="margin: 0; color: var(--md-primary-fg-color);">Search Vinyl Lexicon</h2>
-        <button id="pagefind-close" style="background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--md-default-fg-color);">&times;</button>
-      </div>
-      <div id="pagefind-search"></div>
-    </div>
-  </div>
-
+  <!-- Related Terms Sidebar -->
   <script>
-    // Initialize Pagefind UI
-    new PagefindUI({
-      element: "#pagefind-search",
-      showImages: false,
-      showSubResults: true,
-      resetStyles: false,
-      translations: {
-        placeholder: "Search vinyl terminology...",
-        clear_search: "Clear",
-        load_more: "Load more results",
-        search_label: "Search",
-        filters_label: "Filters",
-        zero_results: "No results found",
-        many_results: " results found",
-        one_result: "1 result found",
-        alt_search: "No results for \"\". Showing results for \"\" instead.",
-        search_suggestion: "No results for \"\". Try one of the following searches:"
-      }
-    });
-
-    // Search trigger functionality
     document.addEventListener('DOMContentLoaded', function() {
-      // Add search button to navigation
-      const nav = document.querySelector('.md-header__inner');
-      if (nav) {
-        const searchButton = document.createElement('button');
-        searchButton.className = 'pagefind-search-trigger';
-        searchButton.innerHTML = '🔍 Search';
-        searchButton.style.marginLeft = '1rem';
-        searchButton.onclick = function() {
-          document.getElementById('pagefind-modal').style.display = 'block';
-          document.getElementById('pagefind-search').querySelector('input').focus();
-        };
-        nav.appendChild(searchButton);
-      }
+      // Load related terms data
+      fetch('/vinyl-lexicon/data/related_terms.json')
+        .then(response => response.json())
+        .then(data => {
+          const currentSlug = window.location.pathname.split('/').pop().replace('.html', '');
+          const relatedData = data[currentSlug];
 
-      // Close modal functionality
-      document.getElementById('pagefind-close').onclick = function() {
-        document.getElementById('pagefind-modal').style.display = 'none';
-      };
+          if (relatedData && relatedData.related && relatedData.related.length > 0) {
+            // Create related terms sidebar
+            const sidebar = document.createElement('nav');
+            sidebar.className = 'md-nav md-nav--secondary';
+            sidebar.innerHTML = `
+              <label class="md-nav__title" for="__toc">
+                <span class="md-nav__icon md-icon"></span>
+                Related Terms
+              </label>
+              <ul class="md-nav__list">
+                ${relatedData.related.map(term => `
+                  <li class="md-nav__item">
+                    <a href="../${term.path}/" class="md-nav__link">
+                      ${term.name}
+                    </a>
+                  </li>
+                `).join('')}
+              </ul>
+            `;
 
-      // Close modal on escape key
-      document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape') {
-          document.getElementById('pagefind-modal').style.display = 'none';
-        }
-      });
-
-      // Close modal on background click
-      document.getElementById('pagefind-modal').onclick = function(e) {
-        if (e.target === this) {
-          this.style.display = 'none';
-        }
-      };
+            // Insert after the main content
+            const mainContent = document.querySelector('.md-content__inner');
+            if (mainContent) {
+              mainContent.appendChild(sidebar);
+            }
+          }
+        })
+        .catch(error => console.log('Related terms not available:', error));
     });
   </script>
 

@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/f/flat-edge-pressing/",
+  "name": "Flat Edge Pressing",
+  "description": "**noun / historical.** An LP manufactured without the small raised outer lip common after the early ’60s — has a perfectly flat edge all the way to the rim.",
+  "url": "https://vinyl-lexicon.com/terms/f/flat-edge-pressing/",
+  "dateModified": "2025-10-06",
+  "identifier": "flat-edge-pressing",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Jazz",
+      "url": "https://vinyl-lexicon.com/discogs/genres/jazz/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

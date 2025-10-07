@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/l/lyric-sleeve-lyric-inner/",
+  "name": "Lyric Sleeve Lyric Inner",
+  "description": "An inner sleeve printed with full song lyrics and sometimes photos or credits — a mainstay of the album-art boom of the ’70s-’80s.",
+  "url": "https://vinyl-lexicon.com/terms/l/lyric-sleeve-lyric-inner/",
+  "dateModified": "2025-10-06",
+  "identifier": "lyric-sleeve-lyric-inner",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

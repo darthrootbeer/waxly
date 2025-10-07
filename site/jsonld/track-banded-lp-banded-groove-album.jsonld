@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/t/track-banded-lp-banded-groove-album/",
+  "name": "Track Banded Lp Banded Groove Album",
+  "description": "**noun / mastering style.** A **long-playing album where each track is visibly separated by a small land groove (‘band’)** — allows manual cueing to individual songs.",
+  "url": "https://vinyl-lexicon.com/terms/t/track-banded-lp-banded-groove-album/",
+  "dateModified": "2025-10-06",
+  "identifier": "track-banded-lp-banded-groove-album",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    },
+    {
+      "@type": "MusicGenre",
+      "name": "Classical",
+      "url": "https://vinyl-lexicon.com/discogs/genres/classical/"
+    }
+  ],
+  "keywords": [
+    "pressing"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

@@ -96,6 +96,9 @@ nav:
     - Browse by Letter: letters/
     - Browse by Tag: tags/
     - All Terms: terms/index.md
+  - Genres:
+    - Browse Genres: discogs/genres/
+    - Browse Styles: discogs/styles/
   - API: api/terms.json
 
 

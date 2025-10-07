@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/s/sleaveface-sleeveface-meme/",
+  "name": "Sleaveface Sleeveface Meme",
+  "description": "**noun / fan culture slang.** A **photo meme in which a person hides their face or body behind an LP sleeve** so that the sleeve’s artwork completes their appearance.",
+  "url": "https://vinyl-lexicon.com/terms/s/sleaveface-sleeveface-meme/",
+  "dateModified": "2025-10-06",
+  "identifier": "sleaveface-sleeveface-meme",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Rock",
+      "url": "https://vinyl-lexicon.com/discogs/genres/rock/"
+    }
+  ],
+  "keywords": [
+    "cultural"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

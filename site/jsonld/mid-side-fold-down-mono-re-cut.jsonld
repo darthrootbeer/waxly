@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/m/mid-side-fold-down-mono-re-cut/",
+  "name": "Mid Side Fold Down Mono Re Cut",
+  "description": "**noun / technical.** A mono vinyl master derived by electronically folding down the mid-side channels of a stereo mix, instead of using a dedicated mono mix.",
+  "url": "https://vinyl-lexicon.com/terms/m/mid-side-fold-down-mono-re-cut/",
+  "dateModified": "2025-10-06",
+  "identifier": "mid-side-fold-down-mono-re-cut",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "dj-related",
+    "pressing",
+    "collecting",
+    "technical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

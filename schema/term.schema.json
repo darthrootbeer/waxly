@@ -764,6 +764,66 @@
         ]
       },
       "uniqueItems": true
+    },
+    "ai_metadata": {
+      "type": "object",
+      "description": "AI-friendly metadata for machine learning and semantic web",
+      "properties": {
+        "complexity_level": {
+          "type": "integer",
+          "description": "Technical complexity on scale 1-10",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "domain_expertise": {
+          "type": "string",
+          "description": "Required domain expertise level",
+          "enum": ["beginner", "intermediate", "advanced", "expert"]
+        },
+        "usage_frequency": {
+          "type": "string",
+          "description": "How commonly this term is used",
+          "enum": ["rare", "uncommon", "common", "very_common", "ubiquitous"]
+        },
+        "temporal_relevance": {
+          "type": "string",
+          "description": "When this term is most relevant",
+          "enum": ["historical", "vintage", "classic", "modern", "contemporary", "timeless"]
+        },
+        "cultural_significance": {
+          "type": "integer",
+          "description": "Cultural importance on scale 1-10",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "technical_accuracy": {
+          "type": "string",
+          "description": "How technically precise this definition is",
+          "enum": ["general", "accurate", "precise", "scientific"]
+        },
+        "context_domains": {
+          "type": "array",
+          "description": "Domains where this term is relevant",
+          "items": {
+            "type": "string",
+            "enum": ["audio_engineering", "music_production", "djing", "collecting", "manufacturing", "history", "culture", "technology"]
+          }
+        },
+        "learning_objectives": {
+          "type": "array",
+          "description": "What learners should understand about this term",
+          "items": {
+            "type": "string"
+          }
+        },
+        "prerequisite_terms": {
+          "type": "array",
+          "description": "Terms that should be understood before this one",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
     }
   },
   "additionalProperties": false

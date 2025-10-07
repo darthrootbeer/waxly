@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/k/king-size-16-inch-transcription-disc/",
+  "name": "King Size 16 Inch Transcription Disc",
+  "description": "**noun / historical.** A large, usually 16-inch diameter disc used by radio stations from the 1930s-1950s to distribute pre-recorded programs and live big-band performances.",
+  "url": "https://vinyl-lexicon.com/terms/k/king-size-16-inch-transcription-disc/",
+  "dateModified": "2025-10-06",
+  "identifier": "king-size-16-inch-transcription-disc",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "Electronic",
+      "url": "https://vinyl-lexicon.com/discogs/genres/electronic/"
+    }
+  ],
+  "keywords": [
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

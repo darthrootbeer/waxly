@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/v/variable-reluctance-cartridge/",
+  "name": "Variable Reluctance Cartridge",
+  "description": "noun / early magnetic cartridge type. An early generation of magnetic phono cartridges where a moving iron piece varies the magnetic field in a fixed coil — common in the 1950s-60s before movi...",
+  "url": "https://vinyl-lexicon.com/terms/v/variable-reluctance-cartridge/",
+  "dateModified": "2025-10-06",
+  "identifier": "variable-reluctance-cartridge",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

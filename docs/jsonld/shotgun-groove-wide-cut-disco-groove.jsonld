@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/s/shotgun-groove-wide-cut-disco-groove/",
+  "name": "Shotgun Groove Wide Cut Disco Groove",
+  "description": "**noun / mastering slang.** A **hot, extra-wide groove cut** to maximize volume and bass punch for club/disco singles — trades off side length for amplitude headroom.",
+  "url": "https://vinyl-lexicon.com/terms/s/shotgun-groove-wide-cut-disco-groove/",
+  "dateModified": "2025-10-06",
+  "identifier": "shotgun-groove-wide-cut-disco-groove",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "historical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

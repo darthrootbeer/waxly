@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/m/micro-line-stylus-aka-line-contact/",
+  "name": "Micro Line Stylus Aka Line Contact",
+  "description": "**noun / technical.** A stylus profile with a very narrow, elongated contact patch that traces deeper into the groove walls, reducing distortion and inner-groove wear.",
+  "url": "https://vinyl-lexicon.com/terms/m/micro-line-stylus-aka-line-contact/",
+  "dateModified": "2025-10-06",
+  "identifier": "micro-line-stylus-aka-line-contact",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "equipment",
+    "technical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

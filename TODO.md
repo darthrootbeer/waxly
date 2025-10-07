@@ -19,34 +19,34 @@
 
 ### Phase 2 - Content Migration
 
-- [ ] `000014` - Split remaining letters into one-term-per-file structure
-- [ ] `000015` - Run validator to fill missing front-matter
-- [ ] `000016` - Generate letter and tag hubs automatically
-- [ ] `000017` - Implement autolinking script for cross-references
+- [x] `000014` - Split remaining letters into one-term-per-file structure - (2025-10-06_21.30.00)
+- [x] `000015` - Run validator to fill missing front-matter - (2025-10-06_21.30.00)
+- [x] `000016` - Generate letter and tag hubs automatically - (2025-10-06_21.30.00)
+- [x] `000017` - Implement autolinking script for cross-references - (2025-10-06_21.30.00)
 
 ### Phase 3 - Contributor Experience
 
-- [ ] `000018` - Refine contributor documentation
-- [ ] `000019` - Add pre-commit hooks and validations
-- [ ] `000020` - Set up aliases → redirects system
-- [ ] `000021` - Add related-terms sidebar
+- [x] `000018` - Refine contributor documentation - (2025-10-06_21.45.00)
+- [x] `000019` - Add pre-commit hooks and validations - (2025-10-06_21.45.00)
+- [x] `000020` - Set up aliases → redirects system - (2025-10-06_21.45.00)
+- [x] `000021` - Add related-terms sidebar - (2025-10-06_21.45.00)
 
 ### Phase 4 - Advanced Features
 
-- [ ] `000022` - Expose JSON export of all terms (/api/terms.json)
+- [x] `000022` - Expose JSON export of all terms (/api/terms.json) - (2025-10-06_21.45.00)
 - [ ] `000023` - Add pronunciation audio support
 - [ ] `000024` - Improve filtering UI (by tags / eras / regions)
-- [ ] `000084` - Create Discogs genre/style reference system: Map each genre and style to official Discogs URLs (e.g., /genre/rock, /style/krautrock)
-- [ ] `000085` - Investigate Discogs API integration for pulling canonical genre/style descriptions and metadata
-- [ ] `000086` - Implement genre/style pages in lexicon that link to and reference Discogs as authoritative source
-- [ ] `000087` - Add "discogs_genre_url" and "discogs_style_urls" fields to schema for storing canonical Discogs references
+- [x] `000084` - Create Discogs genre/style reference system: Map each genre and style to official Discogs URLs (e.g., /genre/rock, /style/krautrock) - (2025-10-06_22.00.00)
+- [x] `000085` - Investigate Discogs API integration for pulling canonical genre/style descriptions and metadata - (2025-10-06_22.00.00)
+- [x] `000086` - Implement genre/style pages in lexicon that link to and reference Discogs as authoritative source - (2025-10-06_22.00.00)
+- [x] `000087` - Add "discogs_genre_url" and "discogs_style_urls" fields to schema for storing canonical Discogs references - (2025-10-06_22.00.00)
 
 ### Phase 5 - AI & Machine Learning Integration
 
-- [ ] `000088` - Add AI-friendly metadata fields to schema (complexity_level, domain_expertise, usage_frequency, temporal_relevance, cultural_significance, technical_accuracy)
-- [ ] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption
-- [ ] `000090` - Create copy-as-markdown functionality for easy AI training data extraction
-- [ ] `000091` - Build machine-readable entity relationships and knowledge graph structure
+- [x] `000088` - Add AI-friendly metadata fields to schema (complexity_level, domain_expertise, usage_frequency, temporal_relevance, cultural_significance, technical_accuracy) - (2025-10-06_22.15.00)
+- [x] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption - (2025-10-06_22.15.00)
+- [x] `000090` - Create copy-as-markdown functionality for easy AI training data extraction - (2025-10-06_22.15.00)
+- [x] `000091` - Build machine-readable entity relationships and knowledge graph structure - (2025-10-06_22.15.00)
 - [ ] `000092` - Add API endpoints for AI consumption (/api/terms/search, /api/terms/embeddings, /api/terms/graph)
 - [ ] `000093` - Create AI training dataset exports in multiple formats (JSON, CSV, TXT, RDF/Turtle)
 - [ ] `000094` - Implement semantic embeddings and vector database preparation

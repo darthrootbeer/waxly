@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/w/warped-record-dish-warp-edge-warp/",
+  "name": "Warped Record Dish Warp Edge Warp",
+  "description": "**noun / condition flaw.** A **record whose plane is bent or wavy** due to heat, storage pressure, or pressing defects — described as *dish-warp* (concave/convex) or *edge-warp* (rim-only).",
+  "url": "https://vinyl-lexicon.com/terms/w/warped-record-dish-warp-edge-warp/",
+  "dateModified": "2025-10-06",
+  "identifier": "warped-record-dish-warp-edge-warp",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "collecting"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}

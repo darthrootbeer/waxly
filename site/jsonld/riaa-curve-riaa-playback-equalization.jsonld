@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "vinyl": "https://vinyl-lexicon.com/vocab/",
+    "discogs": "https://www.discogs.com/"
+  },
+  "@type": "DefinedTerm",
+  "@id": "https://vinyl-lexicon.com/terms/r/riaa-curve-riaa-playback-equalization/",
+  "name": "Riaa Curve Riaa Playback Equalization",
+  "description": "**noun / technical standard.** The **industry-standard EQ curve** established by the Recording Industry Association of America in 1955 for consistent cutting and playback of LPs.",
+  "url": "https://vinyl-lexicon.com/terms/r/riaa-curve-riaa-playback-equalization/",
+  "dateModified": "2025-10-06",
+  "identifier": "riaa-curve-riaa-playback-equalization",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "@id": "https://vinyl-lexicon.com/",
+    "name": "Vinyl Lexicon",
+    "description": "Comprehensive digital reference for vinyl record culture, terminology, and collecting"
+  },
+  "about": [
+    {
+      "@type": "MusicGenre",
+      "name": "all",
+      "url": "https://vinyl-lexicon.com/discogs/genres/all/"
+    }
+  ],
+  "keywords": [
+    "pressing",
+    "technical"
+  ],
+  "vinyl:popularity": {
+    "@type": "QuantitativeValue",
+    "value": 5,
+    "maxValue": 10,
+    "minValue": 0
+  },
+  "vinyl:complexity": "intermediate"
+}
