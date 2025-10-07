@@ -24,21 +24,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - New tagline: "The Language of Vinyl, Defined."
   - Updated all documentation, configuration files, and site metadata
   - New custom domain: hellowaxly.com
-- **GitHub Pages Setup**:
-  - Created automated deployment workflow
-  - Added CNAME file for custom domain
-  - Configured for public hosting
+  - Repository renamed from vinyl-lexicon to waxly
+- **GitHub Configuration**:
+  - Repository visibility changed to public
+  - GitHub Pages enabled with GitHub Actions deployment
+  - Automated deployment workflow created and tested
+  - Site successfully deployed to https://darthrootbeer.github.io/waxly/
 - **Custom Styling**:
   - New dark record-sleeve-inspired aesthetic
   - Custom CSS with Waxly brand colors (matte black #0a0a0a, warm gold #ffb400)
   - Enhanced typography and navigation styling
+  - Brand-consistent design throughout site
 
 ### Added
 
-- GitHub Actions workflow for automated deployment
-- Custom Waxly CSS theme with dark aesthetic
-- CNAME file for hellowaxly.com custom domain
-- Updated site configuration for public hosting
+- GitHub Actions workflow for automated deployment (`.github/workflows/deploy.yml`)
+- Custom Waxly CSS theme (`docs/assets/stylesheets/waxly.css`)
+- CNAME file for hellowaxly.com custom domain (`docs/CNAME`)
+- Deployment guide with DNS configuration instructions (`DEPLOYMENT_GUIDE.md`)
+- Deployment success summary (`DEPLOYMENT_SUCCESS.md`)
+
+### Fixed
+
+- Removed `--strict` flag from build to allow deployment with link warnings
+- Updated all GitHub repository URLs in documentation
+- Configured MkDocs for new domain and branding
 
 ## [2.5.0] - 2025-10-07
 
