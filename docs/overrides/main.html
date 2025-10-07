@@ -1,4 +1,4 @@
-{% if page and page.file and page.file.src_path == 'index.md' %}
+{% if page and page.file and (page.file.src_path == 'index.md' or page.url == '/') %}
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
