@@ -724,6 +724,54 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
+  <!-- A-Z Navigation for Term Pages -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Only show on term pages
+      const path = window.location.pathname;
+      if (path.includes('/terms/')) {
+        const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+        const azNav = document.createElement('div');
+        azNav.className = 'waxly-az-nav';
+        azNav.style.cssText = 'background: rgba(26, 26, 26, 0.5); padding: 1rem; margin: 0 0 2rem 0; text-align: center; border-bottom: 1px solid #222; border-top: 1px solid #222;';
+        
+        const title = document.createElement('div');
+        title.style.cssText = 'font-size: 0.85rem; color: #999; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.1em;';
+        title.textContent = 'Browse by Letter';
+        azNav.appendChild(title);
+        
+        const navContainer = document.createElement('div');
+        navContainer.style.cssText = 'display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;';
+        
+        letters.forEach(letter => {
+          const link = document.createElement('a');
+          link.href = `/waxly/letters/${letter.toLowerCase()}/`;
+          link.textContent = letter;
+          link.style.cssText = 'display: inline-block; padding: 0.4rem 0.8rem; background: #0a0a0a; border: 1px solid #333; border-radius: 4px; color: #e6e6e6; text-decoration: none; font-weight: 600; transition: all 0.2s ease; min-width: 2rem; text-align: center;';
+          link.onmouseover = function() {
+            this.style.background = '#ffb400';
+            this.style.color = '#0a0a0a';
+            this.style.borderColor = '#ffb400';
+          };
+          link.onmouseout = function() {
+            this.style.background = '#0a0a0a';
+            this.style.color = '#e6e6e6';
+            this.style.borderColor = '#333';
+          };
+          navContainer.appendChild(link);
+        });
+        
+        azNav.appendChild(navContainer);
+        
+        // Insert at the top of the content area
+        const contentInner = document.querySelector('.md-content__inner');
+        if (contentInner) {
+          contentInner.insertBefore(azNav, contentInner.firstChild);
+        }
+      }
+    });
+  </script>
+
   
                   
 
@@ -8190,7 +8238,7 @@ Total Terms: 474</p>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       // Load related terms data
-      fetch('/vinyl-lexicon/data/related_terms.json')
+      fetch('/waxly/data/related_terms.json')
         .then(response => response.json())
         .then(data => {
           const currentSlug = window.location.pathname.split('/').pop().replace('.html', '');
