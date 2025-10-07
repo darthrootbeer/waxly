@@ -308,26 +308,6 @@
   
   
   
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../../discogs/genres/" class="md-tabs__link">
-          
-  
-  
-  Genres
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-  
     <li class="md-tabs__item">
       <a href="../../../api/terms.json" class="md-tabs__link">
         
@@ -580,104 +560,6 @@
   
   
   
-    
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
-        
-          
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    Genres
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_5">
-            <span class="md-nav__icon md-icon"></span>
-            Genres
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../discogs/genres/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Browse Genres
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../discogs/styles/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Browse Styles
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
     <li class="md-nav__item">
       <a href="../../../api/terms.json" class="md-nav__link">
         
@@ -724,7 +606,7 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
-  <!-- A-Z Navigation for Term Pages -->
+  <!-- A-Z Navigation and Tags for Term Pages -->
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       // Only show on term pages
@@ -762,12 +644,62 @@
         if (contentInner) {
           contentInner.insertBefore(azNav, contentInner.firstChild);
         }
+        
+        // Extract and display tags from front matter
+        const articleContent = document.querySelector('article.md-content__inner');
+        if (articleContent) {
+          // Look for the term metadata in the page
+          const h1 = articleContent.querySelector('h1');
+          if (h1) {
+            // Try to extract tags from meta tags or page content
+            const metaTags = document.querySelectorAll('meta[property="article:tag"]');
+            const tags = Array.from(metaTags).map(tag => tag.content);
+            
+            // If no meta tags found, check if there's a data attribute or extract from the page
+            if (tags.length === 0) {
+              // Look for tags in the page structure (MkDocs Material may expose them)
+              const pageMeta = document.querySelector('.md-source-file');
+              // We'll add tags via CSS injection from the YAML front matter
+            }
+            
+            // For now, create a placeholder for tags that will be populated
+            const tagsContainer = document.createElement('div');
+            tagsContainer.className = 'waxly-tags';
+            tagsContainer.style.cssText = 'margin: 1rem 0 1.5rem 0; display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center;';
+            tagsContainer.id = 'term-tags-container';
+            
+            // Insert tags container after H1
+            h1.parentNode.insertBefore(tagsContainer, h1.nextSibling);
+          }
+        }
       }
     });
   </script>
 
   
                   
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+        <span class="md-tag">cultural</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">dj-related</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">equipment</span>
+      
+    
+  </nav>
 
 
   

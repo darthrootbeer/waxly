@@ -36,7 +36,6 @@ Browse all vinyl terminology terms in the lexicon.
 - [Equipment](../tags/equipment.md) (139 terms)
 - [DJ-related](../tags/dj-related.md) (99 terms)
 - [Pressing](../tags/pressing.md) (184 terms)
-- [Genres](../tags/genres.md) (0 terms)
 - [Historical](../tags/historical.md) (101 terms)
 
 ## Search

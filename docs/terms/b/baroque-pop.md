@@ -29,7 +29,8 @@ sources:
   url: https://www.discogs.com/
 relationships:
   parent_concept: pop
-discussion: This is an official style classification from Discogs within the Pop genre.---
+discussion: This is an official style classification from Discogs within the Pop genre.
+---
 
 # Baroque Pop
 

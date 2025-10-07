@@ -33,7 +33,8 @@ see_also:
 - classic-rock
 - hard-rock
 - punk
-- grunge---
+- grunge
+---
 
 # Rock
 
