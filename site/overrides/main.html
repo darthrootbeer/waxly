@@ -10,35 +10,29 @@
         const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
         const azNav = document.createElement('div');
         azNav.className = 'waxly-az-nav';
-        azNav.style.cssText = 'background: rgba(26, 26, 26, 0.5); padding: 1rem; margin: 0 0 2rem 0; text-align: center; border-bottom: 1px solid #222; border-top: 1px solid #222;';
+        azNav.style.cssText = 'padding: 0.75rem 0; margin: 0 0 1.5rem 0; text-align: center; font-size: 11px; line-height: 1.8;';
         
-        const title = document.createElement('div');
-        title.style.cssText = 'font-size: 0.85rem; color: #999; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.1em;';
-        title.textContent = 'Browse by Letter';
-        azNav.appendChild(title);
-        
-        const navContainer = document.createElement('div');
-        navContainer.style.cssText = 'display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;';
-        
-        letters.forEach(letter => {
+        letters.forEach((letter, index) => {
           const link = document.createElement('a');
           link.href = `/waxly/letters/${letter.toLowerCase()}/`;
           link.textContent = letter;
-          link.style.cssText = 'display: inline-block; padding: 0.4rem 0.8rem; background: #0a0a0a; border: 1px solid #333; border-radius: 4px; color: #e6e6e6; text-decoration: none; font-weight: 600; transition: all 0.2s ease; min-width: 2rem; text-align: center;';
+          link.style.cssText = 'color: #999; text-decoration: none; transition: color 0.2s ease; padding: 0.25rem 0.35rem;';
           link.onmouseover = function() {
-            this.style.background = '#ffb400';
-            this.style.color = '#0a0a0a';
-            this.style.borderColor = '#ffb400';
+            this.style.color = '#ffb400';
           };
           link.onmouseout = function() {
-            this.style.background = '#0a0a0a';
-            this.style.color = '#e6e6e6';
-            this.style.borderColor = '#333';
+            this.style.color = '#999';
           };
-          navContainer.appendChild(link);
+          azNav.appendChild(link);
+          
+          // Add pipe separator except after last letter
+          if (index < letters.length - 1) {
+            const separator = document.createElement('span');
+            separator.textContent = ' | ';
+            separator.style.cssText = 'color: #444;';
+            azNav.appendChild(separator);
+          }
         });
-        
-        azNav.appendChild(navContainer);
         
         // Insert at the top of the content area
         const contentInner = document.querySelector('.md-content__inner');
@@ -51,44 +45,58 @@
 
   {{ super() }}
 
-  <!-- Related Terms Sidebar -->
+  <!-- Related Terms at Bottom of Page -->
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      // Load related terms data
-      fetch('/waxly/data/related_terms.json')
-        .then(response => response.json())
-        .then(data => {
-          const currentSlug = window.location.pathname.split('/').pop().replace('.html', '');
-          const relatedData = data[currentSlug];
+      const path = window.location.pathname;
+      if (path.includes('/terms/')) {
+        // Load related terms data
+        fetch('/waxly/data/related_terms.json')
+          .then(response => response.json())
+          .then(data => {
+            const currentSlug = window.location.pathname.split('/').pop().replace('.html', '');
+            const relatedData = data[currentSlug];
 
-          if (relatedData && relatedData.related && relatedData.related.length > 0) {
-            // Create related terms sidebar
-            const sidebar = document.createElement('nav');
-            sidebar.className = 'md-nav md-nav--secondary';
-            sidebar.innerHTML = `
-              <label class="md-nav__title" for="__toc">
-                <span class="md-nav__icon md-icon"></span>
-                Related Terms
-              </label>
-              <ul class="md-nav__list">
-                ${relatedData.related.map(term => `
-                  <li class="md-nav__item">
-                    <a href="../${term.path}/" class="md-nav__link">
-                      ${term.name}
-                    </a>
-                  </li>
-                `).join('')}
-              </ul>
-            `;
-
-            // Insert after the main content
-            const mainContent = document.querySelector('.md-content__inner');
-            if (mainContent) {
-              mainContent.appendChild(sidebar);
+            if (relatedData && relatedData.related && relatedData.related.length > 0) {
+              // Create related terms section at bottom
+              const relatedSection = document.createElement('div');
+              relatedSection.style.cssText = 'margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #333;';
+              
+              const heading = document.createElement('h3');
+              heading.textContent = 'Related Terms';
+              heading.style.cssText = 'color: #ffb400; font-size: 1.1rem; margin-bottom: 1rem;';
+              relatedSection.appendChild(heading);
+              
+              const linksList = document.createElement('div');
+              linksList.style.cssText = 'display: flex; flex-wrap: wrap; gap: 0.5rem;';
+              
+              relatedData.related.forEach(term => {
+                const link = document.createElement('a');
+                link.href = `../${term.path}/`;
+                link.textContent = term.name;
+                link.style.cssText = 'color: #50b7f5; text-decoration: none; padding: 0.4rem 0.8rem; background: rgba(80, 183, 245, 0.1); border-radius: 4px; font-size: 0.9rem; transition: all 0.2s ease;';
+                link.onmouseover = function() {
+                  this.style.background = 'rgba(80, 183, 245, 0.2)';
+                  this.style.color = '#6cc5ff';
+                };
+                link.onmouseout = function() {
+                  this.style.background = 'rgba(80, 183, 245, 0.1)';
+                  this.style.color = '#50b7f5';
+                };
+                linksList.appendChild(link);
+              });
+              
+              relatedSection.appendChild(linksList);
+              
+              // Insert at the end of main content
+              const article = document.querySelector('article.md-content__inner');
+              if (article) {
+                article.appendChild(relatedSection);
+              }
             }
-          }
-        })
-        .catch(error => console.log('Related terms not available:', error));
+          })
+          .catch(error => console.log('Related terms not available:', error));
+      }
     });
   </script>
 {% endblock %}
