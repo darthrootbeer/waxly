@@ -1,30 +1,110 @@
-# Waxly
+<style>
+  /* Hide everything except our coming soon page */
+  .md-header,
+  .md-sidebar,
+  .md-nav,
+  .md-footer,
+  .md-content__inner > :not(.spinney-container) {
+    display: none !important;
+  }
+  
+  .md-main__inner {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  .md-content {
+    max-width: 100% !important;
+  }
+  
+  /* Coming soon page styling */
+  .spinney-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .spinney-image {
+    max-width: 600px;
+    width: 90%;
+    height: auto;
+    margin-bottom: 3rem;
+    animation: float 6s ease-in-out infinite;
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+  
+  .spinney-message {
+    font-family: 'New York Medium', 'Georgia', serif;
+    font-size: 200px;
+    font-weight: 500;
+    line-height: 1.2;
+    background: linear-gradient(45deg, #ff6b9d, #c06c84, #6c5ce7, #a29bfe, #fd79a8, #fdcb6e, #ff7675, #74b9ff);
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: 0 4px 20px rgba(255, 107, 157, 0.3);
+    animation: psychedelic 8s ease infinite;
+    transition: all 0.3s ease;
+    cursor: default;
+  }
+  
+  .spinney-message:hover {
+    animation: shimmer 1.5s ease infinite, psychedelic 8s ease infinite;
+    transform: scale(1.02);
+    filter: hue-rotate(45deg) brightness(1.1);
+  }
+  
+  @keyframes psychedelic {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes shimmer {
+    0%, 100% { filter: hue-rotate(0deg) brightness(1); }
+    25% { filter: hue-rotate(15deg) brightness(1.1); }
+    50% { filter: hue-rotate(30deg) brightness(1.2); }
+    75% { filter: hue-rotate(15deg) brightness(1.1); }
+  }
+  
+  /* Responsive sizing */
+  @media (max-width: 1400px) {
+    .spinney-message { font-size: 150px; }
+  }
+  
+  @media (max-width: 1000px) {
+    .spinney-message { font-size: 100px; }
+  }
+  
+  @media (max-width: 600px) {
+    .spinney-message { font-size: 60px; }
+    .spinney-image { max-width: 400px; }
+  }
+  
+  @media (max-width: 400px) {
+    .spinney-message { font-size: 40px; }
+    .spinney-image { max-width: 300px; }
+  }
+</style>
 
-> **The Language of Vinyl, Defined.**
+<div class="spinney-container" markdown="1">
 
-**Since 1857!**
+![Spinney](assets/images/spinney_groovey.png){: .spinney-image }
 
-Waxly is your comprehensive resource for recorded sound terminology, from the earliest phonautograph experiments to modern vinyl culture. Search or browse over 500 terms covering everything from turntables to DJ techniques, from pressing quality to collecting strategies—documenting the complete history of sound recorded on spinning formats.
+<div class="spinney-message">
+Spinney Sez:<br>
+Stay Groovy!<br>
+We're not quite ready yet!
+</div>
 
-## Browse by Letter
-
-Navigate alphabetically through the term collection:
-
-[A](letters/a.md) | [B](letters/b.md) | [C](letters/c.md) | [D](letters/d.md) | [E](letters/e.md) | [F](letters/f.md) | [G](letters/g.md) | [H](letters/h.md) | [I](letters/i.md) | [J](letters/j.md) | [K](letters/k.md) | [L](letters/l.md) | [M](letters/m.md) | [N](letters/n.md) | [O](letters/o.md) | [P](letters/p.md) | [Q](letters/q.md) | [R](letters/r.md) | [S](letters/s.md) | [T](letters/t.md) | [U](letters/u.md) | [V](letters/v.md) | [W](letters/w.md) | [X](letters/x.md) | [Y](letters/y.md) | [Z](letters/z.md)
-
-## Browse by Category
-
-Explore terms by topic:
-
-- **[Equipment](tags/equipment.md)** - Turntables, mixers, cartridges, and accessories
-- **[DJ-Related](tags/dj-related.md)** - DJ techniques, scratching, and performance
-- **[Pressing](tags/pressing.md)** - Manufacturing, quality control, and variants
-- **[Historical](tags/historical.md)** - Terms from specific eras and cultural movements
-
-## Search
-
-Use the search bar above to find terms by name, category, era, or region. Each term includes definitions, cultural context, and related terminology.
-
----
-
-[About this project](about.md)
+</div>
