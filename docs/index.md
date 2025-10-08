@@ -1,3 +1,7 @@
+---
+template: home.html
+---
+
 # Waxly
 
 Welcome to Waxly - The Language of Vinyl, Defined.
