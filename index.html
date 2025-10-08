@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Waxly</title>
+    <style>
+      /* Import Cooper Black font */
+      @import url('https://fonts.cdnfonts.com/css/cooper-black');
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        height: 100vh;
+        width: 100vw;
+        font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif;
+      }
+
+      /* Video background */
+      #bg-video {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+        object-fit: cover;
+      }
+
+      .spinney-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 2vh 3vw;
+        text-align: center;
+        z-index: 10;
+      }
+
+      .spinney-image {
+        max-width: min(30vw, 350px);
+        max-height: 40vh;
+        width: auto;
+        height: auto;
+        margin-bottom: 2vh;
+        animation: float 6s ease-in-out infinite;
+        filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.6));
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+
+      .spinney-message {
+        font-family: 'Cooper Black', 'Impact', 'Arial Black', sans-serif;
+        font-size: clamp(24px, 4vw, 60px);
+        font-weight: 900;
+        line-height: 1.15;
+        max-width: 90vw;
+        letter-spacing: 0.02em;
+        color: #ffffff;
+        text-shadow:
+          0 4px 12px rgba(0, 0, 0, 0.4),
+          0 2px 6px rgba(0, 0, 0, 0.3),
+          0 1px 3px rgba(0, 0, 0, 0.2);
+      }
+
+      @media (max-width: 768px) {
+        .spinney-image {
+          max-width: min(45vw, 220px);
+        }
+        .spinney-message {
+          font-size: clamp(20px, 5vw, 48px);
+        }
+      }
+
+      @media (min-aspect-ratio: 16/9) {
+        .spinney-image {
+          max-width: min(25vw, 300px);
+        }
+        .spinney-message {
+          font-size: clamp(20px, 2.5vw, 45px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <video id="bg-video" autoplay loop muted playsinline>
+      <source src="assets/video/groovey01.mp4" type="video/mp4">
+    </video>
+    <div class="spinney-container">
+      <img src="assets/images/spinny/spinney_groovey.png" alt="Spinney" class="spinney-image">
+      <div class="spinney-message">
+        Spinney Sez:<br>Stay Groovy!<br>We're not quite ready yet!
+      </div>
+    </div>
+  </body>
+</html>

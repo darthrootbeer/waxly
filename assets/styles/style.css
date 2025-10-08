@@ -1,0 +1,205 @@
+/* Vinyl Lexicon Styles */
+
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fafafa;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Typography */
+h1 {
+    font-size: 2.5em;
+    color: #2c3e50;
+    margin-bottom: 0.5em;
+    border-bottom: 3px solid #e74c3c;
+    padding-bottom: 0.3em;
+}
+
+h2 {
+    font-size: 2em;
+    color: #34495e;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+}
+
+h4 {
+    font-size: 1.2em;
+    color: #7f8c8d;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+    font-weight: normal;
+}
+
+/* Term definitions */
+.term-definition {
+    background: white;
+    border-left: 4px solid #e74c3c;
+    padding: 1em;
+    margin: 1em 0;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.term-name {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 0.5em;
+}
+
+.term-type {
+    font-style: italic;
+    color: #7f8c8d;
+}
+
+.term-description {
+    margin: 0.8em 0;
+    line-height: 1.7;
+}
+
+.etymology {
+    background: #ecf0f1;
+    padding: 0.8em;
+    border-radius: 4px;
+    margin: 0.8em 0;
+    border-left: 3px solid #3498db;
+}
+
+.example {
+    background: #f8f9fa;
+    padding: 0.8em;
+    border-radius: 4px;
+    margin: 0.8em 0;
+    border-left: 3px solid #27ae60;
+    font-style: italic;
+}
+
+.cultural-note {
+    background: #fff3cd;
+    padding: 0.8em;
+    border-radius: 4px;
+    margin: 0.8em 0;
+    border-left: 3px solid #f39c12;
+}
+
+.see-also {
+    background: #e8f4f8;
+    padding: 0.8em;
+    border-radius: 4px;
+    margin: 0.8em 0;
+    border-left: 3px solid #16a085;
+}
+
+/* Navigation */
+.navigation {
+    background: white;
+    padding: 1.5em;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 2em 0;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.nav-link {
+    color: #e74c3c;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border: 2px solid #e74c3c;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    background: #e74c3c;
+    color: white;
+}
+
+/* Chapter index */
+.chapter-index {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1em;
+    margin: 2em 0;
+}
+
+.chapter-item {
+    background: white;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.chapter-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.chapter-item a {
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .nav-links {
+        flex-direction: column;
+    }
+
+    .chapter-index {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Print styles */
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .term-definition {
+        break-inside: avoid;
+        box-shadow: none;
+        border: 1px solid #ddd;
+    }
+}
