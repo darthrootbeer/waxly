@@ -1,4 +1,4 @@
-# Vinyl Lexicon - TODO
+delete data base and destroy all branch from # Vinyl Lexicon - TODO
 
 ## Current Tasks
 
