@@ -1,6 +1,6 @@
-# Waxly 2.0
+# Waxly 2.1
 
-> Canonical, open, machine-readable vinyl terminology dataset
+> Canonical, open, machine-readable vinyl terminology dictionary
 
 **Domain:** waxly.music (planned)
 
@@ -8,14 +8,18 @@
 
 ## What is Waxly?
 
-Waxly is **infrastructure, not a product**. It's a single source of truth for vinyl terminology, designed for:
+Waxly is **infrastructure, not a product**. It's a comprehensive vinyl terminology dictionary and single source of truth, designed for:
 
 - **AI & LLMs** - Structured, machine-readable data optimized for ingestion
 - **Developers** - Free public API for applications and tools
 - **Researchers** - Open dataset (CC BY-SA 4.0) for academic and commercial use
+- **Linguists** - Dictionary-style metadata (etymology, pronunciation, part of speech)
+- **Collectors** - Comprehensive reference with historical context
 - **Humans** - Fast, accessible web reference
 
-**Covers:** 567 terms from the phonautograph (1857) to modern vinyl culture
+**Coverage:** 567+ terms from the phonautograph (1857) to modern vinyl culture
+
+**Schema:** Dictionary-style structure with linguistic metadata, definitions, and cross-references
 
 ---
 
@@ -77,7 +81,9 @@ dataset/terms/*.json  →  [Canonical Source of Truth]
 ### 1. Canonical Dataset (`dataset/`)
 
 - **Format:** JSON (one file per term)
-- **Schema:** Minimal, durable (7 required + 4 optional fields)
+- **Schema v2.1:** Dictionary-style (7 required + 9 optional fields)
+  - Required: slug, term, summary, definition, tags, created, updated
+  - Optional: pos, pronunciation, aliases, alt_spellings, etymology, first_use, see_also, regions, short_definition
 - **License:** CC BY-SA 4.0
 - **Versioned:** Git history is the changelog
 
@@ -173,11 +179,17 @@ curl https://waxly.music/v1/term/acetate
 {
   "slug": "acetate",
   "term": "Acetate",
-  "summary": "A soft lacquer-coated aluminum disc...",
-  "definition": "Full definition text...",
-  "tags": ["dj-related", "pressing", "cultural"],
+  "pos": "noun",
+  "pronunciation": "/ˈæsɪteɪt/",
+  "summary": "A soft lacquer-coated aluminum disc used to cut the first playable copy of a recording.",
+  "definition": "Full definition text with context, history, and usage examples...",
+  "tags": ["dj-related", "pressing", "mastering"],
   "aliases": ["lacquer", "reference disc"],
-  "see_also": ["dubplate", "lacquer-cut"],
+  "alt_spellings": ["acetate disc", "acetate record"],
+  "etymology": "From 'acetate' referring to cellulose acetate...",
+  "first_use": 1934,
+  "see_also": ["dubplate", "lacquer-cut", "test-pressing"],
+  "regions": ["US", "UK", "JA"],
   "created": "2026-01-05",
   "updated": "2026-01-05"
 }
@@ -275,6 +287,7 @@ Waxly is designed to be:
 
 ## Version History
 
+- **v2.1.0** (2026-01-05) - Dictionary-style enhancements: added pos, pronunciation, etymology, first_use fields; enhanced validation
 - **v2.0.0** (2026-01-05) - Complete rebuild: dataset-first architecture, minimal schema, serverless API, static site generator
 - **v1.x** - MkDocs-based documentation site (archived)
 

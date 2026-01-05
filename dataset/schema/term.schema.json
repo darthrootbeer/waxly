@@ -66,7 +66,12 @@
     },
     "aliases": {
       "type": "array",
-      "description": "Alternative names, spellings, and variants (never in slug/filename)",
+      "description": "Alternative names for the same thing (e.g., 'acetate' → 'lacquer', 'reference disc')",
+      "items": {"type": "string"}
+    },
+    "alt_spellings": {
+      "type": "array",
+      "description": "Spelling variations, regional variants, common misspellings (e.g., 'DJ' → 'deejay', 'disc jockey')",
       "items": {"type": "string"}
     },
     "etymology": {

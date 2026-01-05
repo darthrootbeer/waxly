@@ -36,7 +36,8 @@ Create a new JSON file in `dataset/terms/` with the term's slug as the filename:
   "tags": ["equipment", "pressing"],
   "created": "2026-01-05",
   "updated": "2026-01-05",
-  "aliases": ["alt-name", "variant"],
+  "aliases": ["alternative-term", "another-name"],
+  "alt_spellings": ["variant-spelling", "common-misspelling"],
   "etymology": "Origin from Latin terminus (1850s)",
   "first_use": 1857,
   "see_also": ["related-term"],
@@ -71,7 +72,8 @@ Create a new JSON file in `dataset/terms/` with the term's slug as the filename:
 **Field descriptions:**
 - `pos` - Part of speech: noun, verb, adjective, adverb, phrase
 - `pronunciation` - IPA notation or simplified phonetic spelling
-- `aliases` - Alternative names, spellings, and variants (never in slug/filename)
+- `aliases` - Alternative names for the same thing (e.g., "acetate" → "lacquer", "reference disc")
+- `alt_spellings` - Spelling variations, regional variants, common misspellings (e.g., "DJ" → "deejay", "disc jockey")
 - `etymology` - Origin and historical development of the term
 - `first_use` - Year of first known usage (1800-2100)
 - `see_also` - Related term slugs (must exist in dataset)
@@ -188,7 +190,8 @@ node tools/validate.js
   "summary": "A soft lacquer-coated aluminum disc used to cut the first playable copy of a recording.",
   "definition": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe. Acetates wear out fast — maybe 10–20 plays — but capture the freshest, most dynamic version of a track. In the '50s and '60s, DJs prized acetates for breaking brand-new singles in clubs before commercial pressings existed. The lacquer coating is fragile and degrades with each play, making acetates unsuitable for mass production but invaluable for test cuts and exclusive DJ use.",
   "tags": ["pressing", "mastering", "dj-related"],
-  "aliases": ["lacquer", "reference disc", "dub plate"],
+  "aliases": ["lacquer", "reference disc"],
+  "alt_spellings": ["acetate disc", "acetate record"],
   "etymology": "From 'acetate' referring to cellulose acetate, though modern acetates use nitrocellulose lacquer",
   "first_use": 1934,
   "see_also": ["dubplate", "lacquer-cut", "test-pressing"],

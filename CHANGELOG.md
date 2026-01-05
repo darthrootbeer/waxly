@@ -7,6 +7,95 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.1.0] - 2026-01-05
+
+### 🎯 Dictionary-Style Enhancements
+
+Waxly v2.1 transforms the dataset into a comprehensive vinyl terminology dictionary with linguistic metadata and enhanced validation.
+
+### Added
+
+**New Optional Schema Fields:**
+- `pos` - Part of speech (noun, verb, adjective, adverb, phrase)
+- `pronunciation` - IPA or phonetic notation for pronunciation guidance
+- `alt_spellings` - Spelling variations, regional variants, common misspellings (distinct from aliases)
+- `etymology` - Historical origin and development of the term
+- `first_use` - Year of first known usage (1800-2100)
+
+**Enhanced Validation:**
+- Summary must be complete sentence (ends with . ! or ?)
+- Summary word count validation (≤25 words)
+- Definition word count recommendations (50-300 words)
+- Slug length limit (max 50 characters)
+- Part of speech enum validation
+- First use year range validation (1800-2100)
+
+**Documentation:**
+- SCHEMA_ENHANCEMENT_PROPOSAL.md - Design document for v2.1 enhancements
+- TODO.md - Prioritized task list for future development
+- Updated CONTRIBUTING.md with new field templates and validation examples
+
+### Changed
+
+**Schema Updates:**
+- Clarified `aliases` field: now specifically for alternative names (e.g., "acetate" → "lacquer", "reference disc")
+- Added `alt_spellings` field: for spelling variations, regional variants, misspellings (e.g., "DJ" → "deejay", "disc jockey")
+- Updated `slug` description to clarify "shortest possible, never includes alt terms"
+- Updated `summary` description to emphasize "complete sentence, never truncated"
+- Added `short_definition` field (deprecated in favor of `summary`)
+
+**Important Distinction:**
+- **Aliases** = Different names for the same thing (semantic alternatives)
+- **Alt Spellings** = Variations in how the term is written (orthographic alternatives)
+
+**Validation Updates:**
+- Enhanced `tools/validate.js` with word count helpers
+- Added complete sentence check for summaries
+- Added warnings for short definitions (<20 words) and long definitions (>500 words)
+
+**Documentation Updates:**
+- Updated README.md to v2.1 with new schema structure
+- Enhanced CONTRIBUTING.md with comprehensive examples
+- Updated API documentation examples
+
+### Quality Issues Identified
+
+**Current Dataset Status (567 terms):**
+- ❌ ~567 summaries missing sentence-ending punctuation
+- ⚠️ ~400+ definitions under 50 words (recommend expansion)
+- ⚠️ No terms currently have pos, pronunciation, etymology, or first_use metadata
+
+**Note:** These are identified for gradual improvement. v2.1 fields are optional to maintain backward compatibility.
+
+### Roadmap
+
+**High Priority (v2.1):**
+- Fix all summaries to be complete sentences
+- Expand definitions to 50-300 words (prioritize core terms)
+- Add metadata to high-traffic terms
+
+**Medium Priority (v2.2):**
+- Scrape Discogs/eBay for missing collector terminology
+- Add 100+ missing terms (notch, jacket, ringwear, etc.)
+- Complete metadata for all terms
+
+### Migration Notes
+
+**Backward Compatibility:**
+- ✅ All new fields are optional
+- ✅ Existing term files remain valid
+- ✅ No breaking changes to API responses
+- ✅ Gradual migration recommended
+
+**Recommended Actions:**
+1. Update validation script: `node tools/validate.js`
+2. Review validation warnings for your terms
+3. Add punctuation to summaries
+4. Expand definitions with context and history
+5. Add metadata fields when known
+
+---
+
 ## [2.0.0] - 2026-01-05
 
 ### 🎉 Complete Rebuild - Waxly 2.0
