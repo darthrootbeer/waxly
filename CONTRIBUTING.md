@@ -29,21 +29,28 @@ Create a new JSON file in `dataset/terms/` with the term's slug as the filename:
 {
   "slug": "your-term-slug",
   "term": "Your Term Name",
-  "summary": "One-sentence summary (max 200 characters)",
-  "definition": "Full definition explaining what this term means in vinyl culture.",
+  "pos": "noun",
+  "pronunciation": "/tɜːrm neɪm/",
+  "summary": "A complete sentence short definition (max 25 words).",
+  "definition": "Full definition explaining what this term means in vinyl culture, with context, history, and usage examples (recommended 50-300 words).",
   "tags": ["equipment", "pressing"],
   "created": "2026-01-05",
-  "updated": "2026-01-05"
+  "updated": "2026-01-05",
+  "aliases": ["alt-name", "variant"],
+  "etymology": "Origin from Latin terminus (1850s)",
+  "first_use": 1857,
+  "see_also": ["related-term"],
+  "regions": ["US", "UK"]
 }
 ```
 
 ### 3. Required Fields
 
-- `slug` - URL-friendly identifier (lowercase, hyphens only)
-- `term` - Display name of the term
-- `summary` - Brief one-sentence description (max 200 chars)
-- `definition` - Complete definition
-- `tags` - At least one tag (see valid tags below)
+- `slug` - Shortest unique URL-friendly identifier (lowercase, hyphens only, max 50 chars, NEVER includes alt terms)
+- `term` - Canonical display name
+- `summary` - **Complete sentence** short definition (≤25 words, max 200 chars, must end with . ! or ?)
+- `definition` - Detailed explanation (recommended 50-300 words)
+- `tags` - At least one category tag (see valid tags below)
 - `created` - Date created (YYYY-MM-DD)
 - `updated` - Last update date (YYYY-MM-DD)
 
@@ -51,11 +58,24 @@ Create a new JSON file in `dataset/terms/` with the term's slug as the filename:
 
 ```json
 {
-  "aliases": ["alternative-name", "another-name"],
-  "see_also": ["related-term-slug", "another-term-slug"],
+  "pos": "noun",
+  "pronunciation": "/pronunciation/",
+  "aliases": ["alternative-spelling", "variant-name"],
+  "etymology": "Historical origin and development",
+  "first_use": 1950,
+  "see_also": ["related-term-slug"],
   "regions": ["US", "UK", "JA"]
 }
 ```
+
+**Field descriptions:**
+- `pos` - Part of speech: noun, verb, adjective, adverb, phrase
+- `pronunciation` - IPA notation or simplified phonetic spelling
+- `aliases` - Alternative names, spellings, and variants (never in slug/filename)
+- `etymology` - Origin and historical development of the term
+- `first_use` - Year of first known usage (1800-2100)
+- `see_also` - Related term slugs (must exist in dataset)
+- `regions` - Geographic regions where term is commonly used
 
 ---
 
@@ -105,15 +125,34 @@ node tools/validate.js
 **"Invalid slug format"**
 - Use only lowercase letters, numbers, and hyphens
 - No spaces, underscores, or special characters
-- Example: `heavy-vinyl` not `Heavy_Vinyl`
+- Keep it short (max 50 chars)
+- Never include alt terms in slug
+- Example: `acetate` not `acetate-lacquer-reference-disc`
 
-**"Summary too long"**
-- Keep summaries under 200 characters
-- Be concise and clear
+**"Summary must be a complete sentence"**
+- Summary must end with . ! or ?
+- Example: ✅ "A soft lacquer disc used for test cuts."
+- Example: ❌ "A soft lacquer disc used for test cuts"
+
+**"Summary exceeds 25 words"**
+- Keep summaries concise (≤25 words)
+- Focus on core definition only
+
+**"Definition is short"**
+- Aim for 50-300 words in detailed definition
+- Add context, history, usage examples
+- Explain cultural significance
 
 **"Invalid tag"**
 - Use only tags from the valid list above
 - Check spelling and capitalization
+
+**"Invalid part of speech"**
+- Must be one of: noun, verb, adjective, adverb, phrase
+
+**"first_use out of range"**
+- Must be between 1800-2100
+- Use integer year only
 
 **"Missing required field"**
 - Ensure all required fields are present
@@ -138,18 +177,36 @@ node tools/validate.js
 }
 ```
 
-### Good Example
+### Good Example (Complete)
 
 ```json
 {
   "slug": "acetate",
   "term": "Acetate",
+  "pos": "noun",
+  "pronunciation": "/ˈæsɪteɪt/",
   "summary": "A soft lacquer-coated aluminum disc used to cut the first playable copy of a recording.",
-  "definition": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe. Acetates wear out fast — maybe 10–20 plays — but capture the freshest, most dynamic version of a track. In the '50s and '60s, DJs prized acetates for breaking brand-new singles in clubs before commercial pressings existed.",
+  "definition": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe. Acetates wear out fast — maybe 10–20 plays — but capture the freshest, most dynamic version of a track. In the '50s and '60s, DJs prized acetates for breaking brand-new singles in clubs before commercial pressings existed. The lacquer coating is fragile and degrades with each play, making acetates unsuitable for mass production but invaluable for test cuts and exclusive DJ use.",
   "tags": ["pressing", "mastering", "dj-related"],
-  "aliases": ["lacquer", "reference disc"],
-  "see_also": ["dubplate", "lacquer-cut"],
-  "regions": ["US", "UK"],
+  "aliases": ["lacquer", "reference disc", "dub plate"],
+  "etymology": "From 'acetate' referring to cellulose acetate, though modern acetates use nitrocellulose lacquer",
+  "first_use": 1934,
+  "see_also": ["dubplate", "lacquer-cut", "test-pressing"],
+  "regions": ["US", "UK", "JA"],
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
+}
+```
+
+### Minimal Example (Required Fields Only)
+
+```json
+{
+  "slug": "gatefold",
+  "term": "Gatefold",
+  "summary": "An album cover that opens like a book with panels on both sides.",
+  "definition": "A gatefold sleeve is a type of album packaging that folds open from the center, creating a four-panel display when fully opened. First introduced in the late 1950s, gatefolds became popular for deluxe editions and double albums, offering extra space for artwork, liner notes, and credits. The format reached its peak during the progressive rock era of the 1970s when elaborate album art was a key part of the listening experience.",
+  "tags": ["collecting"],
   "created": "2026-01-05",
   "updated": "2026-01-05"
 }
