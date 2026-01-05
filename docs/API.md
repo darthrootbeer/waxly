@@ -38,11 +38,16 @@ curl https://waxly.music/v1/term/acetate
 {
   "slug": "acetate",
   "term": "Acetate",
+  "pos": "noun",
+  "pronunciation": "/ˈæsɪteɪt/",
   "summary": "A soft lacquer-coated aluminum disc used to cut the first playable copy of a recording.",
-  "definition": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe. Acetates wear out fast — maybe 10–20 plays — but capture the freshest, most dynamic version of a track.",
-  "tags": ["dj-related", "pressing", "cultural"],
+  "definition": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe. Acetates wear out fast — maybe 10–20 plays — but capture the freshest, most dynamic version of a track. In the '50s and '60s, DJs prized acetates for breaking brand-new singles in clubs before commercial pressings existed.",
+  "tags": ["dj-related", "pressing", "mastering"],
   "aliases": ["lacquer", "reference disc"],
-  "see_also": ["dubplate", "lacquer-cut", "reference-disc"],
+  "alt_spellings": ["acetate disc", "acetate record"],
+  "etymology": "From 'acetate' referring to cellulose acetate, though modern acetates use nitrocellulose lacquer",
+  "first_use": 1934,
+  "see_also": ["dubplate", "lacquer-cut", "test-pressing"],
   "regions": ["US", "UK", "JA"],
   "created": "2026-01-05",
   "updated": "2026-01-05"
@@ -268,14 +273,19 @@ Cache-Control: s-maxage=3600, stale-while-revalidate
 
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| `slug` | string | Yes | Unique identifier |
+| `slug` | string | Yes | Unique identifier (shortest common form) |
 | `term` | string | Yes | Display name |
-| `summary` | string | Yes | Brief description (max 200 chars) |
-| `definition` | string | Yes | Full definition |
+| `summary` | string | Yes | Complete sentence definition (≤25 words, max 200 chars) |
+| `definition` | string | Yes | Detailed explanation (recommended 50-300 words) |
 | `tags` | array | Yes | Category tags (min 1) |
 | `created` | string | Yes | Creation date (YYYY-MM-DD) |
 | `updated` | string | Yes | Last update date (YYYY-MM-DD) |
-| `aliases` | array | No | Alternative names |
+| `pos` | string | No | Part of speech (noun, verb, adjective, adverb, phrase) |
+| `pronunciation` | string | No | IPA or phonetic notation |
+| `aliases` | array | No | Alternative names for the same thing |
+| `alt_spellings` | array | No | Spelling variations, regional variants, misspellings |
+| `etymology` | string | No | Historical origin and development |
+| `first_use` | integer | No | Year of first known usage (1800-2100) |
 | `see_also` | array | No | Related term slugs |
 | `regions` | array | No | Geographic regions |
 
