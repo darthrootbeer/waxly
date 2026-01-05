@@ -1,134 +1,177 @@
 # Waxly 2.1 TODO
 
-Tasks organized by priority for v2.1 release and beyond.
+Last updated: 2026-01-05
 
 ---
 
 ## 🔴 High Priority (Required for v2.1)
 
+### Slug Simplification
+- [x] **Audit all slugs for verbosity** (259 identified)
+- [x] **Generate shortening plan** (3,811 chars savings)
+- [x] **Execute slug shortening** (261 files renamed)
+- [x] **Update all cross-references** (64 terms updated)
+- [x] **Validate after renaming** (0 errors)
+
 ### Content Quality - Fix Existing Terms
-- [ ] **Fix all 567 summaries to be complete sentences**
-  - Current: Most summaries missing punctuation
-  - Required: All summaries must end with . ! or ?
-  - Script: Batch update or manual review
+- [x] **Fix all 567 summaries to be complete sentences**
+  - Status: ✅ COMPLETED - All summaries end with . ! or ?
+  - Tool: tools/fix-summaries.js (executed)
+
+- [x] **Add pos field to all terms**
+  - Status: ✅ COMPLETED - 567/567 terms have part of speech
+  - Tool: tools/bulk-add-pos.js (executed)
 
 - [ ] **Expand short definitions to 50+ words**
-  - Current: Many definitions are 2-20 words
-  - Target: 50-300 words with context and history
-  - Priority: Start with most-viewed/core terms
+  - Current: 561/567 terms need expansion
+  - Completed: 6 core terms (dead-wax, cartridge, gatefold, jacket, acetate, inner)
+  - Target: 150-300 words for core, 50-150 for others
+  - Next: Equipment terms, then formats
 
 ### Schema Migration
 - [x] Update schema to v2.1 with new fields
 - [x] Update validation script with word count checks
 - [x] Update CONTRIBUTING.md with new guidelines
-- [ ] Decide backwards compatibility strategy
-  - Make new fields optional (v2.1 - backward compatible)
-  - OR require all fields (v3.0 - breaking change)
+- [x] Decide backwards compatibility (v2.1 - optional fields)
 
 ### Documentation
-- [ ] Update CHANGELOG.md with v2.1 changes
-- [ ] Update README.md examples with new schema
-- [ ] Update docs/API.md with new response fields
+- [x] Update CHANGELOG.md with v2.1 changes
+- [x] Update README.md examples with new schema
+- [x] Update docs/API.md with new response fields
+- [x] Create TERM_UPDATE_PLAN.md
+- [x] Create SCHEMA_ENHANCEMENT_PROPOSAL.md
 
 ---
 
-## 🟡 Medium Priority (Important for v2.1+)
+## 🟡 Medium Priority (v2.1+ Content Enhancement)
+
+### Definition Expansion (561 remaining)
+- [x] Identify priority terms (tools/prioritize-definitions.js)
+- [x] Core concepts (6/6 complete):
+  - [x] dead-wax (184 words)
+  - [x] cartridge (235 words)
+  - [x] gatefold (236 words)
+  - [x] jacket (241 words)
+  - [x] acetate (233 words)
+  - [x] inner (230 words)
+
+- [ ] **Equipment terms** (~30 terms)
+  - turntable, tonearm, platter, stylus, headshell
+  - preamp, amplifier, speaker
+  - Target: 100-200 words each
+
+- [ ] **Format terms** (~40 terms)
+  - LP, EP, single, 45, 78, 33rpm
+  - vinyl types, weights, sizes
+  - Target: 75-150 words each
+
+- [ ] **Collecting terms** (~60 terms)
+  - Grading, condition, packaging
+  - Target: 50-100 words each
+
+- [ ] **Genre terms** (~200 terms)
+  - Keep concise: 30-75 words
+  - Basic origin and characteristics
+
+### Metadata Enhancement
+- [x] Add `pos` to all terms (567/567 complete)
+- [ ] Add `pronunciation` to ambiguous terms (~50 terms)
+- [ ] Add `etymology` to historical terms (~100 terms)
+- [ ] Add `first_use` dates where known (~100 terms)
+- [ ] Add `aliases` where missing (~200 terms)
+- [ ] Add `alt_spellings` where applicable (~150 terms)
+- [ ] Add `regions` based on content analysis
 
 ### Content Expansion - Add Missing Terms
 - [ ] **Scrape Discogs listings** for missing terminology
-  - Target: 100+ most common descriptive terms
-  - Focus: notch, jacket, gatefold, groove wear, ringwear, label, spindle marks, matrix, runout, deadwax, shrink wrap, obi, insert, pressing plant codes
-  - Parse: Condition grading, format descriptions, pressing details
+  - Target: notch, ringwear, spindle marks, matrix codes, etc.
+  - Parse condition grading language
 
-- [ ] **Scrape eBay vinyl listings** for same purpose
-  - Cross-reference with Discogs findings
-  - Identify seller/collector vernacular
-  - Extract packaging and condition terminology
-
-- [ ] **Compile and prioritize discovered terms**
-  - Remove duplicates
-  - Sort by frequency
-  - Create term files for top 100+ missing terms
-
-### Metadata Enhancement
-- [ ] Add `pos` (part of speech) to all terms
-  - Identify: noun, verb, adjective, adverb, phrase
-  - Priority: Core terms first
-
-- [ ] Add `pronunciation` for ambiguous terms
-  - IPA notation preferred
-  - Focus on terms with unclear pronunciation
-
-- [ ] Add `etymology` for historical terms
-  - Research origins
-  - Focus on pre-1960s terminology
-
-- [ ] Add `first_use` dates where known
-  - Research historical usage
-  - Document sources
+- [ ] **Scrape eBay vinyl listings**
+  - Cross-reference with Discogs
+  - Identify collector vernacular
 
 ### Site Generator Updates
-- [ ] Update templates to display new metadata
-  - Show part of speech
-  - Display pronunciation
-  - Include etymology
-  - Show first use date
-
+- [ ] Update templates to display new metadata fields
 - [ ] Enhance term page layout for dictionary style
+- [ ] Add pronunciation display
+- [ ] Add etymology section
+- [ ] Show first use dates
 
 ---
 
-## 🟢 Low Priority (Future / Nice-to-Have)
+## 🟢 Low Priority (Future)
 
 ### Deployment
-- [ ] Merge waxly-2.0 branch to main/master
 - [ ] Deploy API to Vercel
 - [ ] Configure waxly.music domain DNS
-- [ ] Deploy static site to GitHub Pages or Netlify
+- [ ] Deploy static site to GitHub Pages
 - [ ] Test all API endpoints in production
-- [ ] Verify CORS headers
-- [ ] Monitor edge cache performance
+- [ ] Monitor performance
 
-### Advanced Features (Post-v2.1)
+### Advanced Features
 - [ ] Fuzzy search implementation
-- [ ] Bulk export formats (CSV, SQLite, JSON-LD)
+- [ ] Bulk export formats (CSV, SQLite)
 - [ ] GraphQL API endpoint
-- [ ] Audio pronunciation files (.mp3/.ogg)
+- [ ] Audio pronunciation files
 - [ ] Historical timeline visualization
-- [ ] Interactive term relationship graph
-- [ ] Multi-language support (community-driven)
-
-### Community Features
-- [ ] GitHub Discussions setup
-- [ ] Contribution guidelines refinement
-- [ ] Term suggestion template
-- [ ] Community recognition system
 
 ---
 
-## 📋 Completed
+## ✅ Completed This Session
 
-- [x] Schema v2.1 design and implementation
-- [x] Add dictionary-style metadata fields (pos, pronunciation, etymology, first_use)
-- [x] Expand `aliases` to include variants and spellings
-- [x] Update validation script with word count and sentence checks
-- [x] Create SCHEMA_ENHANCEMENT_PROPOSAL.md
-- [x] Update CONTRIBUTING.md with new field examples
-- [x] Add complete sentence validation for summaries
-- [x] Add definition word count warnings
+### Infrastructure
+- [x] Schema v2.1 with dictionary-style fields (pos, pronunciation, etymology, first_use, alt_spellings)
+- [x] Validation enhancements (word count, complete sentences)
+- [x] All documentation updated
+
+### Automation Tools Created
+- [x] tools/fix-summaries.js
+- [x] tools/audit-slugs.js
+- [x] tools/shorten-slugs.js
+- [x] tools/execute-slug-shortening.js
+- [x] tools/bulk-add-pos.js
+- [x] tools/prioritize-definitions.js
+
+### Data Quality
+- [x] 567/567 summaries fixed (complete sentences)
+- [x] 567/567 terms have pos field
+- [x] 261/567 slugs shortened (46%)
+- [x] 6/567 terms fully enhanced with v2.1 metadata
+- [x] 64 cross-references updated
+
+### Documentation
+- [x] README.md, CONTRIBUTING.md, CHANGELOG.md, docs/API.md
+- [x] TERM_UPDATE_PLAN.md
+- [x] SCHEMA_ENHANCEMENT_PROPOSAL.md
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Next Actions
 
-**Immediate next steps:**
-1. Fix all 567 summaries (add punctuation)
-2. Expand short definitions (prioritize core 50 terms)
-3. Update CHANGELOG for v2.1
-4. Begin Discogs vocabulary mining
+**Immediate (High Priority):**
+1. Expand equipment terms (30 terms @ 100-200 words)
+2. Add pronunciation to top 50 ambiguous terms
+3. Add etymology to top 100 historical terms
+4. Expand format terms (40 terms @ 75-150 words)
 
-**Blocked/Waiting:**
-- None
+**Short Term:**
+5. Expand collecting terms (60 terms @ 50-100 words)
+6. Bulk add regions field
+7. Add first_use dates to historical terms
 
-**In Progress:**
-- Documentation updates
+**Ongoing:**
+8. Systematic genre term expansion (200 terms)
+9. Vocabulary mining from Discogs/eBay
+10. Site template updates for new fields
+
+---
+
+## 📊 Progress Metrics
+
+- **Summaries:** 567/567 (100%) ✅
+- **Pos field:** 567/567 (100%) ✅
+- **Slugs shortened:** 261/567 (46%) ✅
+- **Definitions expanded:** 6/567 (1%)
+- **Full v2.1 metadata:** 6/567 (1%)
+- **Documentation:** 100% ✅
