@@ -1,19 +1,36 @@
 {
   "slug": "jacket",
   "term": "Jacket",
-  "summary": "The outer cardboard cover that houses a vinyl record and its inner sleeve.",
-  "definition": "The outer cardboard cover that houses a vinyl record and its inner sleeve. Often features the album’s artwork, spine title, liner notes, and catalog info.",
+  "pos": "noun",
+  "pronunciation": "/ˈdʒækɪt/",
+  "summary": "The outer cardboard cover that protects and presents a vinyl record.",
+  "definition": "The jacket (or sleeve) is the cardboard outer cover that houses and protects a vinyl record, serving as both functional packaging and artistic canvas. Standard LP jackets measure approximately 12.375\" square and are constructed from heavyweight cardboard stock, often with laminated or printed surfaces. The jacket's front typically displays the album artwork—an art form unto itself that defined visual culture from the 1950s through the 1980s. The back panel traditionally contains track listings, credits, liner notes, and label/catalog information. The spine, visible when stored upright, shows the artist, title, and catalog number. Jacket condition is crucial to a record's collectibility and value; collectors use detailed grading systems (Mint, Near Mint, VG+, VG, G) specifically for jacket condition separate from the vinyl itself. Common jacket defects include ring wear (circular marks from the record inside), seam splits (separation along glued edges), spine wear, and water damage. Vintage jackets may feature period-specific details like paste-on covers, tip-on sleeves (where artwork is glued to a base jacket), or flip-back construction. The jacket represents a significant portion of vinyl's appeal over digital formats—the 12-inch square format allows for impactful artwork and readable text that enhanced the listening experience and made albums objects of pride and display.",
   "tags": [
+    "cultural",
+    "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "sleeve",
+    "cover",
+    "album cover"
+  ],
+  "alt_spellings": [
+    "record jacket"
+  ],
+  "etymology": "From garment 'jacket' (protective outer layer), applied to record packaging in the 1940s",
+  "first_use": 1948,
   "see_also": [
     "inner-sleeve",
     "gatefold",
-    "picture-sleeve"
+    "sleeve-grading-vg-nm-etc",
+    "ring-wear",
+    "seam-split"
   ],
   "regions": [
-    "US"
-  ]
+    "US",
+    "UK"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
 }

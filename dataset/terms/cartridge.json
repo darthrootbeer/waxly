@@ -1,21 +1,39 @@
 {
   "slug": "cartridge",
   "term": "Cartridge",
-  "summary": "The removable electro-mechanical pickup at the end of a tonearm that holds.",
-  "definition": "The removable electro-mechanical pickup at the end of a tonearm that holds the stylus and converts groove vibrations into electrical signals.",
+  "pos": "noun",
+  "pronunciation": "/ˈkɑːtrɪdʒ/",
+  "summary": "The electro-mechanical transducer mounted on a tonearm that converts groove vibrations into electrical signals.",
+  "definition": "The cartridge is the heart of any vinyl playback system—a precision electro-mechanical transducer that mounts to the end of a tonearm and converts the physical vibrations from the record groove into electrical audio signals. Inside the cartridge, a tiny stylus (needle) traces the groove's undulations, transmitting these movements to a generator mechanism that produces a corresponding electrical output. The two main types are moving magnet (MM) and moving coil (MC), each with distinct sonic characteristics and output levels. MM cartridges, more common and affordable, generate around 5mV output and use replaceable styluses. MC cartridges, favored by audiophiles, produce lower output (0.2-0.5mV) but often deliver superior detail and transparency at higher cost with non-replaceable styluses. Cartridge selection and proper alignment profoundly affect sound quality—factors include tracking ability, frequency response, channel separation, and compliance matching with the tonearm. The cartridge market ranges from budget models under $50 to exotic high-end units exceeding $10,000. Proper setup involves precise alignment (using protractors), correct tracking force, and optimal anti-skate settings. A quality cartridge can reveal nuances invisible to lesser models, making it one of the most critical upgrade points in a turntable system.",
   "tags": [
     "equipment",
-    "dj-related",
+    "technical",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "phono cartridge",
+    "pickup",
+    "transducer"
+  ],
+  "alt_spellings": [
+    "cartrige"
+  ],
+  "etymology": "From French 'cartouche' (paper case), applied to removable phonograph pickups in early 20th century",
+  "first_use": 1925,
   "see_also": [
     "stylus",
+    "tonearm",
+    "moving-magnet-cartridge-mm",
+    "moving-coil-cartridge-mc",
     "headshell",
-    "tracking-force"
+    "tracking-force",
+    "alignment-protractor"
   ],
   "regions": [
-    "US"
-  ]
+    "US",
+    "UK",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
 }

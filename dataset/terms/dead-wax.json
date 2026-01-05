@@ -1,20 +1,36 @@
 {
   "slug": "dead-wax",
   "term": "Dead Wax",
-  "summary": "'**noun / slang.** The smooth vinyl between the end of the last track and.",
-  "definition": "**noun / slang.** The smooth vinyl between the end of the last track and the label, often bearing etched catalog numbers, initials, or cryptic messages.",
+  "pos": "noun",
+  "pronunciation": "/dɛd wæks/",
+  "summary": "The smooth, ungrooved vinyl area between the end of the last track and the label.",
+  "definition": "The smooth, ungrooved vinyl area between the end of the last track and the label, also known as the run-out groove area. This seemingly blank space is actually one of the most fascinating parts of a vinyl record for collectors and audiophiles. Dead wax typically contains hand-etched or machine-stamped information including matrix numbers, catalog codes, pressing plant identifiers, mastering engineer initials, and sometimes cryptic messages, inside jokes, or dedications. These markings serve as a fingerprint for identifying specific pressings, determining the mastering source, and tracing a record's production history. The term 'dead wax' comes from the fact that this area contains no audio signal—it's 'dead' or silent. Collectors scrutinize dead wax to authenticate first pressings, identify mastering engineers (like the legendary 'RL' for Robert Ludwig or 'CB' for Chris Bellman), and discover hidden easter eggs left by studio personnel. In the digital age, dead wax etchings have become even more valued as a tangible connection to the analog production process.",
   "tags": [
     "pressing",
-    "collecting"
+    "collecting",
+    "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "run-out area",
+    "run-out groove",
+    "tail-out"
+  ],
+  "alt_spellings": [
+    "deadwax",
+    "dead wax area"
+  ],
+  "etymology": "From 'dead' (silent, no audio) + 'wax' (slang for vinyl record), referring to the silent area between grooves and label",
+  "first_use": 1950,
   "see_also": [
-    "run-out-etching",
     "matrix-number",
-    "locked-groove"
+    "run-out-etching",
+    "mastering",
+    "pressing-plant-code"
   ],
   "regions": [
-    "US"
-  ]
+    "US",
+    "UK"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
 }

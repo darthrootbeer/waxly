@@ -1,19 +1,37 @@
 {
   "slug": "gatefold",
   "term": "Gatefold",
-  "summary": "A record jacket that opens like a book, revealing inside artwork, lyrics,.",
-  "definition": "A record jacket that opens like a book, revealing inside artwork, lyrics, or extra photos — standard for many double-albums and deluxe editions.",
+  "pos": "noun",
+  "pronunciation": "/ˈɡeɪtfoʊld/",
+  "summary": "An album cover that opens like a book with hinged panels, revealing expanded artwork and information inside.",
+  "definition": "A gatefold sleeve is a premium album packaging format that unfolds from the center spine like a book, creating a four-panel display when fully opened. Introduced in the late 1950s, gatefolds became synonymous with deluxe vinyl releases, particularly double albums where the extra panels were functionally necessary to house two discs. The format reached its artistic and cultural zenith during the prog-rock and concept album era of the 1970s, when artists like Pink Floyd, Yes, and Led Zeppelin used the expanded real estate for elaborate artwork, detailed liner notes, lyrics, photography, and band credits. Gatefolds typically cost more to produce than standard sleeves due to the additional printing, die-cutting, and assembly required, making them a signal of a label's investment in an artist or release. Collectors particularly prize original gatefold pressings, as later reissues often downgrade to standard jackets to cut costs. The gatefold's tactile, immersive quality exemplifies vinyl's advantage over digital formats—opening a gatefold is an experience, revealing art and information in a deliberate, curated sequence. Classic examples include The Beatles' 'Sgt. Pepper's,' The Rolling Stones' 'Exile on Main St.,' and countless jazz releases from Blue Note and Verve. Modern vinyl reissues frequently restore gatefold packaging to honor the original artistic vision.",
   "tags": [
-    "cultural"
+    "cultural",
+    "collecting",
+    "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "gatefold sleeve",
+    "gatefold cover",
+    "gate-fold"
+  ],
+  "alt_spellings": [
+    "gate fold",
+    "gate-fold"
+  ],
+  "etymology": "From 'gate' (hinged opening) + 'fold' (to bend), describing the book-like opening mechanism",
+  "first_use": 1958,
   "see_also": [
     "double-album",
     "inner-sleeve",
-    "jacket-art"
+    "jacket",
+    "album",
+    "liner-notes"
   ],
   "regions": [
-    "US"
-  ]
+    "US",
+    "UK"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
 }
