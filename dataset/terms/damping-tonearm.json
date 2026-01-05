@@ -1,0 +1,22 @@
+{
+  "slug": "damping-tonearm",
+  "term": "Damping (Tonearm Damping)",
+  "summary": "The use of silicone fluid or magnetic resistance to control tonearm movement.",
+  "definition": "The use of silicone fluid or magnetic resistance to control tonearm movement and suppress unwanted resonance or skip.",
+  "tags": [
+    "equipment",
+    "dj-related",
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "resonance-control",
+    "cue-lever",
+    "isolation-feet"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

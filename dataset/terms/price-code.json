@@ -1,0 +1,20 @@
+{
+  "slug": "price-code",
+  "term": "Price-Code Sticker",
+  "summary": "'**noun / retail ephemera.** A small printed sticker or box on the jacket.",
+  "definition": "**noun / retail ephemera.** A small printed sticker or box on the jacket showing the label’s internal price code — used by shops for inventory tiers.",
+  "tags": [
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "hype-sticker",
+    "label-variant",
+    "catalog-number"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

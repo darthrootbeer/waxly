@@ -1,0 +1,20 @@
+{
+  "slug": "optical-soundtrack",
+  "term": "Optical Soundtrack Disc",
+  "summary": "'**noun / historical.** An experimental 1930s disc format that encoded film.",
+  "definition": "**noun / historical.** An experimental 1930s disc format that encoded film sound optically on a phonograph record, designed for synchronizing with motion pictures before magnetic film took over.",
+  "tags": [
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "vitaphone-disc",
+    "transcription-disc",
+    "shellac"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

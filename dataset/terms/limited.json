@@ -1,0 +1,20 @@
+{
+  "slug": "limited",
+  "term": "Limited Edition",
+  "summary": "A release intentionally capped at a fixed number of copies, often numbered.",
+  "definition": "A release intentionally capped at a fixed number of copies, often numbered or with unique packaging, making it scarcer than standard issues.",
+  "tags": [
+    "cultural"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "hand-numbered",
+    "variant-pressing",
+    "color-vinyl"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

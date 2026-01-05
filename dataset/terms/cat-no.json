@@ -1,0 +1,21 @@
+{
+  "slug": "cat-no",
+  "term": "Cat-No.",
+  "summary": "'**noun / abbreviation.** A unique alphanumeric code assigned by a label.",
+  "definition": "**noun / abbreviation.** A unique alphanumeric code assigned by a label to identify a specific release or pressing — often printed on spine, label, and run-out.",
+  "tags": [
+    "pressing",
+    "collecting"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "matrix-number",
+    "pressing-plant-code",
+    "label-variant"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "phono-input-stage",
+  "term": "Phono Input",
+  "summary": "'**noun / technical.** An amplifier input with the specialized equalization.",
+  "definition": "**noun / technical.** An amplifier input with the specialized equalization and gain required for magnetic-cartridge signals; often labeled “[PHONO](../p/phono-stage-hum.md)” on vintage receivers.",
+  "tags": [
+    "equipment",
+    "technical",
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "riaa-curve",
+    "pre-amp",
+    "line-level-input"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

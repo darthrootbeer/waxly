@@ -1,0 +1,21 @@
+{
+  "slug": "ground-wire",
+  "term": "Ground-Wire",
+  "summary": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground.",
+  "definition": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground to prevent hum and static.",
+  "tags": [
+    "equipment",
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "ground-loop-hum",
+    "shielding",
+    "phono-stage"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

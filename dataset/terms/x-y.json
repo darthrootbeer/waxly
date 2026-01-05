@@ -1,0 +1,22 @@
+{
+  "slug": "x-y",
+  "term": "X-Y Stereo Pickup Test",
+  "summary": "'**noun / lab setup term.** A **test configuration where two cartridges are.",
+  "definition": "**noun / lab setup term.** A **test configuration where two cartridges are mounted at 90-degree (X-Y) axes** to evaluate channel separation and crosstalk — used by cartridge designers and archivists.",
+  "tags": [
+    "equipment",
+    "collecting",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "crosstalk-test",
+    "phase-coherence-check",
+    "mono-switch-test"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

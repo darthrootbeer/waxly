@@ -1,0 +1,21 @@
+{
+  "slug": "speed-pull",
+  "term": "Speed-Pull Idler",
+  "summary": "'**noun / vintage changer part.** A **sliding idler-wheel mechanism** that.",
+  "definition": "**noun / vintage changer part.** A **sliding idler-wheel mechanism** that changes contact diameter on stepped motor pulley to alter platter RPM on old record changers.",
+  "tags": [
+    "equipment",
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "idler-drive-motor",
+    "rumble-spec",
+    "idler-wheel-rebuild"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

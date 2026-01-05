@@ -1,0 +1,21 @@
+{
+  "slug": "quartz-lock",
+  "term": "Quartz-Lock (a.k.a. Quartz-Synth Pitch-Lock)",
+  "summary": "'**noun / hi-fi / DJ.** A feature on many direct-drive turntables that **locks.",
+  "definition": "**noun / hi-fi / DJ.** A feature on many direct-drive turntables that **locks platter speed** to an ultra-stable quartz-crystal reference frequency for precise 33⅓ or 45 RPM.",
+  "tags": [
+    "equipment",
+    "dj-related"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "pitch-control",
+    "wow-flutter",
+    "direct-drive-motor"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

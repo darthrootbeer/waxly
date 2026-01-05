@@ -1,0 +1,20 @@
+{
+  "slug": "audiophile",
+  "term": "Audiophile Pressing",
+  "summary": "A premium vinyl release manufactured with meticulous mastering, heavier virgin-vinyl.",
+  "definition": "A premium vinyl release manufactured with meticulous mastering, heavier virgin-vinyl stock (often 180 g or 200 g), and quality-controlled plating for superior sound.",
+  "tags": [
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "half-speed-master",
+    "virgin-vinyl",
+    "180-gram"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

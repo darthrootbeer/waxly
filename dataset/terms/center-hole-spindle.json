@@ -1,0 +1,21 @@
+{
+  "slug": "center-hole-spindle",
+  "term": "Center Hole",
+  "summary": "The precisely-cut hole in the middle of every disc that seats on the turntable.",
+  "definition": "The precisely-cut hole in the middle of every disc that seats on the turntable spindle; slight off-center drilling causes audible wow.",
+  "tags": [
+    "equipment",
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "wow-flutter",
+    "45-adapter",
+    "off-center"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "verb"
+}

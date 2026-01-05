@@ -1,0 +1,20 @@
+{
+  "slug": "clip-on",
+  "term": "Clip-On Headshell Weight",
+  "summary": "A removable metal plate that clips onto a detachable headshell to increase.",
+  "definition": "A removable metal plate that clips onto a detachable headshell to increase cartridge mass for better stylus tracking at higher forces.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "auxiliary-weight",
+    "tracking-force",
+    "resonance-control"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

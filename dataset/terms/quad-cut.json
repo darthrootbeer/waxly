@@ -1,0 +1,22 @@
+{
+  "slug": "quad-cut",
+  "term": "Quad-Cut Stylus",
+  "summary": "'**noun / technical.** A line-contact stylus shape — often Shibata or similar.",
+  "definition": "**noun / technical.** A line-contact stylus shape — often Shibata or similar — capable of tracing the **ultrasonic carrier** signals required by CD-4 discrete quadraphonic LPs.",
+  "tags": [
+    "equipment",
+    "pressing",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "cd-4-demodulator",
+    "shibata-stylus",
+    "line-contact-stylus"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "verb"
+}

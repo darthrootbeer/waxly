@@ -1,0 +1,21 @@
+{
+  "slug": "hum-bucker",
+  "term": "Hum-Bucker",
+  "summary": "'**noun / technical.** A cartridge or wiring configuration designed to cancel.",
+  "definition": "**noun / technical.** A cartridge or wiring configuration designed to cancel out electromagnetic hum by using two coils wired in opposite polarity.",
+  "tags": [
+    "equipment",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "ground-loop-hum",
+    "shielding",
+    "moving-magnet"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}

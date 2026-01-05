@@ -1,0 +1,22 @@
+{
+  "slug": "pre-echo",
+  "term": "Pre-Echo (Groove-Print-Through)",
+  "summary": "noun / technical artifact. A faint “ghost” of a loud musical passage heard.",
+  "definition": "**noun / technical artifact.** A faint “ghost” of a loud musical passage heard about 1.8 seconds before it actually starts — caused by groove wall vibrations imprinting adjacent grooves during cutting or plating.",
+  "tags": [
+    "dj-related",
+    "pressing",
+    "collecting"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "print-through",
+    "post-echo",
+    "groove-spacing"
+  ],
+  "regions": [
+    "US"
+  ],
+  "pos": "noun"
+}
