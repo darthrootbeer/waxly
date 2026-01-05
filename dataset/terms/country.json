@@ -1,0 +1,20 @@
+{
+  "slug": "country",
+  "term": "Country",
+  "summary": "**Country** - A broad musical genre classification from the Discogs taxonomy.",
+  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "tags": [
+    "cultural"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "bluegrass",
+    "country-rock",
+    "honky-tonk",
+    "western"
+  ],
+  "regions": [
+    "global"
+  ]
+}

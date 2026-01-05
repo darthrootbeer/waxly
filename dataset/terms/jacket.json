@@ -1,0 +1,19 @@
+{
+  "slug": "jacket",
+  "term": "Jacket",
+  "summary": "The outer cardboard cover that houses a vinyl record and its inner sleeve.",
+  "definition": "The outer cardboard cover that houses a vinyl record and its inner sleeve. Often features the album’s artwork, spine title, liner notes, and catalog info.",
+  "tags": [
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "inner-sleeve",
+    "gatefold",
+    "picture-sleeve"
+  ],
+  "regions": [
+    "US"
+  ]
+}

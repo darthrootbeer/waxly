@@ -1,0 +1,34 @@
+<article>
+  <h1>{{term}}</h1>
+
+  {{#if aliases}}
+  <p class="aliases">Also known as: {{#each aliases}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}</p>
+  {{/if}}
+
+  <p class="summary">{{summary}}</p>
+
+  <div class="definition">
+    <p>{{definition}}</p>
+  </div>
+
+  <div class="metadata">
+    <p><strong>Tags:</strong>
+      {{#each tags}}<a href="/tags/{{this}}.html" class="tag">{{this}}</a>{{/each}}
+    </p>
+    {{#if regions}}
+    <p><strong>Regions:</strong> {{#each regions}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}</p>
+    {{/if}}
+    <p><strong>Last updated:</strong> {{updated}}</p>
+  </div>
+
+  {{#if see_also}}
+  <div class="related">
+    <h3>See Also</h3>
+    <ul>
+    {{#each see_also}}
+      <li><a href="/terms/{{this}}.html">{{this}}</a></li>
+    {{/each}}
+    </ul>
+  </div>
+  {{/if}}
+</article>

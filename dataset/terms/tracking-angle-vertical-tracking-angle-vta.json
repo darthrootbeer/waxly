@@ -1,0 +1,21 @@
+{
+  "slug": "tracking-angle-vertical-tracking-angle-vta",
+  "term": "Tracking Angle / Vertical Tracking Angle",
+  "summary": "noun / hi-fi geometry term. The angle at which the stylus sits in the groove",
+  "definition": "**noun / hi-fi geometry term.** The **angle at which the stylus sits in the groove relative to the record surface** — ideally matches the angle of the cutter head (~20°). Adjustable via tone-arm height.",
+  "tags": [
+    "equipment",
+    "dj-related",
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "sra-stylus-rake-angle",
+    "cartridge-shims",
+    "arm-height-adjuster"
+  ],
+  "regions": [
+    "US"
+  ]
+}

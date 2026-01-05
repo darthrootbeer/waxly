@@ -1,0 +1,20 @@
+{
+  "slug": "half-speed-mastering",
+  "term": "Half-Speed Mastering",
+  "summary": "noun / technical. A mastering process where the lacquer is cut at half the",
+  "definition": "**noun / technical.** A mastering process where the lacquer is cut at half the normal playback speed (16⅔ RPM for a 33⅓ LP). This lets the cutting head trace high-frequency detail more accurately, reducing distortion and improving transient response.",
+  "tags": [
+    "pressing",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "audiophile-pressing",
+    "lacquer-cut",
+    "hot-cut"
+  ],
+  "regions": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "vertical-tracking-angle-vta",
+  "term": "Vertical Tracking Angle",
+  "summary": "'**noun / cartridge alignment spec.** The **angle of the cantilever/stylus",
+  "definition": "**noun / cartridge alignment spec.** The **angle of the cantilever/stylus relative to the record surface in the vertical plane**, ideally matching the angle of the cutter head.",
+  "tags": [
+    "equipment",
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "sra-stylus-rake-angle",
+    "tone-arm-height-adjuster",
+    "tracking-force"
+  ],
+  "regions": [
+    "US"
+  ]
+}

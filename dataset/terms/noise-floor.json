@@ -1,0 +1,21 @@
+{
+  "slug": "noise-floor",
+  "term": "Noise",
+  "summary": "'**noun / technical.** The inherent background level of noise — hiss, hum,",
+  "definition": "**noun / technical.** The inherent background level of noise — hiss, hum, surface-whoosh — present in a system or on the vinyl itself below which musical signal sits.",
+  "tags": [
+    "equipment",
+    "pressing",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "surface-noise",
+    "low-noise-vinyl-compound",
+    "dynamic-range"
+  ],
+  "regions": [
+    "US"
+  ]
+}

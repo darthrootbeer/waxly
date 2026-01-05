@@ -1,0 +1,19 @@
+{
+  "slug": "blank-groove",
+  "term": "Blank Groove",
+  "summary": "A closed circular groove at the end of a side that loops endlessly instead",
+  "definition": "A closed circular groove at the end of a side that loops endlessly instead of spiraling to the label.",
+  "tags": [
+    "cultural"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "run-out-groove",
+    "hidden-track",
+    "banding"
+  ],
+  "regions": [
+    "US"
+  ]
+}

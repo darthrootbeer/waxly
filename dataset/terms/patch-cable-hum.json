@@ -1,0 +1,21 @@
+{
+  "slug": "patch-cable-hum",
+  "term": "Patch",
+  "summary": "'**noun / technical / slang.** A low-frequency hum or buzz caused by faulty",
+  "definition": "**noun / technical / slang.** A low-frequency hum or buzz caused by faulty or poorly shielded patch cables between turntable, mixer, or preamp.",
+  "tags": [
+    "equipment",
+    "dj-related",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "ground-loop-hum",
+    "rca-cable",
+    "shielding"
+  ],
+  "regions": [
+    "US"
+  ]
+}

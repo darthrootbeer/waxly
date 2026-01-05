@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Waxly Term",
+  "description": "Minimal canonical vinyl terminology schema - v2.0",
+  "type": "object",
+  "required": ["slug", "term", "summary", "definition", "tags", "created", "updated"],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "description": "Unique URL-friendly identifier",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "term": {
+      "type": "string",
+      "description": "Canonical term name"
+    },
+    "summary": {
+      "type": "string",
+      "description": "One-sentence summary (max 200 chars)",
+      "maxLength": 200
+    },
+    "definition": {
+      "type": "string",
+      "description": "Full definition"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Category tags",
+      "items": {
+        "type": "string",
+        "enum": [
+          "equipment", "pressing", "mastering", "dj-related",
+          "collecting", "quality-control", "slang", "technical",
+          "historical", "cultural", "genre-specific", "regional"
+        ]
+      },
+      "minItems": 1
+    },
+    "created": {
+      "type": "string",
+      "format": "date",
+      "description": "Creation date (YYYY-MM-DD)"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Last update date (YYYY-MM-DD)"
+    },
+    "aliases": {
+      "type": "array",
+      "description": "Alternative names/spellings",
+      "items": {"type": "string"}
+    },
+    "see_also": {
+      "type": "array",
+      "description": "Related term slugs",
+      "items": {"type": "string"}
+    },
+    "regions": {
+      "type": "array",
+      "description": "Geographic regions",
+      "items": {"type": "string"}
+    }
+  }
+}

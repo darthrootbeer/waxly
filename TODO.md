@@ -1,70 +1,19 @@
-# Vinyl Lexicon - TODO
+# Waxly - TODO
 
-## Current Tasks
-
-### MVP Phase - Week 1 (Priority 1)
-
-- [x] `000008` - **RESTRUCTURE PROJECT**: Migrate from book/chapter model to wiki-style database architecture - (2025-10-06_16.45.00)
-- [x] `000009` - Create new repo structure: `data/`, `docs/`, `scripts/`, `schema/`, `api/` directories - (2025-10-06_16.45.00)
-- [x] `000010` - Implement one-term-per-file structure with rich front-matter metadata - (2025-10-06_16.45.00)
-- [x] `000011` - Create term validation schema and data integrity system - (2025-10-06_15.30.00)
-- [x] `00002A` - Extend schema with advanced metadata fields (technical specs, historical timeline, cultural impact, relationships, usage context, quality indicators, market data, advanced search) - (2025-10-06_15.30.00)
-- [x] `00002B` - Create field visibility system with global defaults and per-term overrides - (2025-10-06_15.30.00)
-- [x] `00002C` - Implement Discogs genre/style taxonomy (Genre > Style hierarchy, 16 official genres, 1-3 genres per term, 1-6 styles per term) - (2025-10-06_15.45.00)
-- [x] `00002D` - Clean up slugs and term names (270 terms processed, removed descriptive suffixes, moved alternate terms to aka field) - (2025-10-06_16.45.00)
-- [x] `00002E` - Comprehensive project cleanup (removed duplicate backup files, legacy content, ~25MB saved) - (2025-10-06_16.45.00)
-- [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
-- [x] `000012` - Set up MkDocs with Material theme and Pagefind search - (2025-10-06_21.30.00)
-- [x] `000013` - ~~Deploy to GitHub Pages with CI/CD pipeline~~ (Cancelled - using local development only)
-
-### Phase 2 - Content Migration
-
-- [x] `000014` - Split remaining letters into one-term-per-file structure - (2025-10-06_21.30.00)
-- [x] `000015` - Run validator to fill missing front-matter - (2025-10-06_21.30.00)
-- [x] `000016` - Generate letter and tag hubs automatically - (2025-10-06_21.30.00)
-- [x] `000017` - Implement autolinking script for cross-references - (2025-10-06_21.30.00)
-
-### Phase 3 - Contributor Experience
-
-- [x] `000018` - Refine contributor documentation - (2025-10-06_21.45.00)
-- [x] `000019` - Add pre-commit hooks and validations - (2025-10-06_21.45.00)
-- [x] `000020` - Set up aliases → redirects system - (2025-10-06_21.45.00)
-- [x] `000021` - Add related-terms sidebar - (2025-10-06_21.45.00)
+## Priority 1: Active Development
 
 ### Phase 4 - Advanced Features
-
-- [x] `000022` - Expose JSON export of all terms (/api/terms.json) - (2025-10-06_21.45.00)
 - [ ] `000023` - Add pronunciation audio support
 - [ ] `000024` - Improve filtering UI (by tags / eras / regions)
-- [x] `000084` - Create Discogs genre/style reference system: Map each genre and style to official Discogs URLs (e.g., /genre/rock, /style/krautrock) - (2025-10-06_22.00.00)
-- [x] `000085` - Investigate Discogs API integration for pulling canonical genre/style descriptions and metadata - (2025-10-06_22.00.00)
-- [x] `000086` - Implement genre/style pages in lexicon that link to and reference Discogs as authoritative source - (2025-10-06_22.00.00)
-- [x] `000087` - Add "discogs_genre_url" and "discogs_style_urls" fields to schema for storing canonical Discogs references - (2025-10-06_22.00.00)
 
 ### Phase 5 - AI & Machine Learning Integration
-
-- [x] `000088` - Add AI-friendly metadata fields to schema (complexity_level, domain_expertise, usage_frequency, temporal_relevance, cultural_significance, technical_accuracy) - (2025-10-06_22.15.00)
-- [x] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption - (2025-10-06_22.15.00)
-- [x] `000090` - Create copy-as-markdown functionality for easy AI training data extraction - (2025-10-06_22.15.00)
-- [x] `000091` - Build machine-readable entity relationships and knowledge graph structure - (2025-10-06_22.15.00)
-- [x] `000013` - Create individual lexicon entries for each Discogs genre (16 genre entries) - (2025-10-06_21.04.00)
-- [x] `000014` - Create individual lexicon entries for each Discogs style (80 style entries) - (2025-10-06_21.04.00)
-- [x] `000015` - Set up Discogs API integration framework for future v3.0 sync - (2025-10-06_21.04.00)
-- [x] `000016` - Update schema to reference genre/style entries instead of enum fields - (2025-10-06_21.04.00)
-- [x] `000017` - Update cultural sensitivity system to include inappropriate terms with warnings - (2025-10-06_21.09.00)
-- [x] `000018` - Add content obscuration/reveal functionality for sensitive terms - (2025-10-06_21.09.00)
-- [x] `000019` - Update schema and documentation for sensitive content handling - (2025-10-06_21.09.00)
-- [x] `000020` - Create user preference system for sensitive content display - (2025-10-06_21.09.00)
-- [x] `000021` - Add age verification checkbox for 18+ sensitive content - (2025-10-06_21.09.00)
-- [x] `000022` - Implement persistent user preferences with localStorage - (2025-10-06_21.09.00)
-- [x] `000023` - Update sensitive content template to respect user preferences - (2025-10-06_21.09.00)
 - [ ] `000092` - Add API endpoints for AI consumption (/api/terms/search, /api/terms/embeddings, /api/terms/graph)
 - [ ] `000093` - Create AI training dataset exports in multiple formats (JSON, CSV, TXT, RDF/Turtle)
 - [ ] `000094` - Implement semantic embeddings and vector database preparation
 - [ ] `000095` - Add contextual keywords and cross-reference mapping for knowledge graph traversal
 - [ ] `000096` - Create structured prompts and context-aware formatting for different AI use cases
 
-### Infrastructure & Setup
+## Priority 2: Infrastructure & Setup
 
 - [ ] `000025` - Write schema and validator for term front-matter
 - [ ] `000026` - Build importer to split current A-Z markdown into term files
@@ -99,62 +48,9 @@
 - [ ] `000055` - Add term translation field (translations/equivalents) for multilingual support
 - [ ] `000056` - Implement term usage notes field (warnings/cautions/important_info) for practical guidance
 
-## Completed Tasks
-
-- [x] `000099` - Expand historical coverage to 1857: Update schema to include 1850s-1930s eras, add historical timeline to About page, update landing page with "Since 1857!" - (2025-10-07_10.15.00)
-- [x] `000098` - Simplify site to Wikipedia-style resource: Remove technical/developer language from landing page, contribute page, README, and CONTRIBUTING files - (2025-10-07_10.00.00)
-- [x] `000001` - Create project structure mirroring OA-MD best practices with content/, assets/, tools/, and documentation directories - (2025-01-27_14.30.00)
-- [x] `000002` - Set up standard project documentation files (README.md, CHANGELOG.md, LICENSE, CONTRIBUTING.md, TODO.md) - (2025-01-27_14.35.00)
-- [x] `000003` - Organize vinyl lexicon content into structured book format with chapters - (2025-01-27_14.40.00)
-- [x] `000004` - Create assets directory with styles, fonts, and images for web presentation - (2025-01-27_14.45.00)
-- [x] `000005` - Set up tools directory for content processing and conversion utilities - (2025-01-27_14.50.00)
-- [x] `000006` - Initialize Git repository and configure for GitHub hosting - (2025-01-27_14.55.00)
-- [x] `000007` - Create web presentation layer for digital book experience - (2025-01-27_15.00.00)
-- [x] `000008` - **RESTRUCTURE PROJECT**: Migrate from book/chapter model to wiki-style database architecture - (2025-10-06_16.45.00)
-- [x] `000009` - Create new repo structure: `data/`, `docs/`, `scripts/`, `schema/`, `api/` directories - (2025-10-06_16.45.00)
-- [x] `000010` - Implement one-term-per-file structure with rich front-matter metadata - (2025-10-06_16.45.00)
-- [x] `000011` - Create term validation schema and data integrity system - (2025-10-06_15.30.00)
-- [x] `00002A` - Extend schema with advanced metadata fields (technical specs, historical timeline, cultural impact, relationships, usage context, quality indicators, market data, advanced search) - (2025-10-06_15.30.00)
-- [x] `00002B` - Create field visibility system with global defaults and per-term overrides - (2025-10-06_15.30.00)
-- [x] `00002C` - Implement Discogs genre/style taxonomy (Genre > Style hierarchy, 16 official genres, 1-3 genres per term, 1-6 styles per term) - (2025-10-06_15.45.00)
-- [x] `00002D` - Clean up slugs and term names (270 terms processed, removed descriptive suffixes, moved alternate terms to aka field) - (2025-10-06_16.45.00)
-- [x] `00002E` - Comprehensive project cleanup (removed duplicate backup files, legacy content, ~25MB saved) - (2025-10-06_16.45.00)
-- [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
-- [x] `000012` - Set up MkDocs with Material theme and Pagefind search - (2025-10-06_21.30.00)
-- [x] `000013` - ~~Deploy to GitHub Pages with CI/CD pipeline~~ (Cancelled - using local development only)
-- [x] `000014` - Split remaining letters into one-term-per-file structure - (2025-10-06_21.30.00)
-- [x] `000015` - Run validator to fill missing front-matter - (2025-10-06_21.30.00)
-- [x] `000016` - Generate letter and tag hubs automatically - (2025-10-06_21.30.00)
-- [x] `000017` - Implement autolinking script for cross-references - (2025-10-06_21.30.00)
-- [x] `000018` - Refine contributor documentation - (2025-10-06_21.45.00)
-- [x] `000019` - Add pre-commit hooks and validations - (2025-10-06_21.45.00)
-- [x] `000020` - Set up aliases → redirects system - (2025-10-06_21.45.00)
-- [x] `000021` - Add related-terms sidebar - (2025-10-06_21.45.00)
-- [x] `000022` - Expose JSON export of all terms (/api/terms.json) - (2025-10-06_21.45.00)
-- [x] `000084` - Create Discogs genre/style reference system: Map each genre and style to official Discogs URLs (e.g., /genre/rock, /style/krautrock) - (2025-10-06_22.00.00)
-- [x] `000085` - Investigate Discogs API integration for pulling canonical genre/style descriptions and metadata - (2025-10-06_22.00.00)
-- [x] `000086` - Implement genre/style pages in lexicon that link to and reference Discogs as authoritative source - (2025-10-06_22.00.00)
-- [x] `000087` - Add "discogs_genre_url" and "discogs_style_urls" fields to schema for storing canonical Discogs references - (2025-10-06_22.00.00)
-- [x] `000088` - Add AI-friendly metadata fields to schema (complexity_level, domain_expertise, usage_frequency, temporal_relevance, cultural_significance, technical_accuracy) - (2025-10-06_22.15.00)
-- [x] `000089` - Implement JSON-LD structured data for semantic web compatibility and AI consumption - (2025-10-06_22.15.00)
-- [x] `000090` - Create copy-as-markdown functionality for easy AI training data extraction - (2025-10-06_22.15.00)
-- [x] `000091` - Build machine-readable entity relationships and knowledge graph structure - (2025-10-06_22.15.00)
-- [x] `000013` - Create individual lexicon entries for each Discogs genre (16 genre entries) - (2025-10-06_21.04.00)
-- [x] `000014` - Create individual lexicon entries for each Discogs style (80 style entries) - (2025-10-06_21.04.00)
-- [x] `000015` - Set up Discogs API integration framework for future v3.0 sync - (2025-10-06_21.04.00)
-- [x] `000016` - Update schema to reference genre/style entries instead of enum fields - (2025-10-06_21.04.00)
-- [x] `000017` - Update cultural sensitivity system to include inappropriate terms with warnings - (2025-10-06_21.09.00)
-- [x] `000018` - Add content obscuration/reveal functionality for sensitive terms - (2025-10-06_21.09.00)
-- [x] `000019` - Update schema and documentation for sensitive content handling - (2025-10-06_21.09.00)
-- [x] `000020` - Create user preference system for sensitive content display - (2025-10-06_21.09.00)
-- [x] `000021` - Add age verification checkbox for 18+ sensitive content - (2025-10-06_21.09.00)
-- [x] `000022` - Implement persistent user preferences with localStorage - (2025-10-06_21.09.00)
-- [x] `000023` - Update sensitive content template to respect user preferences - (2025-10-06_21.09.00)
-
-## Future Enhancements
+## Priority 3: Future Enhancements
 
 ### UX & Interface Improvements
-
 - [ ] `000057` - Dark/light theme toggle
 - [ ] `000058` - Permalinks with stable slugs
 - [ ] `000059` - Related-terms card per entry
@@ -163,13 +59,11 @@
 - [ ] `000097` - Visual popularity indicator bars: Color-coded bars (red=1-2, golden=5, green=8-10) showing term popularity on 1-10 scale for quick visual reference
 
 ### Content Expansions
-
 - [ ] `000062` - Add more detailed technical specifications for equipment terms
 - [ ] `000063` - Expand cultural context and historical notes
 - [ ] `000064` - Include audio examples where relevant
 
 ### Major Spin-off Project: Record Label Universe
-
 - [ ] `000065` - Create comprehensive record label database (Capitol, Columbia, independent labels, etc.)
 - [ ] `000066` - Design interactive, zoomable map interface for record label relationships
 - [ ] `000067` - Implement parent/subsidiary label relationship mapping
@@ -183,132 +77,84 @@
 - [ ] `000075` - Plan separate repository and hosting for Record Label Universe project
 
 ### Community & Governance
-
 - [ ] `000076` - Set up small council with clear dispute-resolution policy
 - [ ] `000077` - Add community discussion forums
 - [ ] `000078` - Create contributor onboarding guide
 - [ ] `000079` - Document deployment and hosting procedures
 
 ### Advanced Features
-
 - [ ] `000080` - Add bookmarking and favorites functionality
 - [ ] `000081` - Create mobile app version
 - [ ] `000082` - Add social sharing capabilities
 - [ ] `000083` - Implement automated testing for content quality
 
-## Project Overview
-
-**Goal**: Create a free, mobile-friendly, desktop-friendly, blazing-fast digital A-Z reference for vinyl record culture and terminology, suitable for GitHub Pages now and easily expandable into a wiki-like community resource later.
-
-**Chosen Stack**: Static site built from Markdown with Material-for-MkDocs + Pagefind search hosted on GitHub Pages
-
-**Key Benefits**:
-
-- Free, serverless, very fast to load
-- Great responsive UX out of the box
-- Search is pre-built and instant
-- Good for version control and PR-based contributions
-- Scales to thousands of entries without performance loss
-
-## 🏗️ MAJOR RESTRUCTURING: From Book to Wiki Database
-
-**Current Problem**: The project is structured as a traditional book with chapters, which limits extensibility and searchability.
-
-**New Architecture**: Wiki-style database with one-term-per-file structure and rich metadata.
-
-### New Repository Structure
-
-```text
-vinyl-lexicon/
-├── docs/                          # MkDocs content directory
-│   ├── index.md                   # Homepage
-│   ├── about.md                   # About page
-│   ├── contribute.md              # Contribution guidelines
-│   ├── terms/                     # Individual term files
-│   │   ├── a/
-│   │   │   ├── a-b-test-press.md
-│   │   │   ├── acetate.md
-│   │   │   └── acoustic-suspension.md
-│   │   ├── b/
-│   │   └── ...
-│   ├── letters/                   # Auto-generated letter hubs
-│   │   ├── a.md
-│   │   ├── b.md
-│   │   └── ...
-│   ├── tags/                      # Auto-generated tag hubs
-│   │   ├── equipment.md
-│   │   ├── dj-related.md
-│   │   └── ...
-│   ├── images/                    # Media assets
-│   └── data/                      # Structured data
-│       ├── taxonomy.yml           # Controlled vocabulary
-│       ├── aliases.yml            # Term aliases
-│       └── redirects.yml          # URL redirects
-├── scripts/                       # Processing tools
-│   ├── split_from_letter_md.py    # Convert chapters to terms
-│   ├── validate_frontmatter.py    # Validate term metadata
-│   ├── build_letter_indexes.py    # Generate letter hubs
-│   └── check_links.sh             # Link validation
-├── schema/                        # Data validation
-│   └── term.schema.json           # Term front-matter schema
-├── api/                           # JSON API endpoints
-│   └── terms.json                 # All terms as JSON
-├── mkdocs.yml                     # MkDocs configuration
-├── .github/workflows/gh-pages.yml # CI/CD pipeline
-└── .pre-commit-config.yaml        # Pre-commit hooks
-```
-
-### Term File Structure
-
-Each term file (`docs/terms/a/acetate.md`) contains:
-
-```yaml
----
-term: "Acetate"
-slug: "acetate"
-pos: "noun"
-aliases: ["lacquer", "reference disc"]
-tags: ["equipment", "pressing", "mastering"]
-domains: ["pressing_technique", "mastering"]
-regions: ["US", "UK", "JA"]
-eras: ["1940s", "1950s", "1960s"]
-first_attested: "1940s"
-pronunciation: "/ˈæsɪteɪt/"
-see_also: ["dubplate", "lacquer cut", "reference disc"]
-sources:
-  - label: "Audio Engineering Society"
-    url: "https://example.com"
-summary: "A soft lacquer-coated aluminum disc used to cut the first playable copy"
-updated: "2025-01-27"
-popularity: 7
-complexity: "intermediate"
-status: "active"
-context: "technical"
-verification: "verified"
 ---
 
-# Acetate
+## Completed Tasks
 
-**Definition:** A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe.
+### MVP Phase (Completed 2025-10-06)
+- [x] `000008` - **RESTRUCTURE PROJECT**: Migrate from book/chapter model to wiki-style database architecture - (2025-10-06_16.45.00)
+- [x] `000009` - Create new repo structure: `data/`, `docs/`, `scripts/`, `schema/`, `api/` directories - (2025-10-06_16.45.00)
+- [x] `000010` - Implement one-term-per-file structure with rich front-matter metadata - (2025-10-06_16.45.00)
+- [x] `000011` - Create term validation schema and data integrity system - (2025-10-06_15.30.00)
+- [x] `00002A` - Extend schema with advanced metadata fields - (2025-10-06_15.30.00)
+- [x] `00002B` - Create field visibility system with global defaults and per-term overrides - (2025-10-06_15.30.00)
+- [x] `00002C` - Implement Discogs genre/style taxonomy - (2025-10-06_15.45.00)
+- [x] `00002D` - Clean up slugs and term names (270 terms processed) - (2025-10-06_16.45.00)
+- [x] `00002E` - Comprehensive project cleanup (~25MB saved) - (2025-10-06_16.45.00)
+- [x] `00002F` - Create media implementation guide and Discogs taxonomy documentation - (2025-10-06_16.45.00)
+- [x] `000012` - Set up MkDocs with Material theme and Pagefind search - (2025-10-06_21.30.00)
+- [x] `000013` - ~~Deploy to GitHub Pages with CI/CD pipeline~~ (Cancelled - using local development only)
 
-**Etymology:** Named for the nitrocellulose acetate lacquer layer applied over the disc's base.
+### Content Migration (Completed 2025-10-06)
+- [x] `000014` - Split remaining letters into one-term-per-file structure - (2025-10-06_21.30.00)
+- [x] `000015` - Run validator to fill missing front-matter - (2025-10-06_21.30.00)
+- [x] `000016` - Generate letter and tag hubs automatically - (2025-10-06_21.30.00)
+- [x] `000017` - Implement autolinking script for cross-references - (2025-10-06_21.30.00)
 
-**Example:** "I scored an acetate of a lost 1972 soul demo — the paper label is handwritten in ballpoint."
+### Contributor Experience (Completed 2025-10-06)
+- [x] `000018` - Refine contributor documentation - (2025-10-06_21.45.00)
+- [x] `000019` - Add pre-commit hooks and validations - (2025-10-06_21.45.00)
+- [x] `000020` - Set up aliases → redirects system - (2025-10-06_21.45.00)
+- [x] `000021` - Add related-terms sidebar - (2025-10-06_21.45.00)
 
-**Cultural Note:** In the '50s and '60s, DJs prized acetates for breaking brand-new singles in clubs before commercial pressings existed.
-```
+### Advanced Features (Completed 2025-10-06 - 2025-10-07)
+- [x] `000022` - Expose JSON export of all terms (/api/terms.json) - (2025-10-06_21.45.00)
+- [x] `000084` - Create Discogs genre/style reference system - (2025-10-06_22.00.00)
+- [x] `000085` - Investigate Discogs API integration - (2025-10-06_22.00.00)
+- [x] `000086` - Implement genre/style pages linking to Discogs - (2025-10-06_22.00.00)
+- [x] `000087` - Add Discogs URL fields to schema - (2025-10-06_22.00.00)
+- [x] `000088` - Add AI-friendly metadata fields to schema - (2025-10-06_22.15.00)
+- [x] `000089` - Implement JSON-LD structured data - (2025-10-06_22.15.00)
+- [x] `000090` - Create copy-as-markdown functionality - (2025-10-06_22.15.00)
+- [x] `000091` - Build machine-readable entity relationships - (2025-10-06_22.15.00)
+- [x] `000099` - Expand historical coverage to 1857 - (2025-10-07_10.15.00)
+- [x] `000098` - Simplify site to Wikipedia-style resource - (2025-10-07_10.00.00)
 
-### Key Advantages of New Structure
+### Discogs Integration (Completed 2025-10-06)
+- [x] `000013` - Create individual lexicon entries for each Discogs genre (16 entries) - (2025-10-06_21.04.00)
+- [x] `000014` - Create individual lexicon entries for each Discogs style (80 entries) - (2025-10-06_21.04.00)
+- [x] `000015` - Set up Discogs API integration framework - (2025-10-06_21.04.00)
+- [x] `000016` - Update schema to reference genre/style entries - (2025-10-06_21.04.00)
 
-1. **Maximum Searchability**: Each term is individually indexed and searchable
-2. **Rich Metadata**: 25+ fields per term for comprehensive categorization
-3. **Scalability**: Easy to add new terms without restructuring
-4. **API-Ready**: JSON export for external integrations
-5. **Community-Friendly**: Clear contribution workflow with validation
-6. **Future-Proof**: Extensible architecture for new features
+### Cultural Sensitivity (Completed 2025-10-06)
+- [x] `000017` - Update cultural sensitivity system for inappropriate terms - (2025-10-06_21.09.00)
+- [x] `000018` - Add content obscuration/reveal functionality - (2025-10-06_21.09.00)
+- [x] `000019` - Update schema for sensitive content handling - (2025-10-06_21.09.00)
+- [x] `000020` - Create user preference system for sensitive content - (2025-10-06_21.09.00)
+- [x] `000021` - Add age verification checkbox for 18+ content - (2025-10-06_21.09.00)
+- [x] `000022` - Implement persistent user preferences with localStorage - (2025-10-06_21.09.00)
+- [x] `000023` - Update sensitive content template to respect preferences - (2025-10-06_21.09.00)
 
-**Licenses**: Content (CC-BY-SA 4.0), Code (MIT)
+### Initial Project Setup (Completed 2025-01-27)
+- [x] `000001` - Create project structure with best practices - (2025-01-27_14.30.00)
+- [x] `000002` - Set up standard documentation files - (2025-01-27_14.35.00)
+- [x] `000003` - Organize content into structured book format - (2025-01-27_14.40.00)
+- [x] `000004` - Create assets directory - (2025-01-27_14.45.00)
+- [x] `000005` - Set up tools directory - (2025-01-27_14.50.00)
+- [x] `000006` - Initialize Git repository - (2025-01-27_14.55.00)
+- [x] `000007` - Create web presentation layer - (2025-01-27_15.00.00)
 
 ---
 
-**Last Updated**: 2025-10-06
+**Last Updated**: 2025-12-11

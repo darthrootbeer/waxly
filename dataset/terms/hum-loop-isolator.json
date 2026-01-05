@@ -1,0 +1,20 @@
+{
+  "slug": "hum-loop-isolator",
+  "term": "Hum-Loop Isolator",
+  "summary": "'**noun / device.** A small transformer-based adapter inserted in the audio",
+  "definition": "**noun / device.** A small transformer-based adapter inserted in the audio path to break ground-loops that cause hum between turntable and amplifier.",
+  "tags": [
+    "equipment",
+    "dj-related"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "ground-loop-hum",
+    "ground-wire",
+    "shielding"
+  ],
+  "regions": [
+    "US"
+  ]
+}

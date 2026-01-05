@@ -1,0 +1,13 @@
+{
+  "name": "waxly-site",
+  "version": "2.0.0",
+  "description": "Waxly static site generator",
+  "private": true,
+  "scripts": {
+    "build": "node generator.js",
+    "serve": "cd build && python3 -m http.server 8000"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}

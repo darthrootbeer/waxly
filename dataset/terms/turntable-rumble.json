@@ -1,0 +1,19 @@
+{
+  "slug": "turntable-rumble",
+  "term": "Turntable Rumble",
+  "summary": "'**noun / mechanical-noise spec.** The **low-frequency mechanical noise produced",
+  "definition": "**noun / mechanical-noise spec.** The **low-frequency mechanical noise produced by motor or bearing transmitted into the stylus**, usually measured in dB below signal.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "signal-to-noise-ratio",
+    "rumble-filter",
+    "bearing-oil-service"
+  ],
+  "regions": [
+    "US"
+  ]
+}

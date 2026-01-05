@@ -1,0 +1,20 @@
+{
+  "slug": "playback-wow-pitch-wow",
+  "term": "Playback WOW",
+  "summary": "'**noun / defect.** A slow, cyclical pitch variation (wow) audible on sustained",
+  "definition": "**noun / defect.** A slow, cyclical pitch variation (wow) audible on sustained notes, often caused by off-center pressings, warped discs, or unstable turntable speed.",
+  "tags": [
+    "equipment",
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "off-center-pressing",
+    "wow-flutter",
+    "platter-speed-stability"
+  ],
+  "regions": [
+    "US"
+  ]
+}

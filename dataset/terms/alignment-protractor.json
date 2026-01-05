@@ -1,0 +1,19 @@
+{
+  "slug": "alignment-protractor",
+  "term": "Alignment Protractor",
+  "summary": "A printed or mirrored template used to align a turntable cartridge so the",
+  "definition": "A printed or mirrored template used to align a turntable cartridge so the stylus tracks grooves at the proper angle across the record’s radius, minimizing distortion.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "cartridge-setup",
+    "overhang",
+    "tracking-angle"
+  ],
+  "regions": [
+    "US"
+  ]
+}
