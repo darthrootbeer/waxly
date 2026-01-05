@@ -1,7 +1,7 @@
 {
   "slug": "ground-loop-hum",
   "term": "Ground",
-  "summary": "'**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing",
+  "summary": "'**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing.",
   "definition": "**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing an electrical ground at different potentials — common in turntable-to-amp setups if the ground wire is loose or missing.",
   "tags": [
     "equipment",

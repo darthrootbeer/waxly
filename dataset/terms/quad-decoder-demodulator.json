@@ -1,7 +1,7 @@
 {
   "slug": "quad-decoder-demodulator",
   "term": "Quad Decoder",
-  "summary": "'**noun / hardware.** An external component or receiver circuit that **decodes**",
+  "summary": "'**noun / hardware.** An external component or receiver circuit that **decodes**.",
   "definition": "**noun / hardware.** An external component or receiver circuit that **decodes** the encoded rear-channel information from quadraphonic LPs and routes it to four speaker outputs.",
   "tags": [
     "collecting",

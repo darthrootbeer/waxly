@@ -1,7 +1,7 @@
 {
   "slug": "null-test-audio-phase-test",
   "term": "Null-Test",
-  "summary": "noun / technical. A test comparing two audio signals by inverting the polarity",
+  "summary": "noun / technical. A test comparing two audio signals by inverting the polarity.",
   "definition": "**noun / technical.** A test comparing two audio signals by inverting the polarity of one and summing them; any remaining sound reveals differences — used by engineers to check remasters or cartridge channel balance.",
   "tags": [
     "equipment",

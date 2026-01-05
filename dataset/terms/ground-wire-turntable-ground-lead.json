@@ -1,7 +1,7 @@
 {
   "slug": "ground-wire-turntable-ground-lead",
   "term": "Ground-Wire",
-  "summary": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground",
+  "summary": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground.",
   "definition": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground to prevent hum and static.",
   "tags": [
     "equipment",
