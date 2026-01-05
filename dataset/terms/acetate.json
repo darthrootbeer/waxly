@@ -1,22 +1,39 @@
 {
   "slug": "acetate",
   "term": "Acetate",
-  "summary": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the.",
-  "definition": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the very first playable copy of a recording straight from the mastering lathe. Acetates wear out fast — maybe 10–20 plays — but capture the freshest, most dynamic version of a track.",
+  "pos": "noun",
+  "pronunciation": "/ˈæsɪteɪt/",
+  "summary": "A soft lacquer-coated aluminum or glass disc used to cut the first playable copy of a recording directly from the mastering lathe.",
+  "definition": "An acetate (also called a lacquer or reference disc) is a soft, lacquer-coated aluminum or glass disc used to cut the very first playable copy of a recording straight from the mastering lathe. Unlike vinyl records produced through pressing plants, acetates are individually cut in real-time as the audio plays, making each one unique. The cutting lathe's heated stylus carves grooves into the soft nitrocellulose lacquer coating, creating an immediate playback-ready disc. Acetates served multiple critical functions in the recording industry: mastering engineers used them to evaluate cuts before committing to expensive pressing, radio stations received them as advance promotional copies, and DJs in the 1950s and 1960s used them to test new tracks in clubs before official release. The format gained legendary status in Jamaica's sound system culture, where exclusive acetates (called dubplates) became weapons in sound clashes. However, acetates are extremely fragile—the soft lacquer surface degrades rapidly with each play, typically lasting only 10-20 plays before noticeable quality loss. This ephemeral nature makes surviving acetates from significant recording sessions highly valuable to collectors, as they often represent the purest, most dynamic version of a performance before any generational loss from the pressing process. The surface is so delicate that even fingerprints can cause permanent damage. While largely replaced by digital reference formats today, acetates remain revered for their historical importance and the unique, immediate quality they captured.",
   "tags": [
-    "dj-related",
     "pressing",
-    "cultural"
+    "cultural",
+    "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "lacquer",
+    "reference disc",
+    "test pressing",
+    "dubplate"
+  ],
+  "alt_spellings": [
+    "acetate disc",
+    "acetate record"
+  ],
+  "etymology": "Named after the cellulose acetate lacquer coating applied to the aluminum or glass base disc",
+  "first_use": 1934,
   "see_also": [
     "dubplate",
     "lacquer-cut",
-    "reference-disc"
+    "reference-disc",
+    "mastering",
+    "test-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
 }
