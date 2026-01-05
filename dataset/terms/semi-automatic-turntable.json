@@ -1,0 +1,19 @@
+{
+  "slug": "semi-automatic-turntable",
+  "term": "Semi-Automatic Turntable",
+  "summary": "'**noun / hi-fi deck type.** A **turntable that automatically lifts and returns",
+  "definition": "**noun / hi-fi deck type.** A **turntable that automatically lifts and returns the tonearm at the end of the record** but requires manual cueing at the start.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "manual-turntable",
+    "fully-automatic-deck",
+    "q-up-auto-lifter"
+  ],
+  "regions": [
+    "US"
+  ]
+}

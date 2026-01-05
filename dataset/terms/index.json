@@ -1,0 +1,5460 @@
+{
+  "total": 567,
+  "generated": "2026-01-05",
+  "terms": [
+    {
+      "slug": "ab-test-press",
+      "term": "A/B Test Press",
+      "summary": "A preliminary batch of records pressed by a plant in two slightly different",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "acetate",
+      "term": "Acetate",
+      "summary": "A soft lacquer-coated aluminum (or occasionally glass) disc used to cut the",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "acoustic-suspension",
+      "term": "Acoustic Suspension",
+      "summary": "A sealed-box speaker-cabinet design popular from the late ’50s onward, known",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "add-on-arm-weight",
+      "term": "Add-On Arm Weight",
+      "summary": "A small auxiliary weight attached to the rear of a tonearm or to a detachable",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "african",
+      "term": "African",
+      "summary": "'**African** - A musical style within the World genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "album",
+      "term": "Album",
+      "summary": "A collection of musical tracks issued as a cohesive package on a single or",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "alignment-protractor",
+      "term": "Alignment Protractor",
+      "summary": "A printed or mirrored template used to align a turntable cartridge so the",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "alternate-take",
+      "term": "Alternate Take",
+      "summary": "A different recorded version of the same song or performance, sometimes issued",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "alternative-hip-hop",
+      "term": "Alternative Hip Hop",
+      "summary": "'**Alternative Hip Hop** - A musical style within the Hip Hop genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "alternative-rock",
+      "term": "Alternative Rock",
+      "summary": "'**Alternative Rock** - A musical style within the Rock genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ambient",
+      "term": "Ambient",
+      "summary": "'**Ambient** - A musical style within the Experimental genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "anti-skate",
+      "term": "Anti",
+      "summary": "A spring- or magnet-based control on turntables that counteracts the inward",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "art-pop",
+      "term": "Art Pop",
+      "summary": "'**Art Pop** - A musical style within the Pop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "asian",
+      "term": "Asian",
+      "summary": "'**Asian** - A musical style within the World genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "audiophile-pressing",
+      "term": "Audiophile Pressing",
+      "summary": "A premium vinyl release manufactured with meticulous mastering, heavier virgin-vinyl",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "automatic-return",
+      "term": "Automatic Return",
+      "summary": "A mechanical or electronic feature on many consumer turntables that automatically",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "auxiliary-weight",
+      "term": "Auxiliary Weight",
+      "summary": "'**noun / slang.** Extra mass clipped or screwed to the tonearm or headshell",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "avant-garde",
+      "term": "Avant-garde",
+      "summary": "'**Avant-garde** - A musical style within the Experimental genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "back-spinning",
+      "term": "Back",
+      "summary": "'**verb / noun.** Spinning the record backward quickly — either to rewind",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "back-splice",
+      "term": "Back-Splice",
+      "summary": "'**noun / verb.** The practice of taping or splicing two pieces of the same",
+      "tags": [
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "balance-weight-tonearm",
+      "term": "Balance Weight",
+      "summary": "The counterweight at the rear of a tonearm used to set the proper tracking",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "banding-groove-banding",
+      "term": "Banding",
+      "summary": "Visible spacing or “bands” in the grooves of an LP that indicate separate",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "baroque-pop",
+      "term": "Baroque Pop",
+      "summary": "'**Baroque Pop** - A musical style within the Pop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "baroque",
+      "term": "Baroque",
+      "summary": "'**Baroque** - A musical style within the Classical genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "basket-case-copy",
+      "term": "Basket",
+      "summary": "'**noun / slang.** Collector slang for a record in extremely poor physical",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "beat-matching",
+      "term": "Beat",
+      "summary": "'**verb / noun.** The DJ technique of synchronizing the tempo and downbeat",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "bebop",
+      "term": "Bebop",
+      "summary": "'**Bebop** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "belt-drive-turntable",
+      "term": "Belt-Drive Turntable",
+      "summary": "A turntable whose platter is spun by an elastic belt connecting it to a motor",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "big-band",
+      "term": "Big Band",
+      "summary": "'**Big Band** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "binaural-recording",
+      "term": "Binaural Recording",
+      "summary": "A recording technique using two microphones spaced roughly like human ears",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "blank-groove",
+      "term": "Blank Groove",
+      "summary": "A closed circular groove at the end of a side that loops endlessly instead",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "blank-label",
+      "term": "Blank Label",
+      "summary": "A vinyl record with a plain label (often white) and no printed artwork, used",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "bluegrass",
+      "term": "Bluegrass",
+      "summary": "'**Bluegrass** - A musical style within the Country genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "blues",
+      "term": "Blues",
+      "summary": "**Blues** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "bootleg",
+      "term": "Bootleg",
+      "summary": "'**noun / slang.** An unauthorized vinyl pressing of live concerts, unreleased",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "bossa-nova",
+      "term": "Bossa Nova",
+      "summary": "'**Bossa Nova** - A musical style within the Latin genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "breakbeat",
+      "term": "Breakbeat",
+      "summary": "'**Breakbeat** - A musical style within the Electronic genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "brush-down-record-brush",
+      "term": "Brush-Down",
+      "summary": "'**noun / verb.** A quick cleaning pass using a carbon-fiber or velvet brush",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "cabinet-rumble",
+      "term": "Cabinet Rumble",
+      "summary": "Low-frequency resonance transmitted from a speaker cabinet or furniture into",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "carbon-fiber-brush",
+      "term": "Carbon",
+      "summary": "A staple record-cleaning tool whose ultra-fine conductive bristles sweep",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "cartridge",
+      "term": "Cartridge",
+      "summary": "The removable electro-mechanical pickup at the end of a tonearm that holds",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "cat-no-catalog-number",
+      "term": "Cat-No.",
+      "summary": "'**noun / abbreviation.** A unique alphanumeric code assigned by a label",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "center-hole-spindle-hole",
+      "term": "Center Hole",
+      "summary": "The precisely-cut hole in the middle of every disc that seats on the turntable",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "chicago-blues",
+      "term": "Chicago Blues",
+      "summary": "'**Chicago Blues** - A musical style within the Blues genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "clamshell-case",
+      "term": "Clamshell Case",
+      "summary": "A rigid plastic or cardboard hinged case for protecting 7-inch or rare 12-inch",
+      "tags": [
+        "dj-related",
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "classic-rock",
+      "term": "Classic Rock",
+      "summary": "'**Classic Rock** - A musical style within the Rock genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "classical",
+      "term": "Classical",
+      "summary": "**Classical** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "clean-cut-groove",
+      "term": "Clean",
+      "summary": "A precisely-cut groove with minimal burrs or swarf from the cutting lathe",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "cleaning-solution-record-cleaning-fluid",
+      "term": "Cleaning Solution",
+      "summary": "Specialized liquid, often alcohol-free with surfactants, used to dissolve",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "clip-on-headshell-weight",
+      "term": "Clip-On Headshell Weight",
+      "summary": "A removable metal plate that clips onto a detachable headshell to increase",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "closed-groove",
+      "term": "Closed-Groove Loop",
+      "summary": "A special groove cut to circle back on itself, trapping the stylus to loop",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "collectors-corner-record-shop-slang",
+      "term": "Collectors' Corner",
+      "summary": "'**noun / slang.** A section of a shop reserved for high-priced or rare vinyl",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "color-vinyl-pressing",
+      "term": "Color-Vinyl Pressing",
+      "summary": "Vinyl records pressed in colored PVC instead of standard black carbon-loaded",
+      "tags": [
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "compilation-album",
+      "term": "Compilation Album",
+      "summary": "An LP or multi-disc set collecting songs from various artists or sessions",
+      "tags": [
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "concept-album",
+      "term": "Concept Album",
+      "summary": "A cohesive LP built around a unifying narrative or theme, intended to be",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "conscious-hip-hop",
+      "term": "Conscious Hip Hop",
+      "summary": "'**Conscious Hip Hop** - A musical style within the Hip Hop genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "console-stereo",
+      "term": "Console Stereo",
+      "summary": "A mid-century piece of furniture integrating a turntable, tube amp, radio,",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "contemporary-folk",
+      "term": "Contemporary Folk",
+      "summary": "'**Contemporary Folk** - A musical style within the Folk genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "continue",
+      "term": "Continue",
+      "summary": "Navigation term for continuing to next section",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "cool-jazz",
+      "term": "Cool Jazz",
+      "summary": "'**Cool Jazz** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "country-rock",
+      "term": "Country Rock",
+      "summary": "'**Country Rock** - A musical style within the Country genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "country",
+      "term": "Country",
+      "summary": "**Country** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "cue-lever-lift-lever",
+      "term": "Cue Lever",
+      "summary": "A small damped lever on the tonearm base that gently raises or lowers the",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-changer",
+      "term": "Changer (Record Changer",
+      "summary": "A turntable mechanism — popular mid-century — that automatically drops the",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "d2c-direct-to-consumer-vinyl",
+      "term": "D2C (Direct",
+      "summary": "'**noun / abbreviation.** A distribution model where artists or labels sell",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "damping-tonearm-damping",
+      "term": "Damping (Tonearm Damping)",
+      "summary": "The use of silicone fluid or magnetic resistance to control tonearm movement",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dance-pop",
+      "term": "Dance-pop",
+      "summary": "'**Dance-pop** - A musical style within the Pop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dancehall",
+      "term": "Dancehall",
+      "summary": "'**Dancehall** - A musical style within the Reggae genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "de-warping",
+      "term": "De-Warping",
+      "summary": "'**noun / verb.** The act of flattening a warped vinyl disc using controlled",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dead-wax",
+      "term": "Dead Wax",
+      "summary": "'**noun / slang.** The smooth vinyl between the end of the last track and",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "declicking",
+      "term": "Declicking",
+      "summary": "'**noun / verb.** The process of digitally or mechanically removing clicks",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "deep-groove",
+      "term": "Deep Groove",
+      "summary": "A wide recessed ring around the label area on many 1950s–early ’60s LPs,",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "delta-blues",
+      "term": "Delta Blues",
+      "summary": "'**Delta Blues** - A musical style within the Blues genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "demo-copy",
+      "term": "Demo Copy",
+      "summary": "A promotional pressing distributed to radio stations, reviewers, or shops",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "die-cut-sleeve",
+      "term": "Die-Cut Sleeve",
+      "summary": "A jacket with a deliberate cut-out window—showing part of the record label",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "direct-drive-turntable",
+      "term": "Direct-Drive Turntable",
+      "summary": "A turntable whose platter is driven directly by a motor shaft—renowned for",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "discogs",
+      "term": "Discogs",
+      "summary": "'**noun / proper name.** An online global database and marketplace for vinyl,",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dish-warp",
+      "term": "Dish",
+      "summary": "'**noun / slang.** A type of warp where the record’s edge is flat but the",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dj-pool",
+      "term": "DJ Pool",
+      "summary": "A subscription service supplying club DJs with the latest promo singles on",
+      "tags": [
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "double-album",
+      "term": "Double",
+      "summary": "A release spanning two full LP discs—typically 4 sides—either for length",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "drone",
+      "term": "Drone",
+      "summary": "'**Drone** - A musical style within the Experimental genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "drop-spindle",
+      "term": "Drop-Spindle",
+      "summary": "A tall spindle designed to hold stacked records in a changer so each disc",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "drum-bass",
+      "term": "Drum & Bass",
+      "summary": "'**Drum & Bass** - A musical style within the Electronic genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dub",
+      "term": "Dub",
+      "summary": "'**Dub** - A musical style within the Reggae genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dubplate",
+      "term": "Dubplate",
+      "summary": "'**noun / slang.** A one-off acetate or lacquer disc cut directly from a",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "dubstep",
+      "term": "Dubstep",
+      "summary": "'**Dubstep** - A musical style within the Electronic genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "edge-warp",
+      "term": "Edge",
+      "summary": "A common vinyl defect where only the outer rim of a disc warps upward or",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "edison-disc",
+      "term": "Edison Disc",
+      "summary": "'**noun / historical.** A vertically-cut, thick disc record format (80 RPM,",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "eight-track-cartridge",
+      "term": "Eight-Track",
+      "summary": "A continuous-loop magnetic-tape cartridge format popular in cars during the",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "electric-blues",
+      "term": "Electric Blues",
+      "summary": "'**Electric Blues** - A musical style within the Blues genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "electric-pickup",
+      "term": "Electric Pick-Up",
+      "summary": "'**noun / historical.** A 1930s-’50s term for the electro-magnetic cartridge",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "electro",
+      "term": "Electro",
+      "summary": "'**Electro** - A musical style within the Electronic genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "electronic",
+      "term": "Electronic",
+      "summary": "**Electronic** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "elliptical-stylus",
+      "term": "Elliptical Stylus",
+      "summary": "A stylus tip shaped like a tiny ellipse rather than a sphere, allowing better",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "emi-electric-musical-industries",
+      "term": "EMI (Electric & Musical Industries)",
+      "summary": "'**noun / proper name.** A legendary U.K. record label and manufacturing",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ep-extended-play",
+      "term": "EP (Extended Play)",
+      "summary": "A record release longer than a single but shorter than a full LP — often",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "eq-equalization",
+      "term": "E.Q. (Equalization)",
+      "summary": "noun / abbreviation. The process of adjusting frequency balance during recording,",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "equal-loudness-curve",
+      "term": "Equal-Loudness Curve",
+      "summary": "A frequency-response graph (e.g., Fletcher-Munson) showing how human hearing",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "etched-side-etching",
+      "term": "Etched Side",
+      "summary": "A decorative or artistic design laser-etched or chemically inscribed into",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "etching-run-out-etching",
+      "term": "Etching (Run",
+      "summary": "Hand-scratched marks, initials, or messages in the dead-wax/run-out area",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "european-folk",
+      "term": "European Folk",
+      "summary": "'**European Folk** - A musical style within the World genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ex-library-copy",
+      "term": "Ex-Library Copy",
+      "summary": "'**noun / slang.** A second-hand record deaccessioned from a public or school",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "experimental",
+      "term": "Experimental",
+      "summary": "'**Experimental** - A broad musical genre classification from the Discogs",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fanzine",
+      "term": "Fanzine",
+      "summary": "A self-published, photocopied magazine created by fans to chronicle local",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "feedthrough",
+      "term": "Feedthrough",
+      "summary": "'**noun / technical.** A manufacturing defect where a loud signal on one",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fidelity",
+      "term": "Fidelity",
+      "summary": "A measure of how accurately a playback or recording system reproduces the",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fig-leaf-sleeve",
+      "term": "Fig-Leaf Sleeve",
+      "summary": "'**noun / slang.** A censored variant picture-sleeve that hides nudity or",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "film-score",
+      "term": "Film Score",
+      "summary": "'**Film Score** - A musical style within the Soundtrack genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "finger-lift-headshell-finger-lift",
+      "term": "Finger Lift",
+      "summary": "A small curved tab attached to a headshell that lets you grip and guide the",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "first-pressing",
+      "term": "First Pressing",
+      "summary": "The earliest commercial pressing run of a release — usually cut closest to",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fish-eye-label",
+      "term": "Fish-Eye Label",
+      "summary": "'**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flamenco",
+      "term": "Flamenco",
+      "summary": "'**Flamenco** - A musical style within the Latin genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flanging",
+      "term": "Flanging (Tape",
+      "summary": "noun / verb. An audio effect created by mixing a signal with a slightly delayed",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flash-cut-hot-cut",
+      "term": "Flash-Cut",
+      "summary": "'**noun / slang.** A lacquer master cut at higher volume and deeper groove",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flat-edge-pressing",
+      "term": "Flat-Edge Pressing",
+      "summary": "'**noun / historical.** An LP manufactured without the small raised outer",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fletcher-munson-curve",
+      "term": "Fletcher",
+      "summary": "noun / technical. The original 1933 equal-loudness contour graph that shows",
+      "tags": [
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flexi-disc",
+      "term": "Flexi",
+      "summary": "A thin, flexible PVC sheet record often bound in magazines or mailed as promotional",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flight-case",
+      "term": "Flight Case",
+      "summary": "A rugged, foam-lined metal-edged case used by touring DJs and live-sound",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "flip-side",
+      "term": "Flip",
+      "summary": "'**noun / slang.** The reverse side of a single — traditionally the non-hit",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "foam-rot",
+      "term": "Foam-Rot",
+      "summary": "'**noun / slang.** The crumbling and sticky residue left by deteriorating",
+      "tags": [
+        "equipment",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "folk-rock",
+      "term": "Folk Rock",
+      "summary": "'**Folk Rock** - A musical style within the Folk genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "folk",
+      "term": "Folk",
+      "summary": "**Folk** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "foot-fall-feedback",
+      "term": "Foot-Fall Feedback",
+      "summary": "'**noun / slang.** Low-frequency rumble or skipping triggered when footsteps",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "four-track-early-tape-format",
+      "term": "Four-Track",
+      "summary": "'**noun / historical.** A reel-to-reel and cartridge tape format preceding",
+      "tags": [
+        "equipment",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "free-jazz",
+      "term": "Free Jazz",
+      "summary": "'**Free Jazz** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "frequency-response",
+      "term": "Frequency Response",
+      "summary": "'**noun / technical.** The measurable range of audio frequencies a system",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fringe-label",
+      "term": "Fringe",
+      "summary": "'**noun / slang.** A tiny independent record label operating on the fringes",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "front-end-of-the-system",
+      "term": "Front-End",
+      "summary": "'**noun / audio slang.** Refers collectively to the signal-origin components",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "full-range-speaker",
+      "term": "Full-Range Speaker",
+      "summary": "A speaker driver designed to reproduce as much of the audible frequency spectrum",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "funk-rock",
+      "term": "Funk Rock",
+      "summary": "'**Funk Rock** - A musical style within the Funk genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "funk",
+      "term": "Funk",
+      "summary": "**Funk** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "fusion",
+      "term": "Fusion",
+      "summary": "'**Fusion** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "gangsta-rap",
+      "term": "Gangsta Rap",
+      "summary": "'**Gangsta Rap** - A musical style within the Hip Hop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "gatefold",
+      "term": "Gatefold",
+      "summary": "A record jacket that opens like a book, revealing inside artwork, lyrics,",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "generation-loss",
+      "term": "Generation Loss",
+      "summary": "'**noun / technical.** The gradual loss of fidelity that occurs each time",
+      "tags": [
+        "pressing",
+        "collecting",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "go",
+      "term": "go",
+      "summary": "Navigation term for continuing to next section",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "groove-burn",
+      "term": "Groove Burn",
+      "summary": "'**noun / slang.** Visible greyish streaking and audible distortion in vinyl",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "groove-guard",
+      "term": "Groove Guard",
+      "summary": "A subtle raised lip molded around the outer edge (and sometimes inner label",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "groove-jump",
+      "term": "Groove",
+      "summary": "'**noun / slang.** When the stylus physically hops out of one spiral groove",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "groove-spacing-pitch",
+      "term": "Groove Spacing",
+      "summary": "'**noun / technical.** The distance between adjacent grooves on a record,",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "groove-wear",
+      "term": "Groove",
+      "summary": "Cumulative erosion of groove walls from years of playback — especially with",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "groovebox",
+      "term": "Groovebox",
+      "summary": "noun / slang. While technically an electronic sampler-sequencer, in vinyl-DJ",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ground-loop-hum",
+      "term": "Ground",
+      "summary": "'**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ground-wire-turntable-ground-lead",
+      "term": "Ground-Wire",
+      "summary": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "grunge",
+      "term": "Grunge",
+      "summary": "'**Grunge** - A musical style within the Rock genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "guitar-shaped-picture-disc",
+      "term": "Guitar-Shaped Picture Disc",
+      "summary": "'**noun / novelty.** A shaped picture disc die-cut to resemble a guitar (or",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "half-speed-mastering",
+      "term": "Half-Speed Mastering",
+      "summary": "noun / technical. A mastering process where the lacquer is cut at half the",
+      "tags": [
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hand-etched-matrix",
+      "term": "Hand-Etched Matrix",
+      "summary": "A matrix/run-out inscription scratched by hand into the lacquer by the mastering",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hand-numbered-edition",
+      "term": "Hand-Numbered Edition",
+      "summary": "A limited-press vinyl release individually numbered by hand on the jacket",
+      "tags": [
+        "pressing",
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hanging-groove-aka-suspended-groove",
+      "term": "Hanging Groove",
+      "summary": "'**noun / slang.** A pressing defect where the spiral briefly stalls and",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hard-bop-pressing",
+      "term": "Hard-Bop Pressing",
+      "summary": "noun / slang. Jazz-collector shorthand for original mid-’50s–early-’60s LPs",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hard-rock",
+      "term": "Hard Rock",
+      "summary": "'**Hard Rock** - A musical style within the Rock genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "headshell-lead-wires",
+      "term": "Headshell Lead Wires",
+      "summary": "Four tiny color-coded wires (L+, L–, R+, R–) that connect the cartridge pins",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "headshell",
+      "term": "Headshell",
+      "summary": "The detachable mount at the end of many S-shaped tonearms that holds the",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "heavyweight-vinyl-180-gram-200-gram",
+      "term": "Heavyweight Vinyl",
+      "summary": "'**noun / marketing term.** Records pressed on thicker, heavier PVC biscuit",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hi-fi-high-fidelity",
+      "term": "Hi-Fi (High-Fidelity)",
+      "summary": "'**noun / slang / marketing.** A term describing audio equipment capable",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hidden-track-secret-track",
+      "term": "Hidden Track",
+      "summary": "An unlisted song placed after the last listed track — often hidden in the",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hip-hop",
+      "term": "Hip Hop",
+      "summary": "**Hip Hop** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hip-pocket-disc",
+      "term": "Hip-Pocket Disc",
+      "summary": "'**noun / novelty.** A super-thin 4-inch or 6-inch flexible vinyl single",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "honky-tonk",
+      "term": "Honky Tonk",
+      "summary": "'**Honky Tonk** - A musical style within the Country genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hot-cut",
+      "term": "Hot Cut",
+      "summary": "'**noun / slang.** A record cut with higher-than-normal groove amplitude",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "house",
+      "term": "House",
+      "summary": "'**House** - A musical style within the Electronic genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hum-bucker-phono-cartridge-type",
+      "term": "Hum-Bucker",
+      "summary": "'**noun / technical.** A cartridge or wiring configuration designed to cancel",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "hum-loop-isolator",
+      "term": "Hum-Loop Isolator",
+      "summary": "'**noun / device.** A small transformer-based adapter inserted in the audio",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "idler-wheel-drive",
+      "term": "Idler-Wheel Drive",
+      "summary": "A classic turntable mechanism where a rubber-covered wheel transmits power",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "in-store-play-copy",
+      "term": "In-Store Play Copy",
+      "summary": "'**noun / slang.** A record kept by a shop specifically for demonstration",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "indie-rock",
+      "term": "Indie Rock",
+      "summary": "'**Indie Rock** - A musical style within the Rock genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "industrial",
+      "term": "Industrial",
+      "summary": "'**Industrial** - A musical style within the Electronic genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "inner-groove-distortion",
+      "term": "Inner-Groove Distortion",
+      "summary": "'**noun / technical.** Audible high-frequency harshness or sibilance that",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "inner-sleeve-rash",
+      "term": "Inner-Sleeve Rash",
+      "summary": "'**noun / slang.** A cloudy or mottled vinyl surface pattern caused by reaction",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "inner-sleeve",
+      "term": "Inner Sleeve",
+      "summary": "The paper or plastic sleeve that directly houses a vinyl record inside the",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "intermodulation-distortion",
+      "term": "Intermodulation Distortion",
+      "summary": "'**noun / technical.** A type of distortion created when two or more frequencies",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "isolation-feet-isolation-platform",
+      "term": "Isolation Feet",
+      "summary": "Shock-absorbing feet or platforms placed under turntables or amps to minimize",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "italian-pressing",
+      "term": "Italian Pressing",
+      "summary": "noun / collector term. Any record manufactured in Italy — often identifiable",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ivory-label-variant",
+      "term": "Ivory-Label Variant",
+      "summary": "'**noun / slang.** A collector nickname for certain pressings distinguished",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "j-curve-eq-broadcast-quirk",
+      "term": "J-Curve EQ",
+      "summary": "noun / technical slang. A non-standard early-broadcast equalization curve",
+      "tags": [
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "j-curve-tonearm",
+      "term": "J-Curve Tonearm",
+      "summary": "A tonearm shaped with a gentle “J” bend near the headshell end, often seen",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "j-cut-groove",
+      "term": "J-Cut Groove",
+      "summary": "'**noun / slang.** A rare cutting-lathe mishap where the groove briefly swerves",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "j-cut-single",
+      "term": "J-Cut Single",
+      "summary": "'**noun / slang.** A record pressed with the lead-in groove unusually short",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "j-cut-splice-edit",
+      "term": "J-Cut (Splice Edit)",
+      "summary": "noun / slang / editing term. A style of tape or digital edit where the incoming",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jacket-flap-flap-back-sleeve",
+      "term": "Jacket Flap",
+      "summary": "A jacket whose rear cover edges are folded over and glued on top of the back",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jacket",
+      "term": "Jacket",
+      "summary": "The outer cardboard cover that houses a vinyl record and its inner sleeve.",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jam-groove",
+      "term": "Jam Groove",
+      "summary": "'**noun / slang.** A long, often improvised instrumental section captured",
+      "tags": [
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "japanese-pressing",
+      "term": "Japanese Pressing",
+      "summary": "'**noun / collector term.** Any vinyl record manufactured in Japan, renowned",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jazz-funk",
+      "term": "Jazz Funk",
+      "summary": "'**Jazz Funk** - A musical style within the Funk genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jazz",
+      "term": "Jazz",
+      "summary": "**Jazz** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jitter-digital-to-vinyl-transfers",
+      "term": "Jitter (Digital",
+      "summary": "'**noun / technical.** Minute timing errors in a digital source’s clock signal",
+      "tags": [
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jukebox-ep",
+      "term": "Jukebox EP",
+      "summary": "A 7-inch extended-play record made specifically for jukeboxes — often with",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jukebox-strip",
+      "term": "Jukebox Strip",
+      "summary": "The small printed paper or card label inserted into a jukebox title slot",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "jump-groove",
+      "term": "Jump",
+      "summary": "'**noun / slang.** When the stylus unintentionally hops across one or more",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "k-tel-compilation",
+      "term": "K-Tel Compilation",
+      "summary": "'**noun / cultural.** Mass-market TV-advertised compilation LPs and 8-tracks",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "kerf-cut-groove-lathe-artifact",
+      "term": "Kerf-Cut Groove",
+      "summary": "'**noun / technical slang.** A rare visual groove pattern resembling tiny",
+      "tags": [
+        "equipment",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "kick-drum-cut-hot-dance-cut",
+      "term": "Kick-Drum Cut",
+      "summary": "'**noun / slang.** A 12-inch single mastered with extra-wide grooves and",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "kinetic-balance-arm-weight",
+      "term": "Kinetic-Balance Arm Weight",
+      "summary": "'**noun / technical.** A counterweight system designed to maintain consistent",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "king-size-16-inch-transcription-disc",
+      "term": "King-Size 16-Inch Transcription Disc",
+      "summary": "'**noun / historical.** A large, usually 16-inch diameter disc used by radio",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "kiss-style-picture-disc",
+      "term": "KISS-Style Picture Disc",
+      "summary": "'**noun / cultural.** A reference to the band KISS’s hugely popular late-’70s",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "kitsch-cover-lp",
+      "term": "Kitsch",
+      "summary": "'**noun / slang.** Collector slang for records prized (or mocked) for their",
+      "tags": [
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "knife-edge-bearing-tonearm-design",
+      "term": "Knife-Edge Bearing",
+      "summary": "'**noun / technical.** A precision tonearm-pivot design where the arm rides",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "knock-on-rumble-feedback-rumble",
+      "term": "Knock-On Rumble",
+      "summary": "'**noun / slang.** Low-frequency vibration introduced when nearby doors slam,",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "knock-out-bin-knock-down-bin",
+      "term": "Knock-Out Bin",
+      "summary": "'**noun / retail slang.** Bargain record-store bin for overstock, cut-outs,",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "knock-out-center-dinked-center",
+      "term": "Knock-Out Center",
+      "summary": "'**noun / slang / historical.** A detachable perforated center piece on many",
+      "tags": [
+        "dj-related",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "label-variant",
+      "term": "Label Variant",
+      "summary": "'**noun / collector term.** Any pressing distinguished by a change in label",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "lacquer-cut",
+      "term": "Lacquer Cut",
+      "summary": "noun / technical. The very first disc created on a cutting lathe, made of",
+      "tags": [
+        "pressing",
+        "collecting",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "lacquer-over-aluminum-disc-transcription-pre-lp",
+      "term": "Lacquer-Over-Aluminum Disc",
+      "summary": "'**noun / historical.** A 1930s-50s disc format with a lacquer coating on",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "laminated-jacket",
+      "term": "Laminated Jacket",
+      "summary": "A jacket whose printed paper slick is coated in a thin glossy film or varnish,",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "landfill-vinyl-slang",
+      "term": "Landfill Vinyl",
+      "summary": "'**noun / slang.** Collector’s derogatory term for cheaply produced, mass-market",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "lathe-cut-record",
+      "term": "Lathe",
+      "summary": "'**noun / DIY / boutique.** A one-off or small-batch record individually",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "latin",
+      "term": "Latin",
+      "summary": "**Latin** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "lead-in-groove",
+      "term": "Lead-In Groove",
+      "summary": "'**noun / technical.** The smooth spiral groove at the outer rim of a record",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "lead-out-groove",
+      "term": "Lead-Out Groove",
+      "summary": "'**noun / technical.** The silent spiral groove after the final track that",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "leatherette-case",
+      "term": "Leatherette Case",
+      "summary": "'**noun / vintage accessory.** A portable record-carry case covered in faux-leather",
+      "tags": [
+        "historical",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "library-music-lp",
+      "term": "Library Music LP",
+      "summary": "'**noun / cultural.** A record produced for film, TV, and radio production",
+      "tags": [
+        "dj-related",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "limited-edition",
+      "term": "Limited Edition",
+      "summary": "A release intentionally capped at a fixed number of copies, often numbered",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "linear-tracking-turntable",
+      "term": "Linear-Tracking Turntable",
+      "summary": "'**noun / technical.** A turntable whose tonearm moves straight across the",
+      "tags": [
+        "equipment",
+        "collecting",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "locked-groove",
+      "term": "Locked Groove",
+      "summary": "noun / technical / creative. A circular groove at the end of a side where",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "loudness-war-cut",
+      "term": "Loudness War Cut",
+      "summary": "'**noun / slang.** A modern reissue or club 12-inch mastered at the highest",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "low-noise-vinyl-compound",
+      "term": "Low-Noise Vinyl Compound",
+      "summary": "'**noun / technical.** A specially formulated PVC blend with fewer impurities",
+      "tags": [
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "lyric-sleeve-lyric-inner",
+      "term": "Lyric Sleeve",
+      "summary": "An inner sleeve printed with full song lyrics and sometimes photos or credits",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "macro-groove",
+      "term": "Macro",
+      "summary": "'**noun / historical.** A wider groove format used on early LPs and most",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "magnetic-cartridge",
+      "term": "Magnetic Cartridge",
+      "summary": "'**noun / technical.** A phono cartridge that uses a moving magnet (or iron)",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "magnetic-strip-inventory-sticker",
+      "term": "Magnetic-Strip Inventory Sticker",
+      "summary": "'**noun / retail ephemera.** A thin magnetic security tag or sticker sometimes",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "mail-order-only-release",
+      "term": "Mail-Order-Only Release",
+      "summary": "A record sold exclusively through ads in magazines, fanzines, or TV commercials",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "marbled-vinyl",
+      "term": "Marbled Vinyl",
+      "summary": "'**noun / pressing style.** Vinyl compound mixed with multiple colors to",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "marker-scrawl-label",
+      "term": "Marker",
+      "summary": "'**noun / slang.** A record whose center label has handwritten DJ notes —",
+      "tags": [
+        "dj-related",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "matrix-number",
+      "term": "Matrix Number",
+      "summary": "'**noun / technical / collector term.** A unique alphanumeric code inscribed",
+      "tags": [
+        "pressing",
+        "collecting",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "maxi-single",
+      "term": "Maxi",
+      "summary": "A single released on 12-inch (or occasionally 10-inch) vinyl with extended",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "mechanical-copyright-stamp-mcps-biem",
+      "term": "Mechanical Copyright Stamp",
+      "summary": "'**noun / ephemera.** Small printed or stamped mark on European labels/jackets",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "micro-groove",
+      "term": "Micro",
+      "summary": "'**noun / technical / historical.** The finer, narrower groove standard introduced",
+      "tags": [
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "micro-line-stylus-aka-line-contact",
+      "term": "Micro-Line Stylus",
+      "summary": "'**noun / technical.** A stylus profile with a very narrow, elongated contact",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "mid-side-fold-down-mono-re-cut",
+      "term": "Mid-Side Fold-Down",
+      "summary": "'**noun / technical.** A mono vinyl master derived by electronically folding",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "middle-eastern",
+      "term": "Middle Eastern",
+      "summary": "'**Middle Eastern** - A musical style within the World genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "mint-minus",
+      "term": "Mint",
+      "summary": "'**noun / grading term.** A near-perfect condition grade just shy of absolute",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "mirror-finish-stamper",
+      "term": "Mirror-Finish Stamper",
+      "summary": "'**noun / technical.** A metal stamper whose groove walls are polished to",
+      "tags": [
+        "pressing",
+        "collecting",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "modern-classical",
+      "term": "Modern Classical",
+      "summary": "'**Modern Classical** - A musical style within the Classical genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "mono-switch",
+      "term": "Mono Switch",
+      "summary": "'**noun / hi-fi control.** A switch on vintage amps and pre-amps that sums",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "motown",
+      "term": "Motown",
+      "summary": "'**Motown** - A musical style within the Soul genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "moving-coil-cartridge-mc",
+      "term": "Moving-Coil Cartridge",
+      "summary": "noun / technical. A phono cartridge design where the stylus moves tiny coils",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "moving-magnet-cartridge-mm",
+      "term": "Moving-Magnet Cartridge",
+      "summary": "'**noun / technical.** The most common phono cartridge type where a lightweight",
+      "tags": [
+        "equipment",
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "multi-disc-box-set",
+      "term": "Multi-Disc Box Set",
+      "summary": "A package containing two or more LPs (sometimes mixed with CDs or DVDs) in",
+      "tags": [
+        "dj-related",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "multi-groove-record-trick-groove",
+      "term": "Multi-Groove Record",
+      "summary": "'**noun / novelty / technical.** A gimmick disc with two or more parallel",
+      "tags": [
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "musical-theater",
+      "term": "Musical Theater",
+      "summary": "'**Musical Theater** - A musical style within the Soundtrack genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "nab-eq-national-association-of-broadcasters-equalization",
+      "term": "NAB EQ (National Association of Broadcasters Equalization)",
+      "summary": "'**noun / technical / historical.** A standardized playback equalization",
+      "tags": [
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "narrow-band-mono",
+      "term": "Narrow",
+      "summary": "'**noun / historical audio term.** Mono mixes with intentionally reduced",
+      "tags": [
+        "dj-related",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "near-mint-nm-nm",
+      "term": "Near-Mint",
+      "summary": "'**noun / grading term.** A record grading just below Mint — virtually flawless",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "needle-drop",
+      "term": "Needle",
+      "summary": "'**noun / slang.** 1 The act of lowering the stylus onto a record. 2 An informal",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "needle-talk-stylus-talk",
+      "term": "Needle-Talk",
+      "summary": "'**noun / historical slang.** The faint mechanical sound heard directly from",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "needle-tip-size-stylus-size",
+      "term": "Needle-Tip Size",
+      "summary": "noun / technical. The diameter of the stylus tip, expressed in mils (thousandths",
+      "tags": [
+        "equipment",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "needle-wear",
+      "term": "Needle",
+      "summary": "'**noun / technical.** Wear and flattening of the stylus tip from hours of",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "neo-psychedelic-wax",
+      "term": "Neo-Psychedelic Wax",
+      "summary": "'**noun / collector slang.** Modern pressings (1980s-present) of psychedelic-inspired",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "neo-soul",
+      "term": "Neo-Soul",
+      "summary": "'**Neo-Soul** - A musical style within the Soul genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "net-weight-vinyl-biscuit-weight",
+      "term": "Net-Weight",
+      "summary": "'**noun / manufacturing term.** The measured weight in grams of the raw vinyl",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "new-old-stock-nos",
+      "term": "New-Old-Stock",
+      "summary": "'**noun / retail / collector term.** Unused, unopened vintage inventory discovered",
+      "tags": [
+        "equipment",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "noise-floor",
+      "term": "Noise",
+      "summary": "'**noun / technical.** The inherent background level of noise — hiss, hum,",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "noise",
+      "term": "Noise",
+      "summary": "'**Noise** - A musical style within the Experimental genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "non-fill",
+      "term": "Non-Fill",
+      "summary": "noun / manufacturing defect. A defect where molten vinyl fails to completely",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "non-returnable-stamp",
+      "term": "Non-Returnable Stamp",
+      "summary": "'**noun / retail ephemera.** A stamp or sticker used by labels to mark promotional",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "northern-soul",
+      "term": "Northern Soul",
+      "summary": "'**Northern Soul** - A musical style within the Soul genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "not-for-sale-copy",
+      "term": "Not-For-Sale Copy",
+      "summary": "'**noun / promo term.** A promotional pressing distributed free to radio,",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "null-test-audio-phase-test",
+      "term": "Null-Test",
+      "summary": "noun / technical. A test comparing two audio signals by inverting the polarity",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "obi-strip",
+      "term": "Obi Strip",
+      "summary": "noun / packaging. A narrow paper band wrapped vertically (sometimes horizontally)",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "off-center-pressing",
+      "term": "Off-Center Pressing",
+      "summary": "'**noun / pressing defect.** A defect where the record’s center hole isn’t",
+      "tags": [
+        "equipment",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ohm-load-cartridge-load-impedance",
+      "term": "Ohm Load (Cartridge Load Impedance)",
+      "summary": "'**noun / technical.** The input impedance — expressed in ohms — that a phono",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "term": "Old School Hip Hop",
+      "summary": "'**Old School Hip Hop** - A musical style within the Hip Hop genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "one-sided-lp-one-sider",
+      "term": "One-Sided LP",
+      "summary": "'**noun / novelty / production choice.** A record with grooves on only one",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "one-step-pressing-aka-supervinyl-one-step",
+      "term": "One-Step Pressing",
+      "summary": "noun / audiophile manufacturing. A premium pressing method eliminating intermediate",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "open-reel-to-vinyl-transfer",
+      "term": "Open-Reel to Vinyl Transfer",
+      "summary": "'**noun / mastering process.** The process of cutting a vinyl master directly",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "opera",
+      "term": "Opera",
+      "summary": "'**Opera** - A musical style within the Classical genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "optical-soundtrack-disc-historical",
+      "term": "Optical Soundtrack Disc",
+      "summary": "'**noun / historical.** An experimental 1930s disc format that encoded film",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "original-master-recording-omr",
+      "term": "Original Master Recording",
+      "summary": "'**noun / audiophile marketing term.** A label designation — notably by Mobile",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "out-of-print-oop",
+      "term": "Out-of-Print",
+      "summary": "'**noun / collector term.** A record title no longer manufactured or distributed",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "outer-jacket-outer-sleeve",
+      "term": "Outer Jacket",
+      "summary": "'**noun / packaging.** The main printed cover that holds both the inner sleeve",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "outer-ring-clamp-peripheral-ring",
+      "term": "Outer-Ring Clamp",
+      "summary": "'**noun / hi-fi accessory.** A heavy circular metal ring placed on the outer",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "overdub-to-disc-direct-to-disc-overdub",
+      "term": "Overdub-to-Disc",
+      "summary": "noun / recording method. A studio technique where additional instruments",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "oversized-13-inch-disc-transcription-promo",
+      "term": "Oversized 13-Inch Disc",
+      "summary": "noun / historical / novelty. A slightly larger-than-standard disc — typically",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "p-funk",
+      "term": "P-Funk",
+      "summary": "'**P-Funk** - A musical style within the Funk genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "paper-inner-sleeve",
+      "term": "Paper Inner Sleeve",
+      "summary": "'**noun / packaging.** A basic record sleeve made of plain or printed paper",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "paper-scuff",
+      "term": "Paper Scuff",
+      "summary": "'**noun / grading term.** A light, superficial mark on a record’s surface",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "parallel-tracking-arm",
+      "term": "Parallel",
+      "summary": "'**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**,",
+      "tags": [
+        "equipment",
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "parrot-label",
+      "term": "Parrot Label",
+      "summary": "'**noun / collector slang.** Refers to any release on the 1960s **Parrot",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "party-cut-slang",
+      "term": "Party Cut",
+      "summary": "'**noun / slang / DJ.** A track pressed especially “hot” or loud on a 12-inch",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "paste-on-slick-jacket",
+      "term": "Paste-On Slick Jacket",
+      "summary": "'**noun / packaging / historical.** An LP jacket style where a printed paper",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "patch-cable-hum",
+      "term": "Patch",
+      "summary": "'**noun / technical / slang.** A low-frequency hum or buzz caused by faulty",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "patent-pending-sleeve",
+      "term": "Patent Pending Sleeve",
+      "summary": "'**noun / collector term.** A sleeve manufactured while the design was awaiting",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "peel-off-sticker-cover",
+      "term": "Peel-Off Sticker Cover",
+      "summary": "'**noun / packaging / gimmick.** An album jacket whose top-layer sticker",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pencil-marked-label",
+      "term": "Pencil",
+      "summary": "'**noun / grading / ephemera.** A record whose center label bears light pencil",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pencil-test-groove-studio-qc-term",
+      "term": "Pencil-Test Groove",
+      "summary": "'**noun / mastering slang.** A quick QC method where engineers drag a soft",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "penny-weight-turntable-hack",
+      "term": "Penny-Weight",
+      "summary": "'**noun / DIY slang.** Adding a coin (often a penny) atop the headshell to",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "percussion-break-aka-breakbeat",
+      "term": "Percussion Break",
+      "summary": "'**noun / DJ / cultural.** A short drum-only section in a song that DJs isolate",
+      "tags": [
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "permanent-marker-groove-check",
+      "term": "Permanent Marker Groove",
+      "summary": "noun / club-DJ hack / slang. Marking a small dot or line on the vinyl’s surface",
+      "tags": [
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "perpetual-motion-loop",
+      "term": "Perpetual Motion Loop",
+      "summary": "'**noun / novelty / experimental.** A creatively cut locked groove designed",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "perspex-dust-cover",
+      "term": "Perspex Dust",
+      "summary": "'**noun / hi-fi accessory.** A clear acrylic (Perspex) cover hinged over",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "phono-input-phono-stage",
+      "term": "Phono Input",
+      "summary": "'**noun / technical.** An amplifier input with the specialized equalization",
+      "tags": [
+        "equipment",
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "phono-pre-amp-external-or-built-in",
+      "term": "Phono Pre-Amp",
+      "summary": "'**noun / technical.** An amplifier circuit that boosts the tiny signal from",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "phono-stage-hum",
+      "term": "Phono",
+      "summary": "'**noun / technical / slang.** A low-frequency hum introduced by poorly grounded",
+      "tags": [
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "photo-etched-b-side",
+      "term": "Photo-Etched B-Side",
+      "summary": "'**noun / decorative pressing.** A laser- or photo-etched decorative design",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "picture-disc",
+      "term": "Picture Disc",
+      "summary": "'**noun / decorative pressing.** A record pressed with an image or artwork",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pinch-warp",
+      "term": "Pinch",
+      "summary": "'**noun / defect.** A small crescent-shaped warp at the record’s edge caused",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pirated-pressing",
+      "term": "Pirated Pressing",
+      "summary": "'**noun / illicit.** An unauthorized, illegally duplicated pressing intended",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pitch-control",
+      "term": "Pitch Control",
+      "summary": "'**noun / DJ / hi-fi feature.** A slider or knob on turntables that adjusts",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pitch-lock-quartz-lock",
+      "term": "Pitch-Lock",
+      "summary": "'**noun / DJ / hi-fi.** A feature that locks turntable speed to an exact",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "plain-sleeve-45",
+      "term": "Plain",
+      "summary": "'**noun / packaging / collector term.** A 7-inch single sold in a generic",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "platter-mat",
+      "term": "Platter Mat",
+      "summary": "'**noun / hi-fi accessory.** A thin mat of rubber, felt, cork, leather, or",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "platter-ring-wear-shadow",
+      "term": "Platter Ring",
+      "summary": "'**noun / grading slang.** A faint circular shadow or gloss change on an",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "playback-wear",
+      "term": "Playback Wear",
+      "summary": "'**noun / technical.** Cumulative groove damage caused by repeated plays,",
+      "tags": [
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "playback-wearcontinued",
+      "term": "Playback Wear",
+      "summary": "'**noun / technical.** Cumulative groove damage caused by repeated plays,",
+      "tags": [
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "playback-weight-tracking-force",
+      "term": "Playback Weight",
+      "summary": "'**noun / technical.** The downward pressure, measured in grams, that the",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "playback-wow-pitch-wow",
+      "term": "Playback WOW",
+      "summary": "'**noun / defect.** A slow, cyclical pitch variation (wow) audible on sustained",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "plexiglass-dust-cover",
+      "term": "Plexiglass Dust",
+      "summary": "'**noun / hi-fi accessory / vintage.** A rigid transparent lid made from",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "plinth",
+      "term": "Plinth",
+      "summary": "'**noun / hi-fi term.** The rigid base or platform that supports the turntable’s",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "plug-in-headshell",
+      "term": "Plug-In Headshell",
+      "summary": "'**noun / tonearm part.** A detachable cartridge-mounting shell that plugs",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "plus-cut-hot-plus-cut",
+      "term": "Plus-Cut",
+      "summary": "'**noun / mastering slang.** A colloquial term for an aggressively loud cut",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "poly-lined-inner-sleeve",
+      "term": "Poly-Lined Inner Sleeve",
+      "summary": "'**noun / packaging / audiophile.** A paper sleeve lined with smooth polyethylene",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "poly-outer-sleeve",
+      "term": "Poly Outer Sleeve",
+      "summary": "'**noun / packaging / protective.** A clear polyethylene or polypropylene",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "poly-vinyl-chloride-pvc",
+      "term": "Poly-Vinyl Chloride",
+      "summary": "'**noun / material.** The thermoplastic polymer used to press modern records",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "polybag-sealed-copy",
+      "term": "Polybag",
+      "summary": "'**noun / retail / collector term.** A new LP originally packaged in a loose",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "polylined-rice-paper-sleeve-mofi-style",
+      "term": "Polylined Rice-Paper Sleeve",
+      "summary": "'**noun / archival inner.** A premium ultra-thin rice-paper inner with anti-static",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pop-guard-aka-dust-pop-filter",
+      "term": "Pop-Guard (a.k.a. Dust-Pop Filter)",
+      "summary": "'**noun / DJ accessory / slang.** A felt or fabric pad placed over the stylus",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pop-out-center-aka-jukebox-spider",
+      "term": "Pop-Out Center",
+      "summary": "'**noun / 7-inch single part.** The large center section of many 45 RPM singles",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pop",
+      "term": "Pop",
+      "summary": "**Pop** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "portable-record-changer-suitcase-player",
+      "term": "Portable Record Changer",
+      "summary": "'**noun / hardware / historical.** A compact suitcase-style phonograph with",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "post-production-etching",
+      "term": "Post-Production Etching",
+      "summary": "'**noun / novelty / manufacturing.** A decorative or identification etching",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "post-punk-pressing",
+      "term": "Post-Punk Pressing",
+      "summary": "'**noun / cultural collector tag.** Any first-wave pressing from the post-punk",
+      "tags": [
+        "pressing",
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "power-pop-lp",
+      "term": "Power",
+      "summary": "'**noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-pop",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pre-echo-groove-print-through",
+      "term": "Pre-Echo (Groove-Print-Through)",
+      "summary": "noun / technical artifact. A faint “ghost” of a loud musical passage heard",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pre-echo-post-echo-pair",
+      "term": "Pre-Echo",
+      "summary": "'**noun / technical artifact.** Twin phenomena — **pre-echo** is heard just",
+      "tags": [
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pre-riaa-eq-curve",
+      "term": "Pre-RIAA EQ Curve",
+      "summary": "'**noun / historical technical.** Any of the numerous EQ playback curves",
+      "tags": [
+        "technical",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pre-show-test-press",
+      "term": "Pre-Show Test-Press",
+      "summary": "'**noun / promo / collector term.** A test pressing rushed out for artists,",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pre-war-shellac-78",
+      "term": "Pre-War Shellac 78",
+      "summary": "noun / historical format. Any 10- or 12-inch shellac disc manufactured before",
+      "tags": [
+        "equipment",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pressing-defect",
+      "term": "Pressing Defect",
+      "summary": "'**noun / manufacturing term.** A general catch-all for any physical flaw",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pressing-plant-code",
+      "term": "Pressing Plant Code",
+      "summary": "'**noun / collector term.** An alphanumeric mark — etched, stamped, or printed",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pressing-ring-aka-label-ring",
+      "term": "Pressing Ring",
+      "summary": "'**noun / collector term.** A circular ridge or indent left on the paper",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "pressing-weight-140-g-180-g-200-g",
+      "term": "Pressing Weight",
+      "summary": "'**noun / manufacturing spec.** The target gram-weight of each vinyl disc",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "price-code-sticker-price-box",
+      "term": "Price-Code Sticker",
+      "summary": "'**noun / retail ephemera.** A small printed sticker or box on the jacket",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "private-press-private-label-pressing",
+      "term": "Private-Press",
+      "summary": "'**noun / cultural / collector term.** A small-batch record self-funded by",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "proceed",
+      "term": "Proceed",
+      "summary": "Navigation term for continuing to next section",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "progressive-rock",
+      "term": "Progressive Rock",
+      "summary": "'**Progressive Rock** - A musical style within the Rock genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "promo-copy-promotional-pressing",
+      "term": "Promo Copy",
+      "summary": "noun / retail & radio practice. A record manufactured for free distribution",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "promo-stamp-gold-stamp-promo",
+      "term": "Promo Stamp",
+      "summary": "'**noun / retail ephemera.** A retail-stock jacket stamped or gold-foiled",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "protective-poly-outer-japanese-resealable",
+      "term": "Protective Poly Outer",
+      "summary": "'**noun / packaging upgrade.** A clear resealable poly outer sleeve with",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "psychedelic-rock",
+      "term": "Psychedelic Rock",
+      "summary": "'**Psychedelic Rock** - A musical style within the Rock genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "punch-hole-cut-out",
+      "term": "Punch-Hole Cut-Out",
+      "summary": "'**noun / retail practice.** A small hole punched through the LP jacket corner",
+      "tags": [
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "punk-era-7-inch",
+      "term": "Punk-Era 7-Inch",
+      "summary": "'**noun / cultural collector tag.** A 7-inch single released during the original",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "punk",
+      "term": "Punk",
+      "summary": "'**Punk** - A musical style within the Rock genre, classified according to",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "push-out-center-uk-style-45",
+      "term": "Push-Out Center",
+      "summary": "'**noun / hardware feature.** A removable center section on many U.K./European",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "q-up-auto-tone-arm-lifter",
+      "term": "Q-Up (Auto Tone-Arm Lifter)",
+      "summary": "noun / accessory / brand name. A small spring-loaded device placed near the",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quad-cut-stylus-cd-4-compatible-stylus",
+      "term": "Quad-Cut Stylus",
+      "summary": "'**noun / technical.** A line-contact stylus shape — often Shibata or similar",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quad-decoder-demodulator",
+      "term": "Quad Decoder",
+      "summary": "'**noun / hardware.** An external component or receiver circuit that **decodes**",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quadraphonic-lp-quad-lp",
+      "term": "Quadraphonic LP",
+      "summary": "noun / format. A 1970s-era vinyl format engineered to deliver four-channel",
+      "tags": [
+        "dj-related",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quartz-lock-aka-quartz-synth-pitch-lock",
+      "term": "Quartz-Lock (a.k.a. Quartz-Synth Pitch-Lock)",
+      "summary": "'**noun / hi-fi / DJ.** A feature on many direct-drive turntables that **locks",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quick-change-headshell",
+      "term": "Quick-Change Headshell",
+      "summary": "'**noun / hardware.** A tone-arm design that lets users **swap cartridges",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quick-release-clamp",
+      "term": "Quick-Release Clamp",
+      "summary": "'**noun / hi-fi accessory.** A **center-spindle clamp or weight** with a",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quiex-vinyl-quiex-ii-quiex-sv-p",
+      "term": "Quiex Vinyl",
+      "summary": "noun / audiophile pressing compound. A proprietary low-noise translucent",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "quirky-cut-sleeve",
+      "term": "Quirky-Cut Sleeve",
+      "summary": "'**noun / packaging.** A record jacket with **non-standard die-cut shapes**",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "rack-jobber-sticker",
+      "term": "Rack-Jobber Sticker",
+      "summary": "'**noun / retail history.** A sticker or stamp showing the name of a **rack-jobber**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "radius-arm-s-arm-tonearm",
+      "term": "Radius Arm",
+      "summary": "'**noun / hi-fi term.** A **curved S-shaped tonearm** whose pivot radius",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "rail-mount-tonearm-board",
+      "term": "Rail-Mount Tonearm Board",
+      "summary": "**noun / turntable design.**",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "rca-living-stereo",
+      "term": "RCA Living Stereo",
+      "summary": "'**noun / historical branding.** A famous RCA Victor **stereo-LP branding",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "rca-shaded-dog-label",
+      "term": "RCA “Shaded",
+      "summary": "'**noun / collector tag.** Nickname for the **tan-beige RCA Victor label**",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "re-cut-lacquer",
+      "term": "Re-Cut Lacquer",
+      "summary": "'**noun / mastering term.** A **new lacquer master** cut after the original",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "re-grind-vinyl-re-ground-compound",
+      "term": "Re-Grind Vinyl",
+      "summary": "'**noun / manufacturing term.** Vinyl compound **made from ground-up scrap",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "re-issue-pressing",
+      "term": "Re-Issue Pressing",
+      "summary": "'**noun / market term.** A **later-edition pressing** of an album after the",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "re-master-remastered-edition",
+      "term": "Re-Master",
+      "summary": "'**noun / studio term.** A **newly mastered version** of an existing recording,",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "re-press-repressing",
+      "term": "Re-Press",
+      "summary": "Re-Press / Repressing",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-brush",
+      "term": "Record Brush",
+      "summary": "'**noun / accessory.** A **hand-held brush**, usually carbon-fiber or velvet-padded,",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-changer-stack-changer",
+      "term": "Record Changer",
+      "summary": "'**noun / vintage hardware.** A **turntable with an auto-drop spindle** that",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-clamp-center-weight",
+      "term": "Record Clamp",
+      "summary": "'**noun / hi-fi accessory.** A **device that clamps the record’s center**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-cleaning-machine-rcm",
+      "term": "Record Cleaning Machine",
+      "summary": "'**noun / accessory / audiophile.** A **vacuum- or ultrasonic-based device**",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-club-edition",
+      "term": "Record Club Edition",
+      "summary": "'**noun / retail variant.** A pressing made **specifically for mail-order",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-divider-card",
+      "term": "Record Divider Card",
+      "summary": "'**noun / store accessory / archival.** A **stiff card tab divider** used",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-divider-tab-sticker",
+      "term": "Record Divider Tab Sticker",
+      "summary": "'**noun / shop ephemera.** A **label or sticker** attached to divider cards",
+      "tags": [
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-of-the-month-club",
+      "term": "Record-of-the-Month Club",
+      "summary": "'**noun / retail history.** A **subscription-based service** that mailed",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-shelf-wear",
+      "term": "Record Shelf",
+      "summary": "'**noun / grading term.** Visible **rubbing or color loss** on jacket edges",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-stand-now-playing-stand",
+      "term": "Record Stand",
+      "summary": "**noun / furniture accessory.**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-tote",
+      "term": "Record Tote",
+      "summary": "'**noun / portable accessory.** A **portable bin or box-style case** with",
+      "tags": [
+        "dj-related",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "record-weight-center-weight",
+      "term": "Record Weight",
+      "summary": "'**noun / hi-fi accessory.** A **weighted puck** placed over the spindle",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "red-wax-pressing-red-vinyl-pressing",
+      "term": "Red-Wax Pressing",
+      "summary": "'**noun / collector term.** A record **pressed on translucent red-tinted",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reference-lacquer",
+      "term": "Reference Lacquer",
+      "summary": "'**noun / mastering term.** A **one-off lacquer disc** cut directly from",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reflex-clamp-reflex-weight",
+      "term": "Reflex Clamp",
+      "summary": "'**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reggae",
+      "term": "Reggae",
+      "summary": "**Reggae** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "regional-pressing",
+      "term": "Regional Pressing",
+      "summary": "'**noun / collector tag.** A pressing **manufactured in a specific geographic",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "regroove-recut-groove",
+      "term": "Regroove",
+      "summary": "'**noun / studio slang.** A **second pass of groove-cutting** on the same",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reinforced-groove-heavy-cut-groove",
+      "term": "Reinforced Groove",
+      "summary": "'**noun / mastering slang.** A groove **cut deeper and wider** to survive",
+      "tags": [
+        "equipment",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reissue-label-variant",
+      "term": "Reissue Label Variant",
+      "summary": "'**noun / collector term.** A **later label design** (fonts, logos, rim text)",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "removable-headshell-leads",
+      "term": "Removable Headshell Leads",
+      "summary": "'**noun / tone-arm part.** The **tiny color-coded wires** with push-on clips",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "repertoire-sticker-catalog-hype-sticker",
+      "term": "Repertoire Sticker",
+      "summary": "'**noun / retail ephemera.** A **sticker highlighting the artist’s back-catalog",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "residual-static-pop",
+      "term": "Residual Static Pop",
+      "summary": "'**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "resonance-control-footers-isolation-feet",
+      "term": "Resonance Control Footers",
+      "summary": "'**noun / hi-fi accessory.** Special **vibration-damping feet or cones**",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "restock-cut-corner",
+      "term": "Restock Cut",
+      "summary": "'**noun / retail remainder mark.** A **corner of the jacket clipped off**",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "retipped-stylus",
+      "term": "Retipped Stylus",
+      "summary": "'**noun / cartridge-service term.** A **stylus assembly whose original diamond",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "return-to-jacket-sleeve-archival-practice",
+      "term": "Return-to-Jacket Sleeve",
+      "summary": "'**noun / collector habit.** The practice of **storing the vinyl in a separate",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reverb-tank-dub-cut",
+      "term": "Reverb",
+      "summary": "'**noun / reggae / dub-plate slang.** A **version mix sent hot through a",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reverse-groove-inside-out-cut",
+      "term": "Reverse Groove",
+      "summary": "'**noun / novelty mastering trick.** A **record cut so that the stylus starts",
+      "tags": [
+        "equipment",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "reversible-picture-sleeve-double-sided-sleeve",
+      "term": "Reversible Picture-Sleeve",
+      "summary": "'**noun / packaging gimmick.** A **7-inch single sleeve printed on both sides**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "rhythm-blues",
+      "term": "Rhythm & Blues",
+      "summary": "'**Rhythm & Blues** - A musical style within the Blues genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "riaa-curve-riaa-playback-equalization",
+      "term": "RIAA Curve (RIAA Playback Equalization)",
+      "summary": "'**noun / technical standard.** The **industry-standard EQ curve** established",
+      "tags": [
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "rock",
+      "term": "Rock",
+      "summary": "**Rock** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "romantic",
+      "term": "Romantic",
+      "summary": "'**Romantic** - A musical style within the Classical genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "roots-reggae",
+      "term": "Roots Reggae",
+      "summary": "'**Roots Reggae** - A musical style within the Reggae genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sacd-hybrid-disc-super-audio-cd-hybrid",
+      "term": "SACD Hybrid Disc",
+      "summary": "noun / crossover format. A hybrid optical disc containing both a high-resolution",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "safety-groove-safety-runout",
+      "term": "Safety Groove",
+      "summary": "'**noun / cutting-room term.** A **silent protective groove** cut just after",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "salsa",
+      "term": "Salsa",
+      "summary": "'**Salsa** - A musical style within the Latin genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sampler-lp-promo-sampler",
+      "term": "Sampler LP",
+      "summary": "'**noun / retail-promo format.** A **compilation LP issued for promotional",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sampling-tonearm-servo-traced-arm",
+      "term": "Sampling Tonearm",
+      "summary": "'**noun / hi-fi term.** A **servo-controlled tonearm** that “samples” groove",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sandpaper-jacket",
+      "term": "Sandpaper Jacket",
+      "summary": "noun / infamous packaging. A LP jacket literally covered in coarse sandpaper",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "saw-cut-notch-saw-mark-cut-out",
+      "term": "Saw-Cut Notch",
+      "summary": "'**noun / retail remainder mark.** A **thin saw-blade cut in the LP jacket’s",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "scissor-cut-obi-fold-over-obi",
+      "term": "Scissor-Cut Obi",
+      "summary": "'**noun / Japanese packaging term.** A **narrow folded paper ‘obi’ strip**",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sealed-copy-still-sealed-ss",
+      "term": "Sealed Copy / Still-Sealed",
+      "summary": "'**noun / collector-grading term.** A **record still in its original shrink-wrap",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "seam-split",
+      "term": "Seam",
+      "summary": "'**noun / jacket-grading flaw.** A **tear or separation along a jacket’s",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "seam-stress-ring-wear",
+      "term": "Seam-Stress Ring-Wear",
+      "summary": "'**noun / collector slang.** A tongue-in-cheek term for **severe ring-wear",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "semi-automatic-turntable",
+      "term": "Semi-Automatic Turntable",
+      "summary": "'**noun / hi-fi deck type.** A **turntable that automatically lifts and returns",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "servo-controlled-direct-drive",
+      "term": "Servo-Controlled Direct Drive",
+      "summary": "'**noun / hi-fi motor tech.** A **direct-drive turntable whose motor speed",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "seven-inch-single-7-inch-45",
+      "term": "Seven-Inch Single",
+      "summary": "'**noun / format.** A **small vinyl single 7 inches in diameter**, most often",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shaded-dog-label-rca-victor",
+      "term": "Shaded-Dog Label",
+      "summary": "'**noun / collector nickname.** A **nickname for RCA Victor’s mid-1950s-early-’60s",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shelf-wear-jacket-shelf-wear",
+      "term": "Shelf-Wear",
+      "summary": "'**noun / grading flaw.** **Rubbing or color loss** along jacket edges, corners,",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shellac-disc-78-rpm-shellac",
+      "term": "Shellac Disc",
+      "summary": "noun / historical format. A pre-vinyl disc made of shellac and mineral filler,",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shellac-needles-steel-needles",
+      "term": "Shellac Needles",
+      "summary": "'**noun / playback accessory.** **Disposable steel or bamboo needles** used",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shibata-stylus",
+      "term": "Shibata Stylus",
+      "summary": "noun / stylus profile. A line-contact stylus shape originally designed in",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "short-spindle-adapter-45-adapter",
+      "term": "Short-Spindle Adapter",
+      "summary": "'**noun / hardware accessory.** A **small removable insert** that fits the",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shotgun-groove-wide-cut-disco-groove",
+      "term": "Shotgun Groove",
+      "summary": "'**noun / mastering slang.** A **hot, extra-wide groove cut** to maximize",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shoulder-cut-sleeve-die-cut-display-sleeve",
+      "term": "Shoulder-Cut Sleeve",
+      "summary": "'**noun / packaging style.** A **jacket or company sleeve with a semi-circular",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "show-box-record-show-bin",
+      "term": "Show-Box",
+      "summary": "'**noun / collector slang.** A **portable crate or bin** dealers use at record-fairs",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "shrink-wrap-shrink",
+      "term": "Shrink-Wrap",
+      "summary": "'**noun / packaging.** A **tight plastic film heat-shrunk around retail LP",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "side-a-side-b",
+      "term": "Side-A",
+      "summary": "'**noun / format convention.** The **two sides of a record** — historically",
+      "tags": [
+        "pressing",
+        "historical",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "side-chain-side-chain-cut",
+      "term": "Side-Chain",
+      "summary": "'**noun / mastering technique.** A **vinyl-cutting compressor/limiter controlled",
+      "tags": [
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "side-loader-sleeve-side-opening-sleeve",
+      "term": "Side-Loader Sleeve",
+      "summary": "'**noun / packaging style.** A **LP outer or inner sleeve that opens on the",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "side-long-track-side-length-cut",
+      "term": "Side-Long Track",
+      "summary": "'**noun / sequencing term.** A **single extended composition that fills nearly",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "signal-to-noise-ratio-sn",
+      "term": "Signal-to-Noise Ratio",
+      "summary": "noun / audio-spec term. A measurement comparing the desired music signal",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "silver-label-promo",
+      "term": "Silver",
+      "summary": "'**noun / collector slang.** A **promotional pressing with a silver-colored",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "single-sided-lp-one-sided-disc",
+      "term": "Single-Sided LP",
+      "summary": "'**noun / format.** A **record pressed with grooves on only one side**, leaving",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "single-step-plating-direct-metal-mastering-style",
+      "term": "Single-Step Plating",
+      "summary": "noun / manufacturing method. A plating process that skips the usual father–mother–stamper",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sink-mark-dish-warp",
+      "term": "Sink-Mark",
+      "summary": "'**noun / pressing defect.** A **slight concave warp** across the record",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sintered-bronze-bearing-tone-arm-platter",
+      "term": "Sintered Bronze Bearing",
+      "summary": "'**noun / hi-fi engineering term.** A **porous bronze bearing** made by powder-metal",
+      "tags": [
+        "equipment",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sizzle-cymbal-test-audiophile-check-track",
+      "term": "Sizzle-Cymbal Test",
+      "summary": "'**noun / listening-test slang.** An **informal test using bright cymbal",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ska",
+      "term": "Ska",
+      "summary": "'**Ska** - A musical style within the Reggae genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "skip-guard-groove-raised-guard-groove",
+      "term": "Skip-Guard Groove",
+      "summary": "'**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "skip-loop-locked-skip",
+      "term": "Skip-Loop",
+      "summary": "'**noun / groove defect / DJ trick.** Either a **groove-damage defect that",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "skip-test-torture-track",
+      "term": "Skip-Test",
+      "summary": "'**noun / cartridge-setup term.** A **special test-record band cut at extreme",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sleaveface-sleeveface-meme",
+      "term": "Sleaveface / Sleeveface",
+      "summary": "'**noun / fan culture slang.** A **photo meme in which a person hides their",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sleeve-grading-vg-nm-etc",
+      "term": "Sleeve Grading",
+      "summary": "'**noun / collector practice.** The **condition rating of a record’s outer",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sleeve-notes-liner-notes",
+      "term": "Sleeve Notes",
+      "summary": "'**noun / packaging feature.** The **printed essays, credits, or commentary**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sleeve-protector-outer-poly-sleeve",
+      "term": "Sleeve Protector",
+      "summary": "Sleeve Protector / Outer Poly Sleeve",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "slip-mat-burn-mat-burn-ring",
+      "term": "Slip-Mat Burn",
+      "summary": "Slip-Mat Burn / Mat-Burn Ring",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "slow-cut-lacquer-wide-pitch-cut",
+      "term": "Slow-Cut Lacquer",
+      "summary": "'**noun / mastering style.** A **lacquer cut at slower lead-screw pitch**",
+      "tags": [
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "small-hole-45-standard-hole-single",
+      "term": "Small-Hole 45",
+      "summary": "Small-Hole 45 (Standard-Hole Single)",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "smooth-jazz",
+      "term": "Smooth Jazz",
+      "summary": "'**Smooth Jazz** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sonic-signature",
+      "term": "Sonic Signature",
+      "summary": "Sonic Signature",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "soul-blues",
+      "term": "Soul Blues",
+      "summary": "'**Soul Blues** - A musical style within the Blues genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "soul",
+      "term": "Soul",
+      "summary": "**Soul** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sound-effects-library-disc",
+      "term": "Sound-Effects Library Disc",
+      "summary": "'**noun / niche format.** A **vinyl record containing only sound effects**",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sound-system-special-dub-plate-special",
+      "term": "Sound-System Special",
+      "summary": "'**noun / reggae & dancehall slang.** A **custom-cut acetate or short-run",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "sound-wave-etching-visual-wave-jacket-art",
+      "term": "Sound-Wave Etching",
+      "summary": "'**noun / packaging gimmick.** A **decorative graphic of the song’s waveform**",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "soundtrack",
+      "term": "Soundtrack",
+      "summary": "**Soundtrack** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "southern-soul",
+      "term": "Southern Soul",
+      "summary": "'**Southern Soul** - A musical style within the Soul genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "spacer-ring-spindle-spacer",
+      "term": "Spacer Ring",
+      "summary": "'**noun / hardware accessory.** A **thin ring placed over the platter spindle**",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "speed-box-external-speed-controller",
+      "term": "Speed-Box / External Speed Controller",
+      "summary": "'**noun / hi-fi accessory.** An **outboard electronic speed-controller**",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "speed-change-knob-rpm-selector",
+      "term": "Speed-Change Knob",
+      "summary": "'**noun / deck control.** A **manual or electronic switch that selects 33⅓,",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "speed-pull-idler-pitch-pull-idler",
+      "term": "Speed-Pull Idler",
+      "summary": "'**noun / vintage changer part.** A **sliding idler-wheel mechanism** that",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "spider-insert-45-spider",
+      "term": "Spider Insert",
+      "summary": "'**noun / hardware accessory.** A **detachable plastic or metal insert**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "spiral-groove-lead-in-lead-out",
+      "term": "Spiral-Groove Lead-In",
+      "summary": "'**noun / groove geometry.** The **silent spiral groove** at the start (lead-in)",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "spiral-track",
+      "term": "Spiral-Track Locked Groove",
+      "summary": "**noun / novelty / DJ tool.**",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "swing",
+      "term": "Swing",
+      "summary": "'**Swing** - A musical style within the Jazz genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "symphony",
+      "term": "Symphony",
+      "summary": "'**Symphony** - A musical style within the Classical genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "synth-pop",
+      "term": "Synth-pop",
+      "summary": "'**Synth-pop** - A musical style within the Pop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tango",
+      "term": "Tango",
+      "summary": "'**Tango** - A musical style within the Latin genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tape-hiss-floor",
+      "term": "Tape-Hiss Floor",
+      "summary": "Navigation term for continuing to next section",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tape-splice-pop",
+      "term": "Tape-Splice Pop",
+      "summary": "'**noun / mastering artifact.** A **tiny audible tick or bump at an analog",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "target-label-lp",
+      "term": "Target",
+      "summary": "noun / collector nickname. A 1970-73 Warner/Elektra/Atlantic LP label design",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "techno",
+      "term": "Techno",
+      "summary": "'**Techno** - A musical style within the Electronic genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "teen-pop",
+      "term": "Teen Pop",
+      "summary": "'**Teen Pop** - A musical style within the Pop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "test-pressing-tp",
+      "term": "Test Pressing",
+      "summary": "'**noun / manufacturing stage.** A **small batch of sample pressings** (often",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "thermoplastic-biscuit-puck",
+      "term": "Thermoplastic Biscuit",
+      "summary": "'**noun / plant slang.** A **pre-measured lump of heated vinyl compound**",
+      "tags": [
+        "pressing",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "three-sided-lp-hidden-side-album",
+      "term": "Three-Sided LP",
+      "summary": "'**noun / format gimmick.** An **album cut across three playable sides**,",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "three-speed-turntable",
+      "term": "Three-Speed Turntable",
+      "summary": "'**noun / deck type.** A **turntable capable of 33⅓, 45, and 78 RPM** playback",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "thrift-store-find-thrift-dig",
+      "term": "Thrift-Store Find",
+      "summary": "Thrift-Store Find / Thrift-Dig",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "thumb-notch-outer-sleeve",
+      "term": "Thumb-Notch Outer Sleeve",
+      "summary": "Thumb-Notch Outer Sleeve",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "time-code-vinyl-dvs-control-vinyl",
+      "term": "Time-Code Vinyl",
+      "summary": "noun / digital-DJ medium. A special vinyl disc that carries a continuous",
+      "tags": [
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "timing-strip-track-timing-sticker",
+      "term": "Timing Strip",
+      "summary": "'**noun / radio-promo ephemera.** A **paper strip or sticker listing exact",
+      "tags": [
+        "dj-related",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tip-on-jacket",
+      "term": "Tip-On Jacket",
+      "summary": "noun / packaging term. A premium jacket style where the printed slick is",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-arm-cable-phono-leads",
+      "term": "Tone-Arm Cable",
+      "summary": "'**noun / hi-fi wiring.** The **shielded low-capacitance cable** carrying",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-arm-lift-cue-lever",
+      "term": "Tone-Arm Lift",
+      "summary": "'**noun / deck control.** A **damped mechanical or hydraulic lever** that",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-arm-resonance",
+      "term": "Tone-Arm Resonance",
+      "summary": "noun / hi-fi performance spec. The natural resonant frequency created by",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-arm-rest-arm-lock",
+      "term": "Tone-Arm Rest",
+      "summary": "'**noun / deck feature.** A **small cradle or clip that secures the tone-arm",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-arm-tube-damping",
+      "term": "Tone-Arm Tube Damping",
+      "summary": "'**noun / audiophile tweak.** A **method of reducing unwanted micro-resonances",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-arm",
+      "term": "Tone",
+      "summary": "'**noun / turntable component.** The **pivoting or linear-tracking arm that",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tone-poem-sleeve-art",
+      "term": "Tone-Poem Sleeve Art",
+      "summary": "'**noun / 1950s-60s LP-art slang.** A **romantic marketing term for lush",
+      "tags": [
+        "historical",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "top-loader-sleeve-top-opening-jacket",
+      "term": "Top-Loader Sleeve",
+      "summary": "'**noun / packaging style.** A **jacket or outer sleeve that opens along",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "track-banded-lp-banded-groove-album",
+      "term": "Track-Banded LP",
+      "summary": "'**noun / mastering style.** A **long-playing album where each track is visibly",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "track-listing-sticker-song-hype-sticker",
+      "term": "Track-Listing Sticker",
+      "summary": "'**noun / packaging ephemera.** A **front-cover sticker listing hit singles",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tracking-angle-vertical-tracking-angle-vta",
+      "term": "Tracking Angle / Vertical Tracking Angle",
+      "summary": "noun / hi-fi geometry term. The angle at which the stylus sits in the groove",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tracking-force-stylus-pressure",
+      "term": "Tracking Force",
+      "summary": "'**noun / cartridge-setup spec.** The **downward pressure in grams applied",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tracking-test-record-torture-track-lp",
+      "term": "Tracking-Test Record",
+      "summary": "'**noun / setup tool.** A **special test LP with progressively harder-to-track",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "traditional-folk",
+      "term": "Traditional Folk",
+      "summary": "'**Traditional Folk** - A musical style within the Folk genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "trance",
+      "term": "Trance",
+      "summary": "'**Trance** - A musical style within the Electronic genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "transcription-disc-16-inch-transcription",
+      "term": "Transcription Disc",
+      "summary": "noun / historical broadcast format. A large-diameter 16-inch vinyl or lacquer",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "translucent-vinyl-variant",
+      "term": "Translucent",
+      "summary": "'**noun / collector term.** A **vinyl compound that appears opaque under",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "transparent-vinyl-pressing",
+      "term": "Transparent",
+      "summary": "'**noun / color-vinyl format.** A **record made of fully see-through vinyl",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "trap",
+      "term": "Trap",
+      "summary": "'**Trap** - A musical style within the Hip Hop genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "turntable-isolation-platform",
+      "term": "Turntable Isolation Platform",
+      "summary": "'**noun / hi-fi accessory.** A **dedicated stand or floating platform that",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "turntable-mat-platter-mat",
+      "term": "Turntable Mat",
+      "summary": "'**noun / deck interface.** The **disc-shaped layer placed between the platter",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "turntable-rumble",
+      "term": "Turntable Rumble",
+      "summary": "'**noun / mechanical-noise spec.** The **low-frequency mechanical noise produced",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "turntablist",
+      "term": "Turntablist",
+      "summary": "'**noun / DJ culture term.** A **DJ who treats the turntable as a musical",
+      "tags": [
+        "equipment",
+        "dj-related",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "tv-soundtrack",
+      "term": "TV Soundtrack",
+      "summary": "'**TV Soundtrack** - A musical style within the Soundtrack genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ultra-sonic-record-cleaner",
+      "term": "Ultra-Sonic Record Cleaner",
+      "summary": "'**noun / cleaning device.** A **machine that uses high-frequency ultrasonic",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "ultra-thin-flexi-disc",
+      "term": "Ultra-Thin Flexi-Disc",
+      "summary": "'**noun / novelty format.** A **paper-thin, flexible vinyl (or PVC) disc**",
+      "tags": [
+        "equipment",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "un-banded-lp-continuous-groove-album",
+      "term": "Un-Banded LP",
+      "summary": "'**noun / mastering style.** A **record side without visible track-spacing",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "un-dinked-45-solid-centre-45",
+      "term": "Un-Dinked 45",
+      "summary": "'**noun / format variant.** A **7-inch single whose centre has not been ‘dinked’",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "unclamped-edge-warp",
+      "term": "Unclamped Edge",
+      "summary": "'**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "under-run-pressing-short-run-press",
+      "term": "Under-Run Pressing",
+      "summary": "'**noun / manufacturing slang.** A **pressing run that produced fewer copies",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "unipivot-tone-arm",
+      "term": "Unipivot Tone",
+      "summary": "Unipivot Tone-Arm",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "universal-groove-standard",
+      "term": "Universal Groove",
+      "summary": "“The audiophile unipivot tone-arm tracks beautifully once you get used to",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "up-grade-copy",
+      "term": "Up-Grade Copy",
+      "summary": "Up-Grade Copy",
+      "tags": [
+        "collecting",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "up-tempo-floor-filler",
+      "term": "Up-Tempo Floor-Filler",
+      "summary": "'**noun / DJ slang.** A **fast-paced dance track guaranteed to fill the floor**",
+      "tags": [
+        "dj-related",
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "upscale-re-press-audiophile-reissue",
+      "term": "Upscale Re-Press",
+      "summary": "'**noun / marketing term.** A **new high-end re-pressing of a classic album**",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "v-notch-jacket-cut-corner-mark",
+      "term": "V-Notch Jacket",
+      "summary": "'**noun / cut-out remainder style.** A **jacket with a triangular or V-shaped",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vacuum-platter-vacuum-hold-down",
+      "term": "Vacuum Platter",
+      "summary": "'**noun / turntable design.** A **turntable platter that uses gentle suction",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vacuum-record-cleaner",
+      "term": "Vacuum Record Cleaner",
+      "summary": "noun / cleaning device. A machine that applies a cleaning fluid to the record’s",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vacuum-tube-phono-stage",
+      "term": "Vacuum Tube Phono Stage",
+      "summary": "'**noun / hi-fi component.** A **phono pre-amplifier that uses vacuum tubes",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "valve-amp-valve-phono-uk",
+      "term": "Valve Amp / Valve Phono",
+      "summary": "'**noun / British hi-fi term.** The **UK equivalent of ‘tube amp’ or ‘tube",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "variable-pitch-groove-cutting",
+      "term": "Variable-Pitch Groove Cutting",
+      "summary": "noun / mastering technique. A lathe system that automatically adjusts the",
+      "tags": [
+        "dj-related",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "variable-reluctance-cartridge",
+      "term": "Variable Reluctance Cartridge",
+      "summary": "noun / early magnetic cartridge type. An early generation of magnetic phono",
+      "tags": [
+        "equipment",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "velvet-dust-brush-velvet-pad-cleaner",
+      "term": "Velvet Dust Brush",
+      "summary": "'**noun / cleaning accessory.** A **hand-held block lined with fine velvet",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vertical-cut-groove-hill-and-dale-cut",
+      "term": "Vertical-Cut Groove",
+      "summary": "'**noun / historical groove style.** A **groove modulation style where the",
+      "tags": [
+        "equipment",
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vertical-tracking-angle-vta",
+      "term": "Vertical Tracking Angle",
+      "summary": "'**noun / cartridge alignment spec.** The **angle of the cantilever/stylus",
+      "tags": [
+        "equipment",
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vertical-tracking-linear-arm-tangential-arm",
+      "term": "Vertical-Tracking Linear Arm",
+      "summary": "'**noun / turntable design.** A **tone-arm that moves linearly on a rail",
+      "tags": [
+        "equipment",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "video-game-music",
+      "term": "Video Game Music",
+      "summary": "'**Video Game Music** - A musical style within the Soundtrack genre, classified",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vinyl-chloride-pvc",
+      "term": "Vinyl Chloride",
+      "summary": "'**noun / material.** The **synthetic polymer poly-vinyl-chloride that forms",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vinyl-coated-inner-sleeve",
+      "term": "Vinyl Coated Inner Sleeve",
+      "summary": "'**noun / packaging hazard.** A **paper inner sleeve lined with a thin vinyl-like",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vinyl-jacket-pvc-outer-bag-hazard",
+      "term": "Vinyl Jacket",
+      "summary": "'**noun / storage warning.** A **soft-PVC outer bag used to protect jackets**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vinyl-revival",
+      "term": "Vinyl Revival",
+      "summary": "'**noun / cultural phenomenon.** The **worldwide resurgence of vinyl records",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "vinyl-weight-pressing-weight",
+      "term": "Vinyl Weight",
+      "summary": "'**noun / manufacturing spec.** The **mass of the finished record**, often",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "virgin-vinyl-virgin-compound-pressing",
+      "term": "Virgin Vinyl",
+      "summary": "'**noun / manufacturing grade.** A **record pressed from 100% new PVC compound",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wall-mount-turntable-shelf",
+      "term": "Wall-Mount Turntable Shelf",
+      "summary": "'**noun / hi-fi accessory.** A **rigid shelf mounted directly to a load-bearing",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "warp-resistant-pressing",
+      "term": "Warp-Resistant Pressing",
+      "summary": "'**noun / manufacturing claim.** A **pressing marketed as less prone to dish-warp",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "warped-record-dish-warp-edge-warp",
+      "term": "Warped Record",
+      "summary": "'**noun / condition flaw.** A **record whose plane is bent or wavy** due",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wash-clean-method-wet-play-vintage",
+      "term": "Wash-Clean Method / Wet-Play",
+      "summary": "'**noun / obsolete cleaning fad.** A **1960s-70s hi-fi practice of playing",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "washboard-groove-damaged-groove",
+      "term": "Washboard Groove",
+      "summary": "'**noun / defect slang.** A **groove that looks and feels wavy like a washboard**",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wax-cylinder",
+      "term": "Wax Cylinder",
+      "summary": "'**noun / historical format.** A **cylindrical wax-based recording medium**",
+      "tags": [
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wax-poetics-magazine-term",
+      "term": "Wax Poetics",
+      "summary": "noun / magazine title & slang. A renowned U.S. print magazine launched in",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wax-slang-for-record",
+      "term": "Wax (Slang for Record)",
+      "summary": "'**noun / slang.** Hip-hop, DJ, and collector **slang for vinyl records in",
+      "tags": [
+        "dj-related",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wax-stamp-promo-gold-stamp-promo",
+      "term": "Wax-Stamp Promo",
+      "summary": "**noun / promo-mark style.**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "weight-clamp-record-weight",
+      "term": "Weight-Clamp",
+      "summary": "**noun / playback accessory.**",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "western",
+      "term": "Western",
+      "summary": "'**Western** - A musical style within the Country genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wide-groove-78-rpm",
+      "term": "Wide-Groove",
+      "summary": "A **heavy puck or clamp placed on the record spindle to improve contact with",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wide-spindle-45-large-hole-single",
+      "term": "Wide-Spindle 45",
+      "summary": "'**noun / U.S. 45-RPM format.**A **seven-inch single with a 1.5-inch centre",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wing-flap-inner-sleeve",
+      "term": "Wing-Flap Inner Sleeve",
+      "summary": "'**noun / packaging style.** A **paper or poly-lined inner sleeve with two",
+      "tags": [
+        "pressing",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "world-music",
+      "term": "World Music",
+      "summary": "'**World Music** - A musical style within the Folk genre, classified according",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "world",
+      "term": "World",
+      "summary": "**World** - A broad musical genre classification from the Discogs taxonomy.",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wow-flutter",
+      "term": "Wow & Flutter",
+      "summary": "'**noun / turntable performance spec.** A **measurement of minute speed fluctuations**",
+      "tags": [
+        "equipment",
+        "pressing",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "wrap-around-gatefold",
+      "term": "Wrap-Around Gatefold",
+      "summary": "'**noun / jacket design.** A **gatefold sleeve whose artwork continues in",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "write-off-bin-cut-out-bin",
+      "term": "Write-Off Bin",
+      "summary": "'**noun / retail slang.** A **bargain bin of remaindered LPs marked by cut-corner,",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "x-cut-test-groove",
+      "term": "X-Cut Test Groove",
+      "summary": "X-Cut Test Groove",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "x-rated-cover-art",
+      "term": "X-Rated Cover Art",
+      "summary": "'**noun / mastering test.** A **trial lacquer groove cut in an ‘X’ pattern",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "x-y-stereo-pickup-test",
+      "term": "X-Y Stereo Pickup Test",
+      "summary": "'**noun / lab setup term.** A **test configuration where two cartridges are",
+      "tags": [
+        "equipment",
+        "collecting",
+        "technical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "y-groove-junction-run-out-crossover",
+      "term": "Y-Groove Junction",
+      "summary": "'**noun / cutting-room slang.** A **rare groove-geometry quirk where two",
+      "tags": [
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "y-splitter-rca-cable",
+      "term": "Y-Splitter RCA Cable",
+      "summary": "'**noun / cabling accessory.** A **cable or adapter that splits one RCA phono",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "yard-sale-find",
+      "term": "Yard-Sale Find",
+      "summary": "'**noun / collector slang.** A **record discovered at a yard sale, garage",
+      "tags": [
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "yellow-label-promo",
+      "term": "Yellow",
+      "summary": "'**noun / collector term.** A **promotional pressing distinguished by a yellow",
+      "tags": [
+        "dj-related",
+        "pressing",
+        "collecting"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "yes",
+      "term": "yes",
+      "summary": "A term used in vinyl culture to indicate agreement or confirmation",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "yoke-mount-cartridge",
+      "term": "Yoke-Mount Cartridge",
+      "summary": "'**noun / cartridge-body style.** A **cartridge whose generator assembly",
+      "tags": [
+        "equipment",
+        "dj-related"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zero-balance-tone-arm",
+      "term": "Zero-Balance Tone-Arm",
+      "summary": "'**noun / hi-fi setup feature.** A **tone-arm that’s first balanced to float",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zero-inner-groove-distortion-cut",
+      "term": "Zero-Inner-Groove-Distortion Cut",
+      "summary": "Zero-Inner-Groove-Distortion Cut",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zero-rumble-spec",
+      "term": "Zero-Rumble Spec",
+      "summary": "'**noun / deck spec slang.** A **marketing claim that a turntable’s measured",
+      "tags": [
+        "equipment"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zig-zag-groove-guard",
+      "term": "Zig-Zag Groove Guard",
+      "summary": "'**noun / packaging-mould feature.** A **slight zig-zag raised lip pattern",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zip-tone-pops-static-zip-noise",
+      "term": "Zip-Tone Pops",
+      "summary": "'**noun / playback noise slang.** A **crackly ‘zip-tone’ series of static",
+      "tags": [
+        "cultural"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zipper-cover-sleeve",
+      "term": "Zipper",
+      "summary": "'**noun / iconic jacket gimmick.** A **LP jacket featuring a real working",
+      "tags": [
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zone-cut-hot-zone-mastering",
+      "term": "Zone-Cut / Hot-Zone Mastering",
+      "summary": "'**noun / cutting-room slang.** A **lacquer cut optimised for a particular",
+      "tags": [
+        "pressing"
+      ],
+      "updated": "2026-01-05"
+    },
+    {
+      "slug": "zoo-label",
+      "term": "Zoo-Label Novelty 45",
+      "summary": "'**noun / collector nickname.** A **novelty-label 7-inch single released",
+      "tags": [
+        "pressing",
+        "collecting",
+        "historical"
+      ],
+      "updated": "2026-01-05"
+    }
+  ]
+}

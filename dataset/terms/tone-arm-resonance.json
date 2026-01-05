@@ -1,0 +1,19 @@
+{
+  "slug": "tone-arm-resonance",
+  "term": "Tone-Arm Resonance",
+  "summary": "noun / hi-fi performance spec. The natural resonant frequency created by",
+  "definition": "**noun / hi-fi performance spec.** The **natural resonant frequency created by the mass of the tone-arm and the compliance of the cartridge’s cantilever suspension** — ideally falls between 8-12 Hz to avoid rumble or audible bass-boost.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "cartridge-compliance",
+    "arm-mass-calculator",
+    "sub-sonic-filter"
+  ],
+  "regions": [
+    "US"
+  ]
+}

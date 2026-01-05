@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Waxly Term",
+  "description": "Minimal canonical vinyl terminology schema - v2.1",
+  "type": "object",
+  "version": "2.1.0",
+  "required": ["slug", "term", "summary", "definition", "tags", "created", "updated"],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "description": "Unique URL-friendly identifier (shortest possible, never includes alt terms)",
+      "pattern": "^[a-z0-9-]+$",
+      "minLength": 1,
+      "maxLength": 50
+    },
+    "term": {
+      "type": "string",
+      "description": "Canonical term name (display form)"
+    },
+    "pos": {
+      "type": "string",
+      "description": "Part of speech",
+      "enum": ["noun", "verb", "adjective", "adverb", "phrase"]
+    },
+    "pronunciation": {
+      "type": "string",
+      "description": "Phonetic pronunciation (IPA or simplified)"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Complete sentence short definition (≤25 words, never truncated)",
+      "maxLength": 200
+    },
+    "short_definition": {
+      "type": "string",
+      "description": "DEPRECATED: Use 'summary' instead",
+      "maxLength": 175
+    },
+    "definition": {
+      "type": "string",
+      "description": "Detailed explanation with context (recommended 50-300 words)",
+      "minLength": 50
+    },
+    "tags": {
+      "type": "array",
+      "description": "Category tags",
+      "items": {
+        "type": "string",
+        "enum": [
+          "equipment", "pressing", "mastering", "dj-related",
+          "collecting", "quality-control", "slang", "technical",
+          "historical", "cultural", "genre-specific", "regional"
+        ]
+      },
+      "minItems": 1
+    },
+    "created": {
+      "type": "string",
+      "format": "date",
+      "description": "Creation date (YYYY-MM-DD)"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Last update date (YYYY-MM-DD)"
+    },
+    "aliases": {
+      "type": "array",
+      "description": "Alternative names, spellings, and variants (never in slug/filename)",
+      "items": {"type": "string"}
+    },
+    "etymology": {
+      "type": "string",
+      "description": "Origin and historical development of the term"
+    },
+    "first_use": {
+      "type": "integer",
+      "description": "Year of first known usage",
+      "minimum": 1800,
+      "maximum": 2100
+    },
+    "see_also": {
+      "type": "array",
+      "description": "Related term slugs",
+      "items": {"type": "string"}
+    },
+    "regions": {
+      "type": "array",
+      "description": "Geographic regions where term is commonly used",
+      "items": {"type": "string"}
+    }
+  }
+}

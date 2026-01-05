@@ -1,0 +1,19 @@
+{
+  "slug": "balance-weight-tonearm",
+  "term": "Balance Weight",
+  "summary": "The counterweight at the rear of a tonearm used to set the proper tracking",
+  "definition": "The counterweight at the rear of a tonearm used to set the proper tracking force for the stylus.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "tracking-force",
+    "auxiliary-weight",
+    "anti-skate"
+  ],
+  "regions": [
+    "US"
+  ]
+}

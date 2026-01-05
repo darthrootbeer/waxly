@@ -1,0 +1,21 @@
+{
+  "slug": "jazz",
+  "term": "Jazz",
+  "summary": "**Jazz** - A broad musical genre classification from the Discogs taxonomy.",
+  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "tags": [
+    "cultural"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "bebop",
+    "cool-jazz",
+    "free-jazz",
+    "fusion",
+    "smooth-jazz"
+  ],
+  "regions": [
+    "global"
+  ]
+}

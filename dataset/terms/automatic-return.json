@@ -1,0 +1,19 @@
+{
+  "slug": "automatic-return",
+  "term": "Automatic Return",
+  "summary": "A mechanical or electronic feature on many consumer turntables that automatically",
+  "definition": "A mechanical or electronic feature on many consumer turntables that automatically lifts and returns the tonearm to its rest at the end of a side.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "cue-lever",
+    "semi-automatic",
+    "fully-manual"
+  ],
+  "regions": [
+    "US"
+  ]
+}

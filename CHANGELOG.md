@@ -1,242 +1,195 @@
 # Changelog
 
-All notable changes to the Vinyl Lexicon Project will be documented in this file.
+All notable changes to the Waxly project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+---
 
-### Planned
+## [2.0.0] - 2026-01-05
 
-- Complete migration from book format to wiki-style database
-- 500+ individual term files with rich metadata
-- Advanced search and filtering capabilities
-- Community contribution workflow
-- Record label database with parent/subsidiary relationships
-- Mobile app version
+### 🎉 Complete Rebuild - Waxly 2.0
 
-## [2.6.0] - 2025-10-07
-
-### Changed
-
-- **Rebranded to Waxly**: Complete rebrand from "Vinyl Lexicon" to "Waxly"
-  - New tagline: "The Language of Vinyl, Defined."
-  - Updated all documentation, configuration files, and site metadata
-  - New custom domain: hellowaxly.com
-  - Repository renamed from vinyl-lexicon to waxly
-- **Expanded Historical Coverage**: Extended timeline from 1940s to **1850s**
-  - Now covers complete history from 1857 phonautograph invention
-  - Added historical context for Edison phonograph (1877) and Berliner gramophone (1887)
-  - Schema updated to include eras: 1850s, 1860s, 1870s, 1880s, 1890s, 1900s, 1910s, 1920s, 1930s
-  - Landing page now prominently displays "Since 1857!"
-  - Documenting 168 years of recorded sound evolution
-- **GitHub Configuration**: 
-  - Repository visibility changed to public
-  - GitHub Pages enabled with GitHub Actions deployment
-  - Automated deployment workflow created and tested
-  - Site successfully deployed to https://darthrootbeer.github.io/waxly/
-- **Custom Styling**: 
-  - New dark record-sleeve-inspired aesthetic
-  - Custom CSS with Waxly brand colors (matte black #0a0a0a, warm gold #ffb400)
-  - Enhanced typography and navigation styling
-  - Brand-consistent design throughout site
+Waxly has been completely re-architected from a documentation site into a canonical, machine-readable vinyl terminology dataset optimized for AI, APIs, and long-term durability.
 
 ### Added
 
-- GitHub Actions workflow for automated deployment (`.github/workflows/deploy.yml`)
-- Custom Waxly CSS theme (`docs/assets/stylesheets/waxly.css`)
-- CNAME file for hellowaxly.com custom domain (`docs/CNAME`)
-- Deployment guide with DNS configuration instructions (`DEPLOYMENT_GUIDE.md`)
-- Deployment success summary (`DEPLOYMENT_SUCCESS.md`)
-- Historical timeline section in About page covering 1857-present
-- Nine additional decade options in schema (1850s through 1930s)
+**Infrastructure:**
+- Canonical JSON dataset format (567 terms)
+- Minimal, durable schema (7 required + 4 optional fields)
+- Serverless REST API (4 endpoints)
+- Custom static site generator (Node.js + Handlebars)
+- GitHub Actions CI/CD workflow
+- Dataset validation tooling
 
-### Fixed
+**API Endpoints:**
+- `GET /v1/term/{slug}` - Retrieve single term
+- `GET /v1/terms` - List all terms with filtering
+- `GET /v1/search?q=` - Full-text search
+- `GET /v1/random` - Random term discovery
 
-- Removed `--strict` flag from build to allow deployment with link warnings
-- Updated all GitHub repository URLs in documentation
-- Configured MkDocs for new domain and branding
+**Documentation:**
+- Fresh README with complete API reference
+- CONTRIBUTING.md guide for community contributions
+- docs/API.md comprehensive API documentation
+- dataset/LICENSE.md (CC BY-SA 4.0)
 
-## [2.5.0] - 2025-10-07
+**Features:**
+- Edge-cached API (<100ms response times)
+- CORS-enabled for browser access
+- Mobile-first responsive design
+- A-Z browse functionality
+- Tag-based categorization
+- Cross-reference linking between terms
 
 ### Changed
 
-- **Site Simplification**: Transformed site into Wikipedia-style public resource
-  - Landing page (index.md) now focuses solely on content access
-  - Removed technical language about pull requests, installations, and development setup
-  - Moved project meta-information, statistics, and architecture details to About page
-- **Documentation Updates**:
-  - Simplified contribute.md to remove Git commands and technical workflows
-  - Updated README.md to be less developer-focused
-  - Updated CONTRIBUTING.md to emphasize accessibility over technical process
-- **User Experience**: Site now presents as a clean reference resource rather than a developer project
+**Architecture:**
+- Switched from Python/MkDocs to Node.js
+- Moved from Markdown+YAML to pure JSON
+- Changed from site-first to dataset-first design
+- Simplified schema from 952 lines to 65 lines
+- Reduced from 40+ optional fields to 4
+
+**Technology Stack:**
+- **From:** Python + MkDocs + Material theme
+- **To:** Node.js + Handlebars + Vercel
+
+**Repository Structure:**
+- **From:** `docs/`, `scripts/`, `schema/`, `site/`, `venv/`
+- **To:** `dataset/`, `api/`, `site/`, `tools/`
 
 ### Removed
 
-- Technical setup instructions from main documentation
-- Git workflow and command references from public-facing pages
-- Developer-centric language from landing and contribute pages
+**Legacy Infrastructure:**
+- Entire MkDocs documentation system
+- 27 Python scripts (replaced with 3 Node.js scripts)
+- 952-line bloated schema
+- Python virtual environment
+- Pre-commit hooks (Python-based)
 
-## [2.4.0] - 2025-10-06
+**Generated Bloat (7.3MB):**
+- JSON-LD semantic web files (475 files, 2.5MB)
+- Markdown export duplicates (476 files, 2.8MB)
+- Manual redirect files (348 files, 2.0MB)
 
-### Added
+**Configuration Files:**
+- mkdocs.yml
+- requirements.txt
+- .pre-commit-config.yaml
+- .markdownlint.json
 
-- **Individual Discogs Genre & Style Entries**: Created 96 individual lexicon entries for all Discogs genres and styles instead of using enum fields
-- **Cultural Sensitivity System**: Comprehensive system for handling inappropriate or offensive terms with warnings and user controls
-- **User Preference System**: Checkbox-based controls for displaying sensitive content with age verification (18+)
-- **Content Obscuration Methods**: 6 different ways to hide/reveal sensitive content (blur, censor, hover_reveal, click_reveal, expandable, none)
-- **Age Verification System**: 18+ checkbox requirement for mature content with automatic filtering
-- **Persistent User Preferences**: localStorage-based preference system that remembers user choices across sessions
-- **Automated Sensitivity Detection**: Script to scan all 568 terms and identify potential sensitivity issues
-- **Regional Variations Field**: New schema field for regional names, variations, and slang terms with geographic context
-- **ISO-8601 Datetime Fields**: Updated `created` and `updated` fields to use proper datetime format with timezone support
-- **Discogs API Integration Framework**: Prepared infrastructure for v3.0 automated sync with Discogs database
+**Speculative Features:**
+- AI metadata fields
+- Market pricing data
+- Translation support (8 languages)
+- Media attachments
+- Cultural sensitivity system
+- User ratings
+- Discussion forums
+- Knowledge graph relationships
 
-### Changed
+**Documentation:**
+- 14 legacy documentation files
+- Fantasy roadmap (TODO.md with AI/ML plans)
 
-- **Schema Structure**: Converted genres and styles from enum fields to references to individual lexicon entries
-- **Field Visibility System**: All fields now visible by default with proper documentation
-- **Term Validation**: Enhanced validation with cultural sensitivity and age restriction support
-- **Documentation**: Updated all guides to reflect new field structure and sensitivity handling
+### Performance
 
-### Fixed
+**Repository Size:**
+- Before: ~120MB
+- After: ~69MB
+- Reduction: 43%
 
-- **Field Display Issues**: Resolved problem where "aka" field wasn't showing due to visibility configuration
-- **Schema Consistency**: Ensured all new fields are properly integrated into validation and display systems
-- **Cultural Sensitivity Handling**: Proper warnings and context for historically inappropriate terminology
+**File Count:**
+- Before: ~5,700 files
+- After: ~1,420 files
+- Reduction: 75%
 
-### Technical
+**Complexity:**
+- Schema: 93% reduction (952 → 65 lines)
+- Scripts: 89% reduction (27 → 3 files)
+- Directories: 70% reduction (30+ → 9)
 
-- **New Scripts**: `generate_discogs_entries.py`, `check_cultural_sensitivity.py`, `discogs_sync.py`
-- **New Templates**: `sensitive_content.html`, `sensitivity_preferences.html`, `sensitivity_nav.html`
-- **Enhanced Schema**: Added `cultural_sensitivity` and `regional_variations` objects with comprehensive validation
-- **User Interface**: Complete preference system with real-time updates and persistent storage
+### Migration Notes
 
-## [2.3.0] - 2025-10-06
+**Breaking Changes:**
+- Complete API redesign (no backward compatibility with v1.x)
+- New URL structure for terms
+- Different data format (JSON instead of Markdown)
 
-### Added
+**Data Preservation:**
+- All 567 term definitions preserved
+- Content quality maintained
+- Cross-references intact
 
-- **MkDocs Integration**: Complete documentation site with Material theme
-- **Pagefind Search**: Advanced search functionality for the documentation site
-- **AI Integration**: Advanced AI features for content processing and enhancement
-- **Autolinking System**: Automatic cross-reference linking between terms
-- **Pre-commit Hooks**: Automated validation and quality control system
-- **Letter and Tag Hub Pages**: Automatic generation of navigation hub pages
-- **Enhanced Validation**: Comprehensive validation system for content quality
-
-### Changed
-
-- **Documentation Structure**: Streamlined README, CONTRIBUTING, and STATUS files
-- **Site Display**: Fixed navigation and display issues
-- **Version Management**: Improved semantic versioning and version management tools
-
-### Fixed
-
-- **Site Navigation**: Resolved display and navigation issues
-- **Validation Issues**: Fixed content validation problems
-- **GitHub Pages**: Removed GitHub Pages configuration and references
-
-## [2.2.0] - 2025-10-06
-
-### Added
-
-- **MkDocs Setup**: Initial MkDocs configuration with Material theme
-- **Hub Page Generation**: Automatic generation of letter and tag hub pages
-- **Cross-Reference Autolinking**: Script for automatic cross-reference linking
-
-### Changed
-
-- **Documentation**: Refined contributor documentation and guidelines
-- **Project Structure**: Enhanced project organization and file structure
-
-### Fixed
-
-- **Validation**: Fixed various validation issues throughout the project
-
-## [2.1.0] - 2025-10-06
-
-### Added
-
-- **Enhanced Schema**: Added 8 new advanced metadata field groups:
-  - `technical_specs` - Physical dimensions, materials, manufacturing details
-  - `historical_timeline` - Introduction year, peak/decline eras, notable examples
-  - `cultural_impact` - Collector value, rarity, condition sensitivity, preservation
-  - `relationships` - Parent/child concepts, requires/enables/conflicts relationships
-  - `usage_context` - Use cases, best practices, avoid-when scenarios
-  - `quality_indicators` - Grading factors, common defects, restoration info
-  - `market_data` - Price premium, demand, investment potential
-  - `advanced_search` - Keywords, related artists, related labels
-- **Discogs Integration**: Implemented Discogs genre/style taxonomy with 16 official genres
-- **Field Visibility System**: Global defaults with per-term overrides for clean UX
-- **Media Implementation Guide**: Comprehensive guide for image and media assets
-- **`aka` Field**: New field for storing alternate terms (e.g., "Groove Banding" for "Banding")
-
-### Changed
-
-- **Clean URLs**: Removed descriptive suffixes from slugs (e.g., `auxiliary-weight-dj-slang-slug` → `auxiliary-weight`)
-- **Term Names**: Cleaned 270 terms with alternate names in titles (e.g., "Banding (Groove Banding)" → "Banding")
-- **Schema Structure**: Enhanced with comprehensive metadata fields for rich content
-- **File Organization**: Removed duplicate backup files and legacy content (~25MB saved)
-
-### Fixed
-
-- **Slug Consistency**: All slugs now contain only primary term names
-- **Alternate Terms**: Moved from titles to dedicated `aka` field
-- **File Structure**: Removed cruft and duplicate files from project
-- **Cross-References**: Updated redirects for cleaned up slugs
-
-### Removed
-
-- **Legacy Files**: Removed 4 duplicate backup files (vinyl_lexicon*.md)
-- **Old Structure**: Removed legacy content/books/ directory
-- **Empty Directories**: Cleaned up unused docs/images/, docs/letters/, docs/tags/
-- **Legacy HTML**: Removed old index.html (replaced by MkDocs)
-
-## [2.0.0] - 2025-01-27
-
-### Added
-
-- **MAJOR RESTRUCTURING**: Wiki-style database architecture
-- Comprehensive restructuring plan with 25+ metadata fields per term
-- New directory structure: `docs/`, `data/`, `scripts/`, `schema/`, `api/`
-- Rich term schema with popularity, complexity, regional variations
-- Advanced metadata fields: equipment association, genre association, cultural significance
-- Quality control fields: verification status, contributor attribution, discussion threads
-- Multilingual support framework with translation fields
-- API-ready JSON export structure
-
-### Changed
-
-- **Architecture**: From book/chapter model to one-term-per-file structure
-- **Searchability**: Enhanced with rich metadata and cross-references
-- **Scalability**: Designed for thousands of terms with performance optimization
-- **Community Features**: Built-in contribution workflow and quality control
-- **Documentation**: Updated to reflect new wiki-style architecture
-
-### Planned Migration
-
-- Convert 500+ terms from 24 chapters to individual files
-- Generate automated navigation hubs (letters, tags)
-- Implement validation schemas and quality control
-- Deploy with MkDocs + Pagefind search (local development only)
-
-## [1.0.0] - 2025-01-27 (Initial Release)
-
-### Added
-
-- Initial project structure based on OA-MD best practices
-- Complete vinyl lexicon content with A-Z organization (500+ terms)
-- Professional documentation structure
-- Assets directory for web presentation materials
-- Tools directory for content processing utilities
-- Chapter-based organization for better navigation
-
-### Changed
-
-- Restructured from simple markdown files to organized book format
-- Implemented chapter-based organization for better navigation
+**Archive:**
+- Legacy v1.x code preserved in `archive/waxly-1.0` Git branch
 
 ---
 
-**Last Updated**: 2025-10-06
+## [1.x] - 2024-2025
+
+### Legacy Version (Archived)
+
+- MkDocs-based documentation site
+- Python build system
+- 568 terms in Markdown+YAML format
+- Material for MkDocs theme
+- Pagefind search integration
+- GitHub Pages deployment
+
+**Status:** Archived (see `archive/waxly-1.0` branch)
+
+---
+
+## Future Roadmap
+
+### Planned for 2.1.0
+- Enhanced search (fuzzy matching, relevance scoring)
+- Bulk export formats (CSV, SQLite)
+- API rate limiting (if needed)
+- Performance optimizations
+
+### Under Consideration
+- GraphQL API endpoint
+- Multilingual support (community-driven)
+- Audio pronunciation files (optional)
+- Historical timeline visualization
+
+### Not Planned
+- User accounts or authentication
+- Social features (likes, comments)
+- Monetization or paid tiers
+- Content management UI (Git-based workflow only)
+
+---
+
+## Versioning Strategy
+
+**Major versions (X.0.0):**
+- Breaking API changes
+- Major architectural changes
+- Schema breaking changes
+
+**Minor versions (2.X.0):**
+- New API endpoints
+- New features
+- Schema additions (backward compatible)
+
+**Patch versions (2.0.X):**
+- Bug fixes
+- Performance improvements
+- Documentation updates
+
+---
+
+## Links
+
+- **Repository:** https://github.com/waxly/waxly
+- **API Docs:** https://github.com/waxly/waxly/blob/main/docs/API.md
+- **License:** CC BY-SA 4.0 (dataset) / MIT (code)
+
+---
+
+**Waxly - The Language of Vinyl, Defined**

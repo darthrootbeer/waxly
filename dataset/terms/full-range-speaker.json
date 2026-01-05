@@ -1,0 +1,19 @@
+{
+  "slug": "full-range-speaker",
+  "term": "Full-Range Speaker",
+  "summary": "A speaker driver designed to reproduce as much of the audible frequency spectrum",
+  "definition": "A speaker driver designed to reproduce as much of the audible frequency spectrum as possible from a single cone — common in vintage mono console stereos.",
+  "tags": [
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "coaxial-speaker",
+    "two-way",
+    "acoustic-suspension"
+  ],
+  "regions": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "binaural-recording",
+  "term": "Binaural Recording",
+  "summary": "A recording technique using two microphones spaced roughly like human ears",
+  "definition": "A recording technique using two microphones spaced roughly like human ears — intended for playback over headphones but fascinating on high-resolution vinyl.",
+  "tags": [
+    "pressing",
+    "collecting"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "stereo",
+    "quadraphonic",
+    "dummy-head-mic"
+  ],
+  "regions": [
+    "US"
+  ]
+}

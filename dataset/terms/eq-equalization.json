@@ -1,0 +1,20 @@
+{
+  "slug": "eq-equalization",
+  "term": "E.Q. (Equalization)",
+  "summary": "noun / abbreviation. The process of adjusting frequency balance during recording,",
+  "definition": "**noun / abbreviation.** The process of adjusting frequency balance during recording, mastering, or playback to achieve the desired tonal curve. Every vinyl record requires a specific playback EQ — usually the RIAA curve — to restore proper bass and treble.",
+  "tags": [
+    "dj-related",
+    "pressing"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "riaa-curve",
+    "preamp",
+    "tone-control"
+  ],
+  "regions": [
+    "US"
+  ]
+}

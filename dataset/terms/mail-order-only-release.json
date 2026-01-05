@@ -1,0 +1,19 @@
+{
+  "slug": "mail-order-only-release",
+  "term": "Mail-Order-Only Release",
+  "summary": "A record sold exclusively through ads in magazines, fanzines, or TV commercials",
+  "definition": "A record sold exclusively through ads in magazines, fanzines, or TV commercials and shipped by post — never stocked in stores.",
+  "tags": [
+    "cultural"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "fanzine",
+    "order-form-insert",
+    "private-press"
+  ],
+  "regions": [
+    "US"
+  ]
+}

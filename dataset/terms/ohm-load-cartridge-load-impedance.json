@@ -1,0 +1,21 @@
+{
+  "slug": "ohm-load-cartridge-load-impedance",
+  "term": "Ohm Load (Cartridge Load Impedance)",
+  "summary": "'**noun / technical.** The input impedance — expressed in ohms — that a phono",
+  "definition": "**noun / technical.** The input impedance — expressed in ohms — that a phono stage presents to a cartridge; critical for matching MC cartridges (often 100Ω–500Ω) and affecting frequency response.",
+  "tags": [
+    "equipment",
+    "pressing",
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "moving-coil-cartridge",
+    "phono-stage",
+    "capacitance-loading"
+  ],
+  "regions": [
+    "US"
+  ]
+}

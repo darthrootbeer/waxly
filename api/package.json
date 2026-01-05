@@ -1,0 +1,9 @@
+{
+  "name": "waxly-api",
+  "version": "2.0.0",
+  "description": "Waxly API - Serverless vinyl terminology API",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}

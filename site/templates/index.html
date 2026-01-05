@@ -1,0 +1,39 @@
+<h1>Welcome to Waxly</h1>
+
+<p style="font-size: 1.2em; margin: 30px 0;">
+  A canonical, open, machine-readable vinyl terminology dataset covering {{total}} terms from the phonautograph (1857) to modern vinyl culture.
+</p>
+
+<h2>What is Waxly?</h2>
+
+<p>Waxly is infrastructure, not a product. It's a single source of truth for vinyl terminology, designed for:</p>
+
+<ul style="margin: 20px 0; line-height: 2;">
+  <li><strong>AI & LLMs</strong> - Machine-readable, structured data</li>
+  <li><strong>Developers</strong> - Free public API at <code>/v1/</code></li>
+  <li><strong>Researchers</strong> - Open dataset (CC BY-SA 4.0)</li>
+  <li><strong>Humans</strong> - Fast, accessible terminology reference</li>
+</ul>
+
+<h2>Browse Terms</h2>
+
+<p style="margin: 20px 0;">
+  <a href="/browse.html" style="font-size: 1.1em; font-weight: 500;">Browse all {{total}} terms alphabetically →</a>
+</p>
+
+<p style="margin: 20px 0;">
+  <a href="/tags.html" style="font-size: 1.1em; font-weight: 500;">Explore by category/tag →</a>
+</p>
+
+<h2>API Access</h2>
+
+<p>Free, open, read-only API:</p>
+
+<pre style="background: #f5f5f5; padding: 15px; border-radius: 4px; overflow-x: auto; margin: 20px 0;">
+GET /v1/term/{slug}    # Get single term
+GET /v1/terms          # List all terms
+GET /v1/search?q=      # Search terms
+GET /v1/random         # Random term
+</pre>
+
+<p>Full documentation: <a href="https://github.com/waxly/waxly">GitHub README</a></p>

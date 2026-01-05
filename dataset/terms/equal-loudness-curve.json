@@ -1,0 +1,20 @@
+{
+  "slug": "equal-loudness-curve",
+  "term": "Equal-Loudness Curve",
+  "summary": "A frequency-response graph (e.g., Fletcher-Munson) showing how human hearing",
+  "definition": "A frequency-response graph (e.g., [Fletcher](../f/fletcher-munson-curve.md)-Munson) showing how human hearing perceives bass/treble at different volumes — influences mastering and tone-control design for vinyl playback.",
+  "tags": [
+    "pressing",
+    "historical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "tone-control",
+    "riaa-curve",
+    "fletcher-munson"
+  ],
+  "regions": [
+    "US"
+  ]
+}

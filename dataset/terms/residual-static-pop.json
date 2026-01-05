@@ -1,0 +1,19 @@
+{
+  "slug": "residual-static-pop",
+  "term": "Residual Static Pop",
+  "summary": "'**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric",
+  "definition": "**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric discharge** when the stylus first touches or leaves the groove.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "dust-pop-filter",
+    "anti-static-brush",
+    "humidifier-tweak"
+  ],
+  "regions": [
+    "US"
+  ]
+}

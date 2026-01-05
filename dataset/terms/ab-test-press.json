@@ -1,0 +1,20 @@
+{
+  "slug": "ab-test-press",
+  "term": "A/B Test Press",
+  "summary": "A preliminary batch of records pressed by a plant in two slightly different",
+  "definition": "A preliminary batch of records pressed by a plant in two slightly different ways — for example, using different lacquers, vinyl compounds, or groove depths — to compare sound quality before committing to a full run.",
+  "tags": [
+    "pressing",
+    "collecting"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "test-press",
+    "lacquer-cut",
+    "first-pressing"
+  ],
+  "regions": [
+    "US"
+  ]
+}

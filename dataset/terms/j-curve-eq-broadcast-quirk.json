@@ -1,0 +1,19 @@
+{
+  "slug": "j-curve-eq-broadcast-quirk",
+  "term": "J-Curve EQ",
+  "summary": "noun / technical slang. A non-standard early-broadcast equalization curve",
+  "definition": "**noun / technical slang.** A non-standard early-broadcast equalization curve used by some European stations pre-RIAA, reputedly shaped like the letter “J” on frequency graphs — today mainly an archivist’s footnote.",
+  "tags": [
+    "technical"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "riaa-curve",
+    "nab-eq",
+    "turnover-frequency"
+  ],
+  "regions": [
+    "US"
+  ]
+}

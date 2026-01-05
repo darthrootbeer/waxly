@@ -1,0 +1,20 @@
+{
+  "slug": "discogs",
+  "term": "Discogs",
+  "summary": "'**noun / proper name.** An online global database and marketplace for vinyl,",
+  "definition": "**noun / proper name.** An online global database and marketplace for vinyl, CDs, and tapes—vital for catalog numbers, pressing info, and resale.",
+  "tags": [
+    "pressing",
+    "collecting"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "cat-no",
+    "matrix-number",
+    "marketplace-grading"
+  ],
+  "regions": [
+    "US"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cabinet-rumble",
+  "term": "Cabinet Rumble",
+  "summary": "Low-frequency resonance transmitted from a speaker cabinet or furniture into",
+  "definition": "Low-frequency resonance transmitted from a speaker cabinet or furniture into the turntable, causing audible woofer flutter or muddy bass.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "acoustic-feedback",
+    "plinth",
+    "isolation-feet"
+  ],
+  "regions": [
+    "US"
+  ]
+}

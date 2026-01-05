@@ -1,0 +1,19 @@
+{
+  "slug": "belt-drive-turntable",
+  "term": "Belt-Drive Turntable",
+  "summary": "A turntable whose platter is spun by an elastic belt connecting it to a motor",
+  "definition": "A turntable whose platter is spun by an elastic belt connecting it to a motor pulley — prized for vibration isolation but slower to start/stop than direct-drive.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "direct-drive",
+    "idler-wheel",
+    "wow-flutter"
+  ],
+  "regions": [
+    "US"
+  ]
+}

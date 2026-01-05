@@ -1,0 +1,19 @@
+{
+  "slug": "elliptical-stylus",
+  "term": "Elliptical Stylus",
+  "summary": "A stylus tip shaped like a tiny ellipse rather than a sphere, allowing better",
+  "definition": "A stylus tip shaped like a tiny ellipse rather than a sphere, allowing better contact with groove walls for higher-frequency tracking and reduced distortion.",
+  "tags": [
+    "equipment"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "conical-stylus",
+    "micro-line",
+    "tracking-angle"
+  ],
+  "regions": [
+    "US"
+  ]
+}

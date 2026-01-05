@@ -1,0 +1,21 @@
+{
+  "slug": "cartridge",
+  "term": "Cartridge",
+  "summary": "The removable electro-mechanical pickup at the end of a tonearm that holds",
+  "definition": "The removable electro-mechanical pickup at the end of a tonearm that holds the stylus and converts groove vibrations into electrical signals.",
+  "tags": [
+    "equipment",
+    "dj-related",
+    "collecting"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-05",
+  "see_also": [
+    "stylus",
+    "headshell",
+    "tracking-force"
+  ],
+  "regions": [
+    "US"
+  ]
+}

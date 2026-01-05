@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{#if pageTitle}}{{pageTitle}} - {{/if}}Waxly</title>
+  <meta name="description" content="{{#if description}}{{description}}{{else}}The Language of Vinyl, Defined{{/if}}">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/" style="color: inherit; text-decoration: none;">Waxly</a></h1>
+    <p>The Language of Vinyl, Defined</p>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/browse.html">Browse A-Z</a>
+      <a href="/tags.html">Tags</a>
+    </nav>
+  </header>
+
+  <main>
+    {{{content}}}
+  </main>
+
+  <footer>
+    <p>Waxly v2.0 - Open vinyl terminology dataset</p>
+    <p><a href="https://github.com/waxly/waxly">GitHub</a> | Dataset licensed under CC BY-SA 4.0</p>
+  </footer>
+</body>
+</html>
