@@ -1,0 +1,2093 @@
+{
+  "plan": [
+    {
+      "oldSlug": "nab-eq-national-association-of-broadcasters-equalization",
+      "newSlug": "nab-eq",
+      "oldFile": "nab-eq-national-association-of-broadcasters-equalization.json",
+      "newFile": "nab-eq.json",
+      "term": "NAB EQ (National Association of Broadcasters Equalization)",
+      "savings": 50
+    },
+    {
+      "oldSlug": "single-step-plating-direct-metal-mastering-style",
+      "newSlug": "single-step",
+      "oldFile": "single-step-plating-direct-metal-mastering-style.json",
+      "newFile": "single-step.json",
+      "term": "Single-Step Plating",
+      "savings": 37
+    },
+    {
+      "oldSlug": "one-step-pressing-aka-supervinyl-one-step",
+      "newSlug": "one-step",
+      "oldFile": "one-step-pressing-aka-supervinyl-one-step.json",
+      "newFile": "one-step.json",
+      "term": "One-Step Pressing",
+      "savings": 33
+    },
+    {
+      "oldSlug": "oversized-13-inch-disc-transcription-promo",
+      "newSlug": "oversized",
+      "oldFile": "oversized-13-inch-disc-transcription-promo.json",
+      "newFile": "oversized.json",
+      "term": "Oversized 13-Inch Disc",
+      "savings": 33
+    },
+    {
+      "oldSlug": "return-to-jacket-sleeve-archival-practice",
+      "newSlug": "return-to",
+      "oldFile": "return-to-jacket-sleeve-archival-practice.json",
+      "newFile": "return-to.json",
+      "term": "Return-to-Jacket Sleeve",
+      "savings": 32
+    },
+    {
+      "oldSlug": "sound-wave-etching-visual-wave-jacket-art",
+      "newSlug": "sound-wave",
+      "oldFile": "sound-wave-etching-visual-wave-jacket-art.json",
+      "newFile": "sound-wave.json",
+      "term": "Sound-Wave Etching",
+      "savings": 31
+    },
+    {
+      "oldSlug": "quad-cut-stylus-cd-4-compatible-stylus",
+      "newSlug": "quad-cut",
+      "oldFile": "quad-cut-stylus-cd-4-compatible-stylus.json",
+      "newFile": "quad-cut.json",
+      "term": "Quad-Cut Stylus",
+      "savings": 30
+    },
+    {
+      "oldSlug": "shoulder-cut-sleeve-die-cut-display-sleeve",
+      "newSlug": "shoulder-cut",
+      "oldFile": "shoulder-cut-sleeve-die-cut-display-sleeve.json",
+      "newFile": "shoulder-cut.json",
+      "term": "Shoulder-Cut Sleeve",
+      "savings": 30
+    },
+    {
+      "oldSlug": "overdub-to-disc-direct-to-disc-overdub",
+      "newSlug": "overdub-to",
+      "oldFile": "overdub-to-disc-direct-to-disc-overdub.json",
+      "newFile": "overdub-to.json",
+      "term": "Overdub-to-Disc",
+      "savings": 28
+    },
+    {
+      "oldSlug": "quartz-lock-aka-quartz-synth-pitch-lock",
+      "newSlug": "quartz-lock",
+      "oldFile": "quartz-lock-aka-quartz-synth-pitch-lock.json",
+      "newFile": "quartz-lock.json",
+      "term": "Quartz-Lock (a.k.a. Quartz-Synth Pitch-Lock)",
+      "savings": 28
+    },
+    {
+      "oldSlug": "red-wax-pressing-red-vinyl-pressing",
+      "newSlug": "red-wax",
+      "oldFile": "red-wax-pressing-red-vinyl-pressing.json",
+      "newFile": "red-wax.json",
+      "term": "Red-Wax Pressing",
+      "savings": 28
+    },
+    {
+      "oldSlug": "sizzle-cymbal-test-audiophile-check-track",
+      "newSlug": "sizzle-cymbal",
+      "oldFile": "sizzle-cymbal-test-audiophile-check-track.json",
+      "newFile": "sizzle-cymbal.json",
+      "term": "Sizzle-Cymbal Test",
+      "savings": 28
+    },
+    {
+      "oldSlug": "tracking-angle-vertical-tracking-angle-vta",
+      "newSlug": "tracking-angle",
+      "oldFile": "tracking-angle-vertical-tracking-angle-vta.json",
+      "newFile": "tracking-angle.json",
+      "term": "Tracking Angle / Vertical Tracking Angle",
+      "savings": 28
+    },
+    {
+      "oldSlug": "king-size-16-inch-transcription-disc",
+      "newSlug": "king-size",
+      "oldFile": "king-size-16-inch-transcription-disc.json",
+      "newFile": "king-size.json",
+      "term": "King-Size 16-Inch Transcription Disc",
+      "savings": 27
+    },
+    {
+      "oldSlug": "reversible-picture-sleeve-double-sided-sleeve",
+      "newSlug": "reversible-picture",
+      "oldFile": "reversible-picture-sleeve-double-sided-sleeve.json",
+      "newFile": "reversible-picture.json",
+      "term": "Reversible Picture-Sleeve",
+      "savings": 27
+    },
+    {
+      "oldSlug": "riaa-curve-riaa-playback-equalization",
+      "newSlug": "riaa-curve",
+      "oldFile": "riaa-curve-riaa-playback-equalization.json",
+      "newFile": "riaa-curve.json",
+      "term": "RIAA Curve (RIAA Playback Equalization)",
+      "savings": 27
+    },
+    {
+      "oldSlug": "sacd-hybrid-disc-super-audio-cd-hybrid",
+      "newSlug": "sacd-hybrid",
+      "oldFile": "sacd-hybrid-disc-super-audio-cd-hybrid.json",
+      "newFile": "sacd-hybrid.json",
+      "term": "SACD Hybrid Disc",
+      "savings": 27
+    },
+    {
+      "oldSlug": "side-loader-sleeve-side-opening-sleeve",
+      "newSlug": "side-loader",
+      "oldFile": "side-loader-sleeve-side-opening-sleeve.json",
+      "newFile": "side-loader.json",
+      "term": "Side-Loader Sleeve",
+      "savings": 27
+    },
+    {
+      "oldSlug": "skip-guard-groove-raised-guard-groove",
+      "newSlug": "skip-guard",
+      "oldFile": "skip-guard-groove-raised-guard-groove.json",
+      "newFile": "skip-guard.json",
+      "term": "Skip-Guard Groove",
+      "savings": 27
+    },
+    {
+      "oldSlug": "transcription-disc-16-inch-transcription",
+      "newSlug": "transcription",
+      "oldFile": "transcription-disc-16-inch-transcription.json",
+      "newFile": "transcription.json",
+      "term": "Transcription Disc",
+      "savings": 27
+    },
+    {
+      "oldSlug": "un-banded-lp-continuous-groove-album",
+      "newSlug": "un-banded",
+      "oldFile": "un-banded-lp-continuous-groove-album.json",
+      "newFile": "un-banded.json",
+      "term": "Un-Banded LP",
+      "savings": 27
+    },
+    {
+      "oldSlug": "y-groove-junction-run-out-crossover",
+      "newSlug": "y-groove",
+      "oldFile": "y-groove-junction-run-out-crossover.json",
+      "newFile": "y-groove.json",
+      "term": "Y-Groove Junction",
+      "savings": 27
+    },
+    {
+      "oldSlug": "lacquer-over-aluminum-disc-transcription-pre-lp",
+      "newSlug": "lacquer-over-aluminum",
+      "oldFile": "lacquer-over-aluminum-disc-transcription-pre-lp.json",
+      "newFile": "lacquer-over-aluminum.json",
+      "term": "Lacquer-Over-Aluminum Disc",
+      "savings": 26
+    },
+    {
+      "oldSlug": "protective-poly-outer-japanese-resealable",
+      "newSlug": "protective-poly",
+      "oldFile": "protective-poly-outer-japanese-resealable.json",
+      "newFile": "protective-poly.json",
+      "term": "Protective Poly Outer",
+      "savings": 26
+    },
+    {
+      "oldSlug": "sound-system-special-dub-plate-special",
+      "newSlug": "sound-system",
+      "oldFile": "sound-system-special-dub-plate-special.json",
+      "newFile": "sound-system.json",
+      "term": "Sound-System Special",
+      "savings": 26
+    },
+    {
+      "oldSlug": "speed-box-external-speed-controller",
+      "newSlug": "speed-box",
+      "oldFile": "speed-box-external-speed-controller.json",
+      "newFile": "speed-box.json",
+      "term": "Speed-Box / External Speed Controller",
+      "savings": 26
+    },
+    {
+      "oldSlug": "top-loader-sleeve-top-opening-jacket",
+      "newSlug": "top-loader",
+      "oldFile": "top-loader-sleeve-top-opening-jacket.json",
+      "newFile": "top-loader.json",
+      "term": "Top-Loader Sleeve",
+      "savings": 26
+    },
+    {
+      "oldSlug": "track-listing-sticker-song-hype-sticker",
+      "newSlug": "track-listing",
+      "oldFile": "track-listing-sticker-song-hype-sticker.json",
+      "newFile": "track-listing.json",
+      "term": "Track-Listing Sticker",
+      "savings": 26
+    },
+    {
+      "oldSlug": "ohm-load-cartridge-load-impedance",
+      "newSlug": "ohm-load",
+      "oldFile": "ohm-load-cartridge-load-impedance.json",
+      "newFile": "ohm-load.json",
+      "term": "Ohm Load (Cartridge Load Impedance)",
+      "savings": 25
+    },
+    {
+      "oldSlug": "phono-pre-amp-external-or-built-in",
+      "newSlug": "phono-pre",
+      "oldFile": "phono-pre-amp-external-or-built-in.json",
+      "newFile": "phono-pre.json",
+      "term": "Phono Pre-Amp",
+      "savings": 25
+    },
+    {
+      "oldSlug": "re-grind-vinyl-re-ground-compound",
+      "newSlug": "re-grind",
+      "oldFile": "re-grind-vinyl-re-ground-compound.json",
+      "newFile": "re-grind.json",
+      "term": "Re-Grind Vinyl",
+      "savings": 25
+    },
+    {
+      "oldSlug": "sintered-bronze-bearing-tone-arm-platter",
+      "newSlug": "sintered-bronze",
+      "oldFile": "sintered-bronze-bearing-tone-arm-platter.json",
+      "newFile": "sintered-bronze.json",
+      "term": "Sintered Bronze Bearing",
+      "savings": 25
+    },
+    {
+      "oldSlug": "under-run-pressing-short-run-press",
+      "newSlug": "under-run",
+      "oldFile": "under-run-pressing-short-run-press.json",
+      "newFile": "under-run.json",
+      "term": "Under-Run Pressing",
+      "savings": 25
+    },
+    {
+      "oldSlug": "upscale-re-press-audiophile-reissue",
+      "newSlug": "upscale-re",
+      "oldFile": "upscale-re-press-audiophile-reissue.json",
+      "newFile": "upscale-re.json",
+      "term": "Upscale Re-Press",
+      "savings": 25
+    },
+    {
+      "oldSlug": "velvet-dust-brush-velvet-pad-cleaner",
+      "newSlug": "velvet-dust",
+      "oldFile": "velvet-dust-brush-velvet-pad-cleaner.json",
+      "newFile": "velvet-dust.json",
+      "term": "Velvet Dust Brush",
+      "savings": 25
+    },
+    {
+      "oldSlug": "vertical-cut-groove-hill-and-dale-cut",
+      "newSlug": "vertical-cut",
+      "oldFile": "vertical-cut-groove-hill-and-dale-cut.json",
+      "newFile": "vertical-cut.json",
+      "term": "Vertical-Cut Groove",
+      "savings": 25
+    },
+    {
+      "oldSlug": "polylined-rice-paper-sleeve-mofi-style",
+      "newSlug": "polylined-rice",
+      "oldFile": "polylined-rice-paper-sleeve-mofi-style.json",
+      "newFile": "polylined-rice.json",
+      "term": "Polylined Rice-Paper Sleeve",
+      "savings": 24
+    },
+    {
+      "oldSlug": "portable-record-changer-suitcase-player",
+      "newSlug": "portable-record",
+      "oldFile": "portable-record-changer-suitcase-player.json",
+      "newFile": "portable-record.json",
+      "term": "Portable Record Changer",
+      "savings": 24
+    },
+    {
+      "oldSlug": "small-hole-45-standard-hole-single",
+      "newSlug": "small-hole",
+      "oldFile": "small-hole-45-standard-hole-single.json",
+      "newFile": "small-hole.json",
+      "term": "Small-Hole 45",
+      "savings": 24
+    },
+    {
+      "oldSlug": "time-code-vinyl-dvs-control-vinyl",
+      "newSlug": "time-code",
+      "oldFile": "time-code-vinyl-dvs-control-vinyl.json",
+      "newFile": "time-code.json",
+      "term": "Time-Code Vinyl",
+      "savings": 24
+    },
+    {
+      "oldSlug": "tracking-test-record-torture-track-lp",
+      "newSlug": "tracking-test",
+      "oldFile": "tracking-test-record-torture-track-lp.json",
+      "newFile": "tracking-test.json",
+      "term": "Tracking-Test Record",
+      "savings": 24
+    },
+    {
+      "oldSlug": "wash-clean-method-wet-play-vintage",
+      "newSlug": "wash-clean",
+      "oldFile": "wash-clean-method-wet-play-vintage.json",
+      "newFile": "wash-clean.json",
+      "term": "Wash-Clean Method / Wet-Play",
+      "savings": 24
+    },
+    {
+      "oldSlug": "knife-edge-bearing-tonearm-design",
+      "newSlug": "knife-edge",
+      "oldFile": "knife-edge-bearing-tonearm-design.json",
+      "newFile": "knife-edge.json",
+      "term": "Knife-Edge Bearing",
+      "savings": 23
+    },
+    {
+      "oldSlug": "knock-on-rumble-feedback-rumble",
+      "newSlug": "knock-on",
+      "oldFile": "knock-on-rumble-feedback-rumble.json",
+      "newFile": "knock-on.json",
+      "term": "Knock-On Rumble",
+      "savings": 23
+    },
+    {
+      "oldSlug": "private-press-private-label-pressing",
+      "newSlug": "private-press",
+      "oldFile": "private-press-private-label-pressing.json",
+      "newFile": "private-press.json",
+      "term": "Private-Press",
+      "savings": 23
+    },
+    {
+      "oldSlug": "resonance-control-footers-isolation-feet",
+      "newSlug": "resonance-control",
+      "oldFile": "resonance-control-footers-isolation-feet.json",
+      "newFile": "resonance-control.json",
+      "term": "Resonance Control Footers",
+      "savings": 23
+    },
+    {
+      "oldSlug": "saw-cut-notch-saw-mark-cut-out",
+      "newSlug": "saw-cut",
+      "oldFile": "saw-cut-notch-saw-mark-cut-out.json",
+      "newFile": "saw-cut.json",
+      "term": "Saw-Cut Notch",
+      "savings": 23
+    },
+    {
+      "oldSlug": "slow-cut-lacquer-wide-pitch-cut",
+      "newSlug": "slow-cut",
+      "oldFile": "slow-cut-lacquer-wide-pitch-cut.json",
+      "newFile": "slow-cut.json",
+      "term": "Slow-Cut Lacquer",
+      "savings": 23
+    },
+    {
+      "oldSlug": "speed-pull-idler-pitch-pull-idler",
+      "newSlug": "speed-pull",
+      "oldFile": "speed-pull-idler-pitch-pull-idler.json",
+      "newFile": "speed-pull.json",
+      "term": "Speed-Pull Idler",
+      "savings": 23
+    },
+    {
+      "oldSlug": "track-banded-lp-banded-groove-album",
+      "newSlug": "track-banded",
+      "oldFile": "track-banded-lp-banded-groove-album.json",
+      "newFile": "track-banded.json",
+      "term": "Track-Banded LP",
+      "savings": 23
+    },
+    {
+      "oldSlug": "v-notch-jacket-cut-corner-mark",
+      "newSlug": "v-notch",
+      "oldFile": "v-notch-jacket-cut-corner-mark.json",
+      "newFile": "v-notch.json",
+      "term": "V-Notch Jacket",
+      "savings": 23
+    },
+    {
+      "oldSlug": "cleaning-solution-record-cleaning-fluid",
+      "newSlug": "cleaning-solution",
+      "oldFile": "cleaning-solution-record-cleaning-fluid.json",
+      "newFile": "cleaning-solution.json",
+      "term": "Cleaning Solution",
+      "savings": 22
+    },
+    {
+      "oldSlug": "ground-wire-turntable-ground-lead",
+      "newSlug": "ground-wire",
+      "oldFile": "ground-wire-turntable-ground-lead.json",
+      "newFile": "ground-wire.json",
+      "term": "Ground-Wire",
+      "savings": 22
+    },
+    {
+      "oldSlug": "kerf-cut-groove-lathe-artifact",
+      "newSlug": "kerf-cut",
+      "oldFile": "kerf-cut-groove-lathe-artifact.json",
+      "newFile": "kerf-cut.json",
+      "term": "Kerf-Cut Groove",
+      "savings": 22
+    },
+    {
+      "oldSlug": "mid-side-fold-down-mono-re-cut",
+      "newSlug": "mid-side",
+      "oldFile": "mid-side-fold-down-mono-re-cut.json",
+      "newFile": "mid-side.json",
+      "term": "Mid-Side Fold-Down",
+      "savings": 22
+    },
+    {
+      "oldSlug": "outer-ring-clamp-peripheral-ring",
+      "newSlug": "outer-ring",
+      "oldFile": "outer-ring-clamp-peripheral-ring.json",
+      "newFile": "outer-ring.json",
+      "term": "Outer-Ring Clamp",
+      "savings": 22
+    },
+    {
+      "oldSlug": "pencil-test-groove-studio-qc-term",
+      "newSlug": "pencil-test",
+      "oldFile": "pencil-test-groove-studio-qc-term.json",
+      "newFile": "pencil-test.json",
+      "term": "Pencil-Test Groove",
+      "savings": 22
+    },
+    {
+      "oldSlug": "shotgun-groove-wide-cut-disco-groove",
+      "newSlug": "shotgun-groove",
+      "oldFile": "shotgun-groove-wide-cut-disco-groove.json",
+      "newFile": "shotgun-groove.json",
+      "term": "Shotgun Groove",
+      "savings": 22
+    },
+    {
+      "oldSlug": "side-long-track-side-length-cut",
+      "newSlug": "side-long",
+      "oldFile": "side-long-track-side-length-cut.json",
+      "newFile": "side-long.json",
+      "term": "Side-Long Track",
+      "savings": 22
+    },
+    {
+      "oldSlug": "zero-inner-groove-distortion-cut",
+      "newSlug": "zero-inner",
+      "oldFile": "zero-inner-groove-distortion-cut.json",
+      "newFile": "zero-inner.json",
+      "term": "Zero-Inner-Groove-Distortion Cut",
+      "savings": 22
+    },
+    {
+      "oldSlug": "zip-tone-pops-static-zip-noise",
+      "newSlug": "zip-tone",
+      "oldFile": "zip-tone-pops-static-zip-noise.json",
+      "newFile": "zip-tone.json",
+      "term": "Zip-Tone Pops",
+      "savings": 22
+    },
+    {
+      "oldSlug": "hanging-groove-aka-suspended-groove",
+      "newSlug": "hanging-groove",
+      "oldFile": "hanging-groove-aka-suspended-groove.json",
+      "newFile": "hanging-groove.json",
+      "term": "Hanging Groove",
+      "savings": 21
+    },
+    {
+      "oldSlug": "hum-bucker-phono-cartridge-type",
+      "newSlug": "hum-bucker",
+      "oldFile": "hum-bucker-phono-cartridge-type.json",
+      "newFile": "hum-bucker.json",
+      "term": "Hum-Bucker",
+      "savings": 21
+    },
+    {
+      "oldSlug": "knock-out-center-dinked-center",
+      "newSlug": "knock-out",
+      "oldFile": "knock-out-center-dinked-center.json",
+      "newFile": "knock-out.json",
+      "term": "Knock-Out Center",
+      "savings": 21
+    },
+    {
+      "oldSlug": "net-weight-vinyl-biscuit-weight",
+      "newSlug": "net-weight",
+      "oldFile": "net-weight-vinyl-biscuit-weight.json",
+      "newFile": "net-weight.json",
+      "term": "Net-Weight",
+      "savings": 21
+    },
+    {
+      "oldSlug": "pre-echo-groove-print-through",
+      "newSlug": "pre-echo",
+      "oldFile": "pre-echo-groove-print-through.json",
+      "newFile": "pre-echo.json",
+      "term": "Pre-Echo (Groove-Print-Through)",
+      "savings": 21
+    },
+    {
+      "oldSlug": "q-up-auto-tone-arm-lifter",
+      "newSlug": "q-up",
+      "oldFile": "q-up-auto-tone-arm-lifter.json",
+      "newFile": "q-up.json",
+      "term": "Q-Up (Auto Tone-Arm Lifter)",
+      "savings": 21
+    },
+    {
+      "oldSlug": "repertoire-sticker-catalog-hype-sticker",
+      "newSlug": "repertoire-sticker",
+      "oldFile": "repertoire-sticker-catalog-hype-sticker.json",
+      "newFile": "repertoire-sticker.json",
+      "term": "Repertoire Sticker",
+      "savings": 21
+    },
+    {
+      "oldSlug": "three-sided-lp-hidden-side-album",
+      "newSlug": "three-sided",
+      "oldFile": "three-sided-lp-hidden-side-album.json",
+      "newFile": "three-sided.json",
+      "term": "Three-Sided LP",
+      "savings": 21
+    },
+    {
+      "oldSlug": "timing-strip-track-timing-sticker",
+      "newSlug": "timing-strip",
+      "oldFile": "timing-strip-track-timing-sticker.json",
+      "newFile": "timing-strip.json",
+      "term": "Timing Strip",
+      "savings": 21
+    },
+    {
+      "oldSlug": "vinyl-jacket-pvc-outer-bag-hazard",
+      "newSlug": "vinyl-jacket",
+      "oldFile": "vinyl-jacket-pvc-outer-bag-hazard.json",
+      "newFile": "vinyl-jacket.json",
+      "term": "Vinyl Jacket",
+      "savings": 21
+    },
+    {
+      "oldSlug": "wide-spindle-45-large-hole-single",
+      "newSlug": "wide-spindle",
+      "oldFile": "wide-spindle-45-large-hole-single.json",
+      "newFile": "wide-spindle.json",
+      "term": "Wide-Spindle 45",
+      "savings": 21
+    },
+    {
+      "oldSlug": "multi-groove-record-trick-groove",
+      "newSlug": "multi-groove",
+      "oldFile": "multi-groove-record-trick-groove.json",
+      "newFile": "multi-groove.json",
+      "term": "Multi-Groove Record",
+      "savings": 20
+    },
+    {
+      "oldSlug": "pop-guard-aka-dust-pop-filter",
+      "newSlug": "pop-guard",
+      "oldFile": "pop-guard-aka-dust-pop-filter.json",
+      "newFile": "pop-guard.json",
+      "term": "Pop-Guard (a.k.a. Dust-Pop Filter)",
+      "savings": 20
+    },
+    {
+      "oldSlug": "warped-record-dish-warp-edge-warp",
+      "newSlug": "warped-record",
+      "oldFile": "warped-record-dish-warp-edge-warp.json",
+      "newFile": "warped-record.json",
+      "term": "Warped Record",
+      "savings": 20
+    },
+    {
+      "oldSlug": "emi-electric-musical-industries",
+      "newSlug": "emi-electric",
+      "oldFile": "emi-electric-musical-industries.json",
+      "newFile": "emi-electric.json",
+      "term": "EMI (Electric & Musical Industries)",
+      "savings": 19
+    },
+    {
+      "oldSlug": "j-curve-eq-broadcast-quirk",
+      "newSlug": "j-curve",
+      "oldFile": "j-curve-eq-broadcast-quirk.json",
+      "newFile": "j-curve.json",
+      "term": "J-Curve EQ",
+      "savings": 19
+    },
+    {
+      "oldSlug": "jitter-digital-to-vinyl-transfers",
+      "newSlug": "jitter-digital",
+      "oldFile": "jitter-digital-to-vinyl-transfers.json",
+      "newFile": "jitter-digital.json",
+      "term": "Jitter (Digital",
+      "savings": 19
+    },
+    {
+      "oldSlug": "pop-out-center-aka-jukebox-spider",
+      "newSlug": "pop-out-center",
+      "oldFile": "pop-out-center-aka-jukebox-spider.json",
+      "newFile": "pop-out-center.json",
+      "term": "Pop-Out Center",
+      "savings": 19
+    },
+    {
+      "oldSlug": "push-out-center-uk-style-45",
+      "newSlug": "push-out",
+      "oldFile": "push-out-center-uk-style-45.json",
+      "newFile": "push-out.json",
+      "term": "Push-Out Center",
+      "savings": 19
+    },
+    {
+      "oldSlug": "short-spindle-adapter-45-adapter",
+      "newSlug": "short-spindle",
+      "oldFile": "short-spindle-adapter-45-adapter.json",
+      "newFile": "short-spindle.json",
+      "term": "Short-Spindle Adapter",
+      "savings": 19
+    },
+    {
+      "oldSlug": "un-dinked-45-solid-centre-45",
+      "newSlug": "un-dinked",
+      "oldFile": "un-dinked-45-solid-centre-45.json",
+      "newFile": "un-dinked.json",
+      "term": "Un-Dinked 45",
+      "savings": 19
+    },
+    {
+      "oldSlug": "x-y-stereo-pickup-test",
+      "newSlug": "x-y",
+      "oldFile": "x-y-stereo-pickup-test.json",
+      "newFile": "x-y.json",
+      "term": "X-Y Stereo Pickup Test",
+      "savings": 19
+    },
+    {
+      "oldSlug": "zone-cut-hot-zone-mastering",
+      "newSlug": "zone-cut",
+      "oldFile": "zone-cut-hot-zone-mastering.json",
+      "newFile": "zone-cut.json",
+      "term": "Zone-Cut / Hot-Zone Mastering",
+      "savings": 19
+    },
+    {
+      "oldSlug": "collectors-corner-record-shop-slang",
+      "newSlug": "collectors-corner",
+      "oldFile": "collectors-corner-record-shop-slang.json",
+      "newFile": "collectors-corner.json",
+      "term": "Collectors' Corner",
+      "savings": 18
+    },
+    {
+      "oldSlug": "d2c-direct-to-consumer-vinyl",
+      "newSlug": "d2c-direct",
+      "oldFile": "d2c-direct-to-consumer-vinyl.json",
+      "newFile": "d2c-direct.json",
+      "term": "D2C (Direct",
+      "savings": 18
+    },
+    {
+      "oldSlug": "four-track-early-tape-format",
+      "newSlug": "four-track",
+      "oldFile": "four-track-early-tape-format.json",
+      "newFile": "four-track.json",
+      "term": "Four-Track",
+      "savings": 18
+    },
+    {
+      "oldSlug": "heavyweight-vinyl-180-gram-200-gram",
+      "newSlug": "heavyweight-vinyl",
+      "oldFile": "heavyweight-vinyl-180-gram-200-gram.json",
+      "newFile": "heavyweight-vinyl.json",
+      "term": "Heavyweight Vinyl",
+      "savings": 18
+    },
+    {
+      "oldSlug": "kick-drum-cut-hot-dance-cut",
+      "newSlug": "kick-drum",
+      "oldFile": "kick-drum-cut-hot-dance-cut.json",
+      "newFile": "kick-drum.json",
+      "term": "Kick-Drum Cut",
+      "savings": 18
+    },
+    {
+      "oldSlug": "magnetic-strip-inventory-sticker",
+      "newSlug": "magnetic-strip",
+      "oldFile": "magnetic-strip-inventory-sticker.json",
+      "newFile": "magnetic-strip.json",
+      "term": "Magnetic-Strip Inventory Sticker",
+      "savings": 18
+    },
+    {
+      "oldSlug": "open-reel-to-vinyl-transfer",
+      "newSlug": "open-reel",
+      "oldFile": "open-reel-to-vinyl-transfer.json",
+      "newFile": "open-reel.json",
+      "term": "Open-Reel to Vinyl Transfer",
+      "savings": 18
+    },
+    {
+      "oldSlug": "pressing-weight-140-g-180-g-200-g",
+      "newSlug": "pressing-weight",
+      "oldFile": "pressing-weight-140-g-180-g-200-g.json",
+      "newFile": "pressing-weight.json",
+      "term": "Pressing Weight",
+      "savings": 18
+    },
+    {
+      "oldSlug": "price-code-sticker-price-box",
+      "newSlug": "price-code",
+      "oldFile": "price-code-sticker-price-box.json",
+      "newFile": "price-code.json",
+      "term": "Price-Code Sticker",
+      "savings": 18
+    },
+    {
+      "oldSlug": "record-stand-now-playing-stand",
+      "newSlug": "record-stand",
+      "oldFile": "record-stand-now-playing-stand.json",
+      "newFile": "record-stand.json",
+      "term": "Record Stand",
+      "savings": 18
+    },
+    {
+      "oldSlug": "scissor-cut-obi-fold-over-obi",
+      "newSlug": "scissor-cut",
+      "oldFile": "scissor-cut-obi-fold-over-obi.json",
+      "newFile": "scissor-cut.json",
+      "term": "Scissor-Cut Obi",
+      "savings": 18
+    },
+    {
+      "oldSlug": "sleeve-protector-outer-poly-sleeve",
+      "newSlug": "sleeve-protector",
+      "oldFile": "sleeve-protector-outer-poly-sleeve.json",
+      "newFile": "sleeve-protector.json",
+      "term": "Sleeve Protector",
+      "savings": 18
+    },
+    {
+      "oldSlug": "speed-change-knob-rpm-selector",
+      "newSlug": "speed-change",
+      "oldFile": "speed-change-knob-rpm-selector.json",
+      "newFile": "speed-change.json",
+      "term": "Speed-Change Knob",
+      "savings": 18
+    },
+    {
+      "oldSlug": "tone-arm-cable-phono-leads",
+      "newSlug": "tone-arm",
+      "oldFile": "tone-arm-cable-phono-leads.json",
+      "newFile": "tone-arm.json",
+      "term": "Tone-Arm Cable",
+      "savings": 18
+    },
+    {
+      "oldSlug": "clip-on-headshell-weight",
+      "newSlug": "clip-on",
+      "oldFile": "clip-on-headshell-weight.json",
+      "newFile": "clip-on.json",
+      "term": "Clip-On Headshell Weight",
+      "savings": 17
+    },
+    {
+      "oldSlug": "micro-line-stylus-aka-line-contact",
+      "newSlug": "micro-line-stylus",
+      "oldFile": "micro-line-stylus-aka-line-contact.json",
+      "newFile": "micro-line-stylus.json",
+      "term": "Micro-Line Stylus",
+      "savings": 17
+    },
+    {
+      "oldSlug": "needle-tip-size-stylus-size",
+      "newSlug": "needle-tip",
+      "oldFile": "needle-tip-size-stylus-size.json",
+      "newFile": "needle-tip.json",
+      "term": "Needle-Tip Size",
+      "savings": 17
+    },
+    {
+      "oldSlug": "null-test-audio-phase-test",
+      "newSlug": "null-test",
+      "oldFile": "null-test-audio-phase-test.json",
+      "newFile": "null-test.json",
+      "term": "Null-Test",
+      "savings": 17
+    },
+    {
+      "oldSlug": "reinforced-groove-heavy-cut-groove",
+      "newSlug": "reinforced-groove",
+      "oldFile": "reinforced-groove-heavy-cut-groove.json",
+      "newFile": "reinforced-groove.json",
+      "term": "Reinforced Groove",
+      "savings": 17
+    },
+    {
+      "oldSlug": "sampling-tonearm-servo-traced-arm",
+      "newSlug": "sampling-tonearm",
+      "oldFile": "sampling-tonearm-servo-traced-arm.json",
+      "newFile": "sampling-tonearm.json",
+      "term": "Sampling Tonearm",
+      "savings": 17
+    },
+    {
+      "oldSlug": "shaded-dog-label-rca-victor",
+      "newSlug": "shaded-dog",
+      "oldFile": "shaded-dog-label-rca-victor.json",
+      "newFile": "shaded-dog.json",
+      "term": "Shaded-Dog Label",
+      "savings": 17
+    },
+    {
+      "oldSlug": "spiral-groove-lead-in-lead-out",
+      "newSlug": "spiral-groove",
+      "oldFile": "spiral-groove-lead-in-lead-out.json",
+      "newFile": "spiral-groove.json",
+      "term": "Spiral-Groove Lead-In",
+      "savings": 17
+    },
+    {
+      "oldSlug": "vacuum-platter-vacuum-hold-down",
+      "newSlug": "vacuum-platter",
+      "oldFile": "vacuum-platter-vacuum-hold-down.json",
+      "newFile": "vacuum-platter.json",
+      "term": "Vacuum Platter",
+      "savings": 17
+    },
+    {
+      "oldSlug": "mechanical-copyright-stamp-mcps-biem",
+      "newSlug": "mechanical-copyright",
+      "oldFile": "mechanical-copyright-stamp-mcps-biem.json",
+      "newFile": "mechanical-copyright.json",
+      "term": "Mechanical Copyright Stamp",
+      "savings": 16
+    },
+    {
+      "oldSlug": "optical-soundtrack-disc-historical",
+      "newSlug": "optical-soundtrack",
+      "oldFile": "optical-soundtrack-disc-historical.json",
+      "newFile": "optical-soundtrack.json",
+      "term": "Optical Soundtrack Disc",
+      "savings": 16
+    },
+    {
+      "oldSlug": "thrift-store-find-thrift-dig",
+      "newSlug": "thrift-store",
+      "oldFile": "thrift-store-find-thrift-dig.json",
+      "newFile": "thrift-store.json",
+      "term": "Thrift-Store Find",
+      "savings": 16
+    },
+    {
+      "oldSlug": "tracking-force-stylus-pressure",
+      "newSlug": "tracking-force",
+      "oldFile": "tracking-force-stylus-pressure.json",
+      "newFile": "tracking-force.json",
+      "term": "Tracking Force",
+      "savings": 16
+    },
+    {
+      "oldSlug": "virgin-vinyl-virgin-compound-pressing",
+      "newSlug": "virgin-vinyl-compound",
+      "oldFile": "virgin-vinyl-virgin-compound-pressing.json",
+      "newFile": "virgin-vinyl-compound.json",
+      "term": "Virgin Vinyl",
+      "savings": 16
+    },
+    {
+      "oldSlug": "wall-mount-turntable-shelf",
+      "newSlug": "wall-mount",
+      "oldFile": "wall-mount-turntable-shelf.json",
+      "newFile": "wall-mount.json",
+      "term": "Wall-Mount Turntable Shelf",
+      "savings": 16
+    },
+    {
+      "oldSlug": "write-off-bin-cut-out-bin",
+      "newSlug": "write-off",
+      "oldFile": "write-off-bin-cut-out-bin.json",
+      "newFile": "write-off.json",
+      "term": "Write-Off Bin",
+      "savings": 16
+    },
+    {
+      "oldSlug": "cat-no-catalog-number",
+      "newSlug": "cat-no",
+      "oldFile": "cat-no-catalog-number.json",
+      "newFile": "cat-no.json",
+      "term": "Cat-No.",
+      "savings": 15
+    },
+    {
+      "oldSlug": "low-noise-vinyl-compound",
+      "newSlug": "low-noise",
+      "oldFile": "low-noise-vinyl-compound.json",
+      "newFile": "low-noise.json",
+      "term": "Low-Noise Vinyl Compound",
+      "savings": 15
+    },
+    {
+      "oldSlug": "penny-weight-turntable-hack",
+      "newSlug": "penny-weight",
+      "oldFile": "penny-weight-turntable-hack.json",
+      "newFile": "penny-weight.json",
+      "term": "Penny-Weight",
+      "savings": 15
+    },
+    {
+      "oldSlug": "playback-weight-tracking-force",
+      "newSlug": "playback-weight",
+      "oldFile": "playback-weight-tracking-force.json",
+      "newFile": "playback-weight.json",
+      "term": "Playback Weight",
+      "savings": 15
+    },
+    {
+      "oldSlug": "pressing-ring-aka-label-ring",
+      "newSlug": "pressing-ring",
+      "oldFile": "pressing-ring-aka-label-ring.json",
+      "newFile": "pressing-ring.json",
+      "term": "Pressing Ring",
+      "savings": 15
+    },
+    {
+      "oldSlug": "record-of-the-month-club",
+      "newSlug": "record-of",
+      "oldFile": "record-of-the-month-club.json",
+      "newFile": "record-of.json",
+      "term": "Record-of-the-Month Club",
+      "savings": 15
+    },
+    {
+      "oldSlug": "reverse-groove-inside-out-cut",
+      "newSlug": "reverse-groove",
+      "oldFile": "reverse-groove-inside-out-cut.json",
+      "newFile": "reverse-groove.json",
+      "term": "Reverse Groove",
+      "savings": 15
+    },
+    {
+      "oldSlug": "signal-to-noise-ratio-sn",
+      "newSlug": "signal-to",
+      "oldFile": "signal-to-noise-ratio-sn.json",
+      "newFile": "signal-to.json",
+      "term": "Signal-to-Noise Ratio",
+      "savings": 15
+    },
+    {
+      "oldSlug": "ultra-sonic-record-cleaner",
+      "newSlug": "ultra-sonic",
+      "oldFile": "ultra-sonic-record-cleaner.json",
+      "newFile": "ultra-sonic.json",
+      "term": "Ultra-Sonic Record Cleaner",
+      "savings": 15
+    },
+    {
+      "oldSlug": "variable-pitch-groove-cutting",
+      "newSlug": "variable-pitch",
+      "oldFile": "variable-pitch-groove-cutting.json",
+      "newFile": "variable-pitch.json",
+      "term": "Variable-Pitch Groove Cutting",
+      "savings": 15
+    },
+    {
+      "oldSlug": "front-end-of-the-system",
+      "newSlug": "front-end",
+      "oldFile": "front-end-of-the-system.json",
+      "newFile": "front-end.json",
+      "term": "Front-End",
+      "savings": 14
+    },
+    {
+      "oldSlug": "original-master-recording-omr",
+      "newSlug": "original-master",
+      "oldFile": "original-master-recording-omr.json",
+      "newFile": "original-master.json",
+      "term": "Original Master Recording",
+      "savings": 14
+    },
+    {
+      "oldSlug": "peel-off-sticker-cover",
+      "newSlug": "peel-off",
+      "oldFile": "peel-off-sticker-cover.json",
+      "newFile": "peel-off.json",
+      "term": "Peel-Off Sticker Cover",
+      "savings": 14
+    },
+    {
+      "oldSlug": "percussion-break-aka-breakbeat",
+      "newSlug": "percussion-break",
+      "oldFile": "percussion-break-aka-breakbeat.json",
+      "newFile": "percussion-break.json",
+      "term": "Percussion Break",
+      "savings": 14
+    },
+    {
+      "oldSlug": "rail-mount-tonearm-board",
+      "newSlug": "rail-mount",
+      "oldFile": "rail-mount-tonearm-board.json",
+      "newFile": "rail-mount.json",
+      "term": "Rail-Mount Tonearm Board",
+      "savings": 14
+    },
+    {
+      "oldSlug": "record-clamp-center-weight",
+      "newSlug": "record-clamp",
+      "oldFile": "record-clamp-center-weight.json",
+      "newFile": "record-clamp.json",
+      "term": "Record Clamp",
+      "savings": 14
+    },
+    {
+      "oldSlug": "skip-test-torture-track",
+      "newSlug": "skip-test",
+      "oldFile": "skip-test-torture-track.json",
+      "newFile": "skip-test.json",
+      "term": "Skip-Test",
+      "savings": 14
+    },
+    {
+      "oldSlug": "wax-poetics-magazine-term",
+      "newSlug": "wax-poetics",
+      "oldFile": "wax-poetics-magazine-term.json",
+      "newFile": "wax-poetics.json",
+      "term": "Wax Poetics",
+      "savings": 14
+    },
+    {
+      "oldSlug": "mail-order-only-release",
+      "newSlug": "mail-order",
+      "oldFile": "mail-order-only-release.json",
+      "newFile": "mail-order.json",
+      "term": "Mail-Order-Only Release",
+      "savings": 13
+    },
+    {
+      "oldSlug": "moving-coil-cartridge-mc",
+      "newSlug": "moving-coil",
+      "oldFile": "moving-coil-cartridge-mc.json",
+      "newFile": "moving-coil.json",
+      "term": "Moving-Coil Cartridge",
+      "savings": 13
+    },
+    {
+      "oldSlug": "moving-magnet-cartridge-mm",
+      "newSlug": "moving-magnet",
+      "oldFile": "moving-magnet-cartridge-mm.json",
+      "newFile": "moving-magnet.json",
+      "term": "Moving-Magnet Cartridge",
+      "savings": 13
+    },
+    {
+      "oldSlug": "outer-jacket-outer-sleeve",
+      "newSlug": "outer-jacket",
+      "oldFile": "outer-jacket-outer-sleeve.json",
+      "newFile": "outer-jacket.json",
+      "term": "Outer Jacket",
+      "savings": 13
+    },
+    {
+      "oldSlug": "paste-on-slick-jacket",
+      "newSlug": "paste-on",
+      "oldFile": "paste-on-slick-jacket.json",
+      "newFile": "paste-on.json",
+      "term": "Paste-On Slick Jacket",
+      "savings": 13
+    },
+    {
+      "oldSlug": "permanent-marker-groove-check",
+      "newSlug": "permanent-marker",
+      "oldFile": "permanent-marker-groove-check.json",
+      "newFile": "permanent-marker.json",
+      "term": "Permanent Marker Groove",
+      "savings": 13
+    },
+    {
+      "oldSlug": "poly-vinyl-chloride-pvc",
+      "newSlug": "poly-vinyl",
+      "oldFile": "poly-vinyl-chloride-pvc.json",
+      "newFile": "poly-vinyl.json",
+      "term": "Poly-Vinyl Chloride",
+      "savings": 13
+    },
+    {
+      "oldSlug": "servo-controlled-direct-drive",
+      "newSlug": "servo-controlled",
+      "oldFile": "servo-controlled-direct-drive.json",
+      "newFile": "servo-controlled.json",
+      "term": "Servo-Controlled Direct Drive",
+      "savings": 13
+    },
+    {
+      "oldSlug": "up-tempo-floor-filler",
+      "newSlug": "up-tempo",
+      "oldFile": "up-tempo-floor-filler.json",
+      "newFile": "up-tempo.json",
+      "term": "Up-Tempo Floor-Filler",
+      "savings": 13
+    },
+    {
+      "oldSlug": "finger-lift-headshell-finger-lift",
+      "newSlug": "finger-lift-headshell",
+      "oldFile": "finger-lift-headshell-finger-lift.json",
+      "newFile": "finger-lift-headshell.json",
+      "term": "Finger Lift",
+      "savings": 12
+    },
+    {
+      "oldSlug": "jacket-flap-flap-back-sleeve",
+      "newSlug": "jacket-flap-back",
+      "oldFile": "jacket-flap-flap-back-sleeve.json",
+      "newFile": "jacket-flap-back.json",
+      "term": "Jacket Flap",
+      "savings": 12
+    },
+    {
+      "oldSlug": "platter-ring-wear-shadow",
+      "newSlug": "platter-ring",
+      "oldFile": "platter-ring-wear-shadow.json",
+      "newFile": "platter-ring.json",
+      "term": "Platter Ring",
+      "savings": 12
+    },
+    {
+      "oldSlug": "promo-stamp-gold-stamp-promo",
+      "newSlug": "promo-stamp-gold",
+      "oldFile": "promo-stamp-gold-stamp-promo.json",
+      "newFile": "promo-stamp-gold.json",
+      "term": "Promo Stamp",
+      "savings": 12
+    },
+    {
+      "oldSlug": "quiex-vinyl-quiex-ii-quiex-sv-p",
+      "newSlug": "quiex-vinyl-ii-sv-p",
+      "oldFile": "quiex-vinyl-quiex-ii-quiex-sv-p.json",
+      "newFile": "quiex-vinyl-ii-sv-p.json",
+      "term": "Quiex Vinyl",
+      "savings": 12
+    },
+    {
+      "oldSlug": "record-cleaning-machine-rcm",
+      "newSlug": "record-cleaning",
+      "oldFile": "record-cleaning-machine-rcm.json",
+      "newFile": "record-cleaning.json",
+      "term": "Record Cleaning Machine",
+      "savings": 12
+    },
+    {
+      "oldSlug": "record-divider-tab-sticker",
+      "newSlug": "record-divider",
+      "oldFile": "record-divider-tab-sticker.json",
+      "newFile": "record-divider.json",
+      "term": "Record Divider Tab Sticker",
+      "savings": 12
+    },
+    {
+      "oldSlug": "vacuum-tube-phono-stage",
+      "newSlug": "vacuum-tube",
+      "oldFile": "vacuum-tube-phono-stage.json",
+      "newFile": "vacuum-tube.json",
+      "term": "Vacuum Tube Phono Stage",
+      "savings": 12
+    },
+    {
+      "oldSlug": "wax-stamp-promo-gold-stamp-promo",
+      "newSlug": "wax-stamp-promo-gold",
+      "oldFile": "wax-stamp-promo-gold-stamp-promo.json",
+      "newFile": "wax-stamp-promo-gold.json",
+      "term": "Wax-Stamp Promo",
+      "savings": 12
+    },
+    {
+      "oldSlug": "kinetic-balance-arm-weight",
+      "newSlug": "kinetic-balance",
+      "oldFile": "kinetic-balance-arm-weight.json",
+      "newFile": "kinetic-balance.json",
+      "term": "Kinetic-Balance Arm Weight",
+      "savings": 11
+    },
+    {
+      "oldSlug": "shelf-wear-jacket-shelf-wear",
+      "newSlug": "shelf-wear-jacket",
+      "oldFile": "shelf-wear-jacket-shelf-wear.json",
+      "newFile": "shelf-wear-jacket.json",
+      "term": "Shelf-Wear",
+      "savings": 11
+    },
+    {
+      "oldSlug": "side-chain-side-chain-cut",
+      "newSlug": "side-chain-cut",
+      "oldFile": "side-chain-side-chain-cut.json",
+      "newFile": "side-chain-cut.json",
+      "term": "Side-Chain",
+      "savings": 11
+    },
+    {
+      "oldSlug": "single-sided-lp-one-sided-disc",
+      "newSlug": "single-sided-lp-one",
+      "oldFile": "single-sided-lp-one-sided-disc.json",
+      "newFile": "single-sided-lp-one.json",
+      "term": "Single-Sided LP",
+      "savings": 11
+    },
+    {
+      "oldSlug": "isolation-feet-isolation-platform",
+      "newSlug": "isolation-feet-platform",
+      "oldFile": "isolation-feet-isolation-platform.json",
+      "newFile": "isolation-feet-platform.json",
+      "term": "Isolation Feet",
+      "savings": 10
+    },
+    {
+      "oldSlug": "knock-out-bin-knock-down-bin",
+      "newSlug": "knock-out-bin-down",
+      "oldFile": "knock-out-bin-knock-down-bin.json",
+      "newFile": "knock-out-bin-down.json",
+      "term": "Knock-Out Bin",
+      "savings": 10
+    },
+    {
+      "oldSlug": "seam-stress-ring-wear",
+      "newSlug": "seam-stress",
+      "oldFile": "seam-stress-ring-wear.json",
+      "newFile": "seam-stress.json",
+      "term": "Seam-Stress Ring-Wear",
+      "savings": 10
+    },
+    {
+      "oldSlug": "seven-inch-single-7-inch-45",
+      "newSlug": "seven-inch-single",
+      "oldFile": "seven-inch-single-7-inch-45.json",
+      "newFile": "seven-inch-single.json",
+      "term": "Seven-Inch Single",
+      "savings": 10
+    },
+    {
+      "oldSlug": "sleeve-grading-vg-nm-etc",
+      "newSlug": "sleeve-grading",
+      "oldFile": "sleeve-grading-vg-nm-etc.json",
+      "newFile": "sleeve-grading.json",
+      "term": "Sleeve Grading",
+      "savings": 10
+    },
+    {
+      "oldSlug": "vertical-tracking-angle-vta",
+      "newSlug": "vertical-tracking",
+      "oldFile": "vertical-tracking-angle-vta.json",
+      "newFile": "vertical-tracking.json",
+      "term": "Vertical Tracking Angle",
+      "savings": 10
+    },
+    {
+      "oldSlug": "audiophile-pressing",
+      "newSlug": "audiophile",
+      "oldFile": "audiophile-pressing.json",
+      "newFile": "audiophile.json",
+      "term": "Audiophile Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "color-vinyl-pressing",
+      "newSlug": "color-vinyl",
+      "oldFile": "color-vinyl-pressing.json",
+      "newFile": "color-vinyl.json",
+      "term": "Color-Vinyl Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "first-pressing",
+      "newSlug": "first",
+      "oldFile": "first-pressing.json",
+      "newFile": "first.json",
+      "term": "First Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "flat-edge-pressing",
+      "newSlug": "flat-edge",
+      "oldFile": "flat-edge-pressing.json",
+      "newFile": "flat-edge.json",
+      "term": "Flat-Edge Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "hard-bop-pressing",
+      "newSlug": "hard-bop",
+      "oldFile": "hard-bop-pressing.json",
+      "newFile": "hard-bop.json",
+      "term": "Hard-Bop Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "italian-pressing",
+      "newSlug": "italian",
+      "oldFile": "italian-pressing.json",
+      "newFile": "italian.json",
+      "term": "Italian Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "japanese-pressing",
+      "newSlug": "japanese",
+      "oldFile": "japanese-pressing.json",
+      "newFile": "japanese.json",
+      "term": "Japanese Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "off-center-pressing",
+      "newSlug": "off-center",
+      "oldFile": "off-center-pressing.json",
+      "newFile": "off-center.json",
+      "term": "Off-Center Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "pirated-pressing",
+      "newSlug": "pirated",
+      "oldFile": "pirated-pressing.json",
+      "newFile": "pirated.json",
+      "term": "Pirated Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "plus-cut-hot-plus-cut",
+      "newSlug": "plus-cut-hot",
+      "oldFile": "plus-cut-hot-plus-cut.json",
+      "newFile": "plus-cut-hot.json",
+      "term": "Plus-Cut",
+      "savings": 9
+    },
+    {
+      "oldSlug": "post-punk-pressing",
+      "newSlug": "post-punk",
+      "oldFile": "post-punk-pressing.json",
+      "newFile": "post-punk.json",
+      "term": "Post-Punk Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "promo-copy-promotional-pressing",
+      "newSlug": "promo-copy-promotional",
+      "oldFile": "promo-copy-promotional-pressing.json",
+      "newFile": "promo-copy-promotional.json",
+      "term": "Promo Copy",
+      "savings": 9
+    },
+    {
+      "oldSlug": "re-issue-pressing",
+      "newSlug": "re-issue",
+      "oldFile": "re-issue-pressing.json",
+      "newFile": "re-issue.json",
+      "term": "Re-Issue Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "regional-pressing",
+      "newSlug": "regional",
+      "oldFile": "regional-pressing.json",
+      "newFile": "regional.json",
+      "term": "Regional Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "slip-mat-burn-mat-burn-ring",
+      "newSlug": "slip-mat-burn-ring",
+      "oldFile": "slip-mat-burn-mat-burn-ring.json",
+      "newFile": "slip-mat-burn-ring.json",
+      "term": "Slip-Mat Burn",
+      "savings": 9
+    },
+    {
+      "oldSlug": "transparent-vinyl-pressing",
+      "newSlug": "transparent-vinyl",
+      "oldFile": "transparent-vinyl-pressing.json",
+      "newFile": "transparent-vinyl.json",
+      "term": "Transparent",
+      "savings": 9
+    },
+    {
+      "oldSlug": "warp-resistant-pressing",
+      "newSlug": "warp-resistant",
+      "oldFile": "warp-resistant-pressing.json",
+      "newFile": "warp-resistant.json",
+      "term": "Warp-Resistant Pressing",
+      "savings": 9
+    },
+    {
+      "oldSlug": "zero-balance-tone-arm",
+      "newSlug": "zero-balance",
+      "oldFile": "zero-balance-tone-arm.json",
+      "newFile": "zero-balance.json",
+      "term": "Zero-Balance Tone-Arm",
+      "savings": 9
+    },
+    {
+      "oldSlug": "banding-groove-banding",
+      "newSlug": "banding-groove",
+      "oldFile": "banding-groove-banding.json",
+      "newFile": "banding-groove.json",
+      "term": "Banding",
+      "savings": 8
+    },
+    {
+      "oldSlug": "damping-tonearm-damping",
+      "newSlug": "damping-tonearm",
+      "oldFile": "damping-tonearm-damping.json",
+      "newFile": "damping-tonearm.json",
+      "term": "Damping (Tonearm Damping)",
+      "savings": 8
+    },
+    {
+      "oldSlug": "etching-run-out-etching",
+      "newSlug": "etching-run-out",
+      "oldFile": "etching-run-out-etching.json",
+      "newFile": "etching-run-out.json",
+      "term": "Etching (Run",
+      "savings": 8
+    },
+    {
+      "oldSlug": "hand-numbered-edition",
+      "newSlug": "hand-numbered",
+      "oldFile": "hand-numbered-edition.json",
+      "newFile": "hand-numbered.json",
+      "term": "Hand-Numbered Edition",
+      "savings": 8
+    },
+    {
+      "oldSlug": "limited-edition",
+      "newSlug": "limited",
+      "oldFile": "limited-edition.json",
+      "newFile": "limited.json",
+      "term": "Limited Edition",
+      "savings": 8
+    },
+    {
+      "oldSlug": "re-master-remastered-edition",
+      "newSlug": "re-master-remastered",
+      "oldFile": "re-master-remastered-edition.json",
+      "newFile": "re-master-remastered.json",
+      "term": "Re-Master",
+      "savings": 8
+    },
+    {
+      "oldSlug": "record-changer-stack-changer",
+      "newSlug": "record-changer-stack",
+      "oldFile": "record-changer-stack-changer.json",
+      "newFile": "record-changer-stack.json",
+      "term": "Record Changer",
+      "savings": 8
+    },
+    {
+      "oldSlug": "record-club-edition",
+      "newSlug": "record-club",
+      "oldFile": "record-club-edition.json",
+      "newFile": "record-club.json",
+      "term": "Record Club Edition",
+      "savings": 8
+    },
+    {
+      "oldSlug": "sampler-lp-promo-sampler",
+      "newSlug": "sampler-lp-promo",
+      "oldFile": "sampler-lp-promo-sampler.json",
+      "newFile": "sampler-lp-promo.json",
+      "term": "Sampler LP",
+      "savings": 8
+    },
+    {
+      "oldSlug": "shellac-disc-78-rpm-shellac",
+      "newSlug": "shellac-disc-78-rpm",
+      "oldFile": "shellac-disc-78-rpm-shellac.json",
+      "newFile": "shellac-disc-78-rpm.json",
+      "term": "Shellac Disc",
+      "savings": 8
+    },
+    {
+      "oldSlug": "shellac-needles-steel-needles",
+      "newSlug": "shellac-needles-steel",
+      "oldFile": "shellac-needles-steel-needles.json",
+      "newFile": "shellac-needles-steel.json",
+      "term": "Shellac Needles",
+      "savings": 8
+    },
+    {
+      "oldSlug": "die-cut-sleeve",
+      "newSlug": "die-cut",
+      "oldFile": "die-cut-sleeve.json",
+      "newFile": "die-cut.json",
+      "term": "Die-Cut Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "fig-leaf-sleeve",
+      "newSlug": "fig-leaf",
+      "oldFile": "fig-leaf-sleeve.json",
+      "newFile": "fig-leaf.json",
+      "term": "Fig-Leaf Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "inner-sleeve",
+      "newSlug": "inner",
+      "oldFile": "inner-sleeve.json",
+      "newFile": "inner.json",
+      "term": "Inner Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "lathe-cut-record",
+      "newSlug": "lathe-cut",
+      "oldFile": "lathe-cut-record.json",
+      "newFile": "lathe-cut.json",
+      "term": "Lathe",
+      "savings": 7
+    },
+    {
+      "oldSlug": "paper-inner-sleeve",
+      "newSlug": "paper-inner",
+      "oldFile": "paper-inner-sleeve.json",
+      "newFile": "paper-inner.json",
+      "term": "Paper Inner Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "patent-pending-sleeve",
+      "newSlug": "patent-pending",
+      "oldFile": "patent-pending-sleeve.json",
+      "newFile": "patent-pending.json",
+      "term": "Patent Pending Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "poly-lined-inner-sleeve",
+      "newSlug": "poly-lined-inner",
+      "oldFile": "poly-lined-inner-sleeve.json",
+      "newFile": "poly-lined-inner.json",
+      "term": "Poly-Lined Inner Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "poly-outer-sleeve",
+      "newSlug": "poly-outer",
+      "oldFile": "poly-outer-sleeve.json",
+      "newFile": "poly-outer.json",
+      "term": "Poly Outer Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "punk-era-7-inch",
+      "newSlug": "punk-era",
+      "oldFile": "punk-era-7-inch.json",
+      "newFile": "punk-era.json",
+      "term": "Punk-Era 7-Inch",
+      "savings": 7
+    },
+    {
+      "oldSlug": "quirky-cut-sleeve",
+      "newSlug": "quirky-cut",
+      "oldFile": "quirky-cut-sleeve.json",
+      "newFile": "quirky-cut.json",
+      "term": "Quirky-Cut Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "record-weight-center-weight",
+      "newSlug": "record-weight-center",
+      "oldFile": "record-weight-center-weight.json",
+      "newFile": "record-weight-center.json",
+      "term": "Record Weight",
+      "savings": 7
+    },
+    {
+      "oldSlug": "reflex-clamp-reflex-weight",
+      "newSlug": "reflex-clamp-weight",
+      "oldFile": "reflex-clamp-reflex-weight.json",
+      "newFile": "reflex-clamp-weight.json",
+      "term": "Reflex Clamp",
+      "savings": 7
+    },
+    {
+      "oldSlug": "safety-groove-safety-runout",
+      "newSlug": "safety-groove-runout",
+      "oldFile": "safety-groove-safety-runout.json",
+      "newFile": "safety-groove-runout.json",
+      "term": "Safety Groove",
+      "savings": 7
+    },
+    {
+      "oldSlug": "sealed-copy-still-sealed-ss",
+      "newSlug": "sealed-copy-still-ss",
+      "oldFile": "sealed-copy-still-sealed-ss.json",
+      "newFile": "sealed-copy-still-ss.json",
+      "term": "Sealed Copy / Still-Sealed",
+      "savings": 7
+    },
+    {
+      "oldSlug": "shrink-wrap-shrink",
+      "newSlug": "shrink-wrap",
+      "oldFile": "shrink-wrap-shrink.json",
+      "newFile": "shrink-wrap.json",
+      "term": "Shrink-Wrap",
+      "savings": 7
+    },
+    {
+      "oldSlug": "spacer-ring-spindle-spacer",
+      "newSlug": "spacer-ring-spindle",
+      "oldFile": "spacer-ring-spindle-spacer.json",
+      "newFile": "spacer-ring-spindle.json",
+      "term": "Spacer Ring",
+      "savings": 7
+    },
+    {
+      "oldSlug": "spider-insert-45-spider",
+      "newSlug": "spider-insert-45",
+      "oldFile": "spider-insert-45-spider.json",
+      "newFile": "spider-insert-45.json",
+      "term": "Spider Insert",
+      "savings": 7
+    },
+    {
+      "oldSlug": "thumb-notch-outer-sleeve",
+      "newSlug": "thumb-notch-outer",
+      "oldFile": "thumb-notch-outer-sleeve.json",
+      "newFile": "thumb-notch-outer.json",
+      "term": "Thumb-Notch Outer Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "vinyl-coated-inner-sleeve",
+      "newSlug": "vinyl-coated-inner",
+      "oldFile": "vinyl-coated-inner-sleeve.json",
+      "newFile": "vinyl-coated-inner.json",
+      "term": "Vinyl Coated Inner Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "vinyl-weight-pressing-weight",
+      "newSlug": "vinyl-weight-pressing",
+      "oldFile": "vinyl-weight-pressing-weight.json",
+      "newFile": "vinyl-weight-pressing.json",
+      "term": "Vinyl Weight",
+      "savings": 7
+    },
+    {
+      "oldSlug": "washboard-groove-damaged-groove",
+      "newSlug": "washboard-groove-damaged",
+      "oldFile": "washboard-groove-damaged-groove.json",
+      "newFile": "washboard-groove-damaged.json",
+      "term": "Washboard Groove",
+      "savings": 7
+    },
+    {
+      "oldSlug": "wax-slang-for-record",
+      "newSlug": "wax-slang-for",
+      "oldFile": "wax-slang-for-record.json",
+      "newFile": "wax-slang-for.json",
+      "term": "Wax (Slang for Record)",
+      "savings": 7
+    },
+    {
+      "oldSlug": "weight-clamp-record-weight",
+      "newSlug": "weight-clamp-record",
+      "oldFile": "weight-clamp-record-weight.json",
+      "newFile": "weight-clamp-record.json",
+      "term": "Weight-Clamp",
+      "savings": 7
+    },
+    {
+      "oldSlug": "wing-flap-inner-sleeve",
+      "newSlug": "wing-flap-inner",
+      "oldFile": "wing-flap-inner-sleeve.json",
+      "newFile": "wing-flap-inner.json",
+      "term": "Wing-Flap Inner Sleeve",
+      "savings": 7
+    },
+    {
+      "oldSlug": "zipper-cover-sleeve",
+      "newSlug": "zipper-cover",
+      "oldFile": "zipper-cover-sleeve.json",
+      "newFile": "zipper-cover.json",
+      "term": "Zipper",
+      "savings": 7
+    },
+    {
+      "oldSlug": "blank-label",
+      "newSlug": "blank",
+      "oldFile": "blank-label.json",
+      "newFile": "blank.json",
+      "term": "Blank Label",
+      "savings": 6
+    },
+    {
+      "oldSlug": "brush-down-record-brush",
+      "newSlug": "brush-down-record",
+      "oldFile": "brush-down-record-brush.json",
+      "newFile": "brush-down-record.json",
+      "term": "Brush-Down",
+      "savings": 6
+    },
+    {
+      "oldSlug": "cue-lever-lift-lever",
+      "newSlug": "cue-lever-lift",
+      "oldFile": "cue-lever-lift-lever.json",
+      "newFile": "cue-lever-lift.json",
+      "term": "Cue Lever",
+      "savings": 6
+    },
+    {
+      "oldSlug": "fish-eye-label",
+      "newSlug": "fish-eye",
+      "oldFile": "fish-eye-label.json",
+      "newFile": "fish-eye.json",
+      "term": "Fish-Eye Label",
+      "savings": 6
+    },
+    {
+      "oldSlug": "fringe-label",
+      "newSlug": "fringe",
+      "oldFile": "fringe-label.json",
+      "newFile": "fringe.json",
+      "term": "Fringe",
+      "savings": 6
+    },
+    {
+      "oldSlug": "hidden-track-secret-track",
+      "newSlug": "hidden-track-secret",
+      "oldFile": "hidden-track-secret-track.json",
+      "newFile": "hidden-track-secret.json",
+      "term": "Hidden Track",
+      "savings": 6
+    },
+    {
+      "oldSlug": "lyric-sleeve-lyric-inner",
+      "newSlug": "lyric-sleeve-inner",
+      "oldFile": "lyric-sleeve-lyric-inner.json",
+      "newFile": "lyric-sleeve-inner.json",
+      "term": "Lyric Sleeve",
+      "savings": 6
+    },
+    {
+      "oldSlug": "marker-scrawl-label",
+      "newSlug": "marker-scrawl",
+      "oldFile": "marker-scrawl-label.json",
+      "newFile": "marker-scrawl.json",
+      "term": "Marker",
+      "savings": 6
+    },
+    {
+      "oldSlug": "parrot-label",
+      "newSlug": "parrot",
+      "oldFile": "parrot-label.json",
+      "newFile": "parrot.json",
+      "term": "Parrot Label",
+      "savings": 6
+    },
+    {
+      "oldSlug": "pencil-marked-label",
+      "newSlug": "pencil-marked",
+      "oldFile": "pencil-marked-label.json",
+      "newFile": "pencil-marked.json",
+      "term": "Pencil",
+      "savings": 6
+    },
+    {
+      "oldSlug": "phono-input-phono-stage",
+      "newSlug": "phono-input-stage",
+      "oldFile": "phono-input-phono-stage.json",
+      "newFile": "phono-input-stage.json",
+      "term": "Phono Input",
+      "savings": 6
+    },
+    {
+      "oldSlug": "rca-shaded-dog-label",
+      "newSlug": "rca-shaded-dog",
+      "oldFile": "rca-shaded-dog-label.json",
+      "newFile": "rca-shaded-dog.json",
+      "term": "RCA “Shaded",
+      "savings": 6
+    },
+    {
+      "oldSlug": "sleeve-notes-liner-notes",
+      "newSlug": "sleeve-notes-liner",
+      "oldFile": "sleeve-notes-liner-notes.json",
+      "newFile": "sleeve-notes-liner.json",
+      "term": "Sleeve Notes",
+      "savings": 6
+    },
+    {
+      "oldSlug": "valve-amp-valve-phono-uk",
+      "newSlug": "valve-amp-phono-uk",
+      "oldFile": "valve-amp-valve-phono-uk.json",
+      "newFile": "valve-amp-phono-uk.json",
+      "term": "Valve Amp / Valve Phono",
+      "savings": 6
+    },
+    {
+      "oldSlug": "zoo-label",
+      "newSlug": "zoo",
+      "oldFile": "zoo-label.json",
+      "newFile": "zoo.json",
+      "term": "Zoo-Label Novelty 45",
+      "savings": 6
+    },
+    {
+      "oldSlug": "basket-case-copy",
+      "newSlug": "basket-case",
+      "oldFile": "basket-case-copy.json",
+      "newFile": "basket-case.json",
+      "term": "Basket",
+      "savings": 5
+    },
+    {
+      "oldSlug": "center-hole-spindle-hole",
+      "newSlug": "center-hole-spindle",
+      "oldFile": "center-hole-spindle-hole.json",
+      "newFile": "center-hole-spindle.json",
+      "term": "Center Hole",
+      "savings": 5
+    },
+    {
+      "oldSlug": "demo-copy",
+      "newSlug": "demo",
+      "oldFile": "demo-copy.json",
+      "newFile": "demo.json",
+      "term": "Demo Copy",
+      "savings": 5
+    },
+    {
+      "oldSlug": "edison-disc",
+      "newSlug": "edison",
+      "oldFile": "edison-disc.json",
+      "newFile": "edison.json",
+      "term": "Edison Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "ex-library-copy",
+      "newSlug": "ex-library",
+      "oldFile": "ex-library-copy.json",
+      "newFile": "ex-library.json",
+      "term": "Ex-Library Copy",
+      "savings": 5
+    },
+    {
+      "oldSlug": "flexi-disc",
+      "newSlug": "flexi",
+      "oldFile": "flexi-disc.json",
+      "newFile": "flexi.json",
+      "term": "Flexi",
+      "savings": 5
+    },
+    {
+      "oldSlug": "guitar-shaped-picture-disc",
+      "newSlug": "guitar-shaped-picture",
+      "oldFile": "guitar-shaped-picture-disc.json",
+      "newFile": "guitar-shaped-picture.json",
+      "term": "Guitar-Shaped Picture Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "hip-pocket-disc",
+      "newSlug": "hip-pocket",
+      "oldFile": "hip-pocket-disc.json",
+      "newFile": "hip-pocket.json",
+      "term": "Hip-Pocket Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "in-store-play-copy",
+      "newSlug": "in-store-play",
+      "oldFile": "in-store-play-copy.json",
+      "newFile": "in-store-play.json",
+      "term": "In-Store Play Copy",
+      "savings": 5
+    },
+    {
+      "oldSlug": "kiss-style-picture-disc",
+      "newSlug": "kiss-style-picture",
+      "oldFile": "kiss-style-picture-disc.json",
+      "newFile": "kiss-style-picture.json",
+      "term": "KISS-Style Picture Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "needle-talk-stylus-talk",
+      "newSlug": "needle-talk-stylus",
+      "oldFile": "needle-talk-stylus-talk.json",
+      "newFile": "needle-talk-stylus.json",
+      "term": "Needle-Talk",
+      "savings": 5
+    },
+    {
+      "oldSlug": "not-for-sale-copy",
+      "newSlug": "not-for-sale",
+      "oldFile": "not-for-sale-copy.json",
+      "newFile": "not-for-sale.json",
+      "term": "Not-For-Sale Copy",
+      "savings": 5
+    },
+    {
+      "oldSlug": "picture-disc",
+      "newSlug": "picture",
+      "oldFile": "picture-disc.json",
+      "newFile": "picture.json",
+      "term": "Picture Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "pitch-lock-quartz-lock",
+      "newSlug": "pitch-lock-quartz",
+      "oldFile": "pitch-lock-quartz-lock.json",
+      "newFile": "pitch-lock-quartz.json",
+      "term": "Pitch-Lock",
+      "savings": 5
+    },
+    {
+      "oldSlug": "polybag-sealed-copy",
+      "newSlug": "polybag-sealed",
+      "oldFile": "polybag-sealed-copy.json",
+      "newFile": "polybag-sealed.json",
+      "term": "Polybag",
+      "savings": 5
+    },
+    {
+      "oldSlug": "pre-echo-post-echo-pair",
+      "newSlug": "pre-echo-post-pair",
+      "oldFile": "pre-echo-post-echo-pair.json",
+      "newFile": "pre-echo-post-pair.json",
+      "term": "Pre-Echo",
+      "savings": 5
+    },
+    {
+      "oldSlug": "show-box-record-show-bin",
+      "newSlug": "show-box-record-bin",
+      "oldFile": "show-box-record-show-bin.json",
+      "newFile": "show-box-record-bin.json",
+      "term": "Show-Box",
+      "savings": 5
+    },
+    {
+      "oldSlug": "side-a-side-b",
+      "newSlug": "side-a-b",
+      "oldFile": "side-a-side-b.json",
+      "newFile": "side-a-b.json",
+      "term": "Side-A",
+      "savings": 5
+    },
+    {
+      "oldSlug": "skip-loop-locked-skip",
+      "newSlug": "skip-loop-locked",
+      "oldFile": "skip-loop-locked-skip.json",
+      "newFile": "skip-loop-locked.json",
+      "term": "Skip-Loop",
+      "savings": 5
+    },
+    {
+      "oldSlug": "sound-effects-library-disc",
+      "newSlug": "sound-effects-library",
+      "oldFile": "sound-effects-library-disc.json",
+      "newFile": "sound-effects-library.json",
+      "term": "Sound-Effects Library Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "ultra-thin-flexi-disc",
+      "newSlug": "ultra-thin-flexi",
+      "oldFile": "ultra-thin-flexi-disc.json",
+      "newFile": "ultra-thin-flexi.json",
+      "term": "Ultra-Thin Flexi-Disc",
+      "savings": 5
+    },
+    {
+      "oldSlug": "up-grade-copy",
+      "newSlug": "up-grade",
+      "oldFile": "up-grade-copy.json",
+      "newFile": "up-grade.json",
+      "term": "Up-Grade Copy",
+      "savings": 5
+    },
+    {
+      "oldSlug": "flash-cut-hot-cut",
+      "newSlug": "flash-cut-hot",
+      "oldFile": "flash-cut-hot-cut.json",
+      "newFile": "flash-cut-hot.json",
+      "term": "Flash-Cut",
+      "savings": 4
+    },
+    {
+      "oldSlug": "one-sided-lp-one-sider",
+      "newSlug": "one-sided-lp-sider",
+      "oldFile": "one-sided-lp-one-sider.json",
+      "newFile": "one-sided-lp-sider.json",
+      "term": "One-Sided LP",
+      "savings": 4
+    },
+    {
+      "oldSlug": "playback-wow-pitch-wow",
+      "newSlug": "playback-wow-pitch",
+      "oldFile": "playback-wow-pitch-wow.json",
+      "newFile": "playback-wow-pitch.json",
+      "term": "Playback WOW",
+      "savings": 4
+    },
+    {
+      "oldSlug": "radius-arm-s-arm-tonearm",
+      "newSlug": "radius-arm-s-tonearm",
+      "oldFile": "radius-arm-s-arm-tonearm.json",
+      "newFile": "radius-arm-s-tonearm.json",
+      "term": "Radius Arm",
+      "savings": 4
+    },
+    {
+      "oldSlug": "tone-arm-rest-arm-lock",
+      "newSlug": "tone-arm-rest-lock",
+      "oldFile": "tone-arm-rest-arm-lock.json",
+      "newFile": "tone-arm-rest-lock.json",
+      "term": "Tone-Arm Rest",
+      "savings": 4
+    },
+    {
+      "oldSlug": "turntable-mat-platter-mat",
+      "newSlug": "turntable-mat-platter",
+      "oldFile": "turntable-mat-platter-mat.json",
+      "newFile": "turntable-mat-platter.json",
+      "term": "Turntable Mat",
+      "savings": 4
+    },
+    {
+      "oldSlug": "near-mint-nm-nm",
+      "newSlug": "near-mint-nm",
+      "oldFile": "near-mint-nm-nm.json",
+      "newFile": "near-mint-nm.json",
+      "term": "Near-Mint",
+      "savings": 3
+    },
+    {
+      "oldSlug": "quadraphonic-lp-quad-lp",
+      "newSlug": "quadraphonic-lp-quad",
+      "oldFile": "quadraphonic-lp-quad-lp.json",
+      "newFile": "quadraphonic-lp-quad.json",
+      "term": "Quadraphonic LP",
+      "savings": 3
+    }
+  ],
+  "conflicts": [
+    {
+      "oldSlug": "tone-arm-lift-cue-lever",
+      "newSlug": "tone-arm",
+      "term": "Tone-Arm Lift"
+    },
+    {
+      "oldSlug": "tone-arm-tube-damping",
+      "newSlug": "tone-arm",
+      "term": "Tone-Arm Tube Damping"
+    },
+    {
+      "oldSlug": "vertical-tracking-linear-arm-tangential-arm",
+      "newSlug": "vertical-tracking",
+      "term": "Vertical-Tracking Linear Arm"
+    }
+  ]
+}
