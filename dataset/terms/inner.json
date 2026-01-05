@@ -1,20 +1,38 @@
 {
   "slug": "inner",
   "term": "Inner Sleeve",
-  "summary": "The paper or plastic sleeve that directly houses a vinyl record inside the.",
-  "definition": "The paper or plastic sleeve that directly houses a vinyl record inside the outer jacket — protects against dust, scuffs, and static.",
+  "pos": "noun",
+  "pronunciation": "/ˈɪnər sliːv/",
+  "summary": "The protective paper or plastic sleeve that directly houses a vinyl record inside the outer jacket.",
+  "definition": "The inner sleeve is the protective envelope that sits between the vinyl record and the outer jacket, serving as the first line of defense against dust, scratches, static buildup, and scuffing. Original inner sleeves varied widely by era and label—1950s and 1960s records typically came with plain white or brown paper sleeves, often featuring anti-scuff properties or company advertising. By the 1970s, many albums included printed inner sleeves displaying lyrics, artwork, photography, credits, or additional album information, making them collectible in their own right. Generic paper sleeves, while common and inexpensive, can actually damage records over time as paper fibers shed and the rough surface causes micro-scratches during insertion and removal. This led audiophiles to replace original paper sleeves with premium alternatives: poly-lined sleeves (paper exterior with smooth polyethylene interior), Mobile Fidelity Sound Lab's rice paper sleeves, or fully anti-static polyethylene sleeves that eliminate static charge buildup. The inner sleeve debate continues among collectors—purists insist on keeping original printed sleeves for completeness and historical accuracy, even if damaged, while players prioritize protective sleeves to preserve vinyl condition. Some compromise by storing the original sleeve separately while using a protective sleeve for the record itself. High-end modern pressings often include premium anti-static inner sleeves as standard, recognizing their importance to long-term vinyl preservation. The presence, type, and condition of the inner sleeve affects grading and value, particularly for rare pressings where original printed sleeves command premiums.",
   "tags": [
-    "cultural"
+    "cultural",
+    "collecting",
+    "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "inner",
+    "dust sleeve",
+    "record sleeve",
+    "liner"
+  ],
+  "alt_spellings": [
+    "inner-sleeve",
+    "innersleeve"
+  ],
+  "etymology": "From 'inner' (interior) + 'sleeve' (protective covering), distinguishing it from the outer jacket",
+  "first_use": 1948,
   "see_also": [
-    "outer-jacket",
+    "jacket",
     "poly-lined-sleeve",
-    "lyric-sheet"
+    "anti-static",
+    "mobile-fidelity",
+    "grading"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-05"
 }
