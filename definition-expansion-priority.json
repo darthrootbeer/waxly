@@ -1,0 +1,2841 @@
+{
+  "high": [
+    {
+      "slug": "cartridge",
+      "term": "Cartridge",
+      "currentWords": 21
+    },
+    {
+      "slug": "fidelity",
+      "term": "Fidelity",
+      "currentWords": 22
+    },
+    {
+      "slug": "inner-sleeve",
+      "term": "Inner Sleeve",
+      "currentWords": 22
+    },
+    {
+      "slug": "gatefold",
+      "term": "Gatefold",
+      "currentWords": 23
+    },
+    {
+      "slug": "jacket",
+      "term": "Jacket",
+      "currentWords": 25
+    },
+    {
+      "slug": "acetate",
+      "term": "Acetate",
+      "currentWords": 43
+    }
+  ],
+  "medium": [
+    {
+      "slug": "re-press-repressing",
+      "term": "Re-Press",
+      "currentWords": 2
+    },
+    {
+      "slug": "yes",
+      "term": "yes",
+      "currentWords": 2
+    },
+    {
+      "slug": "sleeve-protector-outer-poly-sleeve",
+      "term": "Sleeve Protector",
+      "currentWords": 3
+    },
+    {
+      "slug": "small-hole-45-standard-hole-single",
+      "term": "Small-Hole 45",
+      "currentWords": 3
+    },
+    {
+      "slug": "thrift-store-find-thrift-dig",
+      "term": "Thrift-Store Find",
+      "currentWords": 3
+    },
+    {
+      "slug": "unipivot-tone-arm",
+      "term": "Unipivot Tone",
+      "currentWords": 3
+    },
+    {
+      "slug": "zero-inner-groove-distortion-cut",
+      "term": "Zero-Inner-Groove-Distortion Cut",
+      "currentWords": 3
+    },
+    {
+      "slug": "rail-mount-tonearm-board",
+      "term": "Rail-Mount Tonearm Board",
+      "currentWords": 4
+    },
+    {
+      "slug": "record-stand-now-playing-stand",
+      "term": "Record Stand",
+      "currentWords": 4
+    },
+    {
+      "slug": "wax-stamp-promo-gold-stamp-promo",
+      "term": "Wax-Stamp Promo",
+      "currentWords": 4
+    },
+    {
+      "slug": "weight-clamp-record-weight",
+      "term": "Weight-Clamp",
+      "currentWords": 4
+    },
+    {
+      "slug": "x-cut-test-groove",
+      "term": "X-Cut Test Groove",
+      "currentWords": 4
+    },
+    {
+      "slug": "spiral-track",
+      "term": "Spiral-Track Locked Groove",
+      "currentWords": 6
+    },
+    {
+      "slug": "continue",
+      "term": "Continue",
+      "currentWords": 7
+    },
+    {
+      "slug": "go",
+      "term": "go",
+      "currentWords": 7
+    },
+    {
+      "slug": "proceed",
+      "term": "Proceed",
+      "currentWords": 7
+    },
+    {
+      "slug": "tape-hiss-floor",
+      "term": "Tape-Hiss Floor",
+      "currentWords": 7
+    },
+    {
+      "slug": "african",
+      "term": "African",
+      "currentWords": 10
+    },
+    {
+      "slug": "alternative-hip-hop",
+      "term": "Alternative Hip Hop",
+      "currentWords": 10
+    },
+    {
+      "slug": "alternative-rock",
+      "term": "Alternative Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "ambient",
+      "term": "Ambient",
+      "currentWords": 10
+    },
+    {
+      "slug": "art-pop",
+      "term": "Art Pop",
+      "currentWords": 10
+    },
+    {
+      "slug": "asian",
+      "term": "Asian",
+      "currentWords": 10
+    },
+    {
+      "slug": "avant-garde",
+      "term": "Avant-garde",
+      "currentWords": 10
+    },
+    {
+      "slug": "baroque-pop",
+      "term": "Baroque Pop",
+      "currentWords": 10
+    },
+    {
+      "slug": "baroque",
+      "term": "Baroque",
+      "currentWords": 10
+    },
+    {
+      "slug": "bebop",
+      "term": "Bebop",
+      "currentWords": 10
+    },
+    {
+      "slug": "big-band",
+      "term": "Big Band",
+      "currentWords": 10
+    },
+    {
+      "slug": "bluegrass",
+      "term": "Bluegrass",
+      "currentWords": 10
+    },
+    {
+      "slug": "bossa-nova",
+      "term": "Bossa Nova",
+      "currentWords": 10
+    },
+    {
+      "slug": "breakbeat",
+      "term": "Breakbeat",
+      "currentWords": 10
+    },
+    {
+      "slug": "chicago-blues",
+      "term": "Chicago Blues",
+      "currentWords": 10
+    },
+    {
+      "slug": "classic-rock",
+      "term": "Classic Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "conscious-hip-hop",
+      "term": "Conscious Hip Hop",
+      "currentWords": 10
+    },
+    {
+      "slug": "contemporary-folk",
+      "term": "Contemporary Folk",
+      "currentWords": 10
+    },
+    {
+      "slug": "cool-jazz",
+      "term": "Cool Jazz",
+      "currentWords": 10
+    },
+    {
+      "slug": "country-rock",
+      "term": "Country Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "dance-pop",
+      "term": "Dance-pop",
+      "currentWords": 10
+    },
+    {
+      "slug": "dancehall",
+      "term": "Dancehall",
+      "currentWords": 10
+    },
+    {
+      "slug": "delta-blues",
+      "term": "Delta Blues",
+      "currentWords": 10
+    },
+    {
+      "slug": "drone",
+      "term": "Drone",
+      "currentWords": 10
+    },
+    {
+      "slug": "drum-bass",
+      "term": "Drum & Bass",
+      "currentWords": 10
+    },
+    {
+      "slug": "dub",
+      "term": "Dub",
+      "currentWords": 10
+    },
+    {
+      "slug": "dubstep",
+      "term": "Dubstep",
+      "currentWords": 10
+    },
+    {
+      "slug": "electric-blues",
+      "term": "Electric Blues",
+      "currentWords": 10
+    },
+    {
+      "slug": "electro",
+      "term": "Electro",
+      "currentWords": 10
+    },
+    {
+      "slug": "european-folk",
+      "term": "European Folk",
+      "currentWords": 10
+    },
+    {
+      "slug": "film-score",
+      "term": "Film Score",
+      "currentWords": 10
+    },
+    {
+      "slug": "flamenco",
+      "term": "Flamenco",
+      "currentWords": 10
+    },
+    {
+      "slug": "folk-rock",
+      "term": "Folk Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "free-jazz",
+      "term": "Free Jazz",
+      "currentWords": 10
+    },
+    {
+      "slug": "funk-rock",
+      "term": "Funk Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "fusion",
+      "term": "Fusion",
+      "currentWords": 10
+    },
+    {
+      "slug": "gangsta-rap",
+      "term": "Gangsta Rap",
+      "currentWords": 10
+    },
+    {
+      "slug": "grunge",
+      "term": "Grunge",
+      "currentWords": 10
+    },
+    {
+      "slug": "hard-rock",
+      "term": "Hard Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "honky-tonk",
+      "term": "Honky Tonk",
+      "currentWords": 10
+    },
+    {
+      "slug": "house",
+      "term": "House",
+      "currentWords": 10
+    },
+    {
+      "slug": "indie-rock",
+      "term": "Indie Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "industrial",
+      "term": "Industrial",
+      "currentWords": 10
+    },
+    {
+      "slug": "jazz-funk",
+      "term": "Jazz Funk",
+      "currentWords": 10
+    },
+    {
+      "slug": "middle-eastern",
+      "term": "Middle Eastern",
+      "currentWords": 10
+    },
+    {
+      "slug": "modern-classical",
+      "term": "Modern Classical",
+      "currentWords": 10
+    },
+    {
+      "slug": "motown",
+      "term": "Motown",
+      "currentWords": 10
+    },
+    {
+      "slug": "musical-theater",
+      "term": "Musical Theater",
+      "currentWords": 10
+    },
+    {
+      "slug": "neo-soul",
+      "term": "Neo-Soul",
+      "currentWords": 10
+    },
+    {
+      "slug": "noise",
+      "term": "Noise",
+      "currentWords": 10
+    },
+    {
+      "slug": "northern-soul",
+      "term": "Northern Soul",
+      "currentWords": 10
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "term": "Old School Hip Hop",
+      "currentWords": 10
+    },
+    {
+      "slug": "opera",
+      "term": "Opera",
+      "currentWords": 10
+    },
+    {
+      "slug": "p-funk",
+      "term": "P-Funk",
+      "currentWords": 10
+    },
+    {
+      "slug": "progressive-rock",
+      "term": "Progressive Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "psychedelic-rock",
+      "term": "Psychedelic Rock",
+      "currentWords": 10
+    },
+    {
+      "slug": "punk",
+      "term": "Punk",
+      "currentWords": 10
+    },
+    {
+      "slug": "rhythm-blues",
+      "term": "Rhythm & Blues",
+      "currentWords": 10
+    },
+    {
+      "slug": "romantic",
+      "term": "Romantic",
+      "currentWords": 10
+    },
+    {
+      "slug": "roots-reggae",
+      "term": "Roots Reggae",
+      "currentWords": 10
+    },
+    {
+      "slug": "salsa",
+      "term": "Salsa",
+      "currentWords": 10
+    },
+    {
+      "slug": "ska",
+      "term": "Ska",
+      "currentWords": 10
+    },
+    {
+      "slug": "smooth-jazz",
+      "term": "Smooth Jazz",
+      "currentWords": 10
+    },
+    {
+      "slug": "soul-blues",
+      "term": "Soul Blues",
+      "currentWords": 10
+    },
+    {
+      "slug": "southern-soul",
+      "term": "Southern Soul",
+      "currentWords": 10
+    },
+    {
+      "slug": "swing",
+      "term": "Swing",
+      "currentWords": 10
+    },
+    {
+      "slug": "symphony",
+      "term": "Symphony",
+      "currentWords": 10
+    },
+    {
+      "slug": "synth-pop",
+      "term": "Synth-pop",
+      "currentWords": 10
+    },
+    {
+      "slug": "tango",
+      "term": "Tango",
+      "currentWords": 10
+    },
+    {
+      "slug": "techno",
+      "term": "Techno",
+      "currentWords": 10
+    },
+    {
+      "slug": "teen-pop",
+      "term": "Teen Pop",
+      "currentWords": 10
+    },
+    {
+      "slug": "traditional-folk",
+      "term": "Traditional Folk",
+      "currentWords": 10
+    },
+    {
+      "slug": "trance",
+      "term": "Trance",
+      "currentWords": 10
+    },
+    {
+      "slug": "trap",
+      "term": "Trap",
+      "currentWords": 10
+    },
+    {
+      "slug": "tv-soundtrack",
+      "term": "TV Soundtrack",
+      "currentWords": 10
+    },
+    {
+      "slug": "video-game-music",
+      "term": "Video Game Music",
+      "currentWords": 10
+    },
+    {
+      "slug": "western",
+      "term": "Western",
+      "currentWords": 10
+    },
+    {
+      "slug": "world-music",
+      "term": "World Music",
+      "currentWords": 10
+    },
+    {
+      "slug": "blues",
+      "term": "Blues",
+      "currentWords": 11
+    },
+    {
+      "slug": "classical",
+      "term": "Classical",
+      "currentWords": 11
+    },
+    {
+      "slug": "country",
+      "term": "Country",
+      "currentWords": 11
+    },
+    {
+      "slug": "electronic",
+      "term": "Electronic",
+      "currentWords": 11
+    },
+    {
+      "slug": "experimental",
+      "term": "Experimental",
+      "currentWords": 11
+    },
+    {
+      "slug": "folk",
+      "term": "Folk",
+      "currentWords": 11
+    },
+    {
+      "slug": "funk",
+      "term": "Funk",
+      "currentWords": 11
+    },
+    {
+      "slug": "hip-hop",
+      "term": "Hip Hop",
+      "currentWords": 11
+    },
+    {
+      "slug": "jazz",
+      "term": "Jazz",
+      "currentWords": 11
+    },
+    {
+      "slug": "latin",
+      "term": "Latin",
+      "currentWords": 11
+    },
+    {
+      "slug": "pop",
+      "term": "Pop",
+      "currentWords": 11
+    },
+    {
+      "slug": "reggae",
+      "term": "Reggae",
+      "currentWords": 11
+    },
+    {
+      "slug": "rock",
+      "term": "Rock",
+      "currentWords": 11
+    },
+    {
+      "slug": "soul",
+      "term": "Soul",
+      "currentWords": 11
+    },
+    {
+      "slug": "soundtrack",
+      "term": "Soundtrack",
+      "currentWords": 11
+    },
+    {
+      "slug": "world",
+      "term": "World",
+      "currentWords": 11
+    },
+    {
+      "slug": "double-album",
+      "term": "Double",
+      "currentWords": 14
+    },
+    {
+      "slug": "universal-groove-standard",
+      "term": "Universal Groove",
+      "currentWords": 14
+    },
+    {
+      "slug": "de-warping",
+      "term": "De-Warping",
+      "currentWords": 16
+    },
+    {
+      "slug": "die-cut-sleeve",
+      "term": "Die-Cut Sleeve",
+      "currentWords": 16
+    },
+    {
+      "slug": "electric-pickup",
+      "term": "Electric Pick-Up",
+      "currentWords": 16
+    },
+    {
+      "slug": "etching-run-out-etching",
+      "term": "Etching (Run",
+      "currentWords": 16
+    },
+    {
+      "slug": "flight-case",
+      "term": "Flight Case",
+      "currentWords": 16
+    },
+    {
+      "slug": "seam-stress-ring-wear",
+      "term": "Seam-Stress Ring-Wear",
+      "currentWords": 16
+    },
+    {
+      "slug": "cleaning-solution-record-cleaning-fluid",
+      "term": "Cleaning Solution",
+      "currentWords": 17
+    },
+    {
+      "slug": "ground-wire-turntable-ground-lead",
+      "term": "Ground-Wire",
+      "currentWords": 17
+    },
+    {
+      "slug": "isolation-feet-isolation-platform",
+      "term": "Isolation Feet",
+      "currentWords": 17
+    },
+    {
+      "slug": "pirated-pressing",
+      "term": "Pirated Pressing",
+      "currentWords": 17
+    },
+    {
+      "slug": "balance-weight-tonearm",
+      "term": "Balance Weight",
+      "currentWords": 18
+    },
+    {
+      "slug": "carbon-fiber-brush",
+      "term": "Carbon",
+      "currentWords": 18
+    },
+    {
+      "slug": "d2c-direct-to-consumer-vinyl",
+      "term": "D2C (Direct",
+      "currentWords": 18
+    },
+    {
+      "slug": "damping-tonearm-damping",
+      "term": "Damping (Tonearm Damping)",
+      "currentWords": 18
+    },
+    {
+      "slug": "declicking",
+      "term": "Declicking",
+      "currentWords": 18
+    },
+    {
+      "slug": "eight-track-cartridge",
+      "term": "Eight-Track",
+      "currentWords": 18
+    },
+    {
+      "slug": "etched-side-etching",
+      "term": "Etched Side",
+      "currentWords": 18
+    },
+    {
+      "slug": "flip-side",
+      "term": "Flip",
+      "currentWords": 18
+    },
+    {
+      "slug": "groove-wear",
+      "term": "Groove",
+      "currentWords": 18
+    },
+    {
+      "slug": "phono-stage-hum",
+      "term": "Phono",
+      "currentWords": 18
+    },
+    {
+      "slug": "power-pop-lp",
+      "term": "Power",
+      "currentWords": 18
+    },
+    {
+      "slug": "radius-arm-s-arm-tonearm",
+      "term": "Radius Arm",
+      "currentWords": 18
+    },
+    {
+      "slug": "record-of-the-month-club",
+      "term": "Record-of-the-Month Club",
+      "currentWords": 18
+    },
+    {
+      "slug": "shrink-wrap-shrink",
+      "term": "Shrink-Wrap",
+      "currentWords": 18
+    },
+    {
+      "slug": "banding-groove-banding",
+      "term": "Banding",
+      "currentWords": 19
+    },
+    {
+      "slug": "blank-groove",
+      "term": "Blank Groove",
+      "currentWords": 19
+    },
+    {
+      "slug": "brush-down-record-brush",
+      "term": "Brush-Down",
+      "currentWords": 19
+    },
+    {
+      "slug": "cabinet-rumble",
+      "term": "Cabinet Rumble",
+      "currentWords": 19
+    },
+    {
+      "slug": "clamshell-case",
+      "term": "Clamshell Case",
+      "currentWords": 19
+    },
+    {
+      "slug": "deep-groove",
+      "term": "Deep Groove",
+      "currentWords": 19
+    },
+    {
+      "slug": "demo-copy",
+      "term": "Demo Copy",
+      "currentWords": 19
+    },
+    {
+      "slug": "drop-spindle",
+      "term": "Drop-Spindle",
+      "currentWords": 19
+    },
+    {
+      "slug": "marbled-vinyl",
+      "term": "Marbled Vinyl",
+      "currentWords": 19
+    },
+    {
+      "slug": "photo-etched-b-side",
+      "term": "Photo-Etched B-Side",
+      "currentWords": 19
+    },
+    {
+      "slug": "polylined-rice-paper-sleeve-mofi-style",
+      "term": "Polylined Rice-Paper Sleeve",
+      "currentWords": 19
+    },
+    {
+      "slug": "record-brush",
+      "term": "Record Brush",
+      "currentWords": 19
+    },
+    {
+      "slug": "record-cleaning-machine-rcm",
+      "term": "Record Cleaning Machine",
+      "currentWords": 19
+    },
+    {
+      "slug": "removable-headshell-leads",
+      "term": "Removable Headshell Leads",
+      "currentWords": 19
+    },
+    {
+      "slug": "show-box-record-show-bin",
+      "term": "Show-Box",
+      "currentWords": 19
+    },
+    {
+      "slug": "speed-change-knob-rpm-selector",
+      "term": "Speed-Change Knob",
+      "currentWords": 19
+    },
+    {
+      "slug": "track-listing-sticker-song-hype-sticker",
+      "term": "Track-Listing Sticker",
+      "currentWords": 19
+    },
+    {
+      "slug": "vinyl-revival",
+      "term": "Vinyl Revival",
+      "currentWords": 19
+    },
+    {
+      "slug": "wax-slang-for-record",
+      "term": "Wax (Slang for Record)",
+      "currentWords": 19
+    },
+    {
+      "slug": "alternate-take",
+      "term": "Alternate Take",
+      "currentWords": 20
+    },
+    {
+      "slug": "clean-cut-groove",
+      "term": "Clean",
+      "currentWords": 20
+    },
+    {
+      "slug": "color-vinyl-pressing",
+      "term": "Color-Vinyl Pressing",
+      "currentWords": 20
+    },
+    {
+      "slug": "fig-leaf-sleeve",
+      "term": "Fig-Leaf Sleeve",
+      "currentWords": 20
+    },
+    {
+      "slug": "fish-eye-label",
+      "term": "Fish-Eye Label",
+      "currentWords": 20
+    },
+    {
+      "slug": "foot-fall-feedback",
+      "term": "Foot-Fall Feedback",
+      "currentWords": 20
+    },
+    {
+      "slug": "hand-etched-matrix",
+      "term": "Hand-Etched Matrix",
+      "currentWords": 20
+    },
+    {
+      "slug": "laminated-jacket",
+      "term": "Laminated Jacket",
+      "currentWords": 20
+    },
+    {
+      "slug": "landfill-vinyl-slang",
+      "term": "Landfill Vinyl",
+      "currentWords": 20
+    },
+    {
+      "slug": "lead-out-groove",
+      "term": "Lead-Out Groove",
+      "currentWords": 20
+    },
+    {
+      "slug": "rca-living-stereo",
+      "term": "RCA Living Stereo",
+      "currentWords": 20
+    },
+    {
+      "slug": "re-cut-lacquer",
+      "term": "Re-Cut Lacquer",
+      "currentWords": 20
+    },
+    {
+      "slug": "re-master-remastered-edition",
+      "term": "Re-Master",
+      "currentWords": 20
+    },
+    {
+      "slug": "repertoire-sticker-catalog-hype-sticker",
+      "term": "Repertoire Sticker",
+      "currentWords": 20
+    },
+    {
+      "slug": "side-chain-side-chain-cut",
+      "term": "Side-Chain",
+      "currentWords": 20
+    },
+    {
+      "slug": "skip-test-torture-track",
+      "term": "Skip-Test",
+      "currentWords": 20
+    },
+    {
+      "slug": "sleeve-notes-liner-notes",
+      "term": "Sleeve Notes",
+      "currentWords": 20
+    },
+    {
+      "slug": "transparent-vinyl-pressing",
+      "term": "Transparent",
+      "currentWords": 20
+    },
+    {
+      "slug": "valve-amp-valve-phono-uk",
+      "term": "Valve Amp / Valve Phono",
+      "currentWords": 20
+    },
+    {
+      "slug": "wax-cylinder",
+      "term": "Wax Cylinder",
+      "currentWords": 20
+    },
+    {
+      "slug": "basket-case-copy",
+      "term": "Basket",
+      "currentWords": 21
+    },
+    {
+      "slug": "center-hole-spindle-hole",
+      "term": "Center Hole",
+      "currentWords": 21
+    },
+    {
+      "slug": "clip-on-headshell-weight",
+      "term": "Clip-On Headshell Weight",
+      "currentWords": 21
+    },
+    {
+      "slug": "compilation-album",
+      "term": "Compilation Album",
+      "currentWords": 21
+    },
+    {
+      "slug": "finger-lift-headshell-finger-lift",
+      "term": "Finger Lift",
+      "currentWords": 21
+    },
+    {
+      "slug": "four-track-early-tape-format",
+      "term": "Four-Track",
+      "currentWords": 21
+    },
+    {
+      "slug": "jam-groove",
+      "term": "Jam Groove",
+      "currentWords": 21
+    },
+    {
+      "slug": "kick-drum-cut-hot-dance-cut",
+      "term": "Kick-Drum Cut",
+      "currentWords": 21
+    },
+    {
+      "slug": "knock-on-rumble-feedback-rumble",
+      "term": "Knock-On Rumble",
+      "currentWords": 21
+    },
+    {
+      "slug": "leatherette-case",
+      "term": "Leatherette Case",
+      "currentWords": 21
+    },
+    {
+      "slug": "mail-order-only-release",
+      "term": "Mail-Order-Only Release",
+      "currentWords": 21
+    },
+    {
+      "slug": "mirror-finish-stamper",
+      "term": "Mirror-Finish Stamper",
+      "currentWords": 21
+    },
+    {
+      "slug": "needle-wear",
+      "term": "Needle",
+      "currentWords": 21
+    },
+    {
+      "slug": "not-for-sale-copy",
+      "term": "Not-For-Sale Copy",
+      "currentWords": 21
+    },
+    {
+      "slug": "paper-inner-sleeve",
+      "term": "Paper Inner Sleeve",
+      "currentWords": 21
+    },
+    {
+      "slug": "phono-pre-amp-external-or-built-in",
+      "term": "Phono Pre-Amp",
+      "currentWords": 21
+    },
+    {
+      "slug": "poly-vinyl-chloride-pvc",
+      "term": "Poly-Vinyl Chloride",
+      "currentWords": 21
+    },
+    {
+      "slug": "portable-record-changer-suitcase-player",
+      "term": "Portable Record Changer",
+      "currentWords": 21
+    },
+    {
+      "slug": "post-punk-pressing",
+      "term": "Post-Punk Pressing",
+      "currentWords": 21
+    },
+    {
+      "slug": "protective-poly-outer-japanese-resealable",
+      "term": "Protective Poly Outer",
+      "currentWords": 21
+    },
+    {
+      "slug": "push-out-center-uk-style-45",
+      "term": "Push-Out Center",
+      "currentWords": 21
+    },
+    {
+      "slug": "record-changer",
+      "term": "Changer (Record Changer",
+      "currentWords": 21
+    },
+    {
+      "slug": "record-clamp-center-weight",
+      "term": "Record Clamp",
+      "currentWords": 21
+    },
+    {
+      "slug": "record-shelf-wear",
+      "term": "Record Shelf",
+      "currentWords": 21
+    },
+    {
+      "slug": "record-weight-center-weight",
+      "term": "Record Weight",
+      "currentWords": 21
+    },
+    {
+      "slug": "resonance-control-footers-isolation-feet",
+      "term": "Resonance Control Footers",
+      "currentWords": 21
+    },
+    {
+      "slug": "sealed-copy-still-sealed-ss",
+      "term": "Sealed Copy / Still-Sealed",
+      "currentWords": 21
+    },
+    {
+      "slug": "tone-arm",
+      "term": "Tone",
+      "currentWords": 21
+    },
+    {
+      "slug": "tracking-test-record-torture-track-lp",
+      "term": "Tracking-Test Record",
+      "currentWords": 21
+    },
+    {
+      "slug": "upscale-re-press-audiophile-reissue",
+      "term": "Upscale Re-Press",
+      "currentWords": 21
+    },
+    {
+      "slug": "wide-groove-78-rpm",
+      "term": "Wide-Groove",
+      "currentWords": 21
+    },
+    {
+      "slug": "write-off-bin-cut-out-bin",
+      "term": "Write-Off Bin",
+      "currentWords": 21
+    },
+    {
+      "slug": "zip-tone-pops-static-zip-noise",
+      "term": "Zip-Tone Pops",
+      "currentWords": 21
+    },
+    {
+      "slug": "auxiliary-weight",
+      "term": "Auxiliary Weight",
+      "currentWords": 22
+    },
+    {
+      "slug": "beat-matching",
+      "term": "Beat",
+      "currentWords": 22
+    },
+    {
+      "slug": "binaural-recording",
+      "term": "Binaural Recording",
+      "currentWords": 22
+    },
+    {
+      "slug": "blank-label",
+      "term": "Blank Label",
+      "currentWords": 22
+    },
+    {
+      "slug": "concept-album",
+      "term": "Concept Album",
+      "currentWords": 22
+    },
+    {
+      "slug": "cue-lever-lift-lever",
+      "term": "Cue Lever",
+      "currentWords": 22
+    },
+    {
+      "slug": "direct-drive-turntable",
+      "term": "Direct-Drive Turntable",
+      "currentWords": 22
+    },
+    {
+      "slug": "discogs",
+      "term": "Discogs",
+      "currentWords": 22
+    },
+    {
+      "slug": "edge-warp",
+      "term": "Edge",
+      "currentWords": 22
+    },
+    {
+      "slug": "foam-rot",
+      "term": "Foam-Rot",
+      "currentWords": 22
+    },
+    {
+      "slug": "guitar-shaped-picture-disc",
+      "term": "Guitar-Shaped Picture Disc",
+      "currentWords": 22
+    },
+    {
+      "slug": "hand-numbered-edition",
+      "term": "Hand-Numbered Edition",
+      "currentWords": 22
+    },
+    {
+      "slug": "headshell",
+      "term": "Headshell",
+      "currentWords": 22
+    },
+    {
+      "slug": "hum-bucker-phono-cartridge-type",
+      "term": "Hum-Bucker",
+      "currentWords": 22
+    },
+    {
+      "slug": "hum-loop-isolator",
+      "term": "Hum-Loop Isolator",
+      "currentWords": 22
+    },
+    {
+      "slug": "j-cut-groove",
+      "term": "J-Cut Groove",
+      "currentWords": 22
+    },
+    {
+      "slug": "japanese-pressing",
+      "term": "Japanese Pressing",
+      "currentWords": 22
+    },
+    {
+      "slug": "knife-edge-bearing-tonearm-design",
+      "term": "Knife-Edge Bearing",
+      "currentWords": 22
+    },
+    {
+      "slug": "limited-edition",
+      "term": "Limited Edition",
+      "currentWords": 22
+    },
+    {
+      "slug": "maxi-single",
+      "term": "Maxi",
+      "currentWords": 22
+    },
+    {
+      "slug": "mechanical-copyright-stamp-mcps-biem",
+      "term": "Mechanical Copyright Stamp",
+      "currentWords": 22
+    },
+    {
+      "slug": "non-returnable-stamp",
+      "term": "Non-Returnable Stamp",
+      "currentWords": 22
+    },
+    {
+      "slug": "parrot-label",
+      "term": "Parrot Label",
+      "currentWords": 22
+    },
+    {
+      "slug": "peel-off-sticker-cover",
+      "term": "Peel-Off Sticker Cover",
+      "currentWords": 22
+    },
+    {
+      "slug": "perspex-dust-cover",
+      "term": "Perspex Dust",
+      "currentWords": 22
+    },
+    {
+      "slug": "phono-input-phono-stage",
+      "term": "Phono Input",
+      "currentWords": 22
+    },
+    {
+      "slug": "poly-lined-inner-sleeve",
+      "term": "Poly-Lined Inner Sleeve",
+      "currentWords": 22
+    },
+    {
+      "slug": "pressing-plant-code",
+      "term": "Pressing Plant Code",
+      "currentWords": 22
+    },
+    {
+      "slug": "residual-static-pop",
+      "term": "Residual Static Pop",
+      "currentWords": 22
+    },
+    {
+      "slug": "restock-cut-corner",
+      "term": "Restock Cut",
+      "currentWords": 22
+    },
+    {
+      "slug": "shelf-wear-jacket-shelf-wear",
+      "term": "Shelf-Wear",
+      "currentWords": 22
+    },
+    {
+      "slug": "speed-box-external-speed-controller",
+      "term": "Speed-Box / External Speed Controller",
+      "currentWords": 22
+    },
+    {
+      "slug": "turntablist",
+      "term": "Turntablist",
+      "currentWords": 22
+    },
+    {
+      "slug": "wide-spindle-45-large-hole-single",
+      "term": "Wide-Spindle 45",
+      "currentWords": 22
+    },
+    {
+      "slug": "add-on-arm-weight",
+      "term": "Add-On Arm Weight",
+      "currentWords": 23
+    },
+    {
+      "slug": "audiophile-pressing",
+      "term": "Audiophile Pressing",
+      "currentWords": 23
+    },
+    {
+      "slug": "console-stereo",
+      "term": "Console Stereo",
+      "currentWords": 23
+    },
+    {
+      "slug": "dish-warp",
+      "term": "Dish",
+      "currentWords": 23
+    },
+    {
+      "slug": "dj-pool",
+      "term": "DJ Pool",
+      "currentWords": 23
+    },
+    {
+      "slug": "emi-electric-musical-industries",
+      "term": "EMI (Electric & Musical Industries)",
+      "currentWords": 23
+    },
+    {
+      "slug": "equal-loudness-curve",
+      "term": "Equal-Loudness Curve",
+      "currentWords": 23
+    },
+    {
+      "slug": "ex-library-copy",
+      "term": "Ex-Library Copy",
+      "currentWords": 23
+    },
+    {
+      "slug": "frequency-response",
+      "term": "Frequency Response",
+      "currentWords": 23
+    },
+    {
+      "slug": "in-store-play-copy",
+      "term": "In-Store Play Copy",
+      "currentWords": 23
+    },
+    {
+      "slug": "knock-out-center-dinked-center",
+      "term": "Knock-Out Center",
+      "currentWords": 23
+    },
+    {
+      "slug": "lyric-sleeve-lyric-inner",
+      "term": "Lyric Sleeve",
+      "currentWords": 23
+    },
+    {
+      "slug": "matrix-number",
+      "term": "Matrix Number",
+      "currentWords": 23
+    },
+    {
+      "slug": "narrow-band-mono",
+      "term": "Narrow",
+      "currentWords": 23
+    },
+    {
+      "slug": "new-old-stock-nos",
+      "term": "New-Old-Stock",
+      "currentWords": 23
+    },
+    {
+      "slug": "open-reel-to-vinyl-transfer",
+      "term": "Open-Reel to Vinyl Transfer",
+      "currentWords": 23
+    },
+    {
+      "slug": "out-of-print-oop",
+      "term": "Out-of-Print",
+      "currentWords": 23
+    },
+    {
+      "slug": "parallel-tracking-arm",
+      "term": "Parallel",
+      "currentWords": 23
+    },
+    {
+      "slug": "patch-cable-hum",
+      "term": "Patch",
+      "currentWords": 23
+    },
+    {
+      "slug": "poly-outer-sleeve",
+      "term": "Poly Outer Sleeve",
+      "currentWords": 23
+    },
+    {
+      "slug": "pre-riaa-eq-curve",
+      "term": "Pre-RIAA EQ Curve",
+      "currentWords": 23
+    },
+    {
+      "slug": "promo-stamp-gold-stamp-promo",
+      "term": "Promo Stamp",
+      "currentWords": 23
+    },
+    {
+      "slug": "reflex-clamp-reflex-weight",
+      "term": "Reflex Clamp",
+      "currentWords": 23
+    },
+    {
+      "slug": "servo-controlled-direct-drive",
+      "term": "Servo-Controlled Direct Drive",
+      "currentWords": 23
+    },
+    {
+      "slug": "tone-arm-lift-cue-lever",
+      "term": "Tone-Arm Lift",
+      "currentWords": 23
+    },
+    {
+      "slug": "tone-arm-tube-damping",
+      "term": "Tone-Arm Tube Damping",
+      "currentWords": 23
+    },
+    {
+      "slug": "turntable-rumble",
+      "term": "Turntable Rumble",
+      "currentWords": 23
+    },
+    {
+      "slug": "unclamped-edge-warp",
+      "term": "Unclamped Edge",
+      "currentWords": 23
+    },
+    {
+      "slug": "under-run-pressing-short-run-press",
+      "term": "Under-Run Pressing",
+      "currentWords": 23
+    },
+    {
+      "slug": "up-tempo-floor-filler",
+      "term": "Up-Tempo Floor-Filler",
+      "currentWords": 23
+    },
+    {
+      "slug": "v-notch-jacket-cut-corner-mark",
+      "term": "V-Notch Jacket",
+      "currentWords": 23
+    },
+    {
+      "slug": "vacuum-platter-vacuum-hold-down",
+      "term": "Vacuum Platter",
+      "currentWords": 23
+    },
+    {
+      "slug": "vinyl-chloride-pvc",
+      "term": "Vinyl Chloride",
+      "currentWords": 23
+    },
+    {
+      "slug": "wall-mount-turntable-shelf",
+      "term": "Wall-Mount Turntable Shelf",
+      "currentWords": 23
+    },
+    {
+      "slug": "yellow-label-promo",
+      "term": "Yellow",
+      "currentWords": 23
+    },
+    {
+      "slug": "closed-groove",
+      "term": "Closed-Groove Loop",
+      "currentWords": 24
+    },
+    {
+      "slug": "collectors-corner-record-shop-slang",
+      "term": "Collectors' Corner",
+      "currentWords": 24
+    },
+    {
+      "slug": "elliptical-stylus",
+      "term": "Elliptical Stylus",
+      "currentWords": 24
+    },
+    {
+      "slug": "fanzine",
+      "term": "Fanzine",
+      "currentWords": 24
+    },
+    {
+      "slug": "flexi-disc",
+      "term": "Flexi",
+      "currentWords": 24
+    },
+    {
+      "slug": "fringe-label",
+      "term": "Fringe",
+      "currentWords": 24
+    },
+    {
+      "slug": "front-end-of-the-system",
+      "term": "Front-End",
+      "currentWords": 24
+    },
+    {
+      "slug": "groove-burn",
+      "term": "Groove Burn",
+      "currentWords": 24
+    },
+    {
+      "slug": "groove-spacing-pitch",
+      "term": "Groove Spacing",
+      "currentWords": 24
+    },
+    {
+      "slug": "intermodulation-distortion",
+      "term": "Intermodulation Distortion",
+      "currentWords": 24
+    },
+    {
+      "slug": "ivory-label-variant",
+      "term": "Ivory-Label Variant",
+      "currentWords": 24
+    },
+    {
+      "slug": "jukebox-ep",
+      "term": "Jukebox EP",
+      "currentWords": 24
+    },
+    {
+      "slug": "kerf-cut-groove-lathe-artifact",
+      "term": "Kerf-Cut Groove",
+      "currentWords": 24
+    },
+    {
+      "slug": "king-size-16-inch-transcription-disc",
+      "term": "King-Size 16-Inch Transcription Disc",
+      "currentWords": 24
+    },
+    {
+      "slug": "knock-out-bin-knock-down-bin",
+      "term": "Knock-Out Bin",
+      "currentWords": 24
+    },
+    {
+      "slug": "lead-in-groove",
+      "term": "Lead-In Groove",
+      "currentWords": 24
+    },
+    {
+      "slug": "nab-eq-national-association-of-broadcasters-equalization",
+      "term": "NAB EQ (National Association of Broadcasters Equalization)",
+      "currentWords": 24
+    },
+    {
+      "slug": "neo-psychedelic-wax",
+      "term": "Neo-Psychedelic Wax",
+      "currentWords": 24
+    },
+    {
+      "slug": "patent-pending-sleeve",
+      "term": "Patent Pending Sleeve",
+      "currentWords": 24
+    },
+    {
+      "slug": "perpetual-motion-loop",
+      "term": "Perpetual Motion Loop",
+      "currentWords": 24
+    },
+    {
+      "slug": "pinch-warp",
+      "term": "Pinch",
+      "currentWords": 24
+    },
+    {
+      "slug": "plain-sleeve-45",
+      "term": "Plain",
+      "currentWords": 24
+    },
+    {
+      "slug": "playback-wow-pitch-wow",
+      "term": "Playback WOW",
+      "currentWords": 24
+    },
+    {
+      "slug": "plug-in-headshell",
+      "term": "Plug-In Headshell",
+      "currentWords": 24
+    },
+    {
+      "slug": "punk-era-7-inch",
+      "term": "Punk-Era 7-Inch",
+      "currentWords": 24
+    },
+    {
+      "slug": "quick-release-clamp",
+      "term": "Quick-Release Clamp",
+      "currentWords": 24
+    },
+    {
+      "slug": "quirky-cut-sleeve",
+      "term": "Quirky-Cut Sleeve",
+      "currentWords": 24
+    },
+    {
+      "slug": "re-grind-vinyl-re-ground-compound",
+      "term": "Re-Grind Vinyl",
+      "currentWords": 24
+    },
+    {
+      "slug": "record-divider-card",
+      "term": "Record Divider Card",
+      "currentWords": 24
+    },
+    {
+      "slug": "sampling-tonearm-servo-traced-arm",
+      "term": "Sampling Tonearm",
+      "currentWords": 24
+    },
+    {
+      "slug": "shoulder-cut-sleeve-die-cut-display-sleeve",
+      "term": "Shoulder-Cut Sleeve",
+      "currentWords": 24
+    },
+    {
+      "slug": "side-long-track-side-length-cut",
+      "term": "Side-Long Track",
+      "currentWords": 24
+    },
+    {
+      "slug": "sink-mark-dish-warp",
+      "term": "Sink-Mark",
+      "currentWords": 24
+    },
+    {
+      "slug": "sizzle-cymbal-test-audiophile-check-track",
+      "term": "Sizzle-Cymbal Test",
+      "currentWords": 24
+    },
+    {
+      "slug": "skip-guard-groove-raised-guard-groove",
+      "term": "Skip-Guard Groove",
+      "currentWords": 24
+    },
+    {
+      "slug": "sound-wave-etching-visual-wave-jacket-art",
+      "term": "Sound-Wave Etching",
+      "currentWords": 24
+    },
+    {
+      "slug": "test-pressing-tp",
+      "term": "Test Pressing",
+      "currentWords": 24
+    },
+    {
+      "slug": "three-speed-turntable",
+      "term": "Three-Speed Turntable",
+      "currentWords": 24
+    },
+    {
+      "slug": "tone-arm-cable-phono-leads",
+      "term": "Tone-Arm Cable",
+      "currentWords": 24
+    },
+    {
+      "slug": "virgin-vinyl-virgin-compound-pressing",
+      "term": "Virgin Vinyl",
+      "currentWords": 24
+    },
+    {
+      "slug": "automatic-return",
+      "term": "Automatic Return",
+      "currentWords": 25
+    },
+    {
+      "slug": "back-spinning",
+      "term": "Back",
+      "currentWords": 25
+    },
+    {
+      "slug": "dead-wax",
+      "term": "Dead Wax",
+      "currentWords": 25
+    },
+    {
+      "slug": "edison-disc",
+      "term": "Edison Disc",
+      "currentWords": 25
+    },
+    {
+      "slug": "first-pressing",
+      "term": "First Pressing",
+      "currentWords": 25
+    },
+    {
+      "slug": "hidden-track-secret-track",
+      "term": "Hidden Track",
+      "currentWords": 25
+    },
+    {
+      "slug": "kinetic-balance-arm-weight",
+      "term": "Kinetic-Balance Arm Weight",
+      "currentWords": 25
+    },
+    {
+      "slug": "kiss-style-picture-disc",
+      "term": "KISS-Style Picture Disc",
+      "currentWords": 25
+    },
+    {
+      "slug": "lacquer-over-aluminum-disc-transcription-pre-lp",
+      "term": "Lacquer-Over-Aluminum Disc",
+      "currentWords": 25
+    },
+    {
+      "slug": "low-noise-vinyl-compound",
+      "term": "Low-Noise Vinyl Compound",
+      "currentWords": 25
+    },
+    {
+      "slug": "micro-line-stylus-aka-line-contact",
+      "term": "Micro-Line Stylus",
+      "currentWords": 25
+    },
+    {
+      "slug": "pressing-defect",
+      "term": "Pressing Defect",
+      "currentWords": 25
+    },
+    {
+      "slug": "quad-decoder-demodulator",
+      "term": "Quad Decoder",
+      "currentWords": 25
+    },
+    {
+      "slug": "re-issue-pressing",
+      "term": "Re-Issue Pressing",
+      "currentWords": 25
+    },
+    {
+      "slug": "record-tote",
+      "term": "Record Tote",
+      "currentWords": 25
+    },
+    {
+      "slug": "regroove-recut-groove",
+      "term": "Regroove",
+      "currentWords": 25
+    },
+    {
+      "slug": "reversible-picture-sleeve-double-sided-sleeve",
+      "term": "Reversible Picture-Sleeve",
+      "currentWords": 25
+    },
+    {
+      "slug": "riaa-curve-riaa-playback-equalization",
+      "term": "RIAA Curve (RIAA Playback Equalization)",
+      "currentWords": 25
+    },
+    {
+      "slug": "seam-split",
+      "term": "Seam",
+      "currentWords": 25
+    },
+    {
+      "slug": "shellac-needles-steel-needles",
+      "term": "Shellac Needles",
+      "currentWords": 25
+    },
+    {
+      "slug": "short-spindle-adapter-45-adapter",
+      "term": "Short-Spindle Adapter",
+      "currentWords": 25
+    },
+    {
+      "slug": "sintered-bronze-bearing-tone-arm-platter",
+      "term": "Sintered Bronze Bearing",
+      "currentWords": 25
+    },
+    {
+      "slug": "speed-pull-idler-pitch-pull-idler",
+      "term": "Speed-Pull Idler",
+      "currentWords": 25
+    },
+    {
+      "slug": "tape-splice-pop",
+      "term": "Tape-Splice Pop",
+      "currentWords": 25
+    },
+    {
+      "slug": "thermoplastic-biscuit-puck",
+      "term": "Thermoplastic Biscuit",
+      "currentWords": 25
+    },
+    {
+      "slug": "vinyl-jacket-pvc-outer-bag-hazard",
+      "term": "Vinyl Jacket",
+      "currentWords": 25
+    },
+    {
+      "slug": "vinyl-weight-pressing-weight",
+      "term": "Vinyl Weight",
+      "currentWords": 25
+    },
+    {
+      "slug": "warp-resistant-pressing",
+      "term": "Warp-Resistant Pressing",
+      "currentWords": 25
+    },
+    {
+      "slug": "washboard-groove-damaged-groove",
+      "term": "Washboard Groove",
+      "currentWords": 25
+    },
+    {
+      "slug": "wrap-around-gatefold",
+      "term": "Wrap-Around Gatefold",
+      "currentWords": 25
+    },
+    {
+      "slug": "alignment-protractor",
+      "term": "Alignment Protractor",
+      "currentWords": 26
+    },
+    {
+      "slug": "cat-no-catalog-number",
+      "term": "Cat-No.",
+      "currentWords": 26
+    },
+    {
+      "slug": "full-range-speaker",
+      "term": "Full-Range Speaker",
+      "currentWords": 26
+    },
+    {
+      "slug": "generation-loss",
+      "term": "Generation Loss",
+      "currentWords": 26
+    },
+    {
+      "slug": "hi-fi-high-fidelity",
+      "term": "Hi-Fi (High-Fidelity)",
+      "currentWords": 26
+    },
+    {
+      "slug": "hot-cut",
+      "term": "Hot Cut",
+      "currentWords": 26
+    },
+    {
+      "slug": "jukebox-strip",
+      "term": "Jukebox Strip",
+      "currentWords": 26
+    },
+    {
+      "slug": "kitsch-cover-lp",
+      "term": "Kitsch",
+      "currentWords": 26
+    },
+    {
+      "slug": "mid-side-fold-down-mono-re-cut",
+      "term": "Mid-Side Fold-Down",
+      "currentWords": 26
+    },
+    {
+      "slug": "mint-minus",
+      "term": "Mint",
+      "currentWords": 26
+    },
+    {
+      "slug": "multi-disc-box-set",
+      "term": "Multi-Disc Box Set",
+      "currentWords": 26
+    },
+    {
+      "slug": "one-sided-lp-one-sider",
+      "term": "One-Sided LP",
+      "currentWords": 26
+    },
+    {
+      "slug": "outer-jacket-outer-sleeve",
+      "term": "Outer Jacket",
+      "currentWords": 26
+    },
+    {
+      "slug": "pitch-lock-quartz-lock",
+      "term": "Pitch-Lock",
+      "currentWords": 26
+    },
+    {
+      "slug": "playback-wear",
+      "term": "Playback Wear",
+      "currentWords": 26
+    },
+    {
+      "slug": "playback-wearcontinued",
+      "term": "Playback Wear",
+      "currentWords": 26
+    },
+    {
+      "slug": "price-code-sticker-price-box",
+      "term": "Price-Code Sticker",
+      "currentWords": 26
+    },
+    {
+      "slug": "quad-cut-stylus-cd-4-compatible-stylus",
+      "term": "Quad-Cut Stylus",
+      "currentWords": 26
+    },
+    {
+      "slug": "record-changer-stack-changer",
+      "term": "Record Changer",
+      "currentWords": 26
+    },
+    {
+      "slug": "record-club-edition",
+      "term": "Record Club Edition",
+      "currentWords": 26
+    },
+    {
+      "slug": "record-divider-tab-sticker",
+      "term": "Record Divider Tab Sticker",
+      "currentWords": 26
+    },
+    {
+      "slug": "reinforced-groove-heavy-cut-groove",
+      "term": "Reinforced Groove",
+      "currentWords": 26
+    },
+    {
+      "slug": "reverb-tank-dub-cut",
+      "term": "Reverb",
+      "currentWords": 26
+    },
+    {
+      "slug": "shotgun-groove-wide-cut-disco-groove",
+      "term": "Shotgun Groove",
+      "currentWords": 26
+    },
+    {
+      "slug": "sound-effects-library-disc",
+      "term": "Sound-Effects Library Disc",
+      "currentWords": 26
+    },
+    {
+      "slug": "sound-system-special-dub-plate-special",
+      "term": "Sound-System Special",
+      "currentWords": 26
+    },
+    {
+      "slug": "track-banded-lp-banded-groove-album",
+      "term": "Track-Banded LP",
+      "currentWords": 26
+    },
+    {
+      "slug": "tracking-force-stylus-pressure",
+      "term": "Tracking Force",
+      "currentWords": 26
+    },
+    {
+      "slug": "turntable-isolation-platform",
+      "term": "Turntable Isolation Platform",
+      "currentWords": 26
+    },
+    {
+      "slug": "un-banded-lp-continuous-groove-album",
+      "term": "Un-Banded LP",
+      "currentWords": 26
+    },
+    {
+      "slug": "vacuum-tube-phono-stage",
+      "term": "Vacuum Tube Phono Stage",
+      "currentWords": 26
+    },
+    {
+      "slug": "zig-zag-groove-guard",
+      "term": "Zig-Zag Groove Guard",
+      "currentWords": 26
+    },
+    {
+      "slug": "anti-skate",
+      "term": "Anti",
+      "currentWords": 27
+    },
+    {
+      "slug": "belt-drive-turntable",
+      "term": "Belt-Drive Turntable",
+      "currentWords": 27
+    },
+    {
+      "slug": "bootleg",
+      "term": "Bootleg",
+      "currentWords": 27
+    },
+    {
+      "slug": "dubplate",
+      "term": "Dubplate",
+      "currentWords": 27
+    },
+    {
+      "slug": "headshell-lead-wires",
+      "term": "Headshell Lead Wires",
+      "currentWords": 27
+    },
+    {
+      "slug": "inner-groove-distortion",
+      "term": "Inner-Groove Distortion",
+      "currentWords": 27
+    },
+    {
+      "slug": "inner-sleeve-rash",
+      "term": "Inner-Sleeve Rash",
+      "currentWords": 27
+    },
+    {
+      "slug": "jacket-flap-flap-back-sleeve",
+      "term": "Jacket Flap",
+      "currentWords": 27
+    },
+    {
+      "slug": "linear-tracking-turntable",
+      "term": "Linear-Tracking Turntable",
+      "currentWords": 27
+    },
+    {
+      "slug": "micro-groove",
+      "term": "Micro",
+      "currentWords": 27
+    },
+    {
+      "slug": "moving-magnet-cartridge-mm",
+      "term": "Moving-Magnet Cartridge",
+      "currentWords": 27
+    },
+    {
+      "slug": "needle-talk-stylus-talk",
+      "term": "Needle-Talk",
+      "currentWords": 27
+    },
+    {
+      "slug": "outer-ring-clamp-peripheral-ring",
+      "term": "Outer-Ring Clamp",
+      "currentWords": 27
+    },
+    {
+      "slug": "party-cut-slang",
+      "term": "Party Cut",
+      "currentWords": 27
+    },
+    {
+      "slug": "pencil-marked-label",
+      "term": "Pencil",
+      "currentWords": 27
+    },
+    {
+      "slug": "picture-disc",
+      "term": "Picture Disc",
+      "currentWords": 27
+    },
+    {
+      "slug": "plinth",
+      "term": "Plinth",
+      "currentWords": 27
+    },
+    {
+      "slug": "pre-echo-post-echo-pair",
+      "term": "Pre-Echo",
+      "currentWords": 27
+    },
+    {
+      "slug": "pressing-weight-140-g-180-g-200-g",
+      "term": "Pressing Weight",
+      "currentWords": 27
+    },
+    {
+      "slug": "private-press-private-label-pressing",
+      "term": "Private-Press",
+      "currentWords": 27
+    },
+    {
+      "slug": "quartz-lock-aka-quartz-synth-pitch-lock",
+      "term": "Quartz-Lock (a.k.a. Quartz-Synth Pitch-Lock)",
+      "currentWords": 27
+    },
+    {
+      "slug": "rca-shaded-dog-label",
+      "term": "RCA “Shaded",
+      "currentWords": 27
+    },
+    {
+      "slug": "reference-lacquer",
+      "term": "Reference Lacquer",
+      "currentWords": 27
+    },
+    {
+      "slug": "reissue-label-variant",
+      "term": "Reissue Label Variant",
+      "currentWords": 27
+    },
+    {
+      "slug": "sampler-lp-promo-sampler",
+      "term": "Sampler LP",
+      "currentWords": 27
+    },
+    {
+      "slug": "semi-automatic-turntable",
+      "term": "Semi-Automatic Turntable",
+      "currentWords": 27
+    },
+    {
+      "slug": "spiral-groove-lead-in-lead-out",
+      "term": "Spiral-Groove Lead-In",
+      "currentWords": 27
+    },
+    {
+      "slug": "timing-strip-track-timing-sticker",
+      "term": "Timing Strip",
+      "currentWords": 27
+    },
+    {
+      "slug": "turntable-mat-platter-mat",
+      "term": "Turntable Mat",
+      "currentWords": 27
+    },
+    {
+      "slug": "velvet-dust-brush-velvet-pad-cleaner",
+      "term": "Velvet Dust Brush",
+      "currentWords": 27
+    },
+    {
+      "slug": "vertical-tracking-angle-vta",
+      "term": "Vertical Tracking Angle",
+      "currentWords": 27
+    },
+    {
+      "slug": "y-groove-junction-run-out-crossover",
+      "term": "Y-Groove Junction",
+      "currentWords": 27
+    },
+    {
+      "slug": "zipper-cover-sleeve",
+      "term": "Zipper",
+      "currentWords": 27
+    },
+    {
+      "slug": "zoo-label",
+      "term": "Zoo-Label Novelty 45",
+      "currentWords": 27
+    },
+    {
+      "slug": "back-splice",
+      "term": "Back-Splice",
+      "currentWords": 28
+    },
+    {
+      "slug": "hanging-groove-aka-suspended-groove",
+      "term": "Hanging Groove",
+      "currentWords": 28
+    },
+    {
+      "slug": "heavyweight-vinyl-180-gram-200-gram",
+      "term": "Heavyweight Vinyl",
+      "currentWords": 28
+    },
+    {
+      "slug": "jump-groove",
+      "term": "Jump",
+      "currentWords": 28
+    },
+    {
+      "slug": "macro-groove",
+      "term": "Macro",
+      "currentWords": 28
+    },
+    {
+      "slug": "magnetic-strip-inventory-sticker",
+      "term": "Magnetic-Strip Inventory Sticker",
+      "currentWords": 28
+    },
+    {
+      "slug": "noise-floor",
+      "term": "Noise",
+      "currentWords": 28
+    },
+    {
+      "slug": "off-center-pressing",
+      "term": "Off-Center Pressing",
+      "currentWords": 28
+    },
+    {
+      "slug": "one-step-pressing-aka-supervinyl-one-step",
+      "term": "One-Step Pressing",
+      "currentWords": 28
+    },
+    {
+      "slug": "optical-soundtrack-disc-historical",
+      "term": "Optical Soundtrack Disc",
+      "currentWords": 28
+    },
+    {
+      "slug": "oversized-13-inch-disc-transcription-promo",
+      "term": "Oversized 13-Inch Disc",
+      "currentWords": 28
+    },
+    {
+      "slug": "polybag-sealed-copy",
+      "term": "Polybag",
+      "currentWords": 28
+    },
+    {
+      "slug": "punch-hole-cut-out",
+      "term": "Punch-Hole Cut-Out",
+      "currentWords": 28
+    },
+    {
+      "slug": "red-wax-pressing-red-vinyl-pressing",
+      "term": "Red-Wax Pressing",
+      "currentWords": 28
+    },
+    {
+      "slug": "return-to-jacket-sleeve-archival-practice",
+      "term": "Return-to-Jacket Sleeve",
+      "currentWords": 28
+    },
+    {
+      "slug": "safety-groove-safety-runout",
+      "term": "Safety Groove",
+      "currentWords": 28
+    },
+    {
+      "slug": "slow-cut-lacquer-wide-pitch-cut",
+      "term": "Slow-Cut Lacquer",
+      "currentWords": 28
+    },
+    {
+      "slug": "spacer-ring-spindle-spacer",
+      "term": "Spacer Ring",
+      "currentWords": 28
+    },
+    {
+      "slug": "spider-insert-45-spider",
+      "term": "Spider Insert",
+      "currentWords": 28
+    },
+    {
+      "slug": "target-label-lp",
+      "term": "Target",
+      "currentWords": 28
+    },
+    {
+      "slug": "tone-arm-rest-arm-lock",
+      "term": "Tone-Arm Rest",
+      "currentWords": 28
+    },
+    {
+      "slug": "top-loader-sleeve-top-opening-jacket",
+      "term": "Top-Loader Sleeve",
+      "currentWords": 28
+    },
+    {
+      "slug": "ultra-thin-flexi-disc",
+      "term": "Ultra-Thin Flexi-Disc",
+      "currentWords": 28
+    },
+    {
+      "slug": "un-dinked-45-solid-centre-45",
+      "term": "Un-Dinked 45",
+      "currentWords": 28
+    },
+    {
+      "slug": "vertical-cut-groove-hill-and-dale-cut",
+      "term": "Vertical-Cut Groove",
+      "currentWords": 28
+    },
+    {
+      "slug": "vertical-tracking-linear-arm-tangential-arm",
+      "term": "Vertical-Tracking Linear Arm",
+      "currentWords": 28
+    },
+    {
+      "slug": "warped-record-dish-warp-edge-warp",
+      "term": "Warped Record",
+      "currentWords": 28
+    },
+    {
+      "slug": "zone-cut-hot-zone-mastering",
+      "term": "Zone-Cut / Hot-Zone Mastering",
+      "currentWords": 28
+    },
+    {
+      "slug": "acoustic-suspension",
+      "term": "Acoustic Suspension",
+      "currentWords": 29
+    },
+    {
+      "slug": "ep-extended-play",
+      "term": "EP (Extended Play)",
+      "currentWords": 29
+    },
+    {
+      "slug": "flat-edge-pressing",
+      "term": "Flat-Edge Pressing",
+      "currentWords": 29
+    },
+    {
+      "slug": "groove-guard",
+      "term": "Groove Guard",
+      "currentWords": 29
+    },
+    {
+      "slug": "groove-jump",
+      "term": "Groove",
+      "currentWords": 29
+    },
+    {
+      "slug": "groovebox",
+      "term": "Groovebox",
+      "currentWords": 29
+    },
+    {
+      "slug": "hard-bop-pressing",
+      "term": "Hard-Bop Pressing",
+      "currentWords": 29
+    },
+    {
+      "slug": "hip-pocket-disc",
+      "term": "Hip-Pocket Disc",
+      "currentWords": 29
+    },
+    {
+      "slug": "idler-wheel-drive",
+      "term": "Idler-Wheel Drive",
+      "currentWords": 29
+    },
+    {
+      "slug": "jitter-digital-to-vinyl-transfers",
+      "term": "Jitter (Digital",
+      "currentWords": 29
+    },
+    {
+      "slug": "k-tel-compilation",
+      "term": "K-Tel Compilation",
+      "currentWords": 29
+    },
+    {
+      "slug": "label-variant",
+      "term": "Label Variant",
+      "currentWords": 29
+    },
+    {
+      "slug": "lathe-cut-record",
+      "term": "Lathe",
+      "currentWords": 29
+    },
+    {
+      "slug": "library-music-lp",
+      "term": "Library Music LP",
+      "currentWords": 29
+    },
+    {
+      "slug": "near-mint-nm-nm",
+      "term": "Near-Mint",
+      "currentWords": 29
+    },
+    {
+      "slug": "paper-scuff",
+      "term": "Paper Scuff",
+      "currentWords": 29
+    },
+    {
+      "slug": "paste-on-slick-jacket",
+      "term": "Paste-On Slick Jacket",
+      "currentWords": 29
+    },
+    {
+      "slug": "quick-change-headshell",
+      "term": "Quick-Change Headshell",
+      "currentWords": 29
+    },
+    {
+      "slug": "regional-pressing",
+      "term": "Regional Pressing",
+      "currentWords": 29
+    },
+    {
+      "slug": "retipped-stylus",
+      "term": "Retipped Stylus",
+      "currentWords": 29
+    },
+    {
+      "slug": "saw-cut-notch-saw-mark-cut-out",
+      "term": "Saw-Cut Notch",
+      "currentWords": 29
+    },
+    {
+      "slug": "seven-inch-single-7-inch-45",
+      "term": "Seven-Inch Single",
+      "currentWords": 29
+    },
+    {
+      "slug": "shaded-dog-label-rca-victor",
+      "term": "Shaded-Dog Label",
+      "currentWords": 29
+    },
+    {
+      "slug": "silver-label-promo",
+      "term": "Silver",
+      "currentWords": 29
+    },
+    {
+      "slug": "single-sided-lp-one-sided-disc",
+      "term": "Single-Sided LP",
+      "currentWords": 29
+    },
+    {
+      "slug": "skip-loop-locked-skip",
+      "term": "Skip-Loop",
+      "currentWords": 29
+    },
+    {
+      "slug": "sleaveface-sleeveface-meme",
+      "term": "Sleaveface / Sleeveface",
+      "currentWords": 29
+    },
+    {
+      "slug": "three-sided-lp-hidden-side-album",
+      "term": "Three-Sided LP",
+      "currentWords": 29
+    },
+    {
+      "slug": "tone-poem-sleeve-art",
+      "term": "Tone-Poem Sleeve Art",
+      "currentWords": 29
+    },
+    {
+      "slug": "variable-pitch-groove-cutting",
+      "term": "Variable-Pitch Groove Cutting",
+      "currentWords": 29
+    },
+    {
+      "slug": "wash-clean-method-wet-play-vintage",
+      "term": "Wash-Clean Method / Wet-Play",
+      "currentWords": 29
+    },
+    {
+      "slug": "wing-flap-inner-sleeve",
+      "term": "Wing-Flap Inner Sleeve",
+      "currentWords": 29
+    },
+    {
+      "slug": "y-splitter-rca-cable",
+      "term": "Y-Splitter RCA Cable",
+      "currentWords": 29
+    },
+    {
+      "slug": "yoke-mount-cartridge",
+      "term": "Yoke-Mount Cartridge",
+      "currentWords": 29
+    },
+    {
+      "slug": "album",
+      "term": "Album",
+      "currentWords": 30
+    },
+    {
+      "slug": "feedthrough",
+      "term": "Feedthrough",
+      "currentWords": 30
+    },
+    {
+      "slug": "flash-cut-hot-cut",
+      "term": "Flash-Cut",
+      "currentWords": 30
+    },
+    {
+      "slug": "j-curve-eq-broadcast-quirk",
+      "term": "J-Curve EQ",
+      "currentWords": 30
+    },
+    {
+      "slug": "loudness-war-cut",
+      "term": "Loudness War Cut",
+      "currentWords": 30
+    },
+    {
+      "slug": "magnetic-cartridge",
+      "term": "Magnetic Cartridge",
+      "currentWords": 30
+    },
+    {
+      "slug": "mono-switch",
+      "term": "Mono Switch",
+      "currentWords": 30
+    },
+    {
+      "slug": "non-fill",
+      "term": "Non-Fill",
+      "currentWords": 30
+    },
+    {
+      "slug": "obi-strip",
+      "term": "Obi Strip",
+      "currentWords": 30
+    },
+    {
+      "slug": "ohm-load-cartridge-load-impedance",
+      "term": "Ohm Load (Cartridge Load Impedance)",
+      "currentWords": 30
+    },
+    {
+      "slug": "overdub-to-disc-direct-to-disc-overdub",
+      "term": "Overdub-to-Disc",
+      "currentWords": 30
+    },
+    {
+      "slug": "pencil-test-groove-studio-qc-term",
+      "term": "Pencil-Test Groove",
+      "currentWords": 30
+    },
+    {
+      "slug": "percussion-break-aka-breakbeat",
+      "term": "Percussion Break",
+      "currentWords": 30
+    },
+    {
+      "slug": "pitch-control",
+      "term": "Pitch Control",
+      "currentWords": 30
+    },
+    {
+      "slug": "playback-weight-tracking-force",
+      "term": "Playback Weight",
+      "currentWords": 30
+    },
+    {
+      "slug": "plexiglass-dust-cover",
+      "term": "Plexiglass Dust",
+      "currentWords": 30
+    },
+    {
+      "slug": "plus-cut-hot-plus-cut",
+      "term": "Plus-Cut",
+      "currentWords": 30
+    },
+    {
+      "slug": "pop-out-center-aka-jukebox-spider",
+      "term": "Pop-Out Center",
+      "currentWords": 30
+    },
+    {
+      "slug": "post-production-etching",
+      "term": "Post-Production Etching",
+      "currentWords": 30
+    },
+    {
+      "slug": "pre-show-test-press",
+      "term": "Pre-Show Test-Press",
+      "currentWords": 30
+    },
+    {
+      "slug": "pre-war-shellac-78",
+      "term": "Pre-War Shellac 78",
+      "currentWords": 30
+    },
+    {
+      "slug": "pressing-ring-aka-label-ring",
+      "term": "Pressing Ring",
+      "currentWords": 30
+    },
+    {
+      "slug": "signal-to-noise-ratio-sn",
+      "term": "Signal-to-Noise Ratio",
+      "currentWords": 30
+    },
+    {
+      "slug": "single-step-plating-direct-metal-mastering-style",
+      "term": "Single-Step Plating",
+      "currentWords": 30
+    },
+    {
+      "slug": "sleeve-grading-vg-nm-etc",
+      "term": "Sleeve Grading",
+      "currentWords": 30
+    },
+    {
+      "slug": "translucent-vinyl-variant",
+      "term": "Translucent",
+      "currentWords": 30
+    },
+    {
+      "slug": "x-y-stereo-pickup-test",
+      "term": "X-Y Stereo Pickup Test",
+      "currentWords": 30
+    },
+    {
+      "slug": "yard-sale-find",
+      "term": "Yard-Sale Find",
+      "currentWords": 30
+    },
+    {
+      "slug": "zero-balance-tone-arm",
+      "term": "Zero-Balance Tone-Arm",
+      "currentWords": 30
+    },
+    {
+      "slug": "zero-rumble-spec",
+      "term": "Zero-Rumble Spec",
+      "currentWords": 30
+    },
+    {
+      "slug": "j-cut-single",
+      "term": "J-Cut Single",
+      "currentWords": 31
+    },
+    {
+      "slug": "marker-scrawl-label",
+      "term": "Marker",
+      "currentWords": 31
+    },
+    {
+      "slug": "needle-drop",
+      "term": "Needle",
+      "currentWords": 31
+    },
+    {
+      "slug": "net-weight-vinyl-biscuit-weight",
+      "term": "Net-Weight",
+      "currentWords": 31
+    },
+    {
+      "slug": "platter-mat",
+      "term": "Platter Mat",
+      "currentWords": 31
+    },
+    {
+      "slug": "q-up-auto-tone-arm-lifter",
+      "term": "Q-Up (Auto Tone-Arm Lifter)",
+      "currentWords": 31
+    },
+    {
+      "slug": "quiex-vinyl-quiex-ii-quiex-sv-p",
+      "term": "Quiex Vinyl",
+      "currentWords": 31
+    },
+    {
+      "slug": "rack-jobber-sticker",
+      "term": "Rack-Jobber Sticker",
+      "currentWords": 31
+    },
+    {
+      "slug": "reverse-groove-inside-out-cut",
+      "term": "Reverse Groove",
+      "currentWords": 31
+    },
+    {
+      "slug": "side-loader-sleeve-side-opening-sleeve",
+      "term": "Side-Loader Sleeve",
+      "currentWords": 31
+    },
+    {
+      "slug": "ultra-sonic-record-cleaner",
+      "term": "Ultra-Sonic Record Cleaner",
+      "currentWords": 31
+    },
+    {
+      "slug": "wax-poetics-magazine-term",
+      "term": "Wax Poetics",
+      "currentWords": 31
+    },
+    {
+      "slug": "wow-flutter",
+      "term": "Wow & Flutter",
+      "currentWords": 31
+    },
+    {
+      "slug": "ground-loop-hum",
+      "term": "Ground",
+      "currentWords": 32
+    },
+    {
+      "slug": "italian-pressing",
+      "term": "Italian Pressing",
+      "currentWords": 32
+    },
+    {
+      "slug": "multi-groove-record-trick-groove",
+      "term": "Multi-Groove Record",
+      "currentWords": 32
+    },
+    {
+      "slug": "original-master-recording-omr",
+      "term": "Original Master Recording",
+      "currentWords": 32
+    },
+    {
+      "slug": "penny-weight-turntable-hack",
+      "term": "Penny-Weight",
+      "currentWords": 32
+    },
+    {
+      "slug": "platter-ring-wear-shadow",
+      "term": "Platter Ring",
+      "currentWords": 32
+    },
+    {
+      "slug": "pop-guard-aka-dust-pop-filter",
+      "term": "Pop-Guard (a.k.a. Dust-Pop Filter)",
+      "currentWords": 32
+    },
+    {
+      "slug": "scissor-cut-obi-fold-over-obi",
+      "term": "Scissor-Cut Obi",
+      "currentWords": 32
+    },
+    {
+      "slug": "shellac-disc-78-rpm-shellac",
+      "term": "Shellac Disc",
+      "currentWords": 32
+    },
+    {
+      "slug": "side-a-side-b",
+      "term": "Side-A",
+      "currentWords": 32
+    },
+    {
+      "slug": "time-code-vinyl-dvs-control-vinyl",
+      "term": "Time-Code Vinyl",
+      "currentWords": 32
+    },
+    {
+      "slug": "tip-on-jacket",
+      "term": "Tip-On Jacket",
+      "currentWords": 32
+    },
+    {
+      "slug": "vinyl-coated-inner-sleeve",
+      "term": "Vinyl Coated Inner Sleeve",
+      "currentWords": 32
+    },
+    {
+      "slug": "x-rated-cover-art",
+      "term": "X-Rated Cover Art",
+      "currentWords": 32
+    },
+    {
+      "slug": "j-curve-tonearm",
+      "term": "J-Curve Tonearm",
+      "currentWords": 33
+    },
+    {
+      "slug": "pre-echo-groove-print-through",
+      "term": "Pre-Echo (Groove-Print-Through)",
+      "currentWords": 33
+    },
+    {
+      "slug": "sacd-hybrid-disc-super-audio-cd-hybrid",
+      "term": "SACD Hybrid Disc",
+      "currentWords": 33
+    },
+    {
+      "slug": "vacuum-record-cleaner",
+      "term": "Vacuum Record Cleaner",
+      "currentWords": 33
+    },
+    {
+      "slug": "fletcher-munson-curve",
+      "term": "Fletcher",
+      "currentWords": 34
+    },
+    {
+      "slug": "moving-coil-cartridge-mc",
+      "term": "Moving-Coil Cartridge",
+      "currentWords": 34
+    },
+    {
+      "slug": "null-test-audio-phase-test",
+      "term": "Null-Test",
+      "currentWords": 34
+    },
+    {
+      "slug": "promo-copy-promotional-pressing",
+      "term": "Promo Copy",
+      "currentWords": 34
+    },
+    {
+      "slug": "sandpaper-jacket",
+      "term": "Sandpaper Jacket",
+      "currentWords": 34
+    },
+    {
+      "slug": "tracking-angle-vertical-tracking-angle-vta",
+      "term": "Tracking Angle / Vertical Tracking Angle",
+      "currentWords": 34
+    },
+    {
+      "slug": "needle-tip-size-stylus-size",
+      "term": "Needle-Tip Size",
+      "currentWords": 35
+    },
+    {
+      "slug": "quadraphonic-lp-quad-lp",
+      "term": "Quadraphonic LP",
+      "currentWords": 35
+    },
+    {
+      "slug": "transcription-disc-16-inch-transcription",
+      "term": "Transcription Disc",
+      "currentWords": 35
+    },
+    {
+      "slug": "variable-reluctance-cartridge",
+      "term": "Variable Reluctance Cartridge",
+      "currentWords": 35
+    },
+    {
+      "slug": "ab-test-press",
+      "term": "A/B Test Press",
+      "currentWords": 36
+    },
+    {
+      "slug": "permanent-marker-groove-check",
+      "term": "Permanent Marker Groove",
+      "currentWords": 36
+    },
+    {
+      "slug": "sonic-signature",
+      "term": "Sonic Signature",
+      "currentWords": 36
+    },
+    {
+      "slug": "tone-arm-resonance",
+      "term": "Tone-Arm Resonance",
+      "currentWords": 36
+    },
+    {
+      "slug": "shibata-stylus",
+      "term": "Shibata Stylus",
+      "currentWords": 37
+    },
+    {
+      "slug": "slip-mat-burn-mat-burn-ring",
+      "term": "Slip-Mat Burn",
+      "currentWords": 37
+    },
+    {
+      "slug": "lacquer-cut",
+      "term": "Lacquer Cut",
+      "currentWords": 38
+    },
+    {
+      "slug": "half-speed-mastering",
+      "term": "Half-Speed Mastering",
+      "currentWords": 39
+    },
+    {
+      "slug": "thumb-notch-outer-sleeve",
+      "term": "Thumb-Notch Outer Sleeve",
+      "currentWords": 39
+    },
+    {
+      "slug": "up-grade-copy",
+      "term": "Up-Grade Copy",
+      "currentWords": 39
+    },
+    {
+      "slug": "eq-equalization",
+      "term": "E.Q. (Equalization)",
+      "currentWords": 40
+    },
+    {
+      "slug": "flanging",
+      "term": "Flanging (Tape",
+      "currentWords": 40
+    },
+    {
+      "slug": "locked-groove",
+      "term": "Locked Groove",
+      "currentWords": 40
+    },
+    {
+      "slug": "j-cut-splice-edit",
+      "term": "J-Cut (Splice Edit)",
+      "currentWords": 46
+    }
+  ]
+}
