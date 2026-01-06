@@ -1,21 +1,40 @@
 {
   "slug": "cat-no",
   "term": "Cat-No.",
-  "summary": "'**noun / abbreviation.** A unique alphanumeric code assigned by a label.",
-  "definition": "**noun / abbreviation.** A unique alphanumeric code assigned by a label to identify a specific release or pressing — often printed on spine, label, and run-out.",
+  "pos": "noun",
+  "pronunciation": "/ˈkæt ˈnʌmbər/",
+  "summary": "**noun / abbreviation.** A unique alphanumeric code assigned by a label.",
+  "definition": "**noun / abbreviation.** A unique alphanumeric code assigned by a record label to identify a specific release or pressing within its catalog system. Typically printed on the spine, center label, and sometimes etched in the run-out groove, catalog numbers serve as the primary organizational tool for discographies and pressing identification. The format varies widely by label—some use sequential numbers (Blue Note's BLP-1501), others combine letters with numbers (Motown M-600), while major labels often employ complex prefixes indicating format, series, or country of manufacture (Columbia CS-9001 for stereo). Introduced in the early 20th century as labels expanded their rosters, catalog numbers became essential for distributors, retailers, and collectors to distinguish between original pressings, reissues, and regional variants. A single album might have multiple catalog numbers across different territories or formats (mono vs. stereo, LP vs. CD). For collectors, the cat-no. is crucial for authentication and valuation—early catalog numbers often indicate first pressings and command premium prices. Modern reissue labels continue the practice, with some like Music Matters using catalog numbers to denote mastering sources and pressing quality.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "catalog number",
+    "catalogue number",
+    "release number"
+  ],
+  "alt_spellings": [
+    "cat no",
+    "cat #",
+    "cat. no.",
+    "catno"
+  ],
+  "etymology": "Abbreviated from 'catalog number,' adopted from library and mail-order catalog systems of the late 19th century as record labels required systematic inventory management.",
+  "first_use": 1910,
   "see_also": [
     "matrix-number",
     "pressing-plant-code",
-    "label-variant"
+    "label-variant",
+    "deadwax"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

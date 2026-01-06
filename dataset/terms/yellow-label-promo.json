@@ -1,22 +1,36 @@
 {
   "slug": "yellow-label-promo",
   "term": "Yellow",
+  "pos": "noun",
+  "pronunciation": "/ˈjɛloʊ/",
   "summary": "'**noun / collector term.** A **promotional pressing distinguished by a yellow.",
-  "definition": "**noun / collector term.** A **promotional pressing distinguished by a yellow center-label** used by certain labels in the 1960s–70s to mark DJ/radio copies.",
+  "definition": "**noun / collector term.** A **promotional pressing distinguished by a yellow center-label** used by certain labels in the 1960s–70s to mark DJ/radio copies. Most notably employed by Capitol Records and its subsidiaries, yellow promos were pressed in limited quantities and distributed to radio stations, DJs, and music journalists ahead of commercial release. The bright yellow label served as an immediate visual identifier, often printed with \"Promotional Copy—Not for Sale\" or similar text. These pressings typically featured the same audio mastering as commercial releases, though some collectors claim superior pressing quality due to stricter quality control for promotional batches. Yellow-label promos became particularly sought-after in soul, funk, and rock genres, where their scarcity and association with original promotional campaigns enhance collector value. Unlike white labels, which were often test pressings or pre-release acetates, yellow labels represented finalized promotional products with full artwork and catalog information.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "yellow promo",
+    "yellow label",
+    "Capitol yellow"
+  ],
+  "alt_spellings": [
+    "yellow-label promo",
+    "yellow label promo"
+  ],
+  "etymology": "Derived from the distinctive yellow-colored center labels used by Capitol Records and other labels to differentiate promotional pressings from standard commercial releases during the vinyl era.",
+  "first_use": 1965,
   "see_also": [
     "white-label-promo",
     "silver-label-promo",
-    "mono-fold-single"
+    "mono-fold-single",
+    "promo-copy"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,39 @@
 {
   "slug": "tracking-angle",
   "term": "Tracking Angle / Vertical Tracking Angle",
+  "pos": "noun",
+  "pronunciation": "/ˈtrækɪŋ ˈæŋɡəl/",
   "summary": "noun / hi-fi geometry term. The angle at which the stylus sits in the groove.",
-  "definition": "**noun / hi-fi geometry term.** The **angle at which the stylus sits in the groove relative to the record surface** — ideally matches the angle of the cutter head (~20°). Adjustable via tone-arm height.",
+  "definition": "**noun / hi-fi geometry term.** The **angle at which the stylus sits in the groove relative to the record surface** — ideally matches the angle of the cutter head used during lacquer mastering, typically around 20 degrees from vertical. Also called Vertical Tracking Angle (VTA), though purists distinguish between the two: VTA refers to the cantilever angle relative to the record surface, while tracking angle technically describes the stylus contact point geometry. Proper tracking angle ensures the stylus sits in the groove at the same orientation as the cutting stylus that created it, maximizing contact area and frequency response while minimizing distortion and record wear. Adjusted via tonearm height controls (raising the arm increases the angle, lowering decreases it), with some audiophile arms offering micrometer-precision adjustments. Became critical with the introduction of stereo records in 1958, as vertical modulation made angle accuracy essential for proper channel separation. Modern pressing variations in vinyl thickness (120g vs 180g vs 200g) mean optimal VTA changes between records, leading serious listeners to adjust per album. Misaligned tracking angle produces harsh treble, weak bass, and accelerated stylus wear.",
   "tags": [
     "equipment",
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "VTA",
+    "Vertical Tracking Angle",
+    "stylus angle",
+    "rake angle"
+  ],
+  "alt_spellings": [
+    "tracking-angle",
+    "vertical tracking angle"
+  ],
+  "etymology": "Term emerged from early stereo cartridge development in the late 1950s when engineers recognized that vertical groove modulation required precise stylus geometry matching the cutting lathe's angle.",
+  "first_use": 1958,
   "see_also": [
     "sra-stylus-rake-angle",
     "cartridge-shims",
     "arm-height-adjuster"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

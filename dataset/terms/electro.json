@@ -1,15 +1,29 @@
 {
   "slug": "electro",
   "term": "Electro",
+  "pos": "noun",
+  "pronunciation": "/ɪˈlɛktroʊ/",
   "summary": "'**Electro** - A musical style within the Electronic genre, classified according.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A pioneering electronic music genre that emerged in the early 1980s, characterized by drum machine rhythms (particularly the Roland TR-808), synthesizer basslines, vocoder-processed vocals, and funk-inspired grooves. Born from the collision of Kraftwerk's robotic synth-pop, Parliament-Funkadelic's bass-heavy funk, and early hip-hop culture, electro became the foundation for breakdancing and turntablism in New York City. Seminal tracks like Afrika Bambaataa's \"Planet Rock\" (1982) defined the sound, blending mechanical precision with street culture energy. The genre influenced Miami bass, Detroit techno, and modern EDM, while experiencing revivals in the 2000s through artists like Drexciya and Anthony Rother. On vinyl, original electro 12-inches from labels like Tommy Boy, Streetwise, and Planet Rock Records command premium prices among collectors, with the format's extended grooves perfectly suited to the genre's bass-heavy productions and DJ-friendly extended mixes.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "electro-funk",
+    "electro-boogie"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "elektro"
+  ],
+  "etymology": "Shortened from \"electro-funk,\" combining \"electronic\" with the funk music tradition that heavily influenced the genre's rhythmic foundation in early 1980s New York.",
+  "first_use": 1982,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

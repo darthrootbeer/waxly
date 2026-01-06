@@ -1,20 +1,36 @@
 {
   "slug": "pirated",
   "term": "Pirated Pressing",
+  "pos": "noun",
+  "pronunciation": "/ˈpaɪrətɪd ˈprɛsɪŋ/",
   "summary": "'**noun / illicit.** An unauthorized, illegally duplicated pressing intended.",
-  "definition": "**noun / illicit.** An unauthorized, illegally duplicated pressing intended to mimic an official release without rights-holder approval.",
+  "definition": "**noun / illicit.** An unauthorized, illegally duplicated pressing intended to mimic an official release without rights-holder approval. Pirated pressings emerged in the 1960s as commercial operations manufacturing counterfeit copies of popular albums for profit, distinct from bootlegs which typically document unreleased material. These illicit records replicate legitimate releases with copied artwork and labels, often using inferior vinyl compounds and substandard mastering sourced from commercial recordings or earlier pressings. Major piracy operations flourished in Southeast Asia, Eastern Europe, and Latin America during the 1970s-80s, flooding markets with cheap imitations that undermined official sales. Quality ranges from near-identical reproductions to obviously defective products with misspellings, wrong label colors, or poor audio fidelity. Modern pirated vinyl has resurged alongside the format's renaissance, with contemporary counterfeits of high-value titles appearing on online marketplaces. Collectors avoid pirated pressings due to their illegality, poor sound quality, and lack of investment value, though some document them as cultural artifacts of music distribution history.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "counterfeit pressing",
+    "fake pressing",
+    "unauthorized pressing",
+    "pirate record"
+  ],
+  "alt_spellings": [
+    "pirate pressing"
+  ],
+  "etymology": "From nautical piracy terminology applied to copyright infringement, combining 'pirate' (one who steals intellectual property) with 'pressing' (vinyl manufacturing term). Term became widespread in music industry during 1960s-70s anti-piracy campaigns.",
+  "first_use": 1962,
   "see_also": [
     "bootleg",
     "counterfeit",
     "grey-market-release"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AS",
+    "LA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

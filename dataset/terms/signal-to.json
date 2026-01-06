@@ -1,22 +1,40 @@
 {
   "slug": "signal-to",
   "term": "Signal-to-Noise Ratio",
+  "pos": "phrase",
+  "pronunciation": "/ˈsɪɡnəl tuː nɔɪz ˈreɪʃioʊ/",
   "summary": "noun / audio-spec term. A measurement comparing the desired music signal.",
-  "definition": "**noun / audio-spec term.** A measurement comparing the **desired music signal** level to the **background [noise](../n/noise-floor.md)** of the playback chain — expressed in decibels (dB). Higher numbers mean cleaner playback.",
+  "definition": "**noun / audio-spec term.** A measurement comparing the **desired music signal** level to the **background [noise](../n/noise-floor.md)** of the playback chain — expressed in decibels (dB). Higher numbers mean cleaner playback. In vinyl systems, SNR typically ranges from 50-70dB for consumer turntables, while audiophile setups can achieve 75-80dB or higher. The ratio reveals how much louder the music is compared to inherent system noise: surface noise from the record itself, electrical hum from components, or mechanical rumble from the turntable motor. A pressing on **[virgin vinyl](../v/virgin-vinyl.md)** generally delivers better SNR than recycled compound. The cartridge-preamp combination critically impacts the final ratio — a low-output moving coil into a poorly-designed phono stage can introduce significant noise despite the cartridge's superior tracking. Mastering engineers consider SNR when cutting lacquers, balancing groove spacing and depth to maximize signal while minimizing background artifacts. Modern 180-gram audiophile pressings emphasize high SNR through premium materials and meticulous quality control. For collectors, SNR degradation from repeated plays or improper storage manifests as increased surface noise, effectively lowering the ratio and diminishing listening experience.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "SNR",
+    "S/N ratio",
+    "signal-to-noise"
+  ],
+  "alt_spellings": [
+    "signal to noise ratio",
+    "signal/noise ratio"
+  ],
+  "etymology": "Borrowed from electrical engineering terminology in the 1940s as audio equipment became measurable through objective specifications; became standard hi-fi marketing metric by the 1960s.",
+  "first_use": 1948,
   "see_also": [
     "rumble-filter",
     "low-noise-vinyl",
-    "wow-flutter"
+    "wow-flutter",
+    "noise-floor",
+    "virgin-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

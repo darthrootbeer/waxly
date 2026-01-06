@@ -1,21 +1,38 @@
 {
   "slug": "compilation-album",
   "term": "Compilation Album",
+  "pos": "noun",
+  "pronunciation": "/ˌkɒmpɪˈleɪʃən ˈælbəm/",
   "summary": "An LP or multi-disc set collecting songs from various artists or sessions.",
-  "definition": "An LP or multi-disc set collecting songs from various artists or sessions — often themed by hits, genre, or label samplers.",
+  "definition": "An LP or multi-disc set collecting songs from various artists or sessions — often themed by hits, genre, or label samplers. Emerged in the 1950s as budget-priced introductions to labels or genres, compilations became cultural artifacts by the 1960s with influential collections like Nuggets (1972) preserving garage rock history. Common types include greatest hits packages, soundtrack albums, label showcases (Motown Chartbusters, K-Tel collections), and genre surveys. The format peaked commercially in the 1970s-80s with heavily advertised TV-marketed sets like Now That's What I Call Music. For collectors, compilations offer economical entry points to new artists and often include rare B-sides, alternate takes, or previously unreleased tracks unavailable elsewhere. Specialist compilations from labels like Rhino, Ace, and Soul Jazz have elevated the format into serious archival work, with detailed liner notes and remastered audio. Modern pressings often command attention when they gather scattered singles or compile out-of-print material onto vinyl for the first time, making them essential rather than secondary releases.",
   "tags": [
     "collecting",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "comp",
+    "various artists album",
+    "VA album",
+    "sampler"
+  ],
+  "alt_spellings": [
+    "compilation LP"
+  ],
+  "etymology": "From Latin 'compilare' (to plunder, gather together). Applied to music collections as record labels began assembling multiple artists onto single releases in the early LP era.",
+  "first_use": 1952,
   "see_also": [
     "anthology",
     "sampler",
-    "box-set"
+    "box-set",
+    "greatest-hits"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

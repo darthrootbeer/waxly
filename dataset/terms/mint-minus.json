@@ -1,20 +1,34 @@
 {
   "slug": "mint-minus",
-  "term": "Mint",
-  "summary": "'**noun / grading term.** A near-perfect condition grade just shy of absolute.",
-  "definition": "**noun / grading term.** A near-perfect condition grade just shy of absolute Mint; record is virtually unplayed but may show one or two hairline sleeve scuffs.",
+  "term": "Mint Minus",
+  "pos": "noun",
+  "pronunciation": "/mɪnt ˈmaɪnəs/",
+  "summary": "**noun / grading term.** A near-perfect condition grade just shy of absolute.",
+  "definition": "**noun / grading term.** A near-perfect condition grade just shy of absolute Mint; record is virtually unplayed but may show one or two hairline sleeve scuffs. In the Goldmine Standard grading system, Mint Minus (M-) represents the highest realistic grade for collectible records, as true Mint requires factory-sealed or demonstrably unplayed status. The grade acknowledges that even careful handling can leave microscopic traces—a faint sleeve mark, the slightest ring wear, or minimal inner sleeve friction—without affecting playback quality. Dealers often use M- for opened near-mint pressings that show no audible wear but lack the hermetic perfection of sealed stock. The distinction became important in the 1980s collector market when grading inflation made Near Mint less meaningful; M- filled the gap between unattainable perfection and excellent played copies. Modern collectors prize M- records as the sweet spot: pristine sound quality without the sealed-copy premium. The grade applies to both vinyl and sleeve independently, with M-/M- indicating overall near-perfection.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "M-",
+    "Mint Minus"
+  ],
+  "alt_spellings": [
+    "Mint-"
+  ],
+  "etymology": "Derived from numismatic grading terminology, adapted to record collecting in the 1970s when standardized condition assessment became essential for mail-order trading.",
+  "first_use": 1978,
   "see_also": [
     "goldmine-grading",
-    "vg",
-    "near-mint"
+    "near-mint",
+    "mint",
+    "vg-plus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

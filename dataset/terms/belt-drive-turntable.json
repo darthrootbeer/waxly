@@ -1,20 +1,37 @@
 {
   "slug": "belt-drive-turntable",
   "term": "Belt-Drive Turntable",
+  "pos": "noun",
+  "pronunciation": "/bɛlt draɪv ˈtɜrnˌteɪbəl/",
   "summary": "A turntable whose platter is spun by an elastic belt connecting it to a motor.",
-  "definition": "A turntable whose platter is spun by an elastic belt connecting it to a motor pulley — prized for vibration isolation but slower to start/stop than direct-drive.",
+  "definition": "A turntable whose platter is spun by an elastic belt connecting it to a motor pulley — prized for vibration isolation but slower to start/stop than direct-drive. The elastic belt (typically rubber or synthetic polymer) acts as a mechanical buffer, preventing motor vibrations and electrical noise from reaching the platter and stylus. This isolation design became dominant in audiophile turntables from the 1970s onward, championed by manufacturers like Linn, Rega, and Pro-Ject who prioritized sound quality over DJ functionality. The belt wraps around a small motor pulley and the underside or outer rim of the platter, with speed changes (33⅓ to 45 RPM) often requiring manual belt repositioning on stepped pulleys, though some models feature electronic speed switching. Belt-drive designs range from budget models under $200 to high-end suspended subchassis turntables exceeding $10,000. The belt itself requires periodic replacement (every 2-5 years) as elasticity degrades, affecting speed stability. While the format sacrifices the instant start/stop and pitch control essential for DJing, its superior isolation from motor rumble makes it the preferred choice for critical listening and home hi-fi systems.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "belt drive",
+    "belt-driven turntable"
+  ],
+  "alt_spellings": [
+    "belt drive turntable"
+  ],
+  "etymology": "Emerged in the 1960s as an alternative to idler-wheel and direct-drive mechanisms, gaining prominence through Edgar Villchur's acoustic research and subsequent adoption by British hi-fi manufacturers in the 1970s.",
+  "first_use": 1960,
   "see_also": [
     "direct-drive",
     "idler-wheel",
-    "wow-flutter"
+    "wow-and-flutter",
+    "platter",
+    "motor",
+    "speed-stability"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

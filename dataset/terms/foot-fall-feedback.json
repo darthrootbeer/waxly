@@ -1,21 +1,39 @@
 {
   "slug": "foot-fall-feedback",
   "term": "Foot-Fall Feedback",
+  "pos": "noun",
+  "pronunciation": "/fʊt fɔːl ˈfiːdbæk/",
   "summary": "'**noun / slang.** Low-frequency rumble or skipping triggered when footsteps.",
-  "definition": "**noun / slang.** Low-frequency rumble or skipping triggered when footsteps or stage vibration reach the turntable, especially on suspended-floor setups.",
+  "definition": "**noun / slang.** Low-frequency rumble or skipping triggered when footsteps or stage vibration reach the turntable, especially on suspended-floor setups. This acoustic plague emerged as a recognized problem in the 1970s disco and club era, when DJs needed to monitor through massive sound systems while maintaining physical contact with their decks. The phenomenon occurs when bass-heavy music or physical movement creates floor vibrations that travel through the turntable's chassis to the stylus, creating a feedback loop that manifests as low-frequency rumble, audible thumping, or—in severe cases—needle skipping. Suspended wooden floors in older buildings amplify the effect dramatically, turning dance floors into seismic triggers. Solutions evolved from primitive foam isolation to sophisticated spring-suspended platforms, pneumatic isolation feet, and wall-mounted shelving that bypasses floor contact entirely. High-mass turntables with superior damping materials prove more resistant than lightweight decks. The issue forced turntable manufacturers to prioritize isolation design, leading to innovations like the Technics SL-1200's rubber-damped feet and heavy plinth construction. Modern club installations often specify concrete floors or dedicated isolation platforms, though bedroom DJs on upper-story apartments continue to battle the physics of structural resonance.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "floor feedback",
+    "footstep rumble",
+    "structural feedback",
+    "vibration feedback"
+  ],
+  "alt_spellings": [
+    "footfall feedback",
+    "foot fall feedback"
+  ],
+  "etymology": "Coined in DJ and club installation contexts during the 1970s disco era, combining the literal \"foot-fall\" (footstep impact) with audio \"feedback\" terminology to describe mechanically-induced acoustic interference.",
+  "first_use": 1975,
   "see_also": [
     "isolation-feet",
     "acoustic-feedback",
-    "damping-trough"
+    "damping-trough",
+    "rumble",
+    "skip-resistance"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

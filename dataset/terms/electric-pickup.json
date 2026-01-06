@@ -1,21 +1,36 @@
 {
   "slug": "electric-pickup",
   "term": "Electric Pick-Up",
-  "summary": "'**noun / historical.** A 1930s-’50s term for the electro-magnetic cartridge.",
-  "definition": "**noun / historical.** A 1930s-’50s term for the electro-magnetic cartridge that replaced acoustic soundboxes on gramophones.",
+  "pos": "noun",
+  "pronunciation": "/ɪˈlɛktrɪk ˈpɪkʌp/",
+  "summary": "**noun / historical.** A 1930s-'50s term for the electro-magnetic cartridge.",
+  "definition": "**noun / historical.** A 1930s-'50s term for the electro-magnetic cartridge that replaced acoustic soundboxes on gramophones. The electric pick-up revolutionized home audio by converting stylus vibrations into electrical signals through electromagnetic induction, enabling amplification and dramatically improved sound quality over purely mechanical reproduction. Early models emerged in the late 1920s, with widespread adoption through the 1930s as consumers transitioned from wind-up gramophones to electrically-powered record players. The term distinguished these new electromagnetic transducers from their acoustic predecessors and from competing crystal (piezoelectric) designs that gained popularity in cheaper consumer equipment. By the 1950s, \"cartridge\" became the preferred terminology as the technology matured and standardized around moving magnet and moving coil designs. Electric pick-ups typically featured heavier tracking forces (5-10 grams) than modern cartridges and used steel or thorn needles that required frequent replacement. The shift from acoustic to electric reproduction fundamentally changed listening habits, enabling louder playback, tone control, and the development of high-fidelity audio systems that would dominate the LP era.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "electromagnetic cartridge",
+    "magnetic pick-up",
+    "electric reproducer"
+  ],
+  "alt_spellings": [
+    "electric pickup"
+  ],
+  "etymology": "Coined in the late 1920s from \"electric\" (referring to the electrical signal output) and \"pick-up\" (the established term for the tone arm assembly that \"picks up\" sound from the groove).",
+  "first_use": 1928,
   "see_also": [
     "cartridge",
     "crystal-pick-up",
-    "mono-stylus"
+    "mono-stylus",
+    "soundbox",
+    "gramophone"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

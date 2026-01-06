@@ -1,21 +1,37 @@
 {
   "slug": "jukebox-strip",
   "term": "Jukebox Strip",
+  "pos": "noun",
+  "pronunciation": "/ˈdʒuːkbɒks strɪp/",
   "summary": "The small printed paper or card label inserted into a jukebox title slot.",
-  "definition": "The small printed paper or card label inserted into a jukebox title slot identifying the record’s artist and song — collectible ephemera for matching vintage 45s.",
+  "definition": "The small printed paper or card label inserted into a jukebox title slot identifying the record's artist and song title, allowing patrons to select music by visual reference rather than memorizing alphanumeric codes. These strips, typically measuring 2.5 x 0.5 inches, were printed by jukebox operators or distributors to match their specific 45 RPM inventory, often featuring colorful graphics, record label logos, and catalog numbers. Introduced alongside the first Seeburg Select-O-Matic jukeboxes in 1948-1950, title strips became essential components of the jukebox experience through the 1960s golden era. Original strips matching vintage 45s are now highly collectible ephemera, particularly those from famous venues, regional distributors, or featuring rare recordings. Condition matters significantly—unfaded colors, crisp printing, and intact edges command premium prices. Many collectors seek complete sets to restore vintage jukeboxes or frame as nostalgic displays. Reproduction strips are available for restoration projects, though period-correct originals remain prized for authenticity.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "title strip",
+    "title card",
+    "selector strip",
+    "jukebox title card"
+  ],
+  "alt_spellings": [
+    "juke-box strip",
+    "juke box strip"
+  ],
+  "etymology": "Derived from 'jukebox' (itself from Gullah 'juke' meaning disorderly) and 'strip' referring to the narrow rectangular format, coined during the automatic phonograph era of the late 1940s.",
+  "first_use": 1948,
   "see_also": [
     "45-adapter",
     "jukebox-ep",
     "ephemera"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,40 @@
 {
   "slug": "generation-loss",
   "term": "Generation Loss",
+  "pos": "noun",
+  "pronunciation": "/ˌdʒɛnəˈreɪʃən lɒs/",
   "summary": "'**noun / technical.** The gradual loss of fidelity that occurs each time.",
-  "definition": "**noun / technical.** The gradual loss of fidelity that occurs each time a tape or disc is copied from another copy instead of the original master.",
+  "definition": "**noun / technical.** The gradual loss of fidelity that occurs each time a tape or disc is copied from another copy instead of the original master. In vinyl production, generation loss becomes critical when lacquer masters are duplicated through multiple metal stamper stages—each transfer introduces subtle degradation in frequency response, dynamic range, and surface noise characteristics. The phenomenon explains why first pressings cut directly from master tapes typically sound superior to later reissues made from copy tapes or digital intermediaries. During the analog tape era of the 1960s-80s, studios maintained strict protocols to minimize generation loss, keeping copy counts low and returning to original masters whenever possible. The concept gained renewed attention in the digital remastering age, as engineers debate whether digital transfers constitute a generation or preserve fidelity perfectly. Collectors prize original pressings partly because they represent the fewest generations from the studio master, though modern cutting techniques and careful tape preservation can sometimes yield reissues that rival or exceed vintage pressings in sonic quality.",
   "tags": [
     "pressing",
     "collecting",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "generational degradation",
+    "copy degradation",
+    "transfer loss"
+  ],
+  "alt_spellings": [
+    "generation-loss",
+    "generational loss"
+  ],
+  "etymology": "Borrowed from analog recording terminology of the 1950s, where 'generation' referred to each successive copy in a duplication chain, with 'loss' describing cumulative signal degradation.",
+  "first_use": 1952,
   "see_also": [
     "dub-plate",
     "master-tape",
-    "hot-cut"
+    "hot-cut",
+    "lacquer",
+    "stamper"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

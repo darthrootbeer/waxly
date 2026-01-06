@@ -1,21 +1,37 @@
 {
   "slug": "thermoplastic-biscuit-puck",
   "term": "Thermoplastic Biscuit",
-  "summary": "'**noun / plant slang.** A **pre-measured lump of heated vinyl compound**.",
-  "definition": "**noun / plant slang.** A **pre-measured lump of heated vinyl compound** placed between stampers in the press; flattens into the disc during the pressing cycle.",
+  "pos": "noun",
+  "pronunciation": "/ˌθɜːrmoʊˈplæstɪk ˈbɪskɪt/",
+  "summary": "**noun / plant slang.** A **pre-measured lump of heated vinyl compound**.",
+  "definition": "**noun / plant slang.** A **pre-measured lump of heated vinyl compound** placed between stampers in the press; flattens into the disc during the pressing cycle. Typically heated to 150-180°C (300-360°F), the biscuit is precisely weighed to match the desired record format—approximately 135 grams for a standard 12-inch LP, less for 7-inch singles. The compound consists of PVC resin mixed with stabilizers, lubricants, and colorants. When positioned in the press, hydraulic pressure (100-150 tons) forces the molten biscuit outward from the center, filling the grooves etched into the stampers while simultaneously forming the record's shape. Quality control at this stage is critical: insufficient material yields incomplete edge fill or thin pressings prone to warping, while excess creates thick, noisy records. Modern plants use automated extruders that produce consistent biscuits at rates of 30-40 per minute. The term remains standard floor language at pressing facilities worldwide, though \"puck\" sees regional use, particularly in North American plants.",
   "tags": [
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "puck",
+    "vinyl puck",
+    "pressing puck",
+    "charge"
+  ],
+  "alt_spellings": [
+    "biscuit"
+  ],
+  "etymology": "Adopted from industrial molding terminology where \"biscuit\" describes pre-formed thermoplastic charges; entered vinyl manufacturing vocabulary in the late 1940s as automated pressing replaced shellac's hand-ladled compounds.",
+  "first_use": 1948,
   "see_also": [
     "pressing-weight-180-g",
     "re-grind-vinyl",
-    "stamper-wear"
+    "stamper-wear",
+    "hydraulic-press"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

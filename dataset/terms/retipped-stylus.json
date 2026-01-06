@@ -1,21 +1,39 @@
 {
   "slug": "retipped-stylus",
   "term": "Retipped Stylus",
+  "pos": "noun",
+  "pronunciation": "/riːˈtɪpt ˈstaɪləs/",
   "summary": "'**noun / cartridge-service term.** A **stylus assembly whose original diamond.",
-  "definition": "**noun / [cartridge](../c/cartridge.md)-service term.** A **stylus assembly whose original diamond tip has been replaced** (often with an upgraded profile) by a specialist instead of buying a full new cartridge.",
+  "definition": "**noun / [cartridge](../c/cartridge.md)-service term.** A **stylus assembly whose original diamond tip has been replaced** (often with an upgraded profile) by a specialist instead of buying a full new cartridge. Retipping emerged in the 1970s as high-end cartridges became prohibitively expensive to replace entirely, with specialists like Soundsmith, VAS, and Expert Stylus offering microscopic surgery to remove worn diamond tips and bond new ones using adhesives or advanced cantilever mounting techniques. The process typically costs 30-60% of a new cartridge price while preserving the original cartridge body, coils, and magnets. Audiophiles often upgrade from conical to elliptical, line contact, or Shibata profiles during retipping, potentially improving tracking and frequency response beyond the original specification. Quality varies significantly between technicians—poorly executed retips can misalign the stylus rake angle (SRA) or compromise channel separation. Vintage cartridge owners particularly value retipping for discontinued models like Shure V15 Type V or Ortofon SPU variants where replacement is impossible. Debate persists in collector circles whether retipped cartridges retain original sonic character or constitute \"modified\" specimens. Modern retipping turnaround ranges from two weeks to three months depending on specialist workload and diamond profile availability.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "retip",
+    "stylus rebuild",
+    "diamond replacement"
+  ],
+  "alt_spellings": [
+    "re-tipped stylus",
+    "retipped needle"
+  ],
+  "etymology": "Combination of prefix 're-' (again) and 'tip,' referring to the diamond stylus tip replacement process that became economically necessary as audiophile cartridge prices escalated in the 1970s-80s.",
+  "first_use": 1974,
   "see_also": [
     "stylus-replacement",
     "line-contact-stylus",
-    "micro-ridge-tip"
+    "micro-ridge-tip",
+    "cartridge",
+    "shibata-stylus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,39 @@
 {
   "slug": "ohm-load",
   "term": "Ohm Load (Cartridge Load Impedance)",
+  "pos": "noun",
+  "pronunciation": "/oʊm loʊd/",
   "summary": "'**noun / technical.** The input impedance — expressed in ohms — that a phono.",
-  "definition": "**noun / technical.** The input impedance — expressed in ohms — that a phono stage presents to a cartridge; critical for matching MC cartridges (often 100Ω–500Ω) and affecting frequency response.",
+  "definition": "**noun / technical.** The input impedance — expressed in ohms — that a phono stage presents to a cartridge; critical for matching MC cartridges (often 100Ω–500Ω) and affecting frequency response. Proper ohm loading ensures optimal signal transfer and tonal balance, preventing high-frequency rolloff or excessive brightness. Moving coil cartridges, with their low output and low internal impedance (typically 2Ω–40Ω), are particularly sensitive to load impedance, requiring careful matching to manufacturer specifications. Common MC loads range from 100Ω (warmer, darker presentation) to 1000Ω (brighter, more detailed), with 400Ω–500Ω serving as a versatile middle ground. Moving magnet cartridges, by contrast, require a standard 47kΩ load and are far less sensitive to impedance variations. The concept gained prominence in the 1970s as MC cartridges became popular among audiophiles seeking lower distortion and improved tracking. Modern phono stages often include adjustable loading via DIP switches or plug-in resistors, allowing users to fine-tune performance. Mismatched loading can cause frequency response aberrations, excessive cartridge wear, or diminished dynamics, making proper impedance selection essential for extracting maximum performance from high-end analog playback systems.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cartridge load impedance",
+    "input impedance",
+    "load resistance",
+    "termination impedance"
+  ],
+  "alt_spellings": [
+    "ohm-load",
+    "Ohm load"
+  ],
+  "etymology": "Named after German physicist Georg Ohm, whose 1827 law defined electrical resistance; applied to phono cartridge matching as MC designs proliferated in the 1970s hi-fi era.",
+  "first_use": 1975,
   "see_also": [
     "moving-coil-cartridge",
     "phono-stage",
     "capacitance-loading"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

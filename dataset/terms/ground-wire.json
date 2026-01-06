@@ -1,21 +1,37 @@
 {
   "slug": "ground-wire",
   "term": "Ground-Wire",
-  "summary": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground.",
-  "definition": "A dedicated wire that bonds the turntable chassis to the amplifier’s ground to prevent hum and static.",
+  "pos": "noun",
+  "pronunciation": "/ɡraʊnd waɪər/",
+  "summary": "A dedicated wire that bonds the turntable chassis to the amplifier's ground.",
+  "definition": "A dedicated wire that bonds the turntable chassis to the amplifier's ground to prevent hum and static, typically a thin stranded wire terminating in a spade lug or fork connector. Ground wires became standard on turntables in the 1950s as high-gain phono preamplifiers made low-level magnetic cartridge signals vulnerable to electromagnetic interference and ground loops. The wire creates a common electrical reference point between turntable and amplifier, eliminating the 60Hz (or 50Hz in some regions) hum caused by potential differences in their respective grounds. Most turntables feature a dedicated ground post on the rear panel, while amplifiers and phono stages provide a wingnut terminal or binding post marked \"GND\" or with a ground symbol. The wire's effectiveness depends on secure metal-to-metal contact at both ends—oxidation or loose connections defeat its purpose. Some modern turntables with built-in phono stages or USB output eliminate the need for external grounding, while high-end audiophile setups may employ elaborate grounding schemes with dedicated ground boxes and star-grounding configurations. Missing or disconnected ground wires remain the most common cause of turntable hum in vintage systems, making this humble component essential for quiet vinyl playback despite its technical simplicity.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "earth wire",
+    "grounding wire",
+    "hum wire"
+  ],
+  "alt_spelings": [
+    "groundwire",
+    "ground wire"
+  ],
+  "etymology": "From electrical engineering terminology combining \"ground\" (earth reference point) with \"wire,\" adopted for audio applications as electromagnetic shielding became necessary for sensitive phono cartridge signals in mid-20th century hi-fi systems.",
+  "first_use": 1952,
   "see_also": [
     "ground-loop-hum",
     "shielding",
     "phono-stage"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,31 @@
 {
   "slug": "x-cut-test-groove",
   "term": "X-Cut Test Groove",
+  "pos": "noun",
+  "pronunciation": "/ˈɛks kʌt tɛst ɡruːv/",
   "summary": "X-Cut Test Groove.",
-  "definition": "# X-Cut Test Groove",
+  "definition": "# X-Cut Test Groove\n\nA specialized test groove cut into lacquer masters or test pressings containing deliberately exaggerated lateral and vertical modulations, used by pressing plants and mastering engineers to evaluate cutting equipment calibration and playback system tracking ability. The X-cut pattern produces extreme stylus movement in both horizontal (stereo channel separation) and vertical (bass response) planes simultaneously, creating one of the most demanding torture tests for turntable cartridges and tonearms. Introduced in the 1960s alongside stereo LP production, these grooves helped engineers identify mistracking, distortion, and phase issues before committing to full production runs. Modern audiophile test records still include X-cut sections to assess system setup, particularly for evaluating anti-skate adjustment, cartridge alignment, and tracking force optimization. The term derives from the cross-shaped Lissajous pattern the groove creates when viewed on an oscilloscope, representing the combined lateral and vertical signal components that form the stereo soundfield.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "cross-cut test",
+    "torture groove",
+    "tracking test groove"
   ],
-  "pos": "verb"
+  "alt_spellings": [
+    "X cut test groove",
+    "x-cut groove"
+  ],
+  "etymology": "Named for the X-shaped or cross pattern created when lateral and vertical groove modulations are combined and visualized on test equipment, coined during stereo LP mastering development in the late 1950s.",
+  "first_use": 1960,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

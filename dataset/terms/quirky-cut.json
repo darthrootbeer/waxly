@@ -1,22 +1,36 @@
 {
   "slug": "quirky-cut",
   "term": "Quirky-Cut Sleeve",
+  "pos": "noun",
+  "pronunciation": "/ˈkwɜrki kʌt sliːv/",
   "summary": "'**noun / packaging.** A record jacket with **non-standard die-cut shapes**.",
-  "definition": "**noun / packaging.** A record jacket with **non-standard die-cut shapes** — e.g., circular windows, puzzle-piece edges, odd silhouettes — for visual or promotional impact.",
+  "definition": "**noun / packaging.** A record jacket with **non-standard die-cut shapes** — e.g., circular windows, puzzle-piece edges, odd silhouettes — for visual or promotional impact. Emerging in the psychedelic era of the late 1960s, quirky-cut sleeves distinguished themselves from simple center-hole die-cuts by employing irregular, artistic, or thematic shapes that enhanced album artwork or revealed strategic portions of inner sleeves. The Rolling Stones' *Sticky Fingers* (1971) featured a working zipper die-cut, while Andy Warhol's banana peel-off design became iconic. Production costs ran significantly higher than standard jackets due to custom die requirements and increased waste material. Popular through the 1970s prog-rock and art-rock movements, the format declined in the 1980s as labels cut budgets. Modern reissues occasionally replicate original quirky-cut designs for deluxe editions, though simplified versions are common. Collectors prize original pressings with intact die-cut elements, as wear, tears, and missing pieces dramatically reduce value.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "novelty die-cut",
+    "shaped sleeve",
+    "custom die-cut jacket"
+  ],
+  "alt_spellings": [
+    "quirky cut sleeve",
+    "quirky-cut jacket"
+  ],
+  "etymology": "Coined in collector circles during the 1990s to distinguish elaborate die-cut designs from standard windowed sleeves, combining 'quirky' (unconventional) with 'cut' (die-cutting process).",
+  "first_use": 1967,
   "see_also": [
     "die-cut",
-    "picture-disc-jacket",
-    "peel-off"
+    "gatefold",
+    "picture-sleeve"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

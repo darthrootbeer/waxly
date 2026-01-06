@@ -1,20 +1,36 @@
 {
   "slug": "v-notch",
   "term": "V-Notch Jacket",
-  "summary": "'**noun / cut-out remainder style.** A **jacket with a triangular or V-shaped.",
-  "definition": "**noun / cut-out remainder style.** A **jacket with a triangular or V-shaped notch clipped from a corner** to mark discounted or remainder stock.",
+  "pos": "noun",
+  "pronunciation": "/ˈviː nɑːtʃ ˈdʒækɪt/",
+  "summary": "**noun / cut-out remainder style.** A **jacket with a triangular or V-shaped notch clipped from a corner** to mark discounted or remainder stock.",
+  "definition": "**noun / cut-out remainder style.** A **jacket with a triangular or V-shaped notch clipped from a corner** to mark discounted or remainder stock. Introduced by record labels in the 1960s as a physical defacement method to prevent promotional copies and overstock from being returned for full credit, the V-notch became a standard industry practice for marking cut-outs alongside corner clips and saw cuts. Typically punched or die-cut from the top right corner of the jacket spine, the notch permanently identifies the record as a budget or remainder item sold at reduced wholesale prices. Unlike drill holes that damage the vinyl itself, V-notches preserve playback quality while rendering the jacket non-returnable. Major labels employed different notch sizes and placements as internal tracking codes. Collectors generally view V-notch copies as less desirable than pristine originals, though the practice has become a nostalgic marker of 1970s-80s bargain bin culture. Modern reissue labels occasionally replicate the aesthetic ironically, while original cut-outs from classic albums remain affordable entry points for budget-conscious collectors seeking playable copies over investment-grade condition.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "V-cut jacket",
+    "notch cut-out",
+    "triangular notch"
+  ],
+  "alt_spellings": [
+    "V notch",
+    "v-notch",
+    "vee-notch"
+  ],
+  "etymology": "Derived from the distinctive V-shaped triangular cut used to mark remainder stock, distinguishing it from straight corner clips or saw cuts used by different distributors.",
+  "first_use": 1965,
   "see_also": [
     "cut-corner-jacket",
     "saw-cut-notch",
-    "promo-stamp-cut-out"
+    "promo-stamp-cut-out",
+    "drill-hole"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

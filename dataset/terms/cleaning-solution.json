@@ -1,20 +1,36 @@
 {
   "slug": "cleaning-solution",
   "term": "Cleaning Solution",
+  "pos": "noun",
+  "pronunciation": "/ˈkliːnɪŋ səˈluːʃən/",
   "summary": "Specialized liquid, often alcohol-free with surfactants, used to dissolve.",
-  "definition": "Specialized liquid, often alcohol-free with surfactants, used to dissolve dust, oils, and mold release from vinyl grooves.",
+  "definition": "Specialized liquid formulated to dissolve dust, oils, fingerprints, and mold release compounds from vinyl grooves without damaging the delicate record surface. Most professional solutions are alcohol-free, relying instead on surfactants and distilled water to reduce surface tension and lift contaminants. Early collectors used household products with mixed results—isopropyl alcohol could dry out vinyl, while dish soap left residue. The 1970s saw dedicated record cleaning solutions emerge alongside vacuum record cleaning machines, with brands like Disc Doctor and VPI establishing the alcohol-free standard. Modern formulas often include anti-static agents and enzymes that break down organic matter. Application methods range from spray bottles with microfiber cloths to solutions designed for vacuum RCMs or ultrasonic cleaners. Concentration varies—some solutions require dilution, while others are ready-to-use. Quality cleaning solution is essential for serious collectors, as proper maintenance can restore playback quality and extend record life. Premium audiophile formulas can cost $30-50 per bottle, though many enthusiasts swear by DIY distilled water and Tergitol mixtures.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record cleaning fluid",
+    "vinyl cleaner",
+    "record wash"
+  ],
+  "alt_spellings": [
+    "cleaning-solution",
+    "cleaning fluid"
+  ],
+  "etymology": "Term emerged in 1970s hi-fi market as vinyl care became specialized practice, replacing generic household cleaning approaches with purpose-formulated products.",
+  "first_use": 1972,
   "see_also": [
     "wet-cleaning",
     "vacuum-rcm",
     "anti-static-brush"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

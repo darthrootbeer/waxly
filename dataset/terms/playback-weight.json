@@ -1,22 +1,38 @@
 {
   "slug": "playback-weight",
   "term": "Playback Weight",
+  "pos": "noun",
+  "pronunciation": "/ˈpleɪbæk weɪt/",
   "summary": "'**noun / technical.** The downward pressure, measured in grams, that the.",
-  "definition": "**noun / technical.** The downward pressure, measured in grams, that the tonearm exerts on the stylus as it tracks the groove. Correct tracking force prevents mistracking and minimizes groove wear.",
+  "definition": "**noun / technical.** The downward pressure, measured in grams, that the tonearm exerts on the stylus as it tracks the groove. Correct tracking force prevents mistracking and minimizes groove wear. Introduced alongside the LP in the late 1940s, playback weight became a critical specification as microgroove records required significantly lighter tracking than earlier 78 RPM shellac discs, which often played at 10-15 grams. Modern audiophile cartridges typically track between 1.5-2.5 grams, while DJ cartridges designed for scratching and back-cueing operate at heavier forces of 3-5 grams for stability. The counterweight at the rear of the tonearm allows precise adjustment, typically verified with a tracking force gauge for accuracy. Too light a setting causes the stylus to lose contact with the groove walls, producing distortion and mistracking on loud passages; excessive weight accelerates groove wear and can damage both the record and stylus. High-compliance cartridges require lighter tracking forces, while low-compliance models demand more weight for proper groove contact. The emergence of direct-drive turntables in the 1970s and the rise of hip-hop culture established heavier tracking as standard practice in DJ applications, while audiophile listening prioritizes minimal force to preserve vinyl condition.",
   "tags": [
     "equipment",
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tracking force",
+    "stylus pressure",
+    "needle pressure",
+    "VTF"
+  ],
+  "alt_spellings": [
+    "playback-weight"
+  ],
+  "etymology": "Compound term combining 'playback' (reproduction of recorded sound) with 'weight' (force measurement), standardized in turntable literature during the LP era of the 1950s to distinguish from earlier 78 RPM tracking parameters.",
+  "first_use": 1948,
   "see_also": [
     "anti-skate",
     "tracking-force-gauge",
     "cartridge-compliance"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

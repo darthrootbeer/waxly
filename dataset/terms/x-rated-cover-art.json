@@ -1,21 +1,36 @@
 {
   "slug": "x-rated-cover-art",
   "term": "X-Rated Cover Art",
-  "summary": "'**noun / mastering test.** A **trial lacquer groove cut in an ‘X’ pattern.",
-  "definition": "**noun / mastering test.** A **trial lacquer groove cut in an ‘X’ pattern or cross-hatch** used by engineers to test cutterhead alignment and groove depth before committing to a full lacquer side.",
+  "pos": "noun",
+  "pronunciation": "/ˈɛks ˈreɪtɪd ˈkʌvər ɑːrt/",
+  "summary": "**noun / mastering test.** A **trial lacquer groove cut in an 'X' pattern.",
+  "definition": "**noun / mastering test.** A **trial lacquer groove cut in an 'X' pattern or cross-hatch** used by engineers to test cutterhead alignment and groove depth before committing to a full lacquer side. This diagnostic cut, typically made in the center or outer area of a blank lacquer disc, allows the mastering engineer to verify that the cutterhead stylus is properly positioned, that groove spacing is correct, and that the cutting depth matches specifications. The intersecting lines of the X-pattern reveal any mechanical issues—wobble, misalignment, or inconsistent depth—that would compromise the final master. While modern digital monitoring has reduced reliance on physical test cuts, many veteran engineers still perform X-rated tests as a tactile quality check, particularly when cutting hot levels or bass-heavy material that pushes equipment limits. Collectors occasionally encounter lacquers or test pressings bearing these diagnostic marks, remnants of the meticulous pre-cut ritual that ensured each master lacquer would yield clean, playable stampers.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "test cut",
+    "alignment cut",
+    "crosshatch test",
+    "X-cut"
+  ],
+  "alt_spellings": [
+    "X-rated test",
+    "X rated cover art"
+  ],
+  "etymology": "Industry slang combining 'X' (the visual pattern of the test cut) with 'rated' (evaluation/testing terminology), adopted by mastering engineers in the mid-20th century as lacquer cutting became standardized.",
+  "first_use": 1950,
   "see_also": [
-    "banned-cover-lp",
-    "alternate-sleeve-variant",
-    "cover-swap-edition"
+    "lacquer-disc",
+    "test-pressing",
+    "cutterhead"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

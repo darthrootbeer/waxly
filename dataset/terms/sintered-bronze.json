@@ -1,21 +1,36 @@
 {
   "slug": "sintered-bronze",
   "term": "Sintered Bronze Bearing",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪntərd brɒnz ˈbɛrɪŋ/",
   "summary": "'**noun / hi-fi engineering term.** A **porous bronze bearing** made by powder-metal.",
-  "definition": "**noun / hi-fi engineering term.** A **porous bronze bearing** made by powder-metal sintering, self-lubricating with oil — widely used for quiet platter and tone-arm pivots.",
+  "definition": "**noun / hi-fi engineering term.** A **porous bronze bearing** made by powder-metal sintering, self-lubricating with oil — widely used for quiet platter and tone-arm pivots. The manufacturing process compresses bronze powder under extreme pressure and heat, creating a porous metal matrix with microscopic voids that retain lubricating oil. This self-lubricating property makes sintered bronze ideal for turntable applications where consistent, low-friction rotation is critical for speed accuracy and rumble reduction. First adopted by high-fidelity turntable manufacturers in the 1950s, sintered bronze bearings became standard in quality decks from Thorens, Garrard, and Dual by the 1960s. The oil-impregnated structure provides years of maintenance-free operation, gradually releasing lubricant during use. Superior to solid bronze or steel bearings for audio applications due to their vibration-damping properties and silent operation — noise at the bearing translates directly to audible rumble. Modern audiophile turntables continue using sintered bronze for both main platter spindles and tonearm pivot points, though some ultra-high-end designs have shifted to ceramic or sapphire alternatives. Vintage turntables with dried-out sintered bearings can often be revived with proper re-oiling using light machine oil or specialized turntable bearing lubricants.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "oil-impregnated bearing",
+    "porous bronze bushing",
+    "self-lubricating bearing"
+  ],
+  "alt_spellings": [
+    "sintered-bronze bearing",
+    "sinterbronze bearing"
+  ],
+  "etymology": "From metallurgical term 'sintering' (German 'sintern,' to fuse), the process of compacting metal powder through heat without full melting, combined with bronze alloy composition; adopted into audio engineering vocabulary during postwar hi-fi development.",
+  "first_use": 1952,
   "see_also": [
     "platter-bearing-oil",
     "rumble-spec",
     "servo-controlled-motor"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

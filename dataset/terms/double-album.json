@@ -1,20 +1,36 @@
 {
   "slug": "double-album",
   "term": "Double",
+  "pos": "noun",
+  "pronunciation": "/ˈdʌbəl/",
   "summary": "A release spanning two full LP discs—typically 4 sides—either for length.",
-  "definition": "A release spanning two full LP discs—typically 4 sides—either for length or artistic concept.",
+  "definition": "A release spanning two full LP discs—typically 4 sides—either for extended runtime or ambitious artistic concept. Emerged in the late 1960s as artists pushed beyond the 40-45 minute single-LP constraint, with Bob Dylan's Blonde on Blonde (1966) and The Beatles' White Album (1968) establishing the format's cultural cachet. Double albums allowed prog-rock, jazz, and live recordings to breathe, though they required listeners to flip records four times and commanded premium pricing. The format peaked in the 1970s with landmark releases like Physical Graffiti and Songs in the Key of Life, often housed in gatefold sleeves. Modern reissues frequently maintain the double configuration even when single LPs are technically feasible, preserving original mastering and groove spacing for optimal sound quality.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "double LP",
+    "two-record set",
+    "double-disc"
+  ],
+  "alt_spellings": [
+    "double album",
+    "double-album"
+  ],
+  "etymology": "Derived from the doubling of the standard single LP format, coined as record labels began packaging two discs together in the mid-1960s to accommodate longer recordings.",
+  "first_use": 1966,
   "see_also": [
     "gatefold",
     "concept-album",
     "box-set"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

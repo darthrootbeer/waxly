@@ -1,16 +1,31 @@
 {
   "slug": "three-speed-turntable",
   "term": "Three-Speed Turntable",
-  "summary": "'**noun / deck type.** A **turntable capable of 33⅓, 45, and 78 RPM** playback.",
-  "definition": "**noun / deck type.** A **turntable capable of 33⅓, 45, and 78 RPM** playback — necessary for collectors of LPs, singles, and pre-LP shellac.",
+  "pos": "noun",
+  "pronunciation": "/θriː spiːd ˈtɜːrnˌteɪbəl/",
+  "summary": "**noun / deck type.** A **turntable capable of 33⅓, 45, and 78 RPM** playback.",
+  "definition": "**noun / deck type.** A **turntable capable of 33⅓, 45, and 78 RPM** playback — necessary for collectors of LPs, singles, and pre-LP shellac. These decks emerged in the late 1940s and became standard consumer equipment through the 1970s, bridging the transition from shellac 78s to vinyl LPs and 45s. The three-speed configuration allowed households to play entire record collections spanning multiple formats without requiring separate players. Most vintage turntables from manufacturers like Dual, Garrard, and Thorens included all three speeds as standard, though the 78 RPM function often utilized a separate stylus or flip-over cartridge to accommodate the wider grooves of shellac discs. By the 1980s, as 78 RPM records disappeared from active use, most manufacturers dropped the third speed, producing two-speed decks (33⅓ and 45 only) that became the modern standard. Today, three-speed turntables remain essential for serious collectors and archivists who maintain shellac collections, with contemporary models from Audio-Technica and Pro-Ject reintroducing the feature for the vintage revival market. The presence of 78 RPM capability typically signals a deck designed with collectors rather than casual listeners in mind.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "tri-speed turntable",
+    "three-speed record player",
+    "multi-speed turntable"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "3-speed turntable"
+  ],
+  "etymology": "Term emerged in late 1940s marketing materials as manufacturers adapted players to handle the new microgroove formats (33⅓ and 45 RPM) alongside existing 78 RPM shellac discs.",
+  "first_use": 1948,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

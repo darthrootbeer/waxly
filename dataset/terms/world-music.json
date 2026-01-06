@@ -1,15 +1,31 @@
 {
   "slug": "world-music",
   "term": "World Music",
+  "pos": "noun",
+  "pronunciation": "/wɜrld ˈmjuzɪk/",
   "summary": "'**World Music** - A musical style within the Folk genre, classified according.",
-  "definition": "A specific musical style within the broader folk genre classification.",
+  "definition": "A broad classification encompassing traditional and contemporary music from non-Western cultures, popularized as a commercial category in the 1980s when British record shops needed a unified section for international releases. The term covers diverse styles from African highlife and Brazilian samba to Indian classical and Caribbean calypso, though it remains controversial for grouping disparate traditions under one Western-centric label. Vinyl collectors prize original pressings from labels like Nonesuch Explorer, Ocora, and Earthworks, which documented field recordings and studio sessions from the 1960s onward. The format experienced renewed interest during the 1980s world music boom, when artists like Youssou N'Dour and Nusrat Fateh Ali Khan gained international distribution. Modern reissues from labels like Analog Africa and Soundway have made rare African and Latin pressings accessible to new audiences, while audiophiles seek original ethnographic recordings for their unprocessed, authentic sound quality.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "international music",
+    "ethnic music",
+    "global music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "World-Music",
+    "Worldmusic"
+  ],
+  "etymology": "Coined in 1987 during meetings at London's Empress of Russia pub, where label executives and journalists created the term as a marketing category to promote non-Western music in record stores.",
+  "first_use": 1987,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

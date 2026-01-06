@@ -1,20 +1,35 @@
 {
   "slug": "plain-sleeve-45",
   "term": "Plain",
+  "pos": "noun",
+  "pronunciation": "/pleɪn/",
   "summary": "'**noun / packaging / collector term.** A 7-inch single sold in a generic.",
-  "definition": "**noun / packaging / collector term.** A 7-inch single sold in a generic company-logo or blank paper sleeve rather than a custom picture sleeve.",
+  "definition": "**noun / packaging / collector term.** A 7-inch single sold in a generic company-logo or blank paper sleeve rather than a custom picture sleeve. Common practice from the late 1940s through the 1960s, when record labels prioritized cost savings over visual marketing. Most jukebox singles were distributed as plains, since the cover art served no promotional purpose in coin-operated machines. Generic sleeves typically featured only the label's logo, address, and copyright information, though some included die-cut center holes to display the record's label. Budget labels and promotional copies frequently used plains well into the 1980s. Collectors generally value plains lower than picture sleeve variants of the same release, though rare pressings, demos, and significant first issues can command premium prices regardless of packaging. The term distinguishes these utilitarian sleeves from picture sleeves, which became standard marketing tools in the rock era.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "generic sleeve",
+    "company sleeve",
+    "stock sleeve"
+  ],
+  "alt_spellings": [
+    "plain sleeve",
+    "plain-sleeve"
+  ],
+  "etymology": "Derived from the plain, unadorned appearance of generic paper sleeves lacking custom artwork, in contrast to decorated picture sleeves introduced in the late 1950s.",
+  "first_use": 1958,
   "see_also": [
     "picture-sleeve",
     "jukebox-strip",
     "generic-company-sleeve"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

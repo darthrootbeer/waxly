@@ -1,20 +1,36 @@
 {
   "slug": "brush-down-record",
   "term": "Brush-Down",
-  "summary": "'**noun / verb.** A quick cleaning pass using a carbon-fiber or velvet brush.",
-  "definition": "**noun / verb.** A quick cleaning pass using a carbon-fiber or velvet brush to remove surface dust before play.",
+  "pos": "noun",
+  "pronunciation": "/brʌʃ daʊn/",
+  "summary": "**noun / verb.** A quick cleaning pass using a carbon-fiber or velvet brush.",
+  "definition": "**noun / verb.** A quick cleaning pass using a carbon-fiber or velvet brush to remove surface dust before play. The brush-down emerged as standard practice in the 1970s alongside the introduction of carbon-fiber brushes, which generate anti-static properties while sweeping debris from the grooves. Unlike deep-cleaning methods involving fluids and vacuum systems, the brush-down serves as a maintenance ritual performed before each listening session. Carbon-fiber variants remain the gold standard, with their ultra-fine conductive bristles neutralizing static charge while lifting particles that accumulate between plays. Velvet and plush brushes offer gentler alternatives but lack anti-static benefits. Proper technique involves holding the brush stationary against the rotating record for 2-3 revolutions, allowing grooves to pass beneath the bristles rather than scrubbing back-and-forth. The practice became ubiquitous during vinyl's peak era and persists today as essential ritual among collectors, preventing stylus contamination and preserving both record and needle longevity. Most serious listeners maintain dedicated brushes for new versus used records to avoid cross-contamination.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "quick brush",
+    "dry brush",
+    "dust-off"
+  ],
+  "alt_spellings": [
+    "brushdown",
+    "brush down"
+  ],
+  "etymology": "Derived from general cleaning terminology, popularized in vinyl contexts during the 1970s carbon-fiber brush revolution when anti-static record care became commercially accessible to home listeners.",
+  "first_use": 1972,
   "see_also": [
     "anti-static-brush",
     "record-care-kit",
     "stylus-cleaner"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

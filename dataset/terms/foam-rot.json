@@ -1,22 +1,37 @@
 {
   "slug": "foam-rot",
   "term": "Foam-Rot",
+  "pos": "noun",
+  "pronunciation": "/foʊm rɒt/",
   "summary": "'**noun / slang.** The crumbling and sticky residue left by deteriorating.",
-  "definition": "**noun / slang.** The crumbling and sticky residue left by deteriorating foam pads in vintage turntable dust-covers, speaker grilles, or record-case linings.",
+  "definition": "**noun / slang.** The crumbling and sticky residue left by deteriorating foam pads in vintage turntable dust-covers, speaker grilles, or record-case linings. This degradation typically affects polyurethane and polyester foam manufactured between the 1960s and 1980s, when cheaper foam formulations were widely used in audio equipment. As the foam ages, it undergoes hydrolysis—a chemical breakdown triggered by moisture, heat, and UV exposure—transforming from soft, pliable cushioning into a sticky, tar-like substance or dry, flaking powder. The condition is particularly notorious among collectors of vintage turntables, where dust-cover hinge pads disintegrate into black goo that stains acrylic lids and leaves stubborn residue. Record storage cases from the 1970s often reveal foam linings reduced to brown dust that contaminates album jackets. Foam-rot also plagues speaker grilles and headphone pads from the same era. Remediation requires careful removal with isopropyl alcohol or specialized adhesive removers, followed by replacement with modern, stable foam alternatives. The phenomenon has become a significant consideration in vintage audio restoration and collecting, often reducing equipment value and requiring immediate attention upon discovery to prevent further contamination.",
   "tags": [
     "equipment",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "foam degradation",
+    "foam deterioration",
+    "sticky foam syndrome"
+  ],
+  "alt_spellings": [
+    "foam rot",
+    "foamrot"
+  ],
+  "etymology": "Coined by vintage audio collectors in the 1990s to describe the widespread foam deterioration discovered in 1970s-era equipment as it reached 20-30 years of age.",
+  "first_use": 1995,
   "see_also": [
     "dust-cover",
     "storage-care",
     "jacket-mold"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

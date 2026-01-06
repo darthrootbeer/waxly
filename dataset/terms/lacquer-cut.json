@@ -1,22 +1,40 @@
 {
   "slug": "lacquer-cut",
   "term": "Lacquer Cut",
+  "pos": "noun",
+  "pronunciation": "/ˈlækər kʌt/",
   "summary": "noun / technical. The very first disc created on a cutting lathe, made of.",
-  "definition": "**noun / technical.** The very first disc created on a cutting lathe, made of soft nitrocellulose lacquer on an aluminum substrate. It carries the original grooves carved directly from the master audio signal before electroplating into metal stampers.",
+  "definition": "**noun / technical.** The very first disc created on a cutting lathe, made of soft nitrocellulose lacquer on an aluminum substrate. It carries the original grooves carved directly from the master audio signal before electroplating into metal stampers. The cutting engineer heats a sapphire or diamond stylus to carve modulations into the lacquer coating while monitoring levels and making real-time EQ adjustments for optimal groove spacing. Introduced in the 1930s as a replacement for wax masters, lacquer discs revolutionized the mastering process with superior frequency response and durability. Each lacquer can only be played a handful of times before degradation, making them precious artifacts handled with extreme care. After cutting, the lacquer is silver-coated and electroplated to create the metal father, mother, and stamper sequence. Studios typically cut multiple lacquers as insurance against damage during plating. Vintage lacquers from legendary mastering sessions command high prices among collectors, though playback risks permanent damage to irreplaceable grooves.",
   "tags": [
     "pressing",
     "collecting",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "lacquer disc",
+    "lacquer master",
+    "acetate master",
+    "reference lacquer"
+  ],
+  "alt_spellings": [
+    "lacquer-cut",
+    "laquer cut"
+  ],
+  "etymology": "From the nitrocellulose lacquer coating applied to aluminum blanks, replacing earlier wax recording discs. Term became standard in mastering studios by the 1940s.",
+  "first_use": 1934,
   "see_also": [
     "test-pressing",
     "hot-cut",
-    "reference-acetate"
+    "reference-acetate",
+    "stamper",
+    "mastering"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

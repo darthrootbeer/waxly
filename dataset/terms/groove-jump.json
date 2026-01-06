@@ -1,21 +1,37 @@
 {
   "slug": "groove-jump",
-  "term": "Groove",
-  "summary": "'**noun / slang.** When the stylus physically hops out of one spiral groove.",
-  "definition": "**noun / slang.** When the stylus physically hops out of one spiral groove into the next (or back) — often due to a warp, foot-fall vibration, or too-light tracking.",
+  "term": "Groove Jump",
+  "pos": "noun",
+  "pronunciation": "/ɡruːv dʒʌmp/",
+  "summary": "**noun / slang.** When the stylus physically hops out of one spiral groove.",
+  "definition": "**noun / slang.** When the stylus physically hops out of one spiral groove into the next (or back) — often due to a warp, foot-fall vibration, or too-light tracking. This playback failure causes an audible skip forward or backward in the recording, sometimes repeating the same passage or jumping ahead entirely. Common culprits include insufficient tracking force (below manufacturer specifications), worn or damaged stylus tips, warped records that create vertical displacement, inadequate turntable isolation from floor vibrations, or aggressive bass frequencies that literally shake the needle out of position. DJs working in club environments are particularly vulnerable to groove jumps from subwoofer feedback and crowd movement, leading to the adoption of high-mass tonearms, increased tracking force settings, and specialized DJ cartridges designed to resist skipping. The phenomenon became less tolerable with the rise of hip-hop and electronic music cultures in the 1980s, where uninterrupted playback was essential for mixing and scratching. Modern solutions include isolation platforms, proper cartridge alignment, and maintaining clean records. Chronic groove jumping can damage both stylus and vinyl, carving new paths across grooves and rendering records unplayable in severe cases.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "skip",
+    "needle skip",
+    "stylus jump"
+  ],
+  "alt_spellings": [
+    "groove-jump"
+  ],
+  "etymology": "Term emerged in the 1950s-60s with widespread home hi-fi adoption, combining 'groove' (the physical spiral track) with 'jump' (the mechanical failure mode).",
+  "first_use": 1955,
   "see_also": [
     "skip",
     "mistracking",
-    "foot-fall-feedback"
+    "foot-fall-feedback",
+    "tracking-force",
+    "anti-skate"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

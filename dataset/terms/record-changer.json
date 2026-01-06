@@ -1,21 +1,37 @@
 {
   "slug": "record-changer",
-  "term": "Changer (Record Changer",
-  "summary": "A turntable mechanism — popular mid-century — that automatically drops the.",
-  "definition": "A turntable mechanism — popular mid-century — that automatically drops the next record from a stacked spindle after each side finishes.",
+  "term": "Changer (Record Changer)",
+  "pos": "noun",
+  "pronunciation": "/ˈrekərd ˈtʃeɪndʒər/",
+  "summary": "A turntable mechanism — popular mid-century — that automatically drops the next record from a stacked spindle after each side finishes.",
+  "definition": "A turntable mechanism — popular mid-century — that automatically drops the next record from a stacked spindle after each side finishes. Introduced in the 1920s and reaching peak popularity in the 1950s-60s, record changers allowed listeners to stack multiple records (typically 6-10) on an extended spindle, with each disc dropping automatically onto the platter when the previous one finished playing. The mechanism used a mechanical arm to push the tonearm back to rest position and trigger the next record's release. While convenient for uninterrupted listening at parties or background music, changers posed significant risks to records: the stacking caused surface contact between discs, the dropping mechanism could crack or warp records, and the heavier tracking force (often 6-8 grams) accelerated groove wear. High-end audiophile equipment avoided changer mechanisms entirely, favoring manual operation for better sound quality and record preservation. Console stereos and portable record players commonly featured changers through the 1970s, but the format fell from favor as listeners prioritized sound quality and record care. Today, working vintage changers are collectible curiosities, though serious collectors avoid playing valuable records on them due to the inherent wear risks.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "automatic changer",
+    "record stacker",
+    "auto-changer"
+  ],
+  "alt_spellings": [
+    "record-changer",
+    "recordchanger"
+  ],
+  "etymology": "From 'record' and 'changer,' describing the mechanism's ability to automatically change between multiple records without manual intervention. Term became standard in consumer audio marketing during the 1940s-50s hi-fi boom.",
+  "first_use": 1927,
   "see_also": [
     "automatic-return",
     "drop-spindle",
-    "console-stereo"
+    "console-stereo",
+    "tracking-force"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

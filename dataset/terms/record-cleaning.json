@@ -1,20 +1,37 @@
 {
   "slug": "record-cleaning",
   "term": "Record Cleaning Machine",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛkərd ˈkliːnɪŋ məˈʃiːn/",
   "summary": "'**noun / accessory / audiophile.** A **vacuum- or ultrasonic-based device**.",
-  "definition": "**noun / accessory / audiophile.** A **vacuum- or ultrasonic-based device** for deep-cleaning LP grooves beyond what brushes can reach.",
+  "definition": "**noun / accessory / audiophile.** A **vacuum- or ultrasonic-based device** for deep-cleaning LP grooves beyond what brushes can reach. Introduced in the 1970s with Keith Monks' pioneering vacuum system, these machines revolutionized vinyl maintenance by extracting embedded dirt, mold, and release agents that degrade sound quality. Vacuum models apply cleaning fluid then suction away debris with a motorized arm, while ultrasonic cleaners (popularized in the 2010s) use high-frequency sound waves to agitate contaminants without physical contact. Manual models like the Spin-Clean ($50-100) offer budget entry, while automated systems from VPI, Okki Nokki, and Clearaudio ($400-2,000) provide hands-free operation. High-end ultrasonic units like the Degritter ($3,000+) represent the current state-of-the-art. Essential for serious collectors dealing with used records, estate finds, or preserving valuable pressings. The vinyl resurgence since 2010 has made these once-niche tools mainstream, with many record stores now offering cleaning services. Properly cleaned records play quieter, reveal buried detail, and extend stylus life significantly.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "RCM",
+    "vinyl cleaning machine",
+    "record vacuum",
+    "ultrasonic record cleaner"
+  ],
+  "alt_spellings": [
+    "record-cleaning machine",
+    "record cleaning system"
+  ],
+  "etymology": "Term emerged in the mid-1970s following Keith Monks' development of the first commercial vacuum-based cleaning system for the BBC archives. Prior cleaning relied solely on brushes and cloths.",
+  "first_use": 1974,
   "see_also": [
     "wet-cleaning-solution",
     "anti-static-brush",
     "stylus-cleaner"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

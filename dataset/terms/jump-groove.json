@@ -1,21 +1,37 @@
 {
   "slug": "jump-groove",
   "term": "Jump",
+  "pos": "noun",
+  "pronunciation": "/dʒʌmp/",
   "summary": "'**noun / slang.** When the stylus unintentionally hops across one or more.",
-  "definition": "**noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps or vibration; similar to [groove](../g/groove-wear.md)-jump.",
+  "definition": "**noun / slang.** When the stylus unintentionally hops across one or more grooves — either forward or backward — often due to warps, vibration, or inadequate tracking force. A jump differs from a skip in that it typically results from external mechanical disturbances rather than groove damage itself. Common causes include footfall feedback on suspended floors, speaker vibration transmitted through furniture, warped records, or improperly calibrated tonearms with insufficient downforce. DJs working in club environments face particular challenges with jumps, leading to the development of specialized high-torque direct-drive turntables with improved isolation and heavier platters in the 1970s. The Technics SL-1200, introduced in 1972, became the industry standard partly due to its superior resistance to jumping during live performance. Home listeners can minimize jumps through proper turntable placement on stable surfaces, isolation platforms, or wall-mounted shelving. Severe warps may cause consistent jumping at the same point with each rotation, rendering a record effectively unplayable despite otherwise pristine grooves. In extreme cases, jumps can damage both the stylus and the record surface, creating permanent skips where none existed before.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "groove-jump",
+    "stylus hop",
+    "needle jump"
+  ],
+  "alt_spellings": [
+    "groove jump"
+  ],
+  "etymology": "Derived from the physical action of the stylus literally jumping out of and over grooves, term became widespread with the rise of turntablism and DJ culture in the 1970s-80s when performers needed vocabulary to describe playback disruptions.",
+  "first_use": 1950,
   "see_also": [
     "groove-jump",
     "skip",
-    "foot-fall-feedback"
+    "footfall-feedback",
+    "tracking-force",
+    "isolation"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

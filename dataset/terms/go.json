@@ -1,15 +1,31 @@
 {
   "slug": "go",
   "term": "go",
+  "pos": "verb",
+  "pronunciation": "/ɡoʊ/",
   "summary": "Navigation term for continuing to next section.",
-  "definition": "--- *[Back to Lexicon](../README.md) | [Next Chapter](../chapters/chapter-y.md)*",
+  "definition": "A navigational directive used in vinyl documentation and catalog systems to indicate progression to subsequent content sections. The term emerged from early hypertext and digital archiving practices of the 1990s, when record labels and collectors began digitizing their catalogs and needed intuitive wayfinding language. In contemporary vinyl lexicons and online discographies, \"go\" typically appears as part of breadcrumb navigation or footer links, guiding users through sequential chapters, artist entries, or catalog hierarchies. The term's simplicity reflects the straightforward, linear nature of traditional record catalog browsing, adapted for digital environments. While largely replaced by more specific commands like \"next\" or \"continue\" in modern web design, \"go\" persists in documentation that mimics vintage catalog aesthetics or maintains legacy navigation structures from early vinyl database projects.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "proceed",
+    "continue",
+    "advance",
+    "next"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "GO"
+  ],
+  "etymology": "Derived from Old English 'gān' meaning 'to move or travel,' adopted into digital navigation terminology during the early internet era of the 1990s.",
+  "first_use": 1995,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

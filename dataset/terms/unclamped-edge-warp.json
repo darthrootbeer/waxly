@@ -1,21 +1,37 @@
 {
   "slug": "unclamped-edge-warp",
   "term": "Unclamped Edge",
-  "summary": "'**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling.",
-  "definition": "**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling or storage pressure — usually flattenable with a weight or clamp.",
+  "pos": "noun",
+  "pronunciation": "/ʌnˈklæmpt ɛdʒ/",
+  "summary": "**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling.",
+  "definition": "**noun / warp type.** A **wavy outer-rim warp** caused by uneven cooling or storage pressure — usually flattenable with a weight or clamp. This defect typically occurs during the pressing process when the outer edges of a record cool at a different rate than the center, or develops during storage when records lean at angles or experience uneven pressure against adjacent discs. The warp manifests as a rippling or undulation around the perimeter while the center remains relatively flat. Unlike dish warps that affect the entire surface, unclamped edges are localized to the outer 1-2 inches of the playing surface. Most unclamped edge warps can be corrected using a peripheral ring clamp during playback or flattened over time with proper weighted storage. The term gained prominence in the 1970s as audiophiles identified this specific warp pattern and developed clamp solutions. Severe cases can cause tracking issues and audible wow, though mild examples often play acceptably. Collectors generally degrade condition by one grade (VG+ to VG) for noticeable unclamped edges.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "edge warp",
+    "rim warp",
+    "outer-edge warp",
+    "perimeter warp"
+  ],
+  "alt_spellings": [
+    "unclamped-edge warp",
+    "un-clamped edge"
+  ],
+  "etymology": "Coined from the solution rather than the problem—'unclamped' referring to records pressed or stored without proper edge clamping or weight distribution to ensure uniform cooling and flatness.",
+  "first_use": 1973,
   "see_also": [
     "dish-warp",
     "record-clamp",
     "reflex-clamp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

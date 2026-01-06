@@ -1,22 +1,41 @@
 {
   "slug": "regional",
   "term": "Regional Pressing",
+  "pos": "noun",
+  "pronunciation": "/ˈriːdʒənəl ˈprɛsɪŋ/",
   "summary": "'**noun / collector tag.** A pressing **manufactured in a specific geographic.",
-  "definition": "**noun / collector tag.** A pressing **manufactured in a specific geographic region** — often on small local labels or contracted plants — sometimes with unique stampers, labels, or mixes.",
+  "definition": "**noun / collector tag.** A pressing **manufactured in a specific geographic region** — often on small local labels or contracted plants — sometimes with unique stampers, labels, or mixes. Regional pressings emerged prominently in the 1950s-70s when major labels licensed recordings to local distributors or plants to reduce shipping costs and meet demand in distant markets. These pressings frequently exhibit variations from the original release: different label designs, alternate matrix numbers, unique vinyl formulations, or occasionally distinct mastering from region-specific lacquers. In soul, funk, and rock collecting, regional pressings from Southern US plants (Monarch, Terre Haute) or Midwestern facilities often command premiums for perceived superior sound quality or rarity. International regional pressings — such as German, Japanese, or Australian editions of UK/US albums — may feature different cover art, inserts, or even alternate track sequences. Collectors prize regional variants for completist purposes, sonic differences, or historical documentation of local music industry infrastructure. The term distinguishes these legitimate commercial releases from bootlegs or counterfeits.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "regional edition",
+    "regional release",
+    "local pressing",
+    "territorial pressing"
+  ],
+  "alt_spellings": [
+    "regional-pressing"
+  ],
+  "etymology": "From commercial record industry practice of territorial licensing and distributed manufacturing, formalized during the LP era when shipping costs incentivized localized production facilities.",
+  "first_use": 1955,
   "see_also": [
     "private-press",
-    "local-label-issue",
-    "post-punk"
+    "pressing-plant",
+    "matrix-number",
+    "stamper",
+    "lacquer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

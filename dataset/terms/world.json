@@ -1,13 +1,21 @@
 {
   "slug": "world",
   "term": "World",
+  "pos": "noun",
+  "pronunciation": "/wɜrld/",
   "summary": "**World** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize traditional, folk, and contemporary music rooted in non-Western cultural traditions. Emerged as a commercial category in the 1980s when record retailers and labels needed an umbrella term for African, Asian, Latin American, Middle Eastern, and indigenous music styles that didn't fit into conventional Western pop, rock, or classical categories. The term encompasses everything from traditional field recordings and ceremonial music to modern fusion projects blending indigenous instruments with electronic production. While criticized for homogenizing diverse cultural expressions into a single catch-all category, \"World\" remains the dominant organizational framework in record stores, streaming platforms, and vinyl catalogs. In Discogs taxonomy, it serves as a parent genre with numerous regional and stylistic subcategories, helping collectors navigate international pressings, ethnomusicological releases, and cross-cultural collaborations that have become increasingly collectible since the vinyl revival.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "World Music",
+    "International Music",
+    "Ethnic Music"
+  ],
+  "alt_spellings": [],
+  "etymology": "Coined in 1987 by London-based music industry professionals seeking a marketing category for non-Western popular music entering European and American markets during the world music boom of the late 1980s.",
+  "first_use": 1987,
   "see_also": [
     "african",
     "asian",
@@ -15,7 +23,11 @@
     "european-folk"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

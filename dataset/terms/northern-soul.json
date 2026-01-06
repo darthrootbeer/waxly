@@ -1,15 +1,28 @@
 {
   "slug": "northern-soul",
   "term": "Northern Soul",
+  "pos": "noun",
+  "pronunciation": "/ˈnɔːðən soʊl/",
   "summary": "'**Northern Soul** - A musical style within the Soul genre, classified according.",
-  "definition": "A specific musical style within the broader soul genre classification.",
+  "definition": "A rare groove subgenre of soul music characterized by uptempo, danceable tracks from the mid-1960s through mid-1970s, primarily American releases that achieved cult status in Northern England rather than mainstream success. The scene emerged in working-class clubs like Wigan Casino and Blackpool Mecca during the early 1970s, where DJs championed obscure Motown, Atlantic, and independent label 45s featuring driving beats, tambourine-heavy percussion, and gospel-influenced vocals. Original pressings became highly sought commodities, with collectors traveling globally to unearth unplayed warehouse stock and personal collections. The movement established the all-nighter format, athletic dance styles, and a purist ethos demanding original vinyl over reissues or bootlegs. Northern Soul's emphasis on rarity transformed record collecting into competitive sport, with certain titles commanding four-figure sums. The scene influenced UK mod revival, rare groove culture, and modern crate-digging practices, maintaining dedicated followings through revival events and specialist labels reissuing authenticated pressings for contemporary dancers and collectors.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "rare soul",
+    "Northern"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "northern soul",
+    "Northern-Soul"
+  ],
+  "etymology": "Coined by journalist Dave Godin in 1970 to describe the distinct soul music preferences of Northern England club-goers, differentiating their taste for obscure American uptempo tracks from the contemporary Tamla Motown sound popular in Southern England.",
+  "first_use": 1970,
+  "see_also": [],
+  "regions": [
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

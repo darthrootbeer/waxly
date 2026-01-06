@@ -1,15 +1,28 @@
 {
   "slug": "european-folk",
   "term": "European Folk",
+  "pos": "noun",
+  "pronunciation": "/ˌjʊərəˈpiːən foʊk/",
   "summary": "'**European Folk** - A musical style within the World genre, classified according.",
-  "definition": "A specific musical style within the broader world genre classification.",
+  "definition": "A musical style classification encompassing traditional and contemporary folk music originating from European regions, typically found within the broader World Music genre in record store bins and catalog systems. The category emerged in the 1960s-70s as Western record labels began systematically organizing non-Anglo-American folk traditions, covering everything from Celtic ballads and Scandinavian fiddle music to Balkan brass bands and Alpine yodeling. Vinyl pressings often feature traditional instrumentation including accordion, bagpipes, hurdy-gurdy, and various regional string instruments. The classification gained prominence during the folk revival era when labels like Topic, Folkways, and national European imprints documented regional traditions. Collectors prize early field recordings and authentic village ensemble pressings, particularly from Eastern European state labels and small regional presses. Modern reissues by labels like Finders Keepers and Sublime Frequencies have renewed interest in obscure European folk traditions, with rare pressings from countries like Romania, Bulgaria, and Portugal commanding premium prices.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Euro Folk",
+    "European Traditional Music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "European-Folk"
+  ],
+  "etymology": "Coined by record retailers and distributors in the late 1960s to categorize European traditional music within the emerging World Music classification system, distinguishing it from American and British folk traditions.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

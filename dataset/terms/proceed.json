@@ -1,15 +1,28 @@
 {
   "slug": "proceed",
   "term": "Proceed",
+  "pos": "verb",
+  "pronunciation": "/prəˈsiːd/",
   "summary": "Navigation term for continuing to next section.",
-  "definition": "--- *[Back to Lexicon](../README.md) | [Next Chapter](../chapters/chapter-w.md)*",
+  "definition": "A navigational directive used in vinyl documentation, catalogs, and encyclopedia entries to guide readers forward through sequential content. The term emerged from early record catalog design in the 1950s when mail-order companies like Columbia House and Capitol Records needed clear wayfinding language for their multi-page printed materials. In contemporary vinyl lexicons and digital archives, \"proceed\" functions as an instructional cue, typically appearing in footer navigation alongside \"back\" or \"return\" links to facilitate linear browsing through alphabetized terminology or chapter-based content. The convention mirrors the sequential nature of vinyl listening itself—one cannot skip tracks without physical manipulation, reinforcing a culture of methodical, ordered engagement with information. Modern vinyl reference works maintain this traditional navigational language to preserve the aesthetic and functional continuity of analog-era documentation practices, even when published digitally.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "continue",
+    "advance",
+    "next"
   ],
-  "pos": "noun"
+  "alt_spelings": [],
+  "etymology": "From Latin 'procedere' (to go forward), adopted into vinyl catalog navigation terminology during the 1950s mail-order boom.",
+  "first_use": 1952,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

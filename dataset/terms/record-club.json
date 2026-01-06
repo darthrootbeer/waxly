@@ -1,21 +1,36 @@
 {
   "slug": "record-club",
   "term": "Record Club Edition",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛkərd klʌb ɪˈdɪʃən/",
   "summary": "'**noun / retail variant.** A pressing made **specifically for mail-order.",
-  "definition": "**noun / retail variant.** A pressing made **specifically for mail-order record clubs** (Columbia House, RCA Music Service, etc.), sometimes with alternate labels, jacket text, or mastering.",
+  "definition": "**noun / retail variant.** A pressing made **specifically for mail-order record clubs** (Columbia House, RCA Music Service, BMG Direct, Capitol Record Club), often identifiable by unique catalog numbers, alternate label designs, or jacket markings. These editions proliferated from the 1950s through the 1990s as clubs offered \"12 albums for a penny\" introductory deals requiring subsequent full-price purchases. Record club pressings typically used different stamper codes and pressing plants than retail versions, sometimes resulting in inferior vinyl quality or altered mastering, though exceptions exist. Jackets frequently feature small notch cuts, punch holes, or printed text like \"Manufactured for Columbia House\" to prevent retail returns. Collectors generally value club editions lower than first pressings, but certain titles—particularly those never issued retail or featuring unique mixes—command interest. The business model collapsed with digital distribution in the early 2000s, making these pressings historical artifacts of 20th-century music marketing. Identifying club editions requires checking matrix runouts, catalog number prefixes (often with added letters), and physical jacket alterations.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "club pressing",
+    "club edition",
+    "mail-order pressing"
+  ],
+  "alt_spellings": [
+    "record-club edition"
+  ],
+  "etymology": "Term emerged in the 1950s with the rise of mail-order subscription services that licensed catalog titles from major labels for direct-to-consumer sales, bypassing traditional retail distribution channels.",
+  "first_use": 1955,
   "see_also": [
     "label-variant",
     "mail-order",
-    "budget-pressing"
+    "budget-pressing",
+    "pressing-plant",
+    "matrix-number"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,35 @@
 {
   "slug": "kiss-style-picture",
   "term": "KISS-Style Picture Disc",
-  "summary": "'**noun / cultural.** A reference to the band KISS’s hugely popular late-’70s.",
-  "definition": "**noun / cultural.** A reference to the band KISS’s hugely popular late-’70s U.S. picture-disc LPs that sparked a mass trend of collectible rock picture discs.",
+  "pos": "noun",
+  "pronunciation": "/kɪs staɪl ˈpɪktʃər dɪsk/",
+  "summary": "'**noun / cultural.** A reference to the band KISS's hugely popular late-'70s.",
+  "definition": "**noun / cultural.** A reference to the band KISS's hugely popular late-'70s U.S. picture-disc LPs that sparked a mass trend of collectible rock picture discs. In 1978, KISS released four solo albums simultaneously—one for each band member—as picture discs featuring their iconic painted faces, creating an unprecedented commercial success that demonstrated the mainstream appeal of picture-disc technology. These releases moved picture discs from novelty items into serious collectibles, inspiring countless rock, punk, and metal bands throughout the 1980s to issue their own picture-disc variants. The KISS solo albums sold millions of copies despite picture discs' inherent audio compromises, proving that visual appeal could override sonic fidelity concerns for fans. The term now broadly refers to any commercially successful picture disc that prioritizes band imagery and collectibility over audiophile sound quality. Original KISS picture discs remain highly sought after, with mint copies commanding premium prices, while their cultural impact established the picture disc as a standard limited-edition format for rock releases through the early CD era.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "KISS picture disc",
+    "collectible picture disc"
+  ],
+  "alt_spellings": [
+    "Kiss-style picture disc",
+    "KISS style picture disc"
+  ],
+  "etymology": "Named after KISS's September 1978 simultaneous release of four solo picture-disc albums, which became the most commercially successful picture discs in history and established the format as a mainstream collectible.",
+  "first_use": 1978,
   "see_also": [
-    "picture",
+    "picture-disc",
     "color-vinyl",
-    "collector-variant"
+    "collector-variant",
+    "limited-edition"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

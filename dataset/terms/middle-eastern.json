@@ -1,15 +1,32 @@
 {
   "slug": "middle-eastern",
   "term": "Middle Eastern",
+  "pos": "adjective",
+  "pronunciation": "/ˈmɪdəl ˈiːstərn/",
   "summary": "'**Middle Eastern** - A musical style within the World genre, classified.",
-  "definition": "A specific musical style within the broader world genre classification.",
+  "definition": "A musical style classification within the broader world music genre, encompassing traditional and contemporary recordings from the geographic region spanning North Africa through Western Asia, including Arabic, Turkish, Persian, Israeli, and North African musical traditions. The category emerged in Western record cataloging systems during the 1960s-1970s as ethnomusicology gained academic prominence and specialty import labels began distributing recordings from these regions. Characterized by distinctive modal systems (maqam in Arabic music, makam in Turkish), microtonal scales, and instrumentation including oud, qanun, ney, darbuka, and tar. Vinyl pressings often feature elaborate calligraphic artwork and bilingual liner notes. Major labels like EMI, Philips, and regional imprints such as Voix de l'Orient documented classical and folk traditions, while diaspora communities drove demand for pressings in Western markets. Contemporary reissue labels like Sublime Frequencies and Habibi Funk have revived interest in vintage Middle Eastern funk, psych, and folk recordings from the 1960s-1980s, making rare regional pressings highly collectible among crate diggers and world music enthusiasts.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Near Eastern",
+    "Arabic music",
+    "Oriental music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Middle-Eastern",
+    "Middle eastern",
+    "Middleeastern"
+  ],
+  "etymology": "Derived from the geopolitical term 'Middle East' coined by British military strategists in the early 20th century, adopted by Western music retailers and distributors in the 1960s as a broad commercial classification for recordings from the region.",
+  "first_use": 1965,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

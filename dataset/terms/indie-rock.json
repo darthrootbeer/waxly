@@ -1,15 +1,30 @@
 {
   "slug": "indie-rock",
   "term": "Indie Rock",
+  "pos": "noun",
+  "pronunciation": "/ˈɪndi rɒk/",
   "summary": "'**Indie Rock** - A musical style within the Rock genre, classified according.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A musical style within the broader rock genre that emerged from independent record labels and DIY ethos of the late 1970s and 1980s. Originally defined by distribution method rather than sound—bands releasing music on independent labels outside major label systems—the term evolved to describe a diverse aesthetic spanning jangly guitar pop, lo-fi experimentation, and alternative rock. Key early labels like SST, Creation, and 4AD established the indie infrastructure, while college radio provided crucial exposure. The genre reached mainstream crossover in the 1990s with bands like Pavement, Sonic Youth, and The Smiths influencing subsequent generations. Vinyl remains the preferred format for indie rock releases, with many labels pressing limited runs on colored vinyl, often including download codes. The term's meaning has shifted over decades from purely independent distribution to encompassing a particular aesthetic sensibility—emphasizing authenticity, artistic control, and resistance to commercial polish—making it both a business model and cultural identifier within record collecting communities.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "independent rock",
+    "indie"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "indie-rock",
+    "indierock"
+  ],
+  "etymology": "Shortened from 'independent rock,' referring to music released on independent record labels outside the major label system, coined in mid-1980s UK music press.",
+  "first_use": 1985,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

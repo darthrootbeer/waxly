@@ -1,21 +1,37 @@
 {
   "slug": "re-cut-lacquer",
   "term": "Re-Cut Lacquer",
+  "pos": "noun",
+  "pronunciation": "/riː kʌt ˈlækər/",
   "summary": "'**noun / mastering term.** A **new lacquer master** cut after the original.",
-  "definition": "**noun / mastering term.** A **new lacquer master** cut after the original wore out, was damaged, or needed sonic/spacing adjustments.",
+  "definition": "**noun / mastering term.** A **new lacquer master** cut after the original wore out, was damaged, or needed sonic/spacing adjustments. Lacquer masters are delicate aluminum discs coated with nitrocellulose, designed for single-use cutting before electroplating to create stampers. When original lacquers deteriorate or when labels need additional pressing runs beyond the stamper lifespan (typically 1,000-1,500 records), mastering engineers re-cut from the original master tape or safety copy. Re-cuts may differ sonically from first-generation pressings due to tape degradation, different cutting equipment, or engineer interpretation—making original pressings from first lacquers highly prized by collectors. Matrix number variations often reveal re-cut lacquers through stamper code suffixes or different engineer marks. Major reissue campaigns and high-demand titles frequently require multiple re-cuts across decades, each potentially introducing subtle sonic variations that fuel audiophile debates about definitive pressings.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "recut master",
+    "second generation lacquer",
+    "replacement lacquer"
+  ],
+  "alt_spelings": [
+    "recut lacquer",
+    "re-cut master"
+  ],
+  "etymology": "Term emerged in 1950s vinyl manufacturing as distinction from original lacquer masters; compound of 're-' (again) and 'cut' (lathe engraving process) plus 'lacquer' (nitrocellulose coating medium).",
+  "first_use": 1952,
   "see_also": [
     "lacquer-cut",
-    "hot-cut",
-    "matrix-number"
+    "matrix-number",
+    "stamper",
+    "master-tape"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,31 @@
 {
   "slug": "jazz-funk",
   "term": "Jazz Funk",
+  "pos": "noun",
+  "pronunciation": "/dʒæz fʌŋk/",
   "summary": "'**Jazz Funk** - A musical style within the Funk genre, classified according.",
-  "definition": "A specific musical style within the broader funk genre classification.",
+  "definition": "A hybrid musical style that emerged in the late 1960s and peaked commercially in the 1970s, blending the rhythmic intensity and groove-oriented approach of funk with jazz's harmonic sophistication and improvisational elements. Pioneered by artists like Herbie Hancock, Donald Byrd, and Roy Ayers, jazz-funk incorporated electric instruments, synthesizers, and funk's syncopated bass lines while retaining jazz's complex chord progressions and extended solos. The style became particularly significant in the UK's rare groove and acid jazz movements of the 1980s-90s, where original pressings from labels like CTI, Kudu, and Blue Note became highly sought-after by collectors and DJs. Notable albums include Hancock's \"Head Hunters\" (1973) and Byrd's \"Black Byrd\" (1973). Today, jazz-funk records remain cornerstone pieces in crate-digger culture, prized for their breakbeats and sample-worthy material, with original pressings commanding premium prices in the collector market.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "jazz-rock-funk",
+    "fusion funk",
+    "funky jazz"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "jazzfunk",
+    "jazz/funk"
+  ],
+  "etymology": "Coined in the early 1970s to describe the fusion of jazz improvisation with funk rhythms, reflecting the genre-blending experimentation of the post-bebop era when jazz musicians incorporated contemporary R&B and soul influences.",
+  "first_use": 1971,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

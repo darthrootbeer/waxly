@@ -1,21 +1,40 @@
 {
   "slug": "eq-equalization",
   "term": "E.Q. (Equalization)",
+  "pos": "noun",
+  "pronunciation": "/ˌiːˈkjuː/ or /ˌiːkwələˈzeɪʃən/",
   "summary": "noun / abbreviation. The process of adjusting frequency balance during recording,.",
-  "definition": "**noun / abbreviation.** The process of adjusting frequency balance during recording, mastering, or playback to achieve the desired tonal curve. Every vinyl record requires a specific playback EQ — usually the RIAA curve — to restore proper bass and treble.",
+  "definition": "**noun / abbreviation.** The process of adjusting frequency balance during recording, mastering, or playback to achieve the desired tonal curve. Every vinyl record requires a specific playback EQ — usually the RIAA curve — to restore proper bass and treble. During cutting, engineers apply inverse equalization (bass reduction, treble boost) to prevent groove overcrowding and excessive stylus excursion. Without proper playback EQ through a phono preamp, records sound thin and piercing. The RIAA standard, adopted in 1954, unified competing curves from Columbia, Decca, and others, enabling universal playback compatibility. Some audiophile pressings from earlier eras require alternative curves (78rpm, European broadcast standards). Modern mastering engineers also use creative EQ to compensate for format limitations, enhance presence, or match the sonic character of original analog gear. DJs frequently use mixer EQ to blend tracks or isolate frequencies during performance.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "frequency adjustment",
+    "tonal correction",
+    "curve compensation"
+  ],
+  "alt_spelings": [
+    "EQ",
+    "E.Q.",
+    "equalization",
+    "equalisation"
+  ],
+  "etymology": "From Latin \"aequalis\" (equal); audio term emerged in 1920s-30s telephone and broadcast engineering to describe frequency response correction.",
+  "first_use": 1926,
   "see_also": [
     "riaa-curve",
     "preamp",
-    "tone-control"
+    "tone-control",
+    "phono-stage"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,38 @@
 {
   "slug": "matrix-number",
   "term": "Matrix Number",
+  "pos": "noun",
+  "pronunciation": "/ˈmeɪtrɪks ˈnʌmbər/",
   "summary": "'**noun / technical / collector term.** A unique alphanumeric code inscribed.",
-  "definition": "**noun / technical / collector term.** A unique alphanumeric code inscribed in the run-out area identifying the specific lacquer, mastering, or pressing batch.",
+  "definition": "**noun / technical / collector term.** A unique alphanumeric code inscribed or stamped in the run-out groove area of a vinyl record, identifying the specific lacquer master, metal stamper, or pressing batch used to manufacture that disc. Matrix numbers typically appear as hand-etched or machine-stamped characters between the label and the locked groove, serving as a production fingerprint that traces each record back to its mastering and manufacturing origins. Originally implemented in the shellac 78rpm era for quality control and inventory tracking, matrix numbers became essential tools for audiophile collectors seeking first pressings and specific mastering variations. Different plants, engineers, and reissue campaigns generate distinct matrix codes, allowing collectors to identify desirable pressings—such as early Beatles Parlophone pressings with specific EMI matrix codes or original Blue Note pressings with Rudy Van Gelder's RVG etchings. Modern pressings continue the practice, though computerized systems have standardized many codes. Serious collectors decode these markings to authenticate pressings, determine pressing order, and identify which mastering engineer or cutting lathe produced the lacquer, as sonic quality often varies significantly between different matrix variants of the same release.",
   "tags": [
     "pressing",
     "collecting",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "stamper number",
+    "master number",
+    "catalog matrix"
+  ],
+  "alt_spellings": [
+    "matrix code",
+    "matrix-number"
+  ],
+  "etymology": "Derived from 'matrix' referring to the metal master mold used in record pressing, combined with sequential numbering systems adopted by record manufacturers in the 1900s-1910s for tracking production masters and stampers.",
+  "first_use": 1910,
   "see_also": [
     "run-out-etching",
     "hand-etched-matrix",
     "stamper-code"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

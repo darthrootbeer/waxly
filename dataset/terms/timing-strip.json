@@ -1,22 +1,36 @@
 {
   "slug": "timing-strip",
   "term": "Timing Strip",
+  "pos": "noun",
+  "pronunciation": "/ˈtaɪmɪŋ strɪp/",
   "summary": "'**noun / radio-promo ephemera.** A **paper strip or sticker listing exact.",
-  "definition": "**noun / radio-promo ephemera.** A **paper strip or sticker listing exact track timings and cue info** for announcers and DJs — usually affixed to the jacket front.",
+  "definition": "**noun / radio-promo ephemera.** A **paper strip or sticker listing exact track timings and cue info** for announcers and DJs — usually affixed to the jacket front. Emerged in the 1950s as radio stations demanded precise timing data for programming schedules and FCC compliance. These strips typically display track durations down to the second, plus vocal entry points, instrumental breaks, and fade-out markers to help DJs execute smooth segues and time-sensitive broadcasts. Most commonly found on promotional copies sent to radio stations, though some commercial releases featured them for club DJ use in the disco and dance music eras. The strips were printed on adhesive-backed paper and applied at pressing plants or by promotion departments. Collectors prize timing strips as authentication markers for genuine radio promos, though their presence can reduce jacket grade if poorly applied or removed. Many have yellowed, peeled, or left residue over decades. Modern reissues occasionally reproduce vintage timing strips for nostalgic accuracy, while contemporary promo services have largely moved to digital cue sheets and metadata.",
   "tags": [
     "dj-related",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cue strip",
+    "time strip",
+    "DJ timing label"
+  ],
+  "alt_spelings": [
+    "timing-strip",
+    "timing strip"
+  ],
+  "etymology": "Coined from broadcasting terminology combining 'timing' (duration measurement) and 'strip' (narrow paper format), standardized by radio promotion departments in the early LP era.",
+  "first_use": 1952,
   "see_also": [
     "radio-copy-promo",
     "cue-sheet-insert",
     "hype-sticker"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,40 @@
 {
   "slug": "promo-copy-promotional",
   "term": "Promo Copy",
+  "pos": "noun",
+  "pronunciation": "/ˈproʊmoʊ ˈkɑpi/",
   "summary": "noun / retail & radio practice. A record manufactured for free distribution.",
-  "definition": "**noun / retail & radio practice.** A record manufactured for free distribution to radio DJs, reviewers, or stores, often marked **“Promotional Copy — Not For Sale”**, sometimes with unique mono mixes or hot-cut lacquers.",
+  "definition": "**noun / retail & radio practice.** A record manufactured for free distribution to radio DJs, reviewers, or retail stores, typically stamped or labeled **\"Promotional Copy — Not For Sale\"** or **\"For Radio Play Only\"**. Emerged in the late 1940s as labels sought airplay exposure without retail sales tracking. Promos often feature unique characteristics: white labels with typed info, drill holes through the center, gold-stamped covers, or clipped corners. Some contain rare mono mixes, alternate takes, or hot-cut lacquers with louder grooves optimized for radio broadcast. Major labels pressed thousands for album campaigns, while smaller operations hand-stamped retail copies. The practice peaked in the 1960s-80s when radio programming drove sales. Modern promos are largely digital, making vinyl specimens highly collectible—especially first pressings with unique mixes. Value varies wildly: common promos trade near standard copies, while rare variants (Beatles mono promos, jazz white labels) command premiums. Authenticity matters; counterfeit promo stamps exist.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "promotional copy",
+    "promo pressing",
+    "radio copy",
+    "DJ copy"
+  ],
+  "alt_spellings": [
+    "promo-copy",
+    "promocopy"
+  ],
+  "etymology": "Shortened from \"promotional copy,\" adopted by record labels in the late 1940s as radio became the primary vehicle for music marketing and airplay tracking systems required non-sale inventory designation.",
+  "first_use": 1948,
   "see_also": [
     "white-label-promo",
     "dj-copy",
-    "not-for-sale"
+    "not-for-sale",
+    "test-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

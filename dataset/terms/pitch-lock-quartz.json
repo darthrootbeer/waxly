@@ -1,21 +1,38 @@
 {
   "slug": "pitch-lock-quartz",
   "term": "Pitch-Lock",
+  "pos": "noun",
+  "pronunciation": "/pɪtʃ lɒk/",
   "summary": "'**noun / DJ / hi-fi.** A feature that locks turntable speed to an exact.",
-  "definition": "**noun / DJ / hi-fi.** A feature that locks turntable speed to an exact quartz-regulated standard, overriding manual pitch control for perfect 33⅓ or 45 RPM.",
+  "definition": "**noun / DJ / hi-fi.** A feature that locks turntable speed to an exact quartz-regulated standard, overriding manual pitch control for perfect 33⅓ or 45 RPM. Introduced in the late 1970s alongside quartz-controlled direct drive systems, pitch-lock uses a crystal oscillator to maintain absolute rotational accuracy regardless of external factors like voltage fluctuations or platter load. When engaged, it disables the pitch slider or knob, ensuring playback at precisely the intended speed—critical for audiophile listening where even 0.1% deviation becomes audible as pitch drift. Pioneer's SL-1200MK2 (1979) popularized the feature, typically activated via a dedicated button that illuminates when locked. For DJs, pitch-lock serves as a reference point: engaging it between mixes confirms the turntable hasn't drifted from factory calibration, though most mixing requires it disengaged for beatmatching. High-end models like the Technics SL-1200G maintain quartz accuracy even with pitch-lock off, using the crystal as a reference while allowing adjustment. The technology effectively eliminated wow and flutter issues that plagued belt-drive and earlier direct-drive designs, making it standard on professional decks by the mid-1980s.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Quartz Lock",
+    "Speed Lock",
+    "Quartz Pitch Lock"
+  ],
+  "alt_spelings": [
+    "Pitch Lock",
+    "Pitchlock"
+  ],
+  "etymology": "Coined in the late 1970s when quartz crystal oscillators were integrated into turntable motor control systems, combining 'pitch' (rotational speed affecting musical pitch) with 'lock' (fixed regulation).",
+  "first_use": 1979,
   "see_also": [
     "pitch-control",
     "quartz-synth-drive",
-    "wow-flutter"
+    "wow-flutter",
+    "direct-drive"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

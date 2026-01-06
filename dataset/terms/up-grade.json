@@ -1,21 +1,38 @@
 {
   "slug": "up-grade",
   "term": "Up-Grade Copy",
+  "pos": "noun",
+  "pronunciation": "/ˈʌp ɡreɪd ˈkɑpi/",
   "summary": "Up-Grade Copy.",
-  "definition": "# Up-Grade Copy\n\n**Etymology:** Collector lingo — buying an *upgrade* in sleeve/vinyl grade.\n\n**Example:** “Found a NM up-grade copy of the same first-press to replace my VG+.”\n\n**Cultural Note:** * A normal part of serious crate-digging and collection-curation culture.",
+  "definition": "# Up-Grade Copy\n\nA replacement record acquired to improve the condition grade of an album already owned, typically replacing a worn or damaged copy with one in superior vinyl or sleeve condition. The practice became formalized in the 1980s as Goldmine grading standards codified condition assessment, allowing collectors to systematically identify gaps between their current holdings and mint-state examples.\n\nUpgrading represents a core tension in vinyl collecting: the balance between completeness and condition perfectionism. Serious collectors often maintain \"play copies\" in VG+ condition while hunting for NM or sealed upgrade copies of the same pressing for archival purposes. The digital era paradoxically intensified this behavior—streaming services eliminated the functional need for playable copies, freeing collectors to pursue condition-graded specimens as pure objects.\n\nUpgrade hunting drives sustained demand at record shows and online marketplaces, where sellers explicitly market \"clean copies\" and \"NM upgrades.\" First pressings, audiophile editions, and culturally significant albums command premium upgrade prices, sometimes 5-10x the cost of acceptable playing copies. The practice distinguishes casual listeners from condition-focused collectors.",
   "tags": [
     "collecting",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "upgrade",
+    "condition upgrade",
+    "replacement copy"
+  ],
+  "alt_spellings": [
+    "upgrade copy",
+    "up grade copy"
+  ],
+  "etymology": "Emerged from 1980s collector terminology as grading systems standardized condition assessment, combining \"upgrade\" (improvement) with \"copy\" (individual pressing instance).",
+  "first_use": 1985,
   "see_also": [
     "double-copy-habit",
     "sleeve-grading",
-    "goldmine-grading-scale"
+    "goldmine-grading-scale",
+    "play-copy",
+    "mint-minus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

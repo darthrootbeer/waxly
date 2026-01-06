@@ -1,17 +1,33 @@
 {
   "slug": "mirror-finish-stamper",
   "term": "Mirror-Finish Stamper",
+  "pos": "noun",
+  "pronunciation": "/ˈmɪrər ˈfɪnɪʃ ˈstæmpər/",
   "summary": "'**noun / technical.** A metal stamper whose groove walls are polished to.",
-  "definition": "**noun / technical.** A metal stamper whose groove walls are polished to a mirror-like sheen to reduce surface noise during pressing.",
+  "definition": "**noun / technical.** A metal stamper whose groove walls are polished to a mirror-like sheen to reduce surface noise during pressing. Developed in the late 1970s as pressing plants sought to improve vinyl playback quality during the format's commercial peak, mirror-finish stampers undergo additional electroplating and polishing stages beyond standard nickel stamper production. The ultra-smooth groove surfaces minimize the micro-roughness that causes ticks, pops, and background noise, resulting in pressings with dramatically lower noise floors—particularly noticeable during quiet passages and lead-in grooves. Audiophile labels like Mobile Fidelity Sound Lab and Analogue Productions adopted mirror-finish stampers as standard practice by the mid-1980s, marketing the technique as a premium feature. The process adds significant cost and production time, as stampers require careful handling to prevent scratching and can wear faster than conventional stampers, limiting run sizes to 1,000-1,500 copies versus 3,000+ for standard stampers. Modern reissue plants continue using mirror-finish techniques for high-end pressings, with collectors often willing to pay premium prices for the superior sonic clarity these stampers deliver.",
   "tags": [
     "pressing",
     "collecting",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "polished stamper",
+    "high-polish stamper",
+    "audiophile stamper"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "mirror finish stamper",
+    "mirror-polished stamper"
+  ],
+  "etymology": "Term emerged in late 1970s pressing industry literature, describing stampers polished to reflective mirror quality through enhanced electroplating processes.",
+  "first_use": 1978,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

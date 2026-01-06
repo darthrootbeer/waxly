@@ -1,22 +1,39 @@
 {
   "slug": "side-a-b",
   "term": "Side-A",
+  "pos": "noun",
+  "pronunciation": "/saɪd eɪ/",
   "summary": "'**noun / format convention.** The **two sides of a record** — historically.",
-  "definition": "**noun / format convention.** The **two sides of a record** — historically *Side A* hosts the featured single or first half of the LP sequence, *Side B* the flip or secondary tracks.",
+  "definition": "**noun / format convention.** The **two sides of a record** — historically *Side A* hosts the featured single or first half of the LP sequence, *Side B* the flip or secondary tracks. Established with 78rpm singles in the 1920s-30s, the convention designated Side A for the primary commercial release intended for radio play and jukebox prominence, while Side B carried the coupling track or album filler. On LPs from the 1950s forward, Side A contains the opening sequence through mid-album, requiring the listener flip the disc to continue. The hierarchy became culturally embedded: Side B tracks gained reputation as deep cuts, experimental material, or hidden gems—spawning the term *B-side* as shorthand for secondary status. Double-A-side singles challenged this structure by promoting both tracks equally. With digital formats eliminating physical sides, the terminology persists in reissue labeling and collector discourse, preserving the ritual of the flip and the sequencing intent of original artists and producers.",
   "tags": [
     "pressing",
     "historical",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "A-side",
+    "B-side",
+    "flip side"
+  ],
+  "alt_spellings": [
+    "Side A",
+    "Side-A",
+    "Side A/B"
+  ],
+  "etymology": "Derived from alphabetical labeling convention adopted by record manufacturers in the 1920s to distinguish between the two playable surfaces of shellac 78rpm discs, with 'A' designating the primary commercial release.",
+  "first_use": 1923,
   "see_also": [
     "flip-side",
     "lead-in-groove",
     "double-a-side"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

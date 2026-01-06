@@ -1,21 +1,37 @@
 {
   "slug": "marker-scrawl",
   "term": "Marker",
+  "pos": "noun",
+  "pronunciation": "/ˈmɑːrkər/",
   "summary": "'**noun / slang.** A record whose center label has handwritten DJ notes —.",
-  "definition": "**noun / slang.** A record whose center label has handwritten DJ notes — BPM, key, or club owner’s initials — often lowering resale grade but telling a story of past use.",
+  "definition": "**noun / slang.** A record whose center label has handwritten DJ notes — BPM, key, or club owner's initials — often lowering resale grade but telling a story of past use. Emerged in disco and club culture of the 1970s when DJs began annotating records for quick identification in dark booths, marking tempo for seamless mixing, or noting compatible tracks. Common notations include beats per minute (\"128 BPM\"), musical key (\"Am\"), cue points (\"break @ 2:15\"), or venue stamps proving ownership. While purist collectors deduct significant value for label defacement, markers represent authentic DJ provenance and working-record history. House and techno DJs of the 1980s-90s elevated the practice to art form, with legendary clubs like Paradise Garage and Ministry of Sound records bearing distinctive marking styles. Modern digital DJing has reduced the practice, making heavily-marked vinyl from classic club eras increasingly desirable as historical artifacts. Grading impact varies: light pencil marks minimally affect value, while permanent marker across artist names can drop a record from VG+ to VG or lower.",
   "tags": [
     "dj-related",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "marked copy",
+    "DJ marked",
+    "scrawled record",
+    "annotated copy"
+  ],
+  "alt_spellings": [
+    "marker scrawl",
+    "marker-scrawl"
+  ],
+  "etymology": "Derived from DJ practice of using felt-tip markers or grease pencils to annotate records for performance use, becoming widespread terminology in club culture by early 1980s.",
+  "first_use": 1975,
   "see_also": [
     "promo-copy",
     "dj-copy",
-    "play-grade"
+    "play-grade",
+    "white-label"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

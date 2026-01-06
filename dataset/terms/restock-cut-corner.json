@@ -1,20 +1,35 @@
 {
   "slug": "restock-cut-corner",
   "term": "Restock Cut",
-  "summary": "'**noun / retail remainder mark.** A **corner of the jacket clipped off**.",
-  "definition": "**noun / retail remainder mark.** A **corner of the jacket clipped off** to mark discounted or remaindered stock once returned or unsold.",
+  "pos": "noun",
+  "pronunciation": "/ˈriːstɒk kʌt/",
+  "summary": "**noun / retail remainder mark.** A **corner of the jacket clipped off**.",
+  "definition": "**noun / retail remainder mark.** A **corner of the jacket clipped off** to mark discounted or remaindered stock once returned or unsold. This retail practice emerged in the 1960s as distributors and retailers needed a permanent, visible method to prevent promotional or cutout copies from being returned for full credit. Typically executed with scissors or industrial corner cutters, the cut removes a triangular section from one corner of the sleeve—most commonly the top right. Unlike punch holes or saw cuts, corner cuts are immediately visible and cannot be concealed, making them effective inventory control tools. The practice became widespread during the 1970s cutout boom when overstock flooded discount bins. While corner cuts significantly impact collector value and grading (often reducing condition by one or two grades), they represent an authentic piece of retail history. Many budget-conscious collectors accept corner-cut copies as affordable alternatives to pristine originals, particularly for common titles where the music matters more than investment potential.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "corner clip",
+    "clipped corner",
+    "corner cut",
+    "cutout corner"
+  ],
+  "alt_spelings": [
+    "re-stock cut"
+  ],
+  "etymology": "Derived from retail restocking procedures where unsold inventory was marked before being returned to distributors or resold at reduced prices, preventing fraudulent returns for full wholesale credit.",
+  "first_use": 1965,
   "see_also": [
     "punch-hole-cut-out",
     "saw-cut-notch",
     "remaindered-stock"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

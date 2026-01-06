@@ -1,21 +1,37 @@
 {
   "slug": "up-tempo",
   "term": "Up-Tempo Floor-Filler",
-  "summary": "'**noun / DJ slang.** A **fast-paced dance track guaranteed to fill the floor**.",
-  "definition": "**noun / DJ slang.** A **fast-paced dance track guaranteed to fill the floor** — not format-specific but deeply tied to vinyl-DJ party sets.",
+  "pos": "noun",
+  "pronunciation": "/ˈʌp ˈtɛm.poʊ ˈflɔːr ˈfɪl.ər/",
+  "summary": "**noun / DJ slang.** A **fast-paced dance track guaranteed to fill the floor**.",
+  "definition": "**noun / DJ slang.** A **fast-paced dance track guaranteed to fill the floor** — not format-specific but deeply tied to vinyl-DJ party sets. Emerged from disco and funk DJ culture in the 1970s when selectors learned to read crowd energy and deploy high-BPM records (typically 120+ BPM) to maximize dancefloor participation. The term emphasizes both tempo (driving rhythm that compels movement) and proven crowd response, distinguishing these tracks from experimental or warm-up selections. Classic examples span genres: disco anthems, Northern Soul stompers, house bangers, and drum & bass rollers. Experienced vinyl DJs maintain dedicated crates of floor-fillers for peak-hour deployment, often on 12-inch singles for maximum sonic impact. The concept remains central to DJ craft despite digital transition, as reading a room and selecting the right up-tempo moment separates competent selectors from masters of the dancefloor.",
   "tags": [
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "floor-filler",
+    "dancefloor destroyer",
+    "peak-hour banger",
+    "crowd-pleaser"
+  ],
+  "alt_spellings": [
+    "uptempo floor-filler",
+    "up tempo floor filler"
+  ],
+  "etymology": "Compound term combining 'up-tempo' (musical term for fast pace, from Italian 'tempo') with 'floor-filler' (DJ vernacular describing tracks that fill the dancefloor). Popularized in disco and funk DJ circles during the late 1970s.",
+  "first_use": 1978,
   "see_also": [
     "throw-on-track",
     "club-classic",
     "hot-cut-12-inch"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,37 @@
 {
   "slug": "flexi",
   "term": "Flexi",
+  "pos": "noun",
+  "pronunciation": "/ˈflɛksi/",
   "summary": "A thin, flexible PVC sheet record often bound in magazines or mailed as promotional.",
-  "definition": "A thin, flexible PVC sheet record often bound in magazines or mailed as promotional giveaways — playable on standard turntables despite its flimsy feel.",
+  "definition": "A thin, flexible PVC sheet record often bound in magazines or mailed as promotional giveaways — playable on standard turntables despite its flimsy feel. Introduced in the early 1960s as a cost-effective alternative to pressed vinyl, flexi discs were typically manufactured from polyvinyl chloride or polystyrene at thicknesses ranging from 0.2mm to 0.5mm, compared to standard vinyl's 1.5mm. Their lightweight construction made them ideal for magazine inserts, direct mail campaigns, and promotional distribution, with major music publications like NME and Smash Hits regularly binding them into issues throughout the 1970s and 1980s. Sound quality was noticeably inferior to standard pressings, with limited frequency response and increased surface noise, though this was considered acceptable for their intended promotional purpose. The format peaked during the 1980s when bands and advertisers embraced their novelty factor and low production costs. Collectors now seek vintage flexis for their historical significance and pop culture nostalgia, particularly rare promotional releases and magazine-bound editions featuring exclusive tracks. Modern indie labels occasionally revive the format for limited releases, capitalizing on its retro appeal and distinctive aesthetic.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "flexi disc",
+    "flexi disk",
+    "soundsheet",
+    "phonosheet"
+  ],
+  "alt_spellings": [
+    "flexy",
+    "flexi-disc"
+  ],
+  "etymology": "Shortened from 'flexible disc,' coined to distinguish the thin, bendable format from rigid vinyl records. The term gained widespread use following Eva-Tone Soundsheets' commercial production in the 1960s.",
+  "first_use": 1962,
   "see_also": [
     "postcard-record",
     "giveaway-single",
     "colored-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

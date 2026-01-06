@@ -1,22 +1,36 @@
 {
   "slug": "reverb-tank-dub-cut",
   "term": "Reverb",
+  "pos": "noun",
+  "pronunciation": "/ˈriːvɜːrb/",
   "summary": "'**noun / reggae / dub-plate slang.** A **version mix sent hot through a.",
-  "definition": "**noun / [reggae](../r/reggae.md) / [dub](../d/dub.md)-plate slang.** A **version mix sent hot through a spring-reverb tank** during cutting — a signature sonic texture of Jamaican dub culture.",
+  "definition": "**noun / [reggae](../r/reggae.md) / [dub](../d/dub.md)-plate slang.** A **version mix sent hot through a spring-reverb tank** during cutting — a signature sonic texture of Jamaican dub culture. Pioneered by King Tubby and Lee \"Scratch\" Perry in the early 1970s, this technique involved routing the lathe signal through hardware spring reverb units during acetate cutting, embedding the effect permanently into the grooves rather than adding it post-production. The resulting dub plates featured deep, metallic reverb tails that became foundational to sound system culture, where DJs demanded exclusive versions with heavy reverb treatments for maximum bass-bin impact. Unlike studio reverb applied to tape, reverb-tank cuts created a unique harmonic distortion when pushed hot, adding grit and presence that couldn't be replicated. Original reverb cuts from Treasure Isle, Studio One, and Randy's remain highly sought by collectors, with authentic 1970s pressings commanding premium prices. Modern reissue labels occasionally attempt to recreate the effect digitally, but purists insist the analog spring-tank-to-lathe chain produced an irreplaceable warmth and unpredictability that defined the golden era of Jamaican dub.",
   "tags": [
     "dj-related",
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tank cut",
+    "spring cut",
+    "dub reverb cut"
+  ],
+  "alt_spellings": [
+    "reverb tank dub cut",
+    "reverb-tank cut"
+  ],
+  "etymology": "Derived from spring reverb tanks (electromechanical audio devices) combined with Jamaican dub cutting practices, emerging from Kingston studios 1970-1973.",
+  "first_use": 1972,
   "see_also": [
     "dub-plate",
     "sound-system-special",
     "version-mix"
   ],
   "regions": [
+    "JA",
+    "UK",
     "US"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

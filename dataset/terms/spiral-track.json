@@ -1,15 +1,33 @@
 {
   "slug": "spiral-track",
   "term": "Spiral-Track Locked Groove",
+  "pos": "noun",
+  "pronunciation": "/ˈspaɪrəl træk lɒkt ɡruːv/",
   "summary": "**noun / novelty / DJ tool.**.",
-  "definition": "**noun / novelty / DJ tool.**",
+  "definition": "A locked groove that gradually changes in pitch, volume, or sonic character as it repeats, creating the illusion of movement or evolution within an otherwise static loop. Unlike standard locked grooves that repeat identically, spiral-track variants incorporate subtle modulation encoded into successive revolutions of the same groove. First popularized on experimental and avant-garde releases in the 1960s-70s, these grooves exploit the physical limitations of vinyl playback—microscopic variations in groove depth or spacing—to produce hypnotic, slowly morphing sound textures. DJs and turntablists prize spiral-track locked grooves as performance tools, using them to create seamless transitions or ambient soundscapes that appear to develop organically. Notable examples include certain Nurse With Wound releases and obscure library music records. Modern electronic producers occasionally commission lathe-cut records with custom spiral-track grooves for live performance, though digital emulation has largely replaced the need for physical versions. Collectors seek out original pressings featuring these grooves as curiosities that demonstrate vinyl's capacity for sonic experimentation beyond conventional playback.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "evolving locked groove",
+    "modulating lock groove",
+    "dynamic locked groove"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "spiral track locked groove",
+    "spiral-track lock-groove"
+  ],
+  "etymology": "Coined in the 1970s experimental music scene to distinguish grooves with gradual tonal shifts from static locked grooves, referencing the spiral nature of vinyl's continuous track.",
+  "first_use": 1967,
+  "see_also": [
+    "locked-groove",
+    "run-out-groove"
+  ],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

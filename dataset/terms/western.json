@@ -1,15 +1,24 @@
 {
   "slug": "western",
   "term": "Western",
+  "pos": "noun",
+  "pronunciation": "/ˈwɛstərn/",
   "summary": "'**Western** - A musical style within the Country genre, classified according.",
-  "definition": "A specific musical style within the broader country genre classification.",
+  "definition": "A musical style within the broader country genre classification, originating from the American Southwest and West Coast during the 1930s-40s. Western music distinguished itself from traditional Southeastern country through its incorporation of cowboy imagery, Spanish-influenced instrumentation, and smoother vocal harmonies popularized by singing cowboys in Hollywood films. Artists like Gene Autry and Roy Rogers brought the style to mainstream audiences, while Western swing pioneers like Bob Wills added jazz and big band elements. The genre merged with traditional country in the late 1940s to create the \"Country & Western\" classification used by record labels and radio stations through the 1970s. Vinyl collectors seek original pressings from labels like Capitol, Columbia, and smaller Western imprints, with Western swing 78s and early LPs commanding premium prices. Though the distinct \"Western\" designation faded by the 1980s, its influence persists in Americana and alt-country subgenres.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Country Western",
+    "Cowboy music"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the geographic and cultural association with the American West, distinguishing the style from Appalachian and Southern country traditions.",
+  "first_use": 1932,
+  "see_also": [],
+  "regions": [
+    "US"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

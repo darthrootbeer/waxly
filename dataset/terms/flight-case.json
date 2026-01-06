@@ -1,20 +1,35 @@
 {
   "slug": "flight-case",
   "term": "Flight Case",
+  "pos": "noun",
+  "pronunciation": "/flaɪt keɪs/",
   "summary": "A rugged, foam-lined metal-edged case used by touring DJs and live-sound.",
-  "definition": "A rugged, foam-lined metal-edged case used by touring DJs and live-sound crews to transport vinyl safely.",
+  "definition": "A rugged, foam-lined case with reinforced metal corners and edges designed to protect vinyl records, turntables, and audio equipment during transport by touring DJs and live-sound crews. Originally developed in the 1960s for the aviation and entertainment industries, flight cases feature aluminum or steel corner braces, spring-loaded handles, and butterfly latches to withstand the rigors of road travel and air freight. The interior foam padding is typically custom-cut to cradle specific equipment or hold records vertically, preventing warping and ring wear during transit. Professional DJ flight cases often accommodate 50-100 records alongside a turntable or mixer, with heavier-duty models featuring wheels for mobility. While the rise of digital DJing reduced demand in the 2000s, flight cases remain essential for vinyl DJs and collectors transporting rare pressings to gigs, with vintage cases from brands like Swan and Zomo commanding respect in the touring community for their durability and road-tested reliability.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "road case",
+    "touring case",
+    "ATA case"
+  ],
+  "alt_spellings": [
+    "flightcase"
+  ],
+  "etymology": "Coined in the 1960s from aviation industry 'flight-ready' shipping containers, adapted for entertainment equipment transport as rock touring expanded.",
+  "first_use": 1965,
   "see_also": [
     "clamshell-case",
     "record-box",
     "road-ready"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

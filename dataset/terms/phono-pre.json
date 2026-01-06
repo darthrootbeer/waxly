@@ -1,21 +1,41 @@
 {
   "slug": "phono-pre",
   "term": "Phono Pre-Amp",
+  "pos": "noun",
+  "pronunciation": "/ˈfoʊnoʊ priː æmp/",
   "summary": "'**noun / technical.** An amplifier circuit that boosts the tiny signal from.",
-  "definition": "**noun / technical.** An amplifier circuit that boosts the tiny signal from a phono cartridge to line-level while applying RIAA equalization.",
+  "definition": "**noun / technical.** An amplifier circuit that boosts the tiny signal from a phono cartridge to line-level while applying RIAA equalization. Phono cartridges produce signals measuring only 2-5 millivolts (moving magnet) or 0.2-0.5 millivolts (moving coil)—far too weak for standard audio inputs. The phono pre-amp provides the necessary gain (typically 40-60dB) while simultaneously applying the inverse RIAA equalization curve to restore flat frequency response, compensating for the bass cut and treble boost applied during record mastering. First standardized in the 1950s following the RIAA curve adoption in 1954, phono pre-amps were built into virtually all receivers and integrated amplifiers through the 1990s. As vinyl declined, manufacturers eliminated dedicated phono stages to cut costs, creating the modern market for standalone units. These range from basic $50 solid-state circuits to audiophile tube designs exceeding $5,000, with sonic differences arising from component quality, power supply design, and gain stage topology. High-end models often feature adjustable loading, capacitance settings, and switchable equalization curves for pre-RIAA pressings. Modern turntables increasingly include built-in phono pre-amps, though external units typically offer superior performance and flexibility for serious collectors.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "phono stage",
+    "phono preamplifier",
+    "RIAA preamp",
+    "phono equalizer"
+  ],
+  "alt_spellings": [
+    "phono preamp",
+    "phono-preamp"
+  ],
+  "etymology": "Derived from 'phonograph' and 'pre-amplifier,' coined in the 1950s as dedicated equalization stages became standardized following the 1954 RIAA curve adoption.",
+  "first_use": 1954,
   "see_also": [
     "phono-input",
     "riaa-curve",
-    "gain-stage"
+    "gain-stage",
+    "cartridge",
+    "moving-magnet",
+    "moving-coil"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

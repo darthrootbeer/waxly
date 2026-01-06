@@ -1,20 +1,36 @@
 {
   "slug": "sink-mark-dish-warp",
   "term": "Sink-Mark",
+  "pos": "noun",
+  "pronunciation": "/sɪŋk mɑːrk/",
   "summary": "'**noun / pressing defect.** A **slight concave warp** across the record.",
-  "definition": "**noun / [pressing defect](../p/pressing-defect.md).** A **slight concave warp** across the record face, usually caused by uneven cooling of the vinyl biscuit puck after pressing.",
+  "definition": "**noun / [pressing defect](../p/pressing-defect.md).** A **slight concave warp** across the record face, usually caused by uneven cooling of the vinyl biscuit after pressing. The defect occurs when the center of the disc cools and contracts faster than the outer edges, creating a shallow dish-shaped depression that can affect playback tracking and tonearm geometry. Sink-marks became more prevalent during the 1970s oil crisis when pressing plants reduced vinyl quality and rushed production cycles. Minor sink-marks under 2mm may be correctable with record clamps or reflex clamps that flatten the disc during playback, though severe examples cause audible pitch fluctuation and increased tracking force at the label area. Quality control improvements in modern pressing plants have largely eliminated this defect, though budget reissues and overheated stampers can still produce sink-marked records. Collectors typically avoid sink-marked pressings unless rare, as the warp progressively worsens with repeated play and storage pressure.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "dish warp",
+    "center dish",
+    "concave warp"
+  ],
+  "alt_spelings": [
+    "sink mark",
+    "sinkmark"
+  ],
+  "etymology": "Pressing plant terminology combining \"sink\" (the inward depression) with \"mark\" (visible defect), distinguished from edge warps by central location.",
+  "first_use": 1965,
   "see_also": [
     "edge-warp",
     "record-clamp",
-    "reflex-clamp"
+    "reflex-clamp",
+    "pressing-defect",
+    "vinyl-biscuit"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

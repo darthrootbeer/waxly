@@ -1,21 +1,36 @@
 {
   "slug": "scissor-cut",
   "term": "Scissor-Cut Obi",
-  "summary": "'**noun / Japanese packaging term.** A **narrow folded paper ‘obi’ strip**.",
-  "definition": "**noun / Japanese packaging term.** A **narrow folded paper ‘obi’ strip** that slips over the jacket [edge](../e/edge-warp.md) and looks like it’s been cut by scissors — typical of late-70s/80s budget Japanese issues.",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪzər kʌt ˈoʊbi/",
+  "summary": "'**noun / Japanese packaging term.** A **narrow folded paper 'obi' strip**.",
+  "definition": "**noun / Japanese packaging term.** A **narrow folded paper 'obi' strip** that slips over the jacket edge and looks like it's been cut by scissors — typical of late-70s/80s budget Japanese issues. Unlike the full-width obi strips found on premium pressings, scissor-cut obis measure roughly 1-2 inches in height and feature deliberately jagged or irregular top edges that mimic hand-cut paper. Introduced as a cost-saving measure by Japanese labels during the economic pressures of the late 1970s, these minimal obis retained essential catalog information and pricing while using significantly less paper stock. Common on reissues and mid-price series from labels like King Records, Trio, and Toshiba-EMI's budget lines. The irregular edge distinguishes them instantly from standard obis and has become a recognizable marker of era and pressing plant. Collectors often view scissor-cut obis as less desirable than full obis, though they remain important for authentication and dating Japanese pressings. The term derives from the visual appearance rather than actual manufacturing method — most were die-cut industrially.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cut obi",
+    "mini obi",
+    "budget obi"
+  ],
+  "alt_spellings": [
+    "scissor cut obi",
+    "scissorcut obi"
+  ],
+  "etymology": "Named for the irregular, jagged edge resembling scissors-cut paper; emerged in Japanese collector terminology during the 1990s to distinguish these narrow strips from standard obi formats.",
+  "first_use": 1977,
   "see_also": [
     "obi-strip",
     "poly-outer",
     "hype-sticker"
   ],
   "regions": [
-    "US"
+    "JA",
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

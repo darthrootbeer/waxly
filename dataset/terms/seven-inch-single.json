@@ -1,22 +1,42 @@
 {
   "slug": "seven-inch-single",
   "term": "Seven-Inch Single",
+  "pos": "noun",
+  "pronunciation": "/ˈsɛvən ɪntʃ ˈsɪŋɡəl/",
   "summary": "'**noun / format.** A **small vinyl single 7 inches in diameter**, most often.",
-  "definition": "**noun / format.** A **small vinyl single 7 inches in diameter**, most often cut at 45 RPM with one song per side — the pop-music standard of the 1950s-90s.",
+  "definition": "**noun / format.** A **small vinyl single 7 inches in diameter**, most often cut at 45 RPM with one song per side — the pop-music standard of the 1950s-90s. Introduced by RCA Victor in 1949 to compete with Columbia's LP format, the 7-inch quickly became the dominant medium for releasing hit singles, with an A-side featuring the promoted track and a B-side offering an album cut, demo, or alternate version. The format typically holds 4-6 minutes per side depending on groove spacing and volume. Most feature a large center hole requiring a 45 RPM adapter, though some pressings use small spindle holes. Picture sleeves emerged in the late 1950s as promotional tools and are now highly collectible. While CD singles displaced the format commercially in the 1990s, the 7-inch experienced a resurgence in the 2010s among indie labels and collectors, prized for its affordability, portability, and nostalgic appeal. Limited edition colored vinyl and special releases remain popular in punk, indie, and hip-hop communities.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "45",
+    "seven-inch",
+    "7-inch",
+    "single"
+  ],
+  "alt_spellings": [
+    "7\" single",
+    "7 inch single"
+  ],
+  "etymology": "Named for its 7-inch diameter, standardized by RCA Victor in 1949 as part of the \"War of the Speeds\" against Columbia Records' 33⅓ RPM LP format. The 45 RPM speed was chosen to maximize audio quality while keeping playing time suitable for popular songs.",
+  "first_use": 1949,
   "see_also": [
     "45-rpm-adapter",
     "dinked-center-45",
-    "picture-sleeve"
+    "picture-sleeve",
+    "b-side",
+    "extended-play"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,37 @@
 {
   "slug": "sound-effects-library",
   "term": "Sound-Effects Library Disc",
+  "pos": "noun",
+  "pronunciation": "/saʊnd ɪˈfɛkts ˈlaɪbrɛri dɪsk/",
   "summary": "'**noun / niche format.** A **vinyl record containing only sound effects**.",
-  "definition": "**noun / niche format.** A **vinyl record containing only sound effects** for broadcast, film, or theatre use — often banded with dozens of short indexed tracks.",
+  "definition": "**noun / niche format.** A **vinyl record containing only sound effects** for broadcast, film, or theatre use — often banded with dozens of short indexed tracks. These specialized LPs emerged in the 1950s as radio and television production expanded, providing professionals with instant access to everything from door slams and crowd noise to animal calls and weather ambience. Most discs were heavily banded (50-100 tracks per side), with printed indexes listing precise timecodes for cueing. Major publishers like BBC Sound Effects, Elektra, and De Wolfe pressed thousands of copies for institutional subscribers, though they rarely reached retail channels. The format peaked in the 1970s-80s before digital sampling rendered vinyl libraries obsolete. Today, these discs attract collectors for their oddball content, retro sound quality, and distinctive cover art — often featuring literal illustrations of the sounds within. Mint copies with intact indexes command premium prices, while worn examples frequently surface in thrift bins, their original utility long expired.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "SFX Library",
+    "Effects Disc",
+    "Sound Library Record",
+    "Production Effects LP"
+  ],
+  "alt_spellings": [
+    "Sound Effects Library Disc",
+    "Sound-Effect Library Disc"
+  ],
+  "etymology": "Term coined in the early 1950s when broadcast studios began cataloging recorded effects on LP format, adapting theatrical 'sound library' practices to vinyl distribution.",
+  "first_use": 1952,
   "see_also": [
     "banded-groove-lp",
     "field-recording-disc",
     "library-music-lp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

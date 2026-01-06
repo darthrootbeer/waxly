@@ -1,21 +1,39 @@
 {
   "slug": "quad-decoder-demodulator",
   "term": "Quad Decoder",
+  "pos": "noun",
+  "pronunciation": "/kwɒd dɪˈkoʊdər/",
   "summary": "'**noun / hardware.** An external component or receiver circuit that **decodes**.",
-  "definition": "**noun / hardware.** An external component or receiver circuit that **decodes** the encoded rear-channel information from quadraphonic LPs and routes it to four speaker outputs.",
+  "definition": "**noun / hardware.** An external component or receiver circuit that decodes the encoded rear-channel information from quadraphonic LPs and routes it to four speaker outputs. Introduced in the early 1970s during the quad format wars, these devices were essential for extracting the matrix-encoded surround information embedded in competing systems like **SQ** (CBS), **QS** (Sansui), and **CD-4** (JVC). Each format required its own dedicated decoder, with SQ and QS using phase-matrix encoding while CD-4 employed a carrier-based system requiring specialized styli and demodulator circuits. High-end decoders from manufacturers like Sansui, Marantz, and Lafayette featured logic circuits to enhance channel separation beyond the basic 3dB offered by passive designs, achieving up to 20dB separation. The format's commercial failure by 1977 left thousands of quad decoders obsolete, though they've become sought-after collector items for enthusiasts restoring period-correct quad systems. Modern digital signal processing has revived interest, with some audiophiles using vintage decoders to extract ambient information from stereo recordings, though original quad pressings remain the intended source material.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "quadraphonic decoder",
+    "quad demodulator",
+    "4-channel decoder",
+    "matrix decoder"
+  ],
+  "alt_spellings": [
+    "quad-decoder"
+  ],
+  "etymology": "Coined in the early 1970s from 'quadraphonic' (four-channel sound) and 'decoder' (device that reverses encoding), specifically referring to equipment that extracted discrete channel information from matrix-encoded vinyl records.",
+  "first_use": 1971,
   "see_also": [
     "quadraphonic-lp",
     "sq-matrix",
-    "qs-decoder"
+    "qs-decoder",
+    "cd-4",
+    "matrix-encoding"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

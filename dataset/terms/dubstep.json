@@ -1,15 +1,30 @@
 {
   "slug": "dubstep",
   "term": "Dubstep",
+  "pos": "noun",
+  "pronunciation": "/ˈdʌbstɛp/",
   "summary": "'**Dubstep** - A musical style within the Electronic genre, classified according.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A bass-heavy electronic music genre that emerged from South London's underground club scene in the late 1990s and early 2000s, characterized by syncopated rhythmic patterns, prominent sub-bass frequencies, and tempos typically around 140 BPM with half-time drum patterns. Pioneered by producers like Skream, Benga, and Digital Mystikz at venues such as FWD>> nightclub, dubstep evolved from UK garage, 2-step, and dub reggae influences. The genre's signature wobble bass and sparse, dark atmosphere dominated underground dance music before breaking mainstream around 2010 through artists like Skrillex, who popularized a more aggressive \"brostep\" variant. Original dubstep pressings on labels like DMZ, Hyperdub, and Tempa Records have become highly collectible among electronic music enthusiasts, with early 12-inch singles commanding premium prices. The genre's emphasis on sub-bass frequencies makes vinyl pressings particularly valued for their physical low-end reproduction, though mastering challenges exist due to extreme bass content potentially causing groove distortion or playback issues on poorly calibrated systems.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "dub step",
+    "future dub"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Dub-step",
+    "Dub Step"
+  ],
+  "etymology": "Coined in early 2000s London, combining \"dub\" (from Jamaican dub reggae's bass-heavy production techniques) and \"step\" (from 2-step garage, its immediate predecessor genre).",
+  "first_use": 2002,
+  "see_also": [],
+  "regions": [
+    "UK",
+    "US",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,30 @@
 {
   "slug": "hard-rock",
   "term": "Hard Rock",
+  "pos": "noun",
+  "pronunciation": "/hɑːrd rɒk/",
   "summary": "'**Hard Rock** - A musical style within the Rock genre, classified according.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A muscular subgenre of rock music characterized by amplified distortion, aggressive guitar riffs, emphatic drums, and powerful vocals. Emerging in the mid-1960s from blues-rock and psychedelic rock foundations, hard rock bridged the gap between mainstream rock and the heavier sounds that would spawn heavy metal. Pioneered by bands like The Who, Led Zeppelin, Deep Purple, and Black Sabbath, the style dominated album-oriented rock radio throughout the 1970s and experienced commercial resurgence in the 1980s with arena rock acts. For vinyl collectors, original pressings of classic hard rock albums from 1968-1975 command premium prices, particularly UK and German pressings known for superior mastering. The genre's dynamic range and guitar-heavy production benefits significantly from analog playback, making these records perennial favorites among audiophiles. Hard rock compilations and greatest hits packages remain steady sellers in the used vinyl market.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "heavy rock",
+    "arena rock"
   ],
-  "pos": "noun"
+  "alt_spelings": [
+    "hardrock"
+  ],
+  "etymology": "Term coined in mid-1960s music journalism to describe louder, more aggressive rock music that emphasized electric guitar distortion and power, distinguishing it from softer pop-rock styles.",
+  "first_use": 1966,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

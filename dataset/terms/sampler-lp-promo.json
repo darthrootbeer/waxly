@@ -1,21 +1,36 @@
 {
   "slug": "sampler-lp-promo",
   "term": "Sampler LP",
+  "pos": "noun",
+  "pronunciation": "/ˈsæmplər ɛl piː/",
   "summary": "'**noun / retail-promo format.** A **compilation LP issued for promotional.",
-  "definition": "**noun / retail-promo format.** A **compilation LP issued for promotional use** showcasing tracks from multiple artists on a label’s roster, often free to radio or record shops.",
+  "definition": "**noun / retail-promo format.** A **compilation LP issued for promotional use** showcasing tracks from multiple artists on a label's roster, often distributed free to radio stations, DJs, journalists, and record shops. Sampler LPs emerged in the late 1960s as labels sought cost-effective ways to promote multiple acts simultaneously, particularly useful for introducing new artists or highlighting catalog depth. Typically pressed in smaller quantities than commercial releases, these promos often featured label logos prominently on the cover and included stamps like \"Promotional Copy—Not For Sale.\" The format proved especially popular in the 1970s-80s across rock, jazz, and electronic genres, with labels like Island, Virgin, and Factory Records issuing sought-after samplers. Unlike standard compilation albums intended for retail, sampler LPs prioritized industry gatekeepers over consumers, though some later received limited commercial releases. Modern collectors value rare samplers for exclusive tracks, alternate mixes, or unique sequencing unavailable elsewhere. The practice declined with the CD era but influenced later promotional strategies including digital playlists and streaming-exclusive compilations.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "promotional sampler",
+    "promo compilation",
+    "label sampler"
+  ],
+  "alt_spellings": [
+    "Sampler L.P.",
+    "sampler LP"
+  ],
+  "etymology": "Derived from 'sample' (to test or preview) combined with 'LP' (long-playing record), reflecting the format's purpose of providing representative selections from a label's catalog for promotional evaluation.",
+  "first_use": 1968,
   "see_also": [
     "promo-copy",
     "white-label-promo",
     "compilation-lp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

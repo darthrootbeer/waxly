@@ -1,22 +1,37 @@
 {
   "slug": "picture",
   "term": "Picture Disc",
+  "pos": "noun",
+  "pronunciation": "/ˈpɪk.tʃər dɪsk/",
   "summary": "'**noun / decorative pressing.** A record pressed with an image or artwork.",
-  "definition": "**noun / decorative pressing.** A record pressed with an image or artwork embedded beneath a clear vinyl playing surface — prized for visuals rather than sonic purity.",
+  "definition": "**noun / decorative pressing.** A record pressed with an image or artwork embedded beneath a clear vinyl playing surface — prized for visuals rather than sonic purity. The manufacturing process sandwiches printed paper or plastic between two transparent vinyl layers, creating a viewable image on both sides. First popularized in the 1970s as collectible novelties, picture discs gained traction with punk and new wave releases before becoming mainstream promotional tools in the 1980s. The additional layers and non-uniform composition typically result in inferior sound quality compared to standard black vinyl — increased surface noise, reduced dynamic range, and tracking inconsistencies plague most pressings. Despite sonic compromises, picture discs command premium prices among collectors for their visual appeal and limited production runs. Modern pressing plants have improved techniques, but audiophiles still avoid them for critical listening. Most valued as display pieces or band merchandise rather than definitive playback formats.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pic disc",
+    "pictured vinyl"
+  ],
+  "alt_spellings": [
+    "picture-disc",
+    "picturedisc"
+  ],
+  "etymology": "Term emerged in 1970s when vinyl pressing technology advanced to allow stable image embedding between clear vinyl layers, building on earlier experimental pressings from the 1920s-40s.",
+  "first_use": 1946,
   "see_also": [
     "color-vinyl",
     "marbled-vinyl",
     "photo-etched-b-side"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

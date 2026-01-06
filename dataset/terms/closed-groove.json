@@ -1,22 +1,37 @@
 {
   "slug": "closed-groove",
   "term": "Closed-Groove Loop",
+  "pos": "noun",
+  "pronunciation": "/kloʊzd ɡruːv luːp/",
   "summary": "A special groove cut to circle back on itself, trapping the stylus to loop.",
-  "definition": "A special groove cut to circle back on itself, trapping the stylus to loop sound indefinitely — sometimes placed mid-side as an experimental effect.",
+  "definition": "A special groove cut to circle back on itself, trapping the stylus to loop sound indefinitely — sometimes placed mid-side as an experimental effect. Unlike standard spiral grooves that gradually move toward the record center, a closed-groove forms a complete circle with no exit path, forcing the tonearm to repeat the same audio passage until manually lifted. First popularized in the 1960s by avant-garde composers and sound artists, the technique became a signature element of experimental pressings and art records. The Beatles famously employed a closed-groove on the original UK pressing of Sgt. Pepper's Lonely Hearts Club Band, where gibberish chatter loops endlessly in the run-out area. Mastering engineers create the effect by carefully cutting the groove to connect seamlessly with its starting point, requiring precise lathe control to avoid audible clicks. Modern electronic and hip-hop artists occasionally use closed-grooves as intentional creative statements, while some test pressings feature them accidentally due to cutting errors. The technique differs from locked grooves, which typically contain silence or single tones rather than looping musical content.",
   "tags": [
     "equipment",
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "infinite loop",
+    "endless groove",
+    "perpetual groove"
+  ],
+  "alt_spellings": [
+    "closed groove",
+    "closed-groove"
+  ],
+  "etymology": "Derived from the physical characteristic of the groove pattern 'closing' upon itself rather than spiraling, with widespread adoption in experimental recording during the 1960s counterculture era.",
+  "first_use": 1967,
   "see_also": [
     "locked-groove",
     "banding",
     "run-out-etching"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

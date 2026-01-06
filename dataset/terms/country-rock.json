@@ -1,15 +1,29 @@
 {
   "slug": "country-rock",
   "term": "Country Rock",
+  "pos": "noun",
+  "pronunciation": "/ˈkʌntri rɒk/",
   "summary": "'**Country Rock** - A musical style within the Country genre, classified.",
-  "definition": "A specific musical style within the broader country genre classification.",
+  "definition": "A fusion genre that emerged in the late 1960s blending traditional country music instrumentation and songwriting with rock and roll's electric energy and production techniques. Pioneered by artists like The Byrds (with their landmark 1968 album *Sweetheart of the Rodeo*), Gram Parsons, and The Flying Burrito Brothers, country rock introduced steel guitars, fiddles, and honky-tonk sensibilities to the rock audience while electrifying country's traditional sound. The genre reached commercial peak in the 1970s through bands like the Eagles, Poco, and Linda Ronstadt, establishing a California-centric sound that dominated album-oriented rock radio. Country rock vinyl from this era remains highly collectible, particularly early pressings of foundational albums that bridged the counterculture and Nashville establishments. The genre's influence persists in modern Americana and alt-country movements, with original vinyl pressings commanding premium prices among collectors seeking the warm analog presentation that best captures the genre's organic instrumentation and vocal harmonies.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "country-rock fusion",
+    "cosmic American music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "country rock",
+    "countryrock"
+  ],
+  "etymology": "Coined in the late 1960s to describe the convergence of country music traditions with rock instrumentation and attitudes, popularized by music journalists covering the Laurel Canyon scene in Los Angeles.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

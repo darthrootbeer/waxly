@@ -1,15 +1,29 @@
 {
   "slug": "continue",
   "term": "Continue",
+  "pos": "verb",
+  "pronunciation": "/kənˈtɪnjuː/",
   "summary": "Navigation term for continuing to next section.",
-  "definition": "--- *[Back to Lexicon](../README.md) | [Next Chapter](../chapters/chapter-u.md)*",
+  "definition": "A navigational instruction commonly found in vinyl reference materials, catalogs, and discographies directing readers to proceed to subsequent sections or pages. The term emerged in printed record catalogs and price guides during the 1960s-70s as collections grew too extensive for single-volume publication. In liner notes and gatefold sleeves, \"continue\" often indicated where album credits, lyrics, or technical information resumed on interior panels or reverse sides. The practice became standardized in major reference works like the Goldmine Record Album Price Guide and various label discographies. Modern digital vinyl databases and online encyclopedias maintain this convention as hyperlinked navigation, preserving the sequential browsing experience of physical catalogs. The term reflects vinyl culture's deep connection to printed documentation, where multi-page layouts required clear wayfinding to help collectors, dealers, and researchers navigate complex information hierarchies across catalog numbers, pressing variations, and release chronologies.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "proceed",
+    "see next",
+    "turn page"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "From Latin continuare meaning 'to join together' or 'make continuous,' adopted into vinyl documentation parlance as catalog publishing expanded in the mid-20th century.",
+  "first_use": 1965,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

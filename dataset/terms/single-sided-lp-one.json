@@ -1,22 +1,37 @@
 {
   "slug": "single-sided-lp-one",
   "term": "Single-Sided LP",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪŋɡəl ˈsaɪdɪd ɛl piː/",
   "summary": "'**noun / format.** A **record pressed with grooves on only one side**, leaving.",
-  "definition": "**noun / format.** A **record pressed with grooves on only one side**, leaving the flip blank or etched — common for 12-inch DJ singles, test pressings, or etched-art editions.",
+  "definition": "**noun / format.** A **record pressed with grooves on only one side**, leaving the flip blank or etched — common for 12-inch DJ singles, test pressings, or etched-art editions. Emerged in the 1970s as a cost-effective format for promotional releases and extended dance mixes, allowing labels to press longer tracks without compromising groove width. The blank side is typically left smooth, stamped with matrix information, or elaborately etched with artwork, band logos, or decorative patterns visible when tilted under light. Single-sided pressings became especially prevalent in electronic and dance music during the 1990s-2000s, where DJs valued the extended mix lengths and labels reduced manufacturing costs. Test pressings are almost always single-sided to evaluate lacquer quality before full production. Contemporary artists occasionally use the format for limited editions, pairing playable audio with laser-etched visual art on the reverse, creating collectible pieces that blur the line between music and visual medium.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "one-sided record",
+    "single-sided pressing",
+    "one-sided LP"
+  ],
+  "alt_spellings": [
+    "Single Sided LP",
+    "Single-sided LP"
+  ],
+  "etymology": "Derived from standard LP terminology, adapted when labels began intentionally pressing records with playable grooves on only one side for promotional and cost-saving purposes in the mid-1970s.",
+  "first_use": 1975,
   "see_also": [
     "etched-disc-edition",
     "test-pressing",
     "one-track-12-inch"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

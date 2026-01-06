@@ -1,21 +1,40 @@
 {
   "slug": "vacuum-tube",
   "term": "Vacuum Tube Phono Stage",
-  "summary": "'**noun / hi-fi component.** A **phono pre-amplifier that uses vacuum tubes.",
-  "definition": "**noun / hi-fi component.** A **phono pre-amplifier that uses vacuum tubes (valves) instead of solid-state circuitry** to amplify and apply RIAA equalization to the cartridge signal.",
+  "pos": "noun",
+  "pronunciation": "/ˈvækjuːm tuːb ˈfoʊnoʊ steɪdʒ/",
+  "summary": "**noun / hi-fi component.** A **phono pre-amplifier that uses vacuum tubes.",
+  "definition": "**noun / hi-fi component.** A **phono pre-amplifier that uses vacuum tubes (valves) instead of solid-state circuitry** to amplify and apply RIAA equalization to the cartridge signal. Vacuum tubes dominated phono stage design from the 1950s through the early 1970s, prized for their warm, harmonically rich sound character that many audiophiles still prefer over transistor-based designs. The technology works by heating a cathode inside an evacuated glass envelope, creating electron flow that amplifies the minuscule voltage from a phono cartridge—typically 2-5 millivolts for moving magnet designs—up to line level. Tube phono stages require careful impedance matching and are particularly sensitive to microphonics (vibration-induced noise), often necessitating premium NOS (new old stock) tubes like Mullard, Telefunken, or Amperex variants that can cost $50-$300 per tube. Modern tube phono stages range from $500 entry-level Chinese designs to $15,000+ boutique units from manufacturers like Audio Research, Conrad-Johnson, and EAR. Enthusiasts value the \"tube sound\" for its perceived midrange liquidity and three-dimensional soundstaging, though maintenance requirements (tube replacement every 2,000-5,000 hours) and higher noise floors compared to solid-state designs make them a deliberate aesthetic choice rather than purely technical superiority.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tube phono preamp",
+    "valve phono stage",
+    "tube phono amplifier",
+    "valve phono preamplifier"
+  ],
+  "alt_spellings": [
+    "vacuum-tube phono stage",
+    "vacuumtube phono stage"
+  ],
+  "etymology": "Combines \"vacuum tube\" (electronic valve technology developed 1904-1907) with \"phono stage\" (amplification circuit for phonograph playback). Term emerged in 1950s hi-fi literature to distinguish tube-based designs from later solid-state alternatives.",
+  "first_use": 1952,
   "see_also": [
     "solid-state-phono-stage",
     "riaa-eq-curve",
-    "cartridge-loading"
+    "cartridge-loading",
+    "nos-tubes",
+    "microphonics"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

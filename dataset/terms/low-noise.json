@@ -1,20 +1,37 @@
 {
   "slug": "low-noise",
   "term": "Low-Noise Vinyl Compound",
+  "pos": "noun",
+  "pronunciation": "/loʊ nɔɪz ˈvaɪnəl ˈkɑmpaʊnd/",
   "summary": "'**noun / technical.** A specially formulated PVC blend with fewer impurities.",
-  "definition": "**noun / technical.** A specially formulated PVC blend with fewer impurities and better flow, yielding quieter backgrounds — often marketed as “audiophile” or “super vinyl.”",
+  "definition": "**noun / technical.** A specially formulated PVC blend with fewer impurities and better flow characteristics, yielding quieter backgrounds and reduced surface noise — often marketed as \"audiophile\" or \"super vinyl.\" Developed in the late 1970s as the industry responded to demands for higher fidelity pressings, low-noise compounds typically feature virgin vinyl (never-recycled PVC) with refined additives and stricter quality control during polymerization. The result is a denser, more uniform material that produces fewer ticks, pops, and background hiss compared to standard vinyl formulations. Major labels like Mobile Fidelity Sound Lab (MFSL), Nautilus, and JVC's Super Vinyl series pioneered these compounds in the early 1980s, charging premium prices for demonstrably quieter playback. The technical advantage comes from molecular consistency — fewer contaminants mean less friction between stylus and groove wall, translating to lower noise floor and improved dynamic range. Modern audiophile reissue labels like Analogue Productions, Music Matters, and Optimal Media continue this tradition, with some pressing plants guarding proprietary formulations as trade secrets. Collectors prize low-noise pressings for classical, jazz, and acoustic recordings where surface noise most interferes with listening. The compound's superior flow properties also yield better high-frequency detail and more accurate groove tracing.",
   "tags": [
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "audiophile vinyl",
+    "super vinyl",
+    "premium vinyl compound",
+    "virgin vinyl compound"
+  ],
+  "alt_spellings": [
+    "low noise vinyl",
+    "low-noise compound"
+  ],
+  "etymology": "Term emerged in late 1970s audiophile marketing as pressing plants developed refined PVC formulations to compete with emerging digital formats; \"low-noise\" directly references measurable reduction in signal-to-noise ratio.",
+  "first_use": 1978,
   "see_also": [
     "virgin-vinyl",
     "audiophile",
-    "surface-noise"
+    "surface-noise",
+    "pressing-quality"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

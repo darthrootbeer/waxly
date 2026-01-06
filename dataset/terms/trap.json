@@ -1,15 +1,27 @@
 {
   "slug": "trap",
   "term": "Trap",
+  "pos": "noun",
+  "pronunciation": "/træp/",
   "summary": "'**Trap** - A musical style within the Hip Hop genre, classified according.",
-  "definition": "A specific musical style within the broader hip-hop genre classification.",
+  "definition": "A subgenre of hip-hop music that emerged from the Southern United States in the early 1990s, characterized by aggressive lyrical content, ominous synthesizers, crisp snare rolls, tuned 808 bass drums, and rapid hi-hat patterns. Named after the slang term for places where drugs are sold, trap music originated in Atlanta with pioneering producers like DJ Toomp and Shawty Redd, gaining mainstream prominence through artists like T.I., Gucci Mane, and Young Jeezy in the mid-2000s. The genre's sonic template—particularly its distinctive Roland TR-808 drum machine programming—has since influenced electronic dance music (EDM trap) and global pop production. Vinyl releases of classic trap albums from labels like Grand Hustle and 1017 Records have become increasingly collectible, with original pressings of seminal works commanding premium prices among hip-hop collectors who value the genre's raw, bass-heavy production on wax.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "trap music",
+    "trap rap"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from Southern U.S. slang for drug houses ('trap houses'), the term was adopted as a musical descriptor in the early 1990s Atlanta hip-hop scene to reflect the lyrical content and street origins of the sound.",
+  "first_use": 1991,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,36 @@
 {
   "slug": "needle-talk-stylus",
   "term": "Needle-Talk",
+  "pos": "noun",
+  "pronunciation": "/ˈniːdəl tɔːk/",
   "summary": "'**noun / historical slang.** The faint mechanical sound heard directly from.",
-  "definition": "**noun / historical slang.** The faint mechanical sound heard directly from the stylus vibrating in the groove, audible close to the turntable even with amp volume off.",
+  "definition": "**noun / historical slang.** The faint mechanical sound heard directly from the stylus vibrating in the groove, audible close to the turntable even with the amplifier volume turned off or disconnected. This acoustic phenomenon results from the physical vibration of the stylus, cantilever, and cartridge body as they track the record groove, creating audible sound waves without electrical amplification. Needle-talk was far more pronounced in the acoustic phonograph era (1877-1925), when mechanical horns amplified these vibrations as the sole playback method. With electric playback systems introduced in the mid-1920s, needle-talk became a secondary curiosity rather than the primary sound source. The effect varies significantly based on cartridge mass, stylus profile, tracking force, and groove modulation—louder passages and higher frequencies produce more audible needle-talk. Audiophiles sometimes use needle-talk to verify stylus contact and groove tracking without powering up their system. In quiet listening environments, excessive needle-talk can indicate setup issues like improper VTA, excessive tracking force, or worn suspension components. The term largely fell out of common usage by the 1970s as electronic amplification became universal, though it remains relevant for collectors of acoustic phonographs and vintage audio enthusiasts.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "mechanical sound",
+    "stylus chatter",
+    "acoustic leakage"
+  ],
+  "alt_spelings": [
+    "needle talk",
+    "needletalk"
+  ],
+  "etymology": "Coined in the early electric phonograph era (1920s-1930s) to distinguish the faint mechanical sound from the amplified electrical signal, contrasting with the intentional acoustic reproduction of earlier horn phonographs.",
+  "first_use": 1928,
   "see_also": [
     "acoustic-phonograph",
-    "groove-wall-vibration",
-    "mechanical-resonance"
+    "cartridge",
+    "stylus",
+    "tracking-force"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

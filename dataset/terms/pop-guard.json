@@ -1,21 +1,35 @@
 {
   "slug": "pop-guard",
   "term": "Pop-Guard (a.k.a. Dust-Pop Filter)",
+  "pos": "noun",
+  "pronunciation": "/ˈpɒp ɡɑːrd/",
   "summary": "'**noun / DJ accessory / slang.** A felt or fabric pad placed over the stylus.",
-  "definition": "**noun / DJ accessory / slang.** A felt or fabric pad placed over the stylus or under the mat to reduce static pops and protect against airborne dust — mostly informal term.",
+  "definition": "**noun / DJ accessory / slang.** A felt or fabric pad placed over the stylus or under the mat to reduce static pops and protect against airborne dust — mostly informal term. Emerging in the 1970s as radio stations and mobile DJs sought quick solutions for static electricity issues, pop-guards typically consist of anti-static felt or conductive fabric that dissipates charge buildup before it can create audible pops through the cartridge. The stylus-mounted variant sits directly over the needle when not in play, preventing dust accumulation during storage or between sets, while mat-integrated versions claim to drain static through the platter itself. Professional broadcast studios occasionally employed custom pop-guards during the LP era, though their effectiveness remains debated among audiophiles who argue they can introduce their own sonic colorations or tracking issues. The term fell largely out of use by the 1990s as improved vinyl formulations and better grounding techniques reduced static problems, though some mobile DJs and collectors still swear by DIY felt solutions for particularly dry climates or winter months when static becomes problematic.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Dust-Pop Filter",
+    "static guard",
+    "needle guard",
+    "stylus dust cover"
+  ],
+  "alt_spellings": [
+    "Pop Guard",
+    "Popguard"
+  ],
+  "etymology": "Coined in the mid-1970s DJ and radio communities, combining 'pop' (the characteristic sound of static discharge) with 'guard' (protective device), reflecting its dual function of dust protection and static reduction.",
+  "first_use": 1974,
   "see_also": [
     "anti-static-brush",
     "platter-mat",
     "stylus-brush"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

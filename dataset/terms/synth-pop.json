@@ -1,15 +1,30 @@
 {
   "slug": "synth-pop",
   "term": "Synth-pop",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪnθ pɒp/",
   "summary": "'**Synth-pop** - A musical style within the Pop genre, classified according.",
-  "definition": "A specific musical style within the broader pop genre classification.",
+  "definition": "A pop music subgenre characterized by the dominant use of synthesizers, drum machines, and electronic production techniques as primary instrumentation. Emerging in the late 1970s from the post-punk and new wave movements, synth-pop replaced traditional rock instruments with affordable polyphonic synthesizers like the Roland Juno-60, Yamaha DX7, and Sequential Circuits Prophet-5. Pioneered by British acts including Depeche Mode, The Human League, and Soft Cell, the genre reached commercial peak between 1981-1985, defining the MTV era with its futuristic aesthetic and danceable electronic rhythms. Synth-pop's emphasis on melody, accessible song structures, and glossy production distinguished it from experimental electronic music and industrial genres. The style experienced major revivals in the 2000s through artists like LCD Soundsystem and CHVRCHES. Original synth-pop pressings from the early 1980s, particularly UK and German imports, remain highly collectible for their distinctive analog warmth and period-specific mastering that captures the genre's pioneering electronic sound.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "electropop",
+    "technopop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "synthpop",
+    "synth pop"
+  ],
+  "etymology": "Portmanteau of 'synthesizer' and 'pop music,' coined by British music press in 1979-1980 to describe the emerging wave of synthesizer-driven pop acts.",
+  "first_use": 1979,
+  "see_also": [],
+  "regions": [
+    "UK",
+    "US",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

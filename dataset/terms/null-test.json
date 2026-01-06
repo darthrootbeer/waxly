@@ -1,22 +1,39 @@
 {
   "slug": "null-test",
   "term": "Null-Test",
+  "pos": "noun",
+  "pronunciation": "/nʌl tɛst/",
   "summary": "noun / technical. A test comparing two audio signals by inverting the polarity.",
-  "definition": "**noun / technical.** A test comparing two audio signals by inverting the polarity of one and summing them; any remaining sound reveals differences — used by engineers to check remasters or cartridge channel balance.",
+  "definition": "**noun / technical.** A test comparing two audio signals by inverting the polarity of one and summing them; any remaining sound reveals differences — used by engineers to check remasters or cartridge channel balance. The principle relies on phase cancellation: when two identical signals are combined with one inverted 180 degrees, they cancel completely, producing silence (the \"null\"). Any audible residue indicates variations between the sources, whether from mastering changes, digital conversion artifacts, or hardware inconsistencies. In vinyl applications, audiophiles use null-tests to verify cartridge channel matching by playing mono records and inverting one channel — perfect balance yields silence, while imbalance produces audible signal. Mastering engineers employ the technique to compare original tapes against remaster candidates, isolating exactly what processing has altered. The method gained prominence in the 1980s digital era when comparing analog sources to CD transfers, revealing subtle EQ shifts or noise reduction side effects. Modern vinyl enthusiasts apply null-testing through audio software to evaluate pressings from different plants or compare stereo mixes to mono folds, making it an essential quality control tool for serious collectors and reissue labels seeking transparency in their releases.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "phase cancellation test",
+    "polarity inversion test",
+    "difference test"
+  ],
+  "alt_spellings": [
+    "null test",
+    "nulltest"
+  ],
+  "etymology": "From electrical engineering terminology, where \"null\" refers to a zero reading or complete cancellation; adopted by audio engineers in the analog tape era for signal verification.",
+  "first_use": 1960,
   "see_also": [
     "phase-cancellation",
     "mono-switch",
-    "mastering-comparison"
+    "mastering-comparison",
+    "azimuth",
+    "channel-balance"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

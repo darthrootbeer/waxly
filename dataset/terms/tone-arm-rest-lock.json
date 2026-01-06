@@ -1,21 +1,40 @@
 {
   "slug": "tone-arm-rest-lock",
   "term": "Tone-Arm Rest",
-  "summary": "'**noun / deck feature.** A **small cradle or clip that secures the tone-arm.",
-  "definition": "**noun / deck feature.** A **small cradle or clip that secures the tone-arm when not in use** — protects stylus and arm bearings during transport or dust-cover closing.",
+  "pos": "noun",
+  "pronunciation": "/toʊn ɑːrm rɛst/",
+  "summary": "**noun / deck feature.** A **small cradle or clip that secures the tone-arm when not in use** — protects stylus and arm bearings during transport or dust-cover closing.",
+  "definition": "**noun / deck feature.** A **small cradle or clip that secures the tone-arm when not in use** — protects stylus and arm bearings during transport or dust-cover closing. Typically positioned at the outer edge of the plinth, the rest features a U-shaped or curved support that cradles the arm tube, often paired with a locking mechanism (clip, lever, or threaded knob) that prevents lateral movement during shipping or storage. Essential safety feature introduced in the 1950s as turntables transitioned from furniture consoles to portable component systems. High-end decks from Thorens, Linn, and Rega employ spring-loaded clips or magnetic catches, while budget models use simple plastic clips. The lock prevents catastrophic stylus damage and bearing wear during transport — a bent cantilever or scored diamond from an unsecured arm can cost $100-$500 to replace. Vintage decks often suffer broken or missing rests, reducing resale value and requiring careful handling. Modern audiophile tables sometimes omit locks entirely, assuming stationary installation, though most mid-fi decks retain them for practical reasons. Proper use involves gently lowering the arm into the rest and engaging the lock before moving the deck or closing a hinged dust cover, which can strike an elevated arm.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "arm rest",
+    "tonearm clip",
+    "arm lock",
+    "arm cradle"
+  ],
+  "alt_spellings": [
+    "tonearm rest",
+    "tone arm rest"
+  ],
+  "etymology": "Compound term combining 'tone-arm' (the pivoting playback assembly) with 'rest' (support fixture); emerged in turntable literature circa 1950s as component hi-fi systems required transport-safe designs.",
+  "first_use": 1952,
   "see_also": [
     "cue-lever",
-    "arm-clip",
-    "dust-cover"
+    "dust-cover",
+    "tonearm",
+    "cartridge",
+    "stylus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

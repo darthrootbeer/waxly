@@ -1,20 +1,37 @@
 {
   "slug": "speed-change",
   "term": "Speed-Change Knob",
+  "pos": "noun",
+  "pronunciation": "/spiːd tʃeɪndʒ nɒb/",
   "summary": "'**noun / deck control.** A **manual or electronic switch that selects 33⅓,.",
-  "definition": "**noun / deck control.** A **manual or electronic switch that selects 33⅓, 45, or 78 RPM** on a turntable.",
+  "definition": "**noun / deck control.** A **manual or electronic switch that selects 33⅓, 45, or 78 RPM** on a turntable. Essential for playing different record formats, the speed-change mechanism evolved from belt-driven systems requiring manual pulley adjustment in the 1950s to convenient push-button or toggle switches by the 1960s. Early turntables often featured stepped pulleys that physically moved the drive belt between different diameters, while modern designs employ electronic motor control for instant speed switching. High-end audiophile decks typically use precision electronic speed selection with quartz-locked accuracy, while budget models may still rely on mechanical belt repositioning. The control usually appears as a physical switch, button array, or rotary selector on the turntable's plinth or platter housing. DJ turntables often integrate the speed selector with pitch control faders, allowing seamless transitions between formats during performance. Some vintage decks included four-speed capability (16⅔ RPM for spoken word recordings), though three-speed operation became the standard by the 1970s. Modern turntables increasingly omit 78 RPM capability as shellac playback declines, with many contemporary models offering only 33⅓ and 45 RPM settings to reduce manufacturing costs and mechanical complexity.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "speed selector",
+    "RPM switch",
+    "speed control",
+    "speed shifter"
+  ],
+  "alt_spellings": [
+    "speed change knob",
+    "speed-change switch"
+  ],
+  "etymology": "Term emerged in the 1950s with the introduction of multi-speed turntables capable of playing the newly standardized LP (33⅓), single (45), and legacy shellac (78) formats, replacing earlier single-speed phonographs.",
+  "first_use": 1952,
   "see_also": [
     "33-1-3-rpm-lp",
     "45-rpm-single",
     "78-rpm-shellac"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

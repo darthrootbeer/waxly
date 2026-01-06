@@ -1,15 +1,33 @@
 {
   "slug": "weight-clamp-record",
   "term": "Weight-Clamp",
-  "summary": "**noun / playback accessory.**.",
-  "definition": "**noun / playback accessory.**",
+  "pos": "noun",
+  "pronunciation": "/weɪt klæmp/",
+  "summary": "**noun / playback accessory.**",
+  "definition": "**noun / playback accessory.** A metal or composite disc placed on the center spindle of a turntable to flatten records against the platter, improving contact and reducing resonance during playback. Weight-clamps typically range from 200 grams to over 1 kilogram, with heavier models exerting greater downward force. Introduced in the 1970s alongside high-end turntable designs, they address warped records and reduce platter vibration by creating a coupled system between record and mat. Audiophiles debate their effectiveness—proponents claim tighter bass response and reduced surface noise, while critics argue excessive weight can strain bearing assemblies and motors on lighter turntables. Premium models from brands like Clearaudio and VPI feature machined brass or stainless steel construction, costing $50-$500, while budget versions use zinc alloy. Modern usage spans both vintage restoration and contemporary high-fidelity setups, though manufacturers typically specify maximum recommended weight for each turntable model to prevent mechanical damage.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "record weight",
+    "turntable weight",
+    "disc stabilizer",
+    "center weight"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "weight clamp",
+    "weightclamp"
+  ],
+  "etymology": "Emerged from 1970s high-end audio engineering as turntable designs prioritized mass-loaded platters and resonance control, combining \"weight\" (mass for downward pressure) and \"clamp\" (securing function).",
+  "first_use": 1975,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

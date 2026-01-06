@@ -1,20 +1,37 @@
 {
   "slug": "elliptical-stylus",
   "term": "Elliptical Stylus",
+  "pos": "noun",
+  "pronunciation": "/ɪˈlɪptɪkəl ˈstaɪləs/",
   "summary": "A stylus tip shaped like a tiny ellipse rather than a sphere, allowing better.",
-  "definition": "A stylus tip shaped like a tiny ellipse rather than a sphere, allowing better contact with groove walls for higher-frequency tracking and reduced distortion.",
+  "definition": "A stylus tip shaped like a tiny ellipse rather than a sphere, allowing better contact with groove walls for higher-frequency tracking and reduced distortion. Introduced in the mid-1960s as an upgrade to the spherical (conical) stylus, the elliptical profile features a narrower radius along the groove direction and a wider radius perpendicular to it, typically measuring 0.2 x 0.7 mils. This geometry enables the tip to sit deeper in the groove, making more precise contact with the modulated walls where high-frequency information is encoded. The result is improved treble response up to 20kHz, better stereo separation, and reduced inner-groove distortion compared to conical designs. Elliptical styli became the standard for mid-range cartridges from the 1970s onward, offering a significant sonic upgrade without the cost or setup complexity of advanced profiles like Shibata or MicroLine. While they track more accurately than spherical tips, ellipticals also wear records slightly faster and require more careful alignment. Modern turntable enthusiasts consider an elliptical stylus the minimum for serious listening, with replacement styli ranging from $50 to $300 depending on cartridge compatibility and diamond quality.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "elliptical tip",
+    "bi-radial stylus",
+    "elliptical diamond"
+  ],
+  "alt_spellings": [
+    "eliptical stylus"
+  ],
+  "etymology": "From Latin 'ellipticus' (oval-shaped) and 'stylus' (pointed instrument). Developed by audio engineers seeking to improve upon spherical stylus limitations in reproducing stereo recordings.",
+  "first_use": 1965,
   "see_also": [
     "conical-stylus",
+    "shibata-stylus",
     "micro-line",
-    "tracking-angle"
+    "tracking-force",
+    "stylus-rake-angle"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

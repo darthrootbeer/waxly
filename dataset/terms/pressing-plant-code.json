@@ -1,21 +1,40 @@
 {
   "slug": "pressing-plant-code",
   "term": "Pressing Plant Code",
+  "pos": "noun",
+  "pronunciation": "/ˈprɛsɪŋ plænt koʊd/",
   "summary": "'**noun / collector term.** An alphanumeric mark — etched, stamped, or printed.",
-  "definition": "**noun / collector term.** An alphanumeric mark — etched, stamped, or printed on label/run-out — identifying the factory that manufactured the record.",
+  "definition": "**noun / collector term.** An alphanumeric mark — etched, stamped, or printed on the label or run-out groove — identifying the factory that manufactured the record. These codes emerged in the 1950s as major labels contracted multiple pressing plants to meet demand, requiring internal tracking systems to monitor quality control and distribution. Common examples include Columbia's triangle stamps, Capitol's 'I' prefix codes, and RCA's alphabetic factory designators. Codes may appear as hand-etched letters in the deadwax, printed text on labels, or stamped symbols near the spindle hole. For collectors, plant codes are essential for identifying first pressings, determining sonic quality (certain plants like Specialty Records Corporation or Monarch had superior reputations), and authenticating valuable releases. Different plants used varying vinyl formulations and cutting equipment, resulting in audible differences between pressings of the same master. Modern reissue labels often include plant codes for quality assurance, with facilities like Optimal Media (Germany) and RTI (USA) commanding premium prices based on their manufacturing standards.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "plant code",
+    "factory code",
+    "manufacturer code",
+    "press code"
+  ],
+  "alt_spellings": [
+    "pressing-plant code",
+    "pressing plant identifier"
+  ],
+  "etymology": "Term developed from manufacturing quality control practices adopted by major record labels in the post-WWII era when production expanded beyond single-factory operations to multi-plant pressing networks requiring systematic identification.",
+  "first_use": 1952,
   "see_also": [
     "matrix-number",
     "label-variant",
-    "stamper-code"
+    "stamper-code",
+    "deadwax",
+    "run-out-groove"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "CA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

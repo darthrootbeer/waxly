@@ -1,22 +1,37 @@
 {
   "slug": "test-pressing-tp",
   "term": "Test Pressing",
+  "pos": "noun",
+  "pronunciation": "/tɛst ˈprɛsɪŋ/",
   "summary": "'**noun / manufacturing stage.** A **small batch of sample pressings** (often.",
-  "definition": "**noun / manufacturing stage.** A **small batch of sample pressings** (often 5–25 copies) made from first stampers to check for defects before mass production.",
+  "definition": "**noun / manufacturing stage.** A **small batch of sample pressings** (often 5–25 copies) made from first stampers to check for defects before mass production. Test pressings serve as quality control checkpoints where labels, artists, and engineers verify sound quality, proper track sequencing, and absence of pressing defects like non-fill, surface noise, or groove distortion. Typically pressed on plain black vinyl with minimal or handwritten labels marked \"TP\" or \"Test Pressing,\" these advance copies are distributed to key stakeholders days or weeks before the production run begins. If flaws are detected, the stampers can be remade from the lacquer master before thousands of defective copies are manufactured. In the collector market, test pressings command premium prices due to extreme scarcity and provenance—they represent the earliest physical form of a release and often include unique details like alternate mixes, different running orders, or uncorrected errors that were fixed before commercial release. Major label test pressings typically include date codes and matrix information for tracking purposes.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "TP",
+    "test press",
+    "advance pressing"
+  ],
+  "alt_spellings": [
+    "test-pressing",
+    "testpressing"
+  ],
+  "etymology": "Term emerged with the standardization of vinyl manufacturing processes in the late 1940s, when quality control protocols required sample pressings before committing to full production runs.",
+  "first_use": 1948,
   "see_also": [
     "white-label-promo",
     "reference-lacquer",
-    "single-sided-lp"
+    "acetate"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

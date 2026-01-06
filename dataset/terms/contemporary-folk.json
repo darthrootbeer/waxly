@@ -1,15 +1,30 @@
 {
   "slug": "contemporary-folk",
   "term": "Contemporary Folk",
+  "pos": "noun",
+  "pronunciation": "/kənˈtɛmpəˌrɛri foʊk/",
   "summary": "'**Contemporary Folk** - A musical style within the Folk genre, classified.",
-  "definition": "A specific musical style within the broader folk genre classification.",
+  "definition": "A musical style within the broader folk genre that emerged in the late 1950s and 1960s, blending traditional folk music elements with modern songwriting, production techniques, and socially conscious themes. Distinguished from traditional folk by its emphasis on original compositions rather than inherited material, contemporary folk became the soundtrack of political movements and cultural change, particularly during the American folk revival. Artists like Bob Dylan, Joan Baez, and Joni Mitchell transformed the genre from preservation-focused traditionalism into a vehicle for personal expression and social commentary. The style typically features acoustic instrumentation—guitar, banjo, harmonica—but incorporates electric elements and studio sophistication absent from earlier folk recordings. Vinyl pressings from the 1960s-70s golden era remain highly collectible, particularly early Dylan albums on Columbia and Vanguard label releases. The genre continues to evolve through contemporary artists who maintain its emphasis on lyrical storytelling and acoustic authenticity while incorporating indie and alternative influences.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Modern Folk",
+    "Folk Revival",
+    "Singer-Songwriter Folk"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Contemporary-Folk"
+  ],
+  "etymology": "Term emerged in the early 1960s to distinguish the new wave of original folk songwriters from traditional folk preservationists, gaining widespread use during the American folk music revival.",
+  "first_use": 1960,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "CA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

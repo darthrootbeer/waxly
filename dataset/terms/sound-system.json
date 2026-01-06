@@ -1,22 +1,36 @@
 {
   "slug": "sound-system",
   "term": "Sound-System Special",
+  "pos": "noun",
+  "pronunciation": "/saʊnd ˈsɪstəm ˈspɛʃəl/",
   "summary": "'**noun / reggae & dancehall slang.** A **custom-cut acetate or short-run.",
-  "definition": "**noun / [reggae](../r/reggae.md) & dancehall slang.** A **custom-cut acetate or short-run pressing** made exclusively for a particular sound-system crew, often featuring unique DJ toasts or shout-outs.",
+  "definition": "**noun / [reggae](../r/reggae.md) & dancehall slang.** A **custom-cut acetate or short-run pressing** made exclusively for a particular sound-system crew, often featuring unique DJ toasts or shout-outs. These specialized records emerged in 1960s Jamaica as sound systems competed for dominance at street dances, commissioning producers to cut one-off dubplates or limited pressings with exclusive versions, extended instrumental breaks, or personalized vocal drops naming the sound system. Unlike commercial releases, sound-system specials served as sonic weapons in clashes, giving crews temporary monopolies on popular rhythms before wider release. Many featured reinforced grooves for louder playback on massive speaker stacks. The practice spread to UK reggae scenes in the 1970s-80s, where systems like Jah Shaka and Saxon built reputations on exclusive plates. Today, original sound-system specials command premium prices among collectors, with authenticated examples from legendary crews like King Tubby's or Downbeat the Ruler fetching thousands. The tradition continues in modern dancehall and UK grime cultures, though digital dubplates have largely replaced physical acetates.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "sound system plate",
+    "system special",
+    "sound plate"
+  ],
+  "alt_spellings": [
+    "Soundsystem Special",
+    "Sound System Special"
+  ],
+  "etymology": "Coined in 1960s Kingston, Jamaica, combining 'sound system' (mobile DJ setups) with 'special' denoting exclusive status unavailable to rival crews or the public.",
+  "first_use": 1965,
   "see_also": [
     "dub-plate",
     "reinforced-groove",
     "version-mix"
   ],
   "regions": [
+    "JA",
+    "UK",
     "US"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

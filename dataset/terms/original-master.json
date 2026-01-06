@@ -1,21 +1,37 @@
 {
   "slug": "original-master",
   "term": "Original Master Recording",
-  "summary": "'**noun / audiophile marketing term.** A label designation — notably by Mobile.",
-  "definition": "**noun / audiophile marketing term.** A label designation — notably by Mobile Fidelity — indicating that the vinyl was mastered from the original master tape rather than a copy or safety dub.",
+  "pos": "noun",
+  "pronunciation": "/əˈrɪdʒənəl ˈmæstər rɪˈkɔrdɪŋ/",
+  "summary": "**noun / audiophile marketing term.** A label designation — notably by Mobile Fidelity — indicating that the vinyl was mastered from the original master tape rather than a copy or safety dub.",
+  "definition": "**noun / audiophile marketing term.** A label designation — notably by Mobile Fidelity Sound Lab (MFSL) — indicating that the vinyl was mastered from the original master tape rather than a copy or safety dub. The term emerged in the late 1970s as audiophile labels sought to differentiate their premium releases from standard pressings, which often used second- or third-generation tape copies. Mobile Fidelity pioneered the designation with their \"Original Master Recording\" series beginning in 1977, promising superior sound quality through direct access to the first-generation master tapes. The practice became a cornerstone of audiophile marketing, though controversy arose in 2022 when MFSL admitted to using digital intermediate steps in some releases labeled as analog throughout. Other labels adopted similar terminology — \"From the Original Master Tapes\" or \"Original Analogue Master\" — though without MFSL's trademark branding. For collectors, the designation typically commands premium prices and implies careful mastering by engineers like Stan Ricker or Krieg Wunderlich, though the actual sonic benefits depend heavily on the condition of the source tape and the entire mastering chain.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "OMR",
+    "original master",
+    "first generation master"
+  ],
+  "alt_spellings": [
+    "Original Master",
+    "Original-Master Recording"
+  ],
+  "etymology": "Coined by Mobile Fidelity Sound Lab as a marketing designation to emphasize use of first-generation master tapes rather than production copies, distinguishing their audiophile releases from standard commercial pressings.",
+  "first_use": 1977,
   "see_also": [
     "master-tape",
     "aaa-mastering",
     "half-speed-mastering"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

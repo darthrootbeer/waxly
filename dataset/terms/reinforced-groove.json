@@ -1,22 +1,37 @@
 {
   "slug": "reinforced-groove",
   "term": "Reinforced Groove",
+  "pos": "noun",
+  "pronunciation": "/ˌriːɪnˈfɔːrst ɡruːv/",
   "summary": "'**noun / mastering slang.** A groove **cut deeper and wider** to survive.",
-  "definition": "**noun / mastering slang.** A groove **cut deeper and wider** to survive heavy club or jukebox play — typical for disco 12-inches and some reggae/dub plates.",
+  "definition": "**noun / mastering slang.** A groove **cut deeper and wider** to survive heavy club or jukebox play — typical for disco 12-inches and some reggae/dub plates. The cutting engineer increases both groove depth and lateral width during lacquer mastering, creating a more robust physical impression that resists stylus wear from repeated plays in demanding environments. This technique became standard practice during the disco era (mid-1970s through early 1980s) when DJs would hammer the same records dozens of times nightly, and jukebox operators needed pressings that could withstand hundreds of plays without audible degradation. The tradeoff: reinforced grooves require more vinyl real estate, reducing maximum playing time per side — typically limiting 12-inch singles to 8-10 minutes. Reggae sound system culture adopted the practice for dubplates and pre-release specials, where exclusivity mattered more than runtime. Modern reissue labels occasionally specify reinforced cutting for dance music compilations, though improved vinyl compounds and stylus technology have reduced the necessity. Collectors prize original reinforced disco pressings for their durability and fuller bass response, as the wider groove accommodates greater amplitude without distortion.",
   "tags": [
     "equipment",
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "heavy groove",
+    "club cut",
+    "jukebox groove"
+  ],
+  "alt_spelings": [
+    "reinforced-groove",
+    "reinforced cut"
+  ],
+  "etymology": "Term emerged from 1970s mastering engineer slang, combining industrial 'reinforced' (strengthened) with vinyl 'groove' to describe durability-focused cutting techniques developed for commercial dance music applications.",
+  "first_use": 1975,
   "see_also": [
     "hot-cut",
     "plus-cut",
     "dj-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

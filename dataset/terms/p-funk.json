@@ -1,15 +1,31 @@
 {
   "slug": "p-funk",
   "term": "P-Funk",
+  "pos": "noun",
+  "pronunciation": "/ˈpiː fʌŋk/",
   "summary": "'**P-Funk** - A musical style within the Funk genre, classified according.",
-  "definition": "A specific musical style within the broader funk genre classification.",
+  "definition": "A psychedelic funk movement pioneered by George Clinton through his interconnected bands Parliament and Funkadelic during the 1970s. The P-Funk sound combined heavy synth bass, layered horn sections, extended improvisational jams, and sci-fi themed lyrics into a dense, groove-oriented wall of sound. Original pressings of landmark albums like Mothership Connection (1975) and One Nation Under a Groove (1978) command premium prices among collectors, particularly early Casablanca and Warner Bros. pressings with intact poster inserts. The music's bass-heavy production makes vinyl playback especially demanding on turntable systems, requiring proper cartridge tracking and speaker handling. P-Funk's influence extended beyond music into album art, stage shows, and fashion, creating a complete aesthetic universe. Modern reissues often fail to capture the warmth and depth of original pressings, making first pressings highly sought after despite their typical heavy wear from dance floor use.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Parliament-Funkadelic",
+    "Parliafunkadelicment Thang"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "P-Funk",
+    "P Funk",
+    "PFunk"
+  ],
+  "etymology": "Coined by George Clinton in the early 1970s, combining 'Parliament' and 'Funkadelic' with 'pure funk' to describe his collective's psychedelic-influenced funk sound.",
+  "first_use": 1973,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

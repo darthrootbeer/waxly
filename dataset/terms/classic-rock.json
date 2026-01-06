@@ -1,15 +1,32 @@
 {
   "slug": "classic-rock",
   "term": "Classic Rock",
+  "pos": "noun",
+  "pronunciation": "/ˈklæsɪk rɒk/",
   "summary": "'**Classic Rock** - A musical style within the Rock genre, classified according.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A radio format and retrospective genre designation for rock music primarily from the mid-1960s through the early 1980s, encompassing artists like Led Zeppelin, The Who, Pink Floyd, and Fleetwood Mac. Originally coined by radio programmers in the 1980s to distinguish album-oriented rock from contemporary hits, the term became a cultural touchstone for guitar-driven, blues-influenced rock that emphasized musicianship and album artistry. Classic rock vinyl remains highly collectible, with original pressings of landmark albums commanding premium prices. The format's golden era coincided with peak vinyl production quality, making first pressings particularly sought after by audiophiles. Modern reissues often target this demographic, with labels like Mobile Fidelity and Analogue Productions specializing in audiophile-grade remasters of classic rock catalogs.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "album rock",
+    "AOR",
+    "album-oriented rock"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "classic-rock",
+    "Classic rock"
+  ],
+  "etymology": "Term emerged in mid-1980s American radio programming to describe rock music from previous decades that maintained enduring popularity, distinguishing it from contemporary rock formats.",
+  "first_use": 1983,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

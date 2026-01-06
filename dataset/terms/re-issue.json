@@ -1,20 +1,37 @@
 {
   "slug": "re-issue",
   "term": "Re-Issue Pressing",
+  "pos": "noun",
+  "pronunciation": "/ˌriːˈɪʃuː ˈprɛsɪŋ/",
   "summary": "'**noun / market term.** A **later-edition pressing** of an album after the.",
-  "definition": "**noun / market term.** A **later-edition pressing** of an album after the original release period — may use new stampers, new mastering, or new packaging.",
+  "definition": "**noun / market term.** A **later-edition pressing** of an album after the original release period — may use new stampers, new mastering, or new packaging. Distinct from a repress (which continues the original production run), a re-issue typically occurs years or decades after initial release, often by a different label or rights holder. Re-issues may feature remastered audio from original tapes, improved vinyl formulations (180g, audiophile pressings), or expanded artwork and liner notes. The practice became widespread in the 1980s as classic albums from the 1960s-70s gained collector interest, accelerating dramatically in the 2010s vinyl resurgence. Quality varies enormously: some re-issues use original metal work and lacquers for authentic sound, while budget editions may source from digital files or degraded tapes. Collectors distinguish between authorized re-issues (licensed from rights holders) and bootlegs, with labels like Music on Vinyl, Analogue Productions, and Mobile Fidelity commanding premium prices for superior mastering and pressing quality.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "reissue",
+    "re-release",
+    "rerelease"
+  ],
+  "alt_spellings": [
+    "re-issue",
+    "reissue"
+  ],
+  "etymology": "From \"re-\" (again) + \"issue\" (publication/distribution), adopted from book publishing terminology in the mid-20th century as record labels began recycling catalog titles.",
+  "first_use": 1955,
   "see_also": [
     "repress",
     "remaster",
-    "label-variant"
+    "label-variant",
+    "original-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

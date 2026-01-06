@@ -1,22 +1,37 @@
 {
   "slug": "blank",
   "term": "Blank Label",
+  "pos": "noun",
+  "pronunciation": "/blæŋk ˈleɪbəl/",
   "summary": "A vinyl record with a plain label (often white) and no printed artwork, used.",
-  "definition": "A vinyl record with a plain label (often white) and no printed artwork, used for promos, DJ test cuts, or underground bootlegs.",
+  "definition": "A vinyl record featuring a plain, unprinted label—typically white, though occasionally cream or colored—without commercial artwork, catalog numbers, or branding. Blank labels serve multiple purposes across the music industry: promotional copies sent to radio stations and reviewers before official release, DJ test pressings for club evaluation, acetate alternatives for quick turnaround studio references, and unauthorized bootlegs seeking to avoid copyright identification. The white label became synonymous with exclusivity in dance music culture during the 1970s and 1980s, when DJs received pre-release tracks on blanks to test crowd response. These records often contained handwritten or stamped information on the label or sleeve. Underground hip-hop and electronic producers embraced blank labels for limited runs and private pressings. Today, blank labels retain cachet among collectors, particularly when they represent rare pre-release versions with alternate mixes or unreleased material. Modern reissue labels occasionally reproduce blank label aesthetics to evoke authenticity or replicate original promo formats.",
   "tags": [
     "dj-related",
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "white label",
+    "plain label",
+    "unprinted label"
+  ],
+  "alt_spellings": [
+    "blank-label"
+  ],
+  "etymology": "Derived from the literal absence of printed information on the record label, with 'white label' becoming the predominant term in UK dance music circles by the late 1970s.",
+  "first_use": 1960,
   "see_also": [
     "promo-copy",
     "test-press",
-    "dubplate"
+    "dubplate",
+    "acetate"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

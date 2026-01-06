@@ -1,21 +1,39 @@
 {
   "slug": "dubplate",
   "term": "Dubplate",
+  "pos": "noun",
+  "pronunciation": "/ˈdʌbpleɪt/",
   "summary": "'**noun / slang.** A one-off acetate or lacquer disc cut directly from a.",
-  "definition": "**noun / slang.** A one-off acetate or lacquer disc cut directly from a master tape or file—used by sound-system DJs to test exclusive mixes before mass pressing.",
+  "definition": "**noun / slang.** A one-off acetate or lacquer disc cut directly from a master tape or file—used by sound-system DJs to test exclusive mixes before mass pressing. Originating in 1960s Jamaica, dubplates became essential tools for sound-system culture, allowing DJs to play unique versions, test riddims, and maintain competitive advantage through exclusivity. Unlike standard acetates, dubplates often featured custom vocals or artist shout-outs recorded specifically for individual sound systems. The soft lacquer coating limits playback to 10-50 spins before degradation, making each performance precious. In reggae and dancehall culture, owning fresh dubplates from top producers signified prestige and connection. The practice spread to UK jungle, drum and bass, and grime scenes in the 1990s-2000s, where MCs would voice exclusive plates for radio sets and clashes. Modern dubplates are often cut from digital files rather than tape, and the term now loosely applies to any exclusive pre-release track, though purists reserve it for actual lacquer cuts. Collectors prize vintage dubplates for their historical significance and sonic artifacts of sound-system battles.",
   "tags": [
     "dj-related",
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "dub",
+    "plate",
+    "acetate dub",
+    "dubcut"
+  ],
+  "alt_spellings": [
+    "dub plate",
+    "dub-plate"
+  ],
+  "etymology": "Coined in 1960s Jamaica, combining 'dub' (referring to instrumental B-side versions) with 'plate' (industry slang for disc). The term distinguished these custom cuts from standard test pressings or reference acetates.",
+  "first_use": 1967,
   "see_also": [
     "acetate",
-    "white-label"
+    "white-label",
+    "test-pressing",
+    "sound-system"
   ],
   "regions": [
-    "US"
+    "JM",
+    "UK",
+    "US",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

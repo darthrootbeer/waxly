@@ -1,20 +1,34 @@
 {
   "slug": "reflex-clamp-weight",
   "term": "Reflex Clamp",
-  "summary": "'**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action.",
-  "definition": "**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action “reflex” lever that locks the record tight to the platter and flattens dish-warps.",
+  "pos": "noun",
+  "pronunciation": "/ˈriːflɛks klæmp/",
+  "summary": "**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action.",
+  "definition": "**noun / hi-fi accessory.** A **center-spindle clamp** with a cam-action \"reflex\" lever that locks the record tight to the platter and flattens dish-warps. Introduced in the 1980s as audiophile turntable manufacturers sought solutions for improved record-to-platter coupling, the reflex clamp uses a spring-loaded cam mechanism that distributes downward pressure evenly across the label area when the lever is engaged. Unlike simple screw-down clamps or static weights, the cam action provides consistent clamping force (typically 3-8 pounds) without requiring precise threading or risking over-tightening. The design excels at flattening minor warps and improving bass response by eliminating air gaps between vinyl and platter mat. High-end models from Michell Engineering, Clearaudio, and J.A. Michell feature machined aluminum or brass construction with dampening properties that reduce resonance transmission. The quick-release lever makes cueing faster than thread-type clamps, though purists debate whether the mechanical complexity introduces micro-vibrations. Essential for warped vintage pressings and maximizing sound quality on high-mass platters, reflex clamps remain popular among audiophiles prioritizing convenience without sacrificing performance, though they require sufficient spindle height clearance and cannot be used with automatic tonearm return mechanisms.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cam clamp",
+    "lever clamp",
+    "quick-release clamp"
+  ],
+  "alt_spellings": [
+    "reflex-clamp"
+  ],
+  "etymology": "Named for the \"reflex\" cam mechanism that springs back when released, term emerged in British hi-fi marketing during the 1980s audiophile boom.",
+  "first_use": 1982,
   "see_also": [
     "record-clamp",
     "outer-ring-clamp",
-    "quick-release-clamp"
+    "record-weight"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

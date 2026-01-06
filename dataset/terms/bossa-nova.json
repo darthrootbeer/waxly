@@ -1,15 +1,31 @@
 {
   "slug": "bossa-nova",
   "term": "Bossa Nova",
+  "pos": "noun",
+  "pronunciation": "/ˈbɒsə ˈnoʊvə/",
   "summary": "'**Bossa Nova** - A musical style within the Latin genre, classified according.",
-  "definition": "A specific musical style within the broader latin genre classification.",
+  "definition": "A Brazilian musical style that emerged in the late 1950s, blending samba rhythms with jazz harmonies and cool, understated vocals. Pioneered by João Gilberto, Antonio Carlos Jobim, and Vinicius de Moraes in Rio de Janeiro, bossa nova revolutionized Brazilian music and gained international prominence through albums like 'Getz/Gilberto' (1964). The genre is characterized by its syncopated guitar patterns, soft percussion, and sophisticated chord progressions. Vinyl pressings of classic bossa nova albums from labels like Verve, Elenco, and Odeon are highly sought by collectors, particularly Brazilian first pressings from the golden era of 1958-1966. The style's intimate, laid-back aesthetic made it ideal for high-fidelity stereo recordings, and original pressings are prized for their warm, detailed sound quality that captures the genre's subtle nuances.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "new wave",
+    "new trend"
   ],
-  "pos": "noun"
+  "alt_spelings": [
+    "bossa-nova",
+    "bossanova"
+  ],
+  "etymology": "From Portuguese 'bossa nova' meaning 'new trend' or 'new wave,' coined in late 1950s Rio de Janeiro to describe the innovative fusion of samba and jazz.",
+  "first_use": 1958,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "BR",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

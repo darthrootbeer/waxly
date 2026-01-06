@@ -1,20 +1,35 @@
 {
   "slug": "net-weight",
   "term": "Net-Weight",
-  "summary": "'**noun / manufacturing term.** The measured weight in grams of the raw vinyl.",
-  "definition": "**noun / manufacturing term.** The measured weight in grams of the raw vinyl “biscuit” pellet pressed into each record — determines final disc thickness (e.g., 140 g, 180 g, 200 g).",
+  "pos": "noun",
+  "pronunciation": "/ˈnet weɪt/",
+  "summary": "**noun / manufacturing term.** The measured weight in grams of the raw vinyl.",
+  "definition": "**noun / manufacturing term.** The measured weight in grams of the raw vinyl \"biscuit\" pellet pressed into each record — determines final disc thickness (e.g., 140 g, 180 g, 200 g). Standard 12-inch LPs typically range from 120-140 g, while \"heavyweight\" or \"audiophile\" pressings clock in at 180-220 g. The net-weight directly influences groove depth, surface stability, and resistance to warping, though heavier doesn't automatically mean better sound quality — pressing precision and compound formulation matter equally. During the 1970s oil crisis, labels reduced net-weights to as low as 80-100 g to cut costs, resulting in notoriously flimsy, warp-prone discs. The 180 g standard emerged in the 1990s audiophile reissue market as a quality signifier, championed by labels like Classic Records and Music Matters. Modern pressing plants measure net-weight precisely before stamping, adjusting for label thickness and compound shrinkage. Collectors often cite net-weight in listings, though it remains just one factor in overall pressing quality alongside vinyl purity, stamper condition, and press calibration.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "biscuit weight",
+    "pellet weight",
+    "vinyl weight"
+  ],
+  "alt_spellings": [
+    "net weight",
+    "netweight"
+  ],
+  "etymology": "Adopted from manufacturing terminology in the 1950s-60s as vinyl replaced shellac; \"net\" distinguishes the raw material weight from the finished product's gross weight including labels and packaging.",
+  "first_use": 1958,
   "see_also": [
     "heavyweight-vinyl",
     "biscuit-puck",
     "pressing-plant"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

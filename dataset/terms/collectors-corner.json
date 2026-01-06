@@ -1,20 +1,37 @@
 {
   "slug": "collectors-corner",
   "term": "Collectors' Corner",
-  "summary": "'**noun / slang.** A section of a shop reserved for high-priced or rare vinyl.",
-  "definition": "**noun / slang.** A section of a shop reserved for high-priced or rare vinyl — often behind the counter or in a glass case.",
+  "pos": "noun",
+  "pronunciation": "/kəˈlɛktərz ˈkɔrnər/",
+  "summary": "**noun / slang.** A section of a shop reserved for high-priced or rare vinyl.",
+  "definition": "**noun / slang.** A section of a shop reserved for high-priced or rare vinyl — often behind the counter or in a glass case. The Collectors' Corner emerged in the 1980s as record stores began segregating premium inventory from general stock, protecting valuable pressings from casual browsing damage while creating an aspirational display space. These sections typically house first pressings, sealed original releases, audiophile editions, and rare imports that command prices from $50 to several thousand dollars. The physical separation serves multiple purposes: theft prevention, condition preservation, and psychological elevation of certain records to grail status. Store owners curate these spaces to showcase their most impressive acquisitions, often requiring customers to ask for assistance to handle the records. The practice intensified during the vinyl revival of the 2010s as speculation and collector demand drove prices upward. Modern Collectors' Corners may include climate-controlled cases, individual sleeves for each record, and detailed condition notes. The term carries slight irony among diggers who prefer crate-diving to curated collections, though most collectors eventually find themselves studying the glass case.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "vault",
+    "premium section",
+    "showcase",
+    "glass case"
+  ],
+  "alt_spellings": [
+    "Collector's Corner",
+    "Collectors Corner"
+  ],
+  "etymology": "Derived from retail merchandising practice of creating premium display areas; popularized by independent record stores in the 1980s during the initial collectibles boom.",
+  "first_use": 1982,
   "see_also": [
-    "wall-copy",
     "grail",
-    "nm-grade"
+    "nm-grade",
+    "wall-copy",
+    "digger"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

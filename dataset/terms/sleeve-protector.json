@@ -1,15 +1,39 @@
 {
   "slug": "sleeve-protector",
   "term": "Sleeve Protector",
+  "pos": "noun",
+  "pronunciation": "/sliːv prəˈtɛktər/",
   "summary": "Sleeve Protector / Outer Poly Sleeve.",
-  "definition": "# Sleeve Protector",
+  "definition": "# Sleeve Protector\n\nA transparent polyethylene or polypropylene outer sleeve designed to protect album covers from wear, ring wear, corner damage, and environmental degradation. Typically measuring slightly larger than standard LP dimensions (12.75\" × 12.75\" for LPs), sleeve protectors became essential collector accessories in the 1970s as the secondary vinyl market matured and condition-sensitive grading standards emerged. Available in various thicknesses (2-5 mil), with resealable flaps, and in formats ranging from 7\" singles to 12\" gatefolds. Premium versions feature archival-quality materials, anti-static properties, and crystal-clear clarity. Modern collectors consider sleeve protectors mandatory for maintaining mint condition, particularly for valuable first pressings and limited editions. The practice of \"sleeving\" records has become standard protocol in the discogs era, where visual grading directly impacts resale value and a single corner ding can drop a record from NM to VG+.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "Outer Sleeve",
+    "Poly Sleeve",
+    "Outer Poly Sleeve",
+    "Record Sleeve Protector",
+    "LP Sleeve",
+    "Album Protector"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Sleeve Protector",
+    "Sleeve-Protector"
+  ],
+  "etymology": "Emerged in the 1970s as vinyl collecting became serious hobby culture and protective archival materials from the library and museum sectors were adapted for consumer record storage.",
+  "first_use": 1972,
+  "see_also": [
+    "inner-sleeve",
+    "ring-wear",
+    "grading"
+  ],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

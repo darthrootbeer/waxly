@@ -1,15 +1,29 @@
 {
   "slug": "universal-groove-standard",
   "term": "Universal Groove",
-  "summary": "“The audiophile unipivot tone-arm tracks beautifully once you get used to.",
-  "definition": "“The audiophile unipivot tone-arm tracks beautifully once you get used to its loose feel.”",
+  "pos": "noun",
+  "pronunciation": "/ˌjuːnɪˈvɜːrsəl ɡruːv/",
+  "summary": "The audiophile unipivot tone-arm tracks beautifully once you get used to.",
+  "definition": "A standardized groove specification established in the late 1950s that unified cutting and playback parameters across the record industry, replacing the chaotic early stereo era when different labels used incompatible groove geometries. The Universal Groove standard defined precise vertical and lateral modulation angles, groove width (typically 0.001 inches), and stylus contact area requirements, ensuring that any stereo cartridge could theoretically play any stereo record without phase errors or channel imbalance. Developed through collaboration between the RIAA, major labels, and cutting lathe manufacturers like Neumann and Scully, it resolved compatibility nightmares that plagued early stereo releases from 1958-1960. Modern mastering engineers still reference Universal Groove parameters when cutting vinyl, though contemporary stylus profiles like Shibata and microline have evolved beyond the original conical and elliptical shapes the standard anticipated.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "Standard Stereo Groove",
+    "RIAA Groove Standard"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Universal-Groove"
+  ],
+  "etymology": "Coined during the 1959 RIAA Technical Committee meetings to describe the newly unified groove geometry that would be 'universal' across all manufacturers, ending the format wars of early stereo.",
+  "first_use": 1959,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

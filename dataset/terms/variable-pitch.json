@@ -1,21 +1,37 @@
 {
   "slug": "variable-pitch",
   "term": "Variable-Pitch Groove Cutting",
+  "pos": "noun",
+  "pronunciation": "/ˈvɛəriəbəl pɪtʃ ɡruːv ˈkʌtɪŋ/",
   "summary": "noun / mastering technique. A lathe system that automatically adjusts the.",
-  "definition": "**noun / mastering technique.** A **lathe system that automatically adjusts the spacing (‘pitch’) of grooves depending on the upcoming signal’s loudness** — conserves disc space while avoiding [groove](../g/groove-wear.md) collisions.",
+  "definition": "**noun / mastering technique.** A **lathe system that automatically adjusts the spacing ('pitch') of grooves depending on the upcoming signal's loudness** — conserves disc space while avoiding groove collisions. Introduced by Neumann in 1948 with their VMS (Variable Pitch System), this technology revolutionized vinyl mastering by allowing engineers to maximize playing time without sacrificing audio quality. The system uses a preview head that reads the audio signal milliseconds before cutting, calculating optimal groove spacing based on amplitude. Quiet passages receive tighter spacing (more grooves per inch), while loud sections get wider spacing to prevent adjacent grooves from overlapping. This innovation enabled LP records to hold 20-30 minutes per side instead of the 12-15 minutes possible with fixed-pitch cutting. Modern cutting lathes from Neumann, Scully, and others universally employ variable-pitch systems, often computer-controlled for precision. The technology remains essential for maximizing album length on vinyl reissues while maintaining dynamic range and preventing the dreaded pre-echo effect.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "VMS",
+    "Variable Pitch System",
+    "automatic pitch control",
+    "variable groove spacing"
+  ],
+  "alt_spellings": [
+    "Variable Pitch Groove Cutting",
+    "Variable-Pitch Cutting"
+  ],
+  "etymology": "Developed by Neumann engineer Georg Neumann in post-war Germany as a solution to the groove spacing limitations that plagued early LP manufacturing, combining mechanical preview heads with electromechanical feedback systems.",
+  "first_use": 1948,
   "see_also": [
     "fixed-pitch-cut",
     "groove-spacing-computer",
     "hot-cut-lacquer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

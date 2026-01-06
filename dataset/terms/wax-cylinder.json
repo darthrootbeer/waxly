@@ -1,21 +1,34 @@
 {
   "slug": "wax-cylinder",
   "term": "Wax Cylinder",
+  "pos": "noun",
+  "pronunciation": "/wæks ˈsɪlɪndər/",
   "summary": "'**noun / historical format.** A **cylindrical wax-based recording medium**.",
-  "definition": "**noun / historical format.** A **cylindrical wax-based recording medium** used in phonographs before flat discs — dominant in the 1890s–1900s.",
+  "definition": "**noun / historical format.** A **cylindrical wax-based recording medium** used in phonographs before flat discs — dominant in the 1890s–1900s. Introduced commercially by Thomas Edison in 1888, these hollow cylinders (typically 2-4 inches long) featured spiral grooves cut vertically into soft wax surfaces, with playback achieved by a stylus tracking the hill-and-dale modulation. Early brown wax cylinders (1890s) offered roughly 2 minutes of audio and wore quickly, while later molded black wax and celluloid versions (post-1902) proved more durable. Edison's format competed fiercely with Berliner's flat disc through the 1900s, ultimately losing by 1929 when Edison discontinued production. Collectors prize early spoken-word recordings, rare musical performances, and pristine examples in original packaging. Playback requires specialized cylinder phonographs with mandrels matching the cylinder's diameter — equipment increasingly scarce outside museum collections. Values range from $5 for common titles to thousands for rare artists or mint condition specimens.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "phonograph cylinder",
+    "Edison cylinder",
+    "cylinder record"
+  ],
+  "alt_spellings": [
+    "wax-cylinder"
+  ],
+  "etymology": "Named for its cylindrical shape and wax composition, derived from Edison's 1877 tinfoil phonograph experiments that evolved into commercial wax-based recording by 1888.",
+  "first_use": 1888,
   "see_also": [
     "cylinder-phonograph",
     "brown-wax-cylinder",
     "hill-and-dale-cut"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,31 @@
 {
   "slug": "rhythm-blues",
   "term": "Rhythm & Blues",
+  "pos": "noun",
+  "pronunciation": "/ˈrɪðəm ænd bluːz/",
   "summary": "'**Rhythm & Blues** - A musical style within the Blues genre, classified.",
-  "definition": "A specific musical style within the broader blues genre classification.",
+  "definition": "A genre classification denoting African American popular music that emerged in the late 1940s, blending jazz, gospel, and blues influences with a strong backbeat and electric instrumentation. The term was coined by Billboard journalist Jerry Wexler in 1949 to replace the problematic \"race records\" category, marking a crucial shift in how Black music was marketed and perceived. R&B evolved through distinct eras: the jump blues and vocal group harmony of the late 1940s-early 1950s, the electric Chicago sound of the mid-1950s, and the soul-influenced styles of the 1960s that bridged into funk and disco. Original R&B pressings from labels like Atlantic, Chess, King, and Specialty command significant collector interest, particularly rare 78s and early 45s from artists like Ruth Brown, Big Joe Turner, and The Clovers. The genre's influence on rock and roll was profound, with many early rock hits being direct covers of R&B recordings. Modern reissues and compilations continue to document this foundational era of American music.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "R&B",
+    "R and B",
+    "rhythm and blues"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Rhythm and Blues",
+    "Rhythm 'n' Blues"
+  ],
+  "etymology": "Coined by Billboard writer Jerry Wexler in 1949 as a more respectful replacement for the term \"race records,\" which had been used to categorize African American music since the 1920s.",
+  "first_use": 1949,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

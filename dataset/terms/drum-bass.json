@@ -1,15 +1,33 @@
 {
   "slug": "drum-bass",
   "term": "Drum & Bass",
+  "pos": "noun",
+  "pronunciation": "/drʌm ənd beɪs/",
   "summary": "'**Drum & Bass** - A musical style within the Electronic genre, classified.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A high-tempo electronic music genre characterized by fast breakbeats (typically 160-180 BPM), heavy bass lines, and complex drum patterns. Emerged from the UK rave scene in the early 1990s, evolving from jungle and hardcore techno through increased production sophistication and the stripping away of reggae samples. The genre's defining feature is the relationship between chopped, syncopated breakbeats—often sourced from funk and soul records like the Amen break—and deep sub-bass frequencies that showcase a sound system's low-end capabilities. Spawned numerous subgenres including liquid funk, neurofunk, and jump-up, each with distinct sonic characteristics. While primarily a digital production genre, drum & bass records became essential for DJ culture, with specialist labels like Metalheadz, Hospital Records, and Ram Records pressing sought-after vinyl for club play. The genre's technical demands and bass-heavy production make it a format where vinyl's warmth can tame digital harshness, though pressings require careful mastering to prevent groove distortion at extreme frequencies.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "D&B",
+    "DnB",
+    "jungle"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Drum and Bass",
+    "Drum 'n' Bass",
+    "Drum n Bass"
+  ],
+  "etymology": "Named for its two primary sonic elements: the breakbeat drum patterns and prominent basslines. Term emerged around 1993-1994 as the UK scene evolved from 'jungle,' which carried racial connotations some producers wished to distance from.",
+  "first_use": 1994,
+  "see_also": [],
+  "regions": [
+    "UK",
+    "EU",
+    "US",
+    "AU",
+    "NZ"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

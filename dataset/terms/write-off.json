@@ -1,15 +1,31 @@
 {
   "slug": "write-off",
   "term": "Write-Off Bin",
-  "summary": "'**noun / retail slang.** A **bargain bin of remaindered LPs marked by cut-corner,.",
-  "definition": "**noun / retail slang.** A **bargain bin of remaindered LPs marked by cut-corner, saw-cut, or punch-hole sleeves**, heavily discounted by stores.",
+  "pos": "noun",
+  "pronunciation": "/ˈraɪt ɔf bɪn/",
+  "summary": "**noun / retail slang.** A **bargain bin of remaindered LPs marked by cut-corner, saw-cut, or punch-hole sleeves**, heavily discounted by stores.",
+  "definition": "**noun / retail slang.** A **bargain bin of remaindered LPs marked by cut-corner, saw-cut, or punch-hole sleeves**, heavily discounted by stores. These physical markings—typically a clipped corner, notched edge, or drilled hole through the cover—permanently identified records as promotional copies, overstock, or returns that could not be sold at full price. Retailers used write-off bins to clear inventory while preventing the marked copies from being returned to distributors for credit. The practice peaked during the 1970s and early 1980s when major labels overproduced albums and needed quick liquidation channels. Cut-outs became a hunting ground for budget-conscious collectors, offering mainstream and obscure titles at 50-90% discounts. While the jacket damage reduced collectibility, the vinyl itself was often unplayed and pristine. Modern collectors approach cut-outs with mixed feelings: common titles hold minimal value, but rare pressings or cult albums found in write-off bins can still command premium prices despite the defacement. The term has largely faded as physical retail declined, though \"cut-out bin\" remains the more common synonym.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "cut-out bin",
+    "remainder bin",
+    "bargain bin",
+    "deletion bin"
   ],
-  "pos": "verb"
+  "alt_spelings": [
+    "write off bin",
+    "writeoff bin"
+  ],
+  "etymology": "Derived from accounting terminology where unsold inventory is \"written off\" as a business loss. The practice of physically marking promotional and remaindered records emerged in the 1960s as labels sought to prevent secondary market resale at full retail prices.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "CA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

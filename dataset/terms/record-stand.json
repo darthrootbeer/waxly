@@ -1,15 +1,32 @@
 {
   "slug": "record-stand",
   "term": "Record Stand",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛkərd stænd/",
   "summary": "**noun / furniture accessory.**.",
-  "definition": "**noun / furniture accessory.**",
+  "definition": "A dedicated furniture piece designed to display, store, or provide convenient access to vinyl records and playback equipment. Record stands emerged in the 1950s alongside the LP boom, evolving from simple wire racks to sophisticated mid-century modern designs by manufacturers like Conant Ball and Paul McCobb. Early stands typically featured slatted compartments for vertical record storage with upper shelves for turntables and receivers, becoming living room centerpieces during the hi-fi era. Modern record stands range from minimalist IKEA Kallax units repurposed by collectors to custom-built hardwood pieces by boutique furniture makers, accommodating anywhere from 50 to 500+ records. Quality stands balance accessibility with protection, keeping records upright without overcrowding while supporting equipment weight. The vinyl resurgence since 2010 sparked a renaissance in stand design, with companies like Wax Rax and Symbol Audio producing aesthetically refined options that double as display furniture, reflecting vinyl's status as both audio format and lifestyle statement.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "record rack",
+    "vinyl stand",
+    "LP stand",
+    "record holder",
+    "album stand"
   ],
-  "pos": "verb"
+  "alt_spellings": [
+    "record-stand"
+  ],
+  "etymology": "Compound term combining 'record' (phonograph disc) and 'stand' (supporting furniture), coined in the 1950s as purpose-built furniture for LP storage emerged alongside home hi-fi systems.",
+  "first_use": 1952,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

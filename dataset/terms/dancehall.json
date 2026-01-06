@@ -1,15 +1,30 @@
 {
   "slug": "dancehall",
   "term": "Dancehall",
+  "pos": "noun",
+  "pronunciation": "/ˈdæns.hɔːl/",
   "summary": "'**Dancehall** - A musical style within the Reggae genre, classified according.",
-  "definition": "A specific musical style within the broader reggae genre classification.",
+  "definition": "A high-energy subgenre of reggae that emerged in Jamaica during the late 1970s, characterized by stripped-down rhythms, digital production, and DJ-led vocal delivery over sparse instrumental tracks. Named after the venues where sound systems played, dancehall marked a decisive shift from roots reggae's live instrumentation to synthesized beats and drum machines, particularly after the introduction of the Casio CZ-101 and Yamaha DX100 in the mid-1980s. The genre's vinyl releases became essential weapons in sound clash culture, with exclusive dubplates and pre-release pressings commanding significant respect and collector value. Pioneered by producers like King Jammy and artists such as Yellowman, Shabba Ranks, and Buju Banton, dancehall's riddim-based production style—where multiple artists voice different tracks over the same instrumental—created a unique vinyl ecosystem of 7-inch and 12-inch singles. The genre's influence extends beyond reggae into hip-hop, electronic music, and contemporary pop, with original Jamaican pressings from the 1980s golden era highly sought by collectors and DJs.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "ragga",
+    "bashment"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "dance hall",
+    "dance-hall"
+  ],
+  "etymology": "Derived from the Jamaican venues where sound systems performed, evolving from a place descriptor to a genre name as the music diverged from roots reggae in the late 1970s.",
+  "first_use": 1979,
+  "see_also": [],
+  "regions": [
+    "JM",
+    "UK",
+    "US",
+    "CA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

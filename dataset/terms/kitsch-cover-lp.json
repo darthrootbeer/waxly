@@ -1,21 +1,33 @@
 {
   "slug": "kitsch-cover-lp",
   "term": "Kitsch",
+  "pos": "noun",
+  "pronunciation": "/kɪtʃ/",
   "summary": "'**noun / slang.** Collector slang for records prized (or mocked) for their.",
-  "definition": "**noun / slang.** Collector slang for records prized (or mocked) for their campy, over-the-top or unintentionally funny cover art — often thrift-store easy-listening and budget-label titles.",
+  "definition": "**noun / slang.** Collector slang for records prized (or mocked) for their campy, over-the-top or unintentionally funny cover art — often thrift-store easy-listening and budget-label titles. The term encompasses LPs featuring awkward family photos, bizarre religious themes, questionable fashion choices, or absurdly literal interpretations of album concepts. Classic examples include celebrity vanity projects, organ demonstration records, and instructional LPs with dated social attitudes. The kitsch aesthetic gained collector traction in the 1990s through blogs and coffee-table books celebrating \"worst album covers,\" transforming bargain-bin rejects into ironic treasures. While some collectors genuinely appreciate the naive charm and period documentation, others pursue kitsch purely for novelty value or party entertainment. Budget labels like Pickwick, Crown, and K-Tel dominate the category, though major-label missteps occasionally qualify. The phenomenon reflects broader vinyl culture's embrace of outsider art and cultural ephemera, where perceived lack of taste becomes its own form of authenticity. Modern reissue labels occasionally resurrect legitimate kitsch rarities, though most remain affordable thrift-store staples.",
   "tags": [
     "collecting",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cheese cover",
+    "camp LP",
+    "thrift gold"
+  ],
+  "alt_spellings": [],
+  "etymology": "Borrowed from German art criticism term \"kitsch\" (gaudy, trashy art), applied to vinyl collecting culture in the 1980s-90s as thrift-store digging became popular.",
+  "first_use": 1985,
   "see_also": [
     "thrift-bin-find",
     "lounge-core",
     "exploitation-lp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,35 @@
 {
   "slug": "sizzle-cymbal",
   "term": "Sizzle-Cymbal Test",
-  "summary": "'**noun / listening-test slang.** An **informal test using bright cymbal.",
-  "definition": "**noun / listening-test slang.** An **informal test using bright cymbal passages** on a record to check cartridge alignment, HF tracking ability, or inner-groove distortion.",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪzəl ˈsɪmbəl tɛst/",
+  "summary": "**noun / listening-test slang.** An **informal test using bright cymbal passages** on a record to check cartridge alignment, HF tracking ability, or inner-groove distortion.",
+  "definition": "**noun / listening-test slang.** An **informal test using bright cymbal passages** on a record to check cartridge alignment, HF tracking ability, or inner-groove distortion. The test exploits the fact that cymbals produce complex high-frequency harmonics that expose setup flaws—misaligned styli cause sibilant distortion or breakup, while excessive tracking force or poor anti-skate settings produce audible harshness. Jazz recordings from the 1950s-60s, particularly those featuring ride cymbals mixed prominently (Rudy Van Gelder sessions, Blue Note pressings), became de facto reference discs for audiophiles. The technique gained popularity in the 1970s as cartridge technology advanced and enthusiasts sought quick diagnostic methods without specialized test records. Inner grooves amplify the challenge, as reduced linear velocity increases distortion susceptibility. Experienced listeners can distinguish between cartridge mistracking (fuzzy, spitty sound) and pressing defects (consistent clicks or surface noise). While not scientifically rigorous, the sizzle-cymbal test remains a trusted first-pass diagnostic in record shops and home setups, often preceding formal alignment procedures with protractors or test LPs.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cymbal test",
+    "high-frequency tracking test",
+    "HF distortion test"
+  ],
+  "alt_spellings": [
+    "sizzle cymbal test",
+    "sizzle-cymbal-test"
+  ],
+  "etymology": "Coined by audiophile communities in the 1970s, combining 'sizzle' (onomatopoeia for cymbal shimmer) with the diagnostic practice of using challenging high-frequency content to evaluate playback quality.",
+  "first_use": 1972,
   "see_also": [
     "tracking-ability-test",
     "anti-skate-adjustment",
     "inner-groove-distortion"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

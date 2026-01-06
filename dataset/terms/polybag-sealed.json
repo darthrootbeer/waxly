@@ -1,20 +1,35 @@
 {
   "slug": "polybag-sealed",
   "term": "Polybag",
+  "pos": "noun",
+  "pronunciation": "/ˈpɒliˌbæɡ/",
   "summary": "'**noun / retail / collector term.** A new LP originally packaged in a loose.",
-  "definition": "**noun / retail / collector term.** A new LP originally packaged in a loose outer polybag rather than shrink-wrap — typical of many Japanese and some audiophile labels.",
+  "definition": "**noun / retail / collector term.** A new LP originally packaged in a loose outer polybag rather than shrink-wrap — typical of many Japanese and some audiophile labels. The polybag approach emerged in the 1970s as Japanese pressing plants adopted resealable polyethylene bags as a premium alternative to heat-shrunk PVC, which could warp records during application or storage. Unlike shrink-wrap that adheres tightly to the jacket and requires tearing to open, polybags slide on and off easily, often featuring adhesive strips for resealing. This method became standard for Japanese pressings from labels like King, Toshiba-EMI, and Victor, frequently paired with obi strips. Audiophile reissue labels including Mobile Fidelity Sound Lab and Music Matters Jazz adopted polybag packaging to prevent heat damage and allow easier inspection without compromising \"sealed\" status. Collectors prize polybag-sealed records as they can verify jacket and vinyl condition while maintaining mint collectibility. The practice reflects a philosophy prioritizing preservation over tamper-evidence, though polybags can yellow or become brittle with age. Modern reissue labels continue this tradition, particularly for heavyweight vinyl and limited editions where jacket integrity matters as much as sonic fidelity.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "poly bag",
+    "polyethylene bag",
+    "resealable bag"
+  ],
+  "alt_spellings": [
+    "poly-bag",
+    "poly bag"
+  ],
+  "etymology": "Compound of 'poly' (from polyethylene, the plastic material) and 'bag,' adopted by the Japanese record industry in the 1970s as a protective packaging alternative to Western shrink-wrapping methods.",
+  "first_use": 1973,
   "see_also": [
     "shrink-wrap",
     "obi-strip",
     "resealable-sleeve"
   ],
   "regions": [
-    "US"
+    "JA",
+    "US",
+    "EU",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

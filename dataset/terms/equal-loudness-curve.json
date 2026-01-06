@@ -1,21 +1,35 @@
 {
   "slug": "equal-loudness-curve",
   "term": "Equal-Loudness Curve",
+  "pos": "noun",
+  "pronunciation": "/ˈiːkwəl ˈlaʊdnəs kɜːrv/",
   "summary": "A frequency-response graph (e.g., Fletcher-Munson) showing how human hearing.",
-  "definition": "A frequency-response graph (e.g., [Fletcher](../f/fletcher-munson-curve.md)-Munson) showing how human hearing perceives bass/treble at different volumes — influences mastering and tone-control design for vinyl playback.",
+  "definition": "A frequency-response graph showing how human hearing perceives different frequencies at varying sound pressure levels, most famously documented in the Fletcher-Munson curves of 1933 and later refined as ISO 226 equal-loudness contours. The curves reveal that human ears are less sensitive to bass and treble frequencies at low volumes, requiring significant boost (10-15 dB at 50 Hz) to sound as loud as midrange frequencies. This psychoacoustic phenomenon profoundly influenced vinyl mastering decisions, as engineers compensated by emphasizing midrange presence on quieter passages. The curves also shaped tone-control design on amplifiers and receivers from the 1950s onward, with \"loudness\" buttons applying bass/treble boost at low volumes to counteract the effect. Understanding equal-loudness curves remains essential for mastering engineers cutting lacquers, as vinyl's dynamic range limitations require careful frequency balancing that accounts for typical playback volumes in domestic listening environments.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "equal-loudness contour",
+    "loudness curve",
+    "Fletcher-Munson curve"
+  ],
+  "alt_spellings": [
+    "equal loudness curve"
+  ],
+  "etymology": "Derived from psychoacoustic research by Harvey Fletcher and Wilden Munson at Bell Labs in 1933, establishing that perceived loudness varies by frequency and sound pressure level. Later standardized as ISO 226 contours.",
+  "first_use": 1933,
   "see_also": [
     "tone-control",
     "riaa-curve",
-    "fletcher-munson"
+    "fletcher-munson-curve"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

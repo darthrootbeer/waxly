@@ -1,15 +1,30 @@
 {
   "slug": "avant-garde",
   "term": "Avant-garde",
+  "pos": "noun",
+  "pronunciation": "/ˌævɒ̃ˈɡɑːrd/",
   "summary": "'**Avant-garde** - A musical style within the Experimental genre, classified.",
-  "definition": "A specific musical style within the broader experimental genre classification.",
+  "definition": "A musical style within the broader experimental genre classification that pushes boundaries of conventional composition, structure, and sonic exploration. Emerging from classical modernism in the early 20th century, avant-garde music on vinyl encompasses works by composers like John Cage, Karlheinz Stockhausen, and later rock experimentalists such as Can and Faust. These recordings often feature unconventional instrumentation, extended techniques, electronic manipulation, and rejection of traditional harmonic and rhythmic frameworks. Avant-garde vinyl became particularly collectible during the 1960s-70s when labels like ECM, Nonesuch, and smaller imprints documented the movement. Original pressings of seminal works command premium prices among collectors who value both the music's historical significance and often elaborate packaging. The term applies across genres—from free jazz and musique concrète to industrial and noise—united by their intentional challenge to established musical norms.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "experimental music",
+    "art music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "avant garde",
+    "avantgarde"
+  ],
+  "etymology": "From French military term meaning 'vanguard' or 'advance guard,' adopted by early 20th-century artists to describe work at the forefront of artistic innovation.",
+  "first_use": 1910,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

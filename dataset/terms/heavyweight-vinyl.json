@@ -1,20 +1,39 @@
 {
   "slug": "heavyweight-vinyl",
   "term": "Heavyweight Vinyl",
+  "pos": "noun",
+  "pronunciation": "/ˈhɛviweɪt ˈvaɪnəl/",
   "summary": "'**noun / marketing term.** Records pressed on thicker, heavier PVC biscuit.",
-  "definition": "**noun / marketing term.** Records pressed on thicker, heavier PVC biscuit — typically 180 g or 200 g — marketed for improved stability, flatter profiles, and premium feel.",
+  "definition": "**noun / marketing term.** Records pressed on thicker, heavier PVC biscuit — typically 180 g or 200 g — marketed for improved stability, flatter profiles, and premium feel. Standard vinyl LPs weigh 120-140 g, while heavyweight pressings became a premium audiophile format in the 1970s through labels like Mobile Fidelity Sound Lab and Nautilus. The additional mass theoretically provides greater resistance to warping, improved platter contact, and reduced resonance during playback. Modern reissue campaigns from Analogue Productions, Music Matters Jazz, and Speakers Corner routinely employ 180 g or 200 g pressings as quality signifiers, though sonic benefits remain debated—some engineers argue proper mastering and virgin vinyl quality matter more than weight alone. Heavyweight vinyl commands premium pricing ($30-$60 per LP) and appeals to collectors seeking tangible markers of quality. Critics note that poorly pressed heavyweight records still warp, and thin Japanese pressings from the 1970s-80s often outperform modern heavy vinyl in flatness and surface noise, suggesting weight alone doesn't guarantee superior playback.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "180g vinyl",
+    "200g vinyl",
+    "heavy vinyl",
+    "audiophile pressing"
+  ],
+  "alt_spellings": [
+    "heavy-weight vinyl",
+    "heavyweight"
+  ],
+  "etymology": "Term emerged in 1970s audiophile market as pressing plants began offering thicker vinyl formulations to differentiate premium releases from standard commercial pressings.",
+  "first_use": 1977,
   "see_also": [
     "audiophile",
     "virgin-vinyl",
-    "flatness"
+    "flatness",
+    "biscuit",
+    "warp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

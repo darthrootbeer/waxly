@@ -1,21 +1,36 @@
 {
   "slug": "locked-groove",
   "term": "Locked Groove",
+  "pos": "noun",
+  "pronunciation": "/lɒkt ɡruːv/",
   "summary": "noun / technical / creative. A circular groove at the end of a side where.",
-  "definition": "**noun / technical / creative.** A circular [groove](../g/groove-wear.md) at the end of a side where the stylus loops indefinitely instead of spiraling to the label — can be silent, contain a loop of sound, or be used for hidden tracks.",
+  "definition": "**noun / technical / creative.** A circular [groove](../g/groove-wear.md) at the end of a side where the stylus loops indefinitely instead of spiraling to the label — can be silent, contain a loop of sound, or be used for hidden tracks. Introduced in the early LP era as an alternative to run-out grooves that lead to the label, locked grooves prevent the stylus from skating across the label surface and causing damage. The standard locked groove is silent, creating an endless loop of surface noise that continues until the listener lifts the tonearm. Creative applications emerged in the 1960s with artists embedding repeating audio snippets — The Beatles' \"Sgt. Pepper's Lonely Hearts Club Band\" (1967) famously featured a locked groove with looped gibberish on UK pressings. Experimental and electronic artists have exploited locked grooves extensively, with some releases containing multiple locked grooves in concentric circles, each playing different loops. Technically, cutting a locked groove requires precise lathe calibration to ensure the circular path maintains consistent depth and spacing. Modern pressings sometimes omit locked grooves in favor of traditional run-out grooves due to cost considerations, though audiophile and limited editions often retain them for authenticity and creative potential.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "endless groove",
+    "concentric groove",
+    "loop groove"
+  ],
+  "alt_spelings": [
+    "locked-groove",
+    "locked groove"
+  ],
+  "etymology": "From the mechanical concept of a groove that 'locks' the stylus in a circular path, preventing forward progression toward the label center. Term emerged in late 1940s with LP format standardization.",
+  "first_use": 1948,
   "see_also": [
     "run-out-groove",
     "hidden-track",
     "hanging-groove"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

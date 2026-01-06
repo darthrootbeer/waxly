@@ -1,22 +1,36 @@
 {
   "slug": "under-run",
   "term": "Under-Run Pressing",
-  "summary": "'**noun / manufacturing slang.** A **pressing run that produced fewer copies.",
-  "definition": "**noun / manufacturing slang.** A **pressing run that produced fewer copies than planned**, often due to plant shutdown, contract limit, or cancelled order.",
+  "pos": "noun",
+  "pronunciation": "/ˈʌndər rʌn ˈprɛsɪŋ/",
+  "summary": "**noun / manufacturing slang.** A **pressing run that produced fewer copies than planned**, often due to plant shutdown, contract limit, or cancelled order.",
+  "definition": "**noun / manufacturing slang.** A **pressing run that produced fewer copies than planned**, often due to plant shutdown, contract limit, or cancelled order. Under-runs typically occur when a pressing plant experiences equipment failure mid-run, when a label cancels an order after production begins, or when contractual minimums are reached but demand doesn't justify completing the full quantity. Unlike intentional limited editions, under-runs are accidental scarcities that can significantly increase collector value, particularly for sought-after titles. Plants historically absorbed the cost difference, though contracts often included tolerance clauses allowing 5-10% variance. In the 1970s oil crisis, under-runs became common as vinyl shortages forced plants to ration materials. Modern reissue labels sometimes discover original pressings were under-runs when researching production histories, explaining why certain first pressings command premium prices despite no contemporary indication of limited quantities.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "short run",
+    "incomplete pressing",
+    "partial run"
+  ],
+  "alt_spellings": [
+    "underrun",
+    "under run"
+  ],
+  "etymology": "Adapted from printing industry terminology where 'under-run' described delivering fewer copies than contracted, entering vinyl manufacturing vocabulary in the 1960s as pressing plants adopted standardized production reporting.",
+  "first_use": 1965,
   "see_also": [
     "limited-edition-run",
     "one-off-pressing",
     "cut-out-remainder"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

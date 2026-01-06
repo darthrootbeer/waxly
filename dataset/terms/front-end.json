@@ -1,21 +1,36 @@
 {
   "slug": "front-end",
   "term": "Front-End",
+  "pos": "phrase",
+  "pronunciation": "/frʌnt ɛnd/",
   "summary": "'**noun / audio slang.** Refers collectively to the signal-origin components.",
-  "definition": "**noun / audio slang.** Refers collectively to the signal-origin components of a vinyl playback system — primarily the turntable, tonearm, and cartridge before amplification.",
+  "definition": "**noun / audio slang.** Refers collectively to the signal-origin components of a vinyl playback system — primarily the turntable, tonearm, and cartridge before amplification. The front-end represents the mechanical-to-electrical conversion stage where stylus vibrations are transformed into audio signals, making it the most critical determinant of sound quality in the playback chain. Audiophiles often prioritize front-end investment over amplification or speakers, following the principle that information lost at the source cannot be recovered downstream. The term emerged in hi-fi circles during the 1970s component boom, distinguishing source equipment from amplification (the middle) and speakers (the back-end). A typical front-end hierarchy places the turntable as foundation (speed stability, vibration control), the tonearm as mediator (tracking accuracy, resonance management), and the cartridge as translator (stylus profile, coil design). Budget allocations vary wildly — entry-level front-ends start around $300, while reference systems exceed $50,000. Modern usage extends to include phono preamps in some contexts, though purists restrict the term to pre-amplification components only. The front-end philosophy emphasizes that no amount of downstream refinement can compensate for poor source performance, making turntable selection the most consequential decision in system building.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "source components",
+    "analog front end",
+    "playback front end"
+  ],
+  "alt_spellings": [
+    "front end",
+    "frontend"
+  ],
+  "etymology": "Borrowed from electronics engineering terminology where front-end describes input stages of signal processing systems, adopted by hi-fi community in the 1970s to categorize component hierarchy.",
+  "first_use": 1972,
   "see_also": [
     "back-end",
     "signal-chain",
     "pre-amp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

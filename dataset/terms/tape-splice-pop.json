@@ -1,20 +1,35 @@
 {
   "slug": "tape-splice-pop",
   "term": "Tape-Splice Pop",
-  "summary": "'**noun / mastering artifact.** A **tiny audible tick or bump at an analog.",
-  "definition": "**noun / mastering artifact.** A **tiny audible tick or bump at an analog tape-edit splice** that sometimes transfers to the lacquer if not trimmed out.",
+  "pos": "noun",
+  "pronunciation": "/teɪp splaɪs pɒp/",
+  "summary": "**noun / mastering artifact.** A **tiny audible tick or bump at an analog tape-edit splice** that sometimes transfers to the lacquer if not trimmed out.",
+  "definition": "**noun / mastering artifact.** A **tiny audible tick or bump at an analog tape-edit splice** that sometimes transfers to the lacquer if not trimmed out. During analog tape editing—standard practice from the 1950s through the 1980s—engineers physically cut master tapes with razor blades and joined sections using splicing tape. Even expertly executed splices could create microscopic thickness variations or adhesive buildup that produced brief transient clicks when played back. These artifacts became permanent if the spliced master was used for lacquer cutting without correction. Mastering engineers typically identified splice pops during playback and either re-cut the splice at a better angle (usually 45 degrees), moved the edit point slightly, or applied brief electronic muting. Many classic albums contain faint splice pops that passed quality control, now considered part of the recording's historical character. Digital remastering allows these artifacts to be removed or preserved intentionally, though purists debate whether elimination alters the authentic listening experience of the original release.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "splice click",
+    "edit pop",
+    "tape edit click"
+  ],
+  "alt_spelings": [
+    "tape splice-pop",
+    "tape-splice click"
+  ],
+  "etymology": "Term emerged in professional recording studios during the 1950s magnetic tape era, combining 'splice' (from Dutch 'splissen,' to join rope ends) with 'pop' describing the characteristic transient sound.",
+  "first_use": 1952,
   "see_also": [
     "edit-point-click",
     "print-through",
     "mastering-cleanup"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,39 @@
 {
   "slug": "linear-tracking-turntable",
   "term": "Linear-Tracking Turntable",
+  "pos": "noun",
+  "pronunciation": "/ˈlɪniər ˈtrækɪŋ ˈtɜrnˌteɪbəl/",
   "summary": "'**noun / technical.** A turntable whose tonearm moves straight across the.",
-  "definition": "**noun / technical.** A turntable whose tonearm moves straight across the record’s radius on a rail, maintaining a near-perfect tangential angle to the groove, reducing tracking-angle distortion.",
+  "definition": "**noun / technical.** A turntable whose tonearm moves straight across the record's radius on a rail or track, maintaining a near-perfect tangential angle to the groove throughout playback. Unlike pivoting tonearms that trace an arc, linear-tracking designs replicate the geometry of the cutting lathe that originally inscribed the record, theoretically eliminating tracking-angle error and inner-groove distortion. First popularized in the late 1970s and early 1980s by manufacturers like Bang & Olufsen, Technics, and Revox, these turntables employed various mechanisms—servo motors, air bearings, or magnetic drives—to move the cartridge horizontally. The B&O Beogram series became iconic for their sleek, low-profile aesthetics and tangential tracking precision. High-end models like the Goldmund Reference and Rockport Sirius used air-bearing systems for virtually frictionless movement, commanding prices exceeding $100,000. Despite their theoretical advantages, linear trackers proved maintenance-intensive, requiring precise calibration and often suffering from motor noise or mechanical complexity. Most mass-market models disappeared by the 1990s, though audiophile manufacturers continue producing ultra-high-end versions. Vintage linear-tracking turntables remain sought after by collectors for their futuristic design and unique engineering, though many require specialized service to maintain optimal performance.",
   "tags": [
     "equipment",
     "collecting",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tangential tonearm turntable",
+    "radial tracking turntable",
+    "parallel tracking turntable"
+  ],
+  "alt_spellings": [
+    "linear tracking turntable",
+    "linear-tracker"
+  ],
+  "etymology": "Coined in the 1970s from 'linear' (moving in a straight line) and 'tracking' (following the record groove), describing the tonearm's radial movement that mimics the cutting lathe's geometry during record mastering.",
+  "first_use": 1978,
   "see_also": [
     "tangential-arm",
     "tracking-angle",
-    "servo-arm"
+    "servo-arm",
+    "tonearm",
+    "cartridge"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

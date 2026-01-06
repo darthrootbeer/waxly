@@ -1,20 +1,36 @@
 {
   "slug": "audiophile",
   "term": "Audiophile Pressing",
+  "pos": "noun",
+  "pronunciation": "/ˈɔːdiəʊfaɪl ˈprɛsɪŋ/",
   "summary": "A premium vinyl release manufactured with meticulous mastering, heavier virgin-vinyl.",
-  "definition": "A premium vinyl release manufactured with meticulous mastering, heavier virgin-vinyl stock (often 180 g or 200 g), and quality-controlled plating for superior sound.",
+  "definition": "A premium vinyl release manufactured with meticulous mastering, heavier virgin-vinyl stock (often 180 g or 200 g), and quality-controlled plating for superior sound reproduction. Emerged in the late 1970s as specialized labels like Mobile Fidelity Sound Lab (MFSL) and Nautilus began targeting discerning listeners willing to pay premium prices for demonstrably better pressings. These releases typically employ half-speed or all-analog mastering chains, use virgin vinyl compounds free from recycled material that can introduce surface noise, and feature precision pressing on well-maintained equipment with rigorous quality control. The heavyweight vinyl reduces resonance and provides a more stable playback surface. Audiophile pressings often include premium packaging elements like tip-on gatefold jackets, anti-static inner sleeves, and detailed liner notes documenting the mastering provenance. While originally concentrated on jazz and classical repertoire, the category now spans all genres, with labels like Analogue Productions, Music Matters, and Speakers Corner maintaining the tradition. Modern audiophile pressings command $35-$125 retail prices, with limited editions from defunct labels fetching significantly higher collector premiums.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "audiophile edition",
+    "audiophile release",
+    "premium pressing",
+    "reference pressing"
+  ],
+  "alt_spellings": [],
+  "etymology": "Coined in late 1970s combining 'audiophile' (audio enthusiast, from Latin audire 'to hear' + Greek philos 'loving') with 'pressing' to denote vinyl releases manufactured specifically for critical listening standards.",
+  "first_use": 1977,
   "see_also": [
     "half-speed-master",
     "virgin-vinyl",
-    "180-gram"
+    "180-gram",
+    "mastering",
+    "mobile-fidelity"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

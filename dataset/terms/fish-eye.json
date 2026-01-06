@@ -1,21 +1,36 @@
 {
   "slug": "fish-eye",
   "term": "Fish-Eye Label",
-  "summary": "'**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form.",
-  "definition": "**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form under the label paper, creating a “fish-eye” appearance.",
+  "pos": "noun",
+  "pronunciation": "/ˈfɪʃ aɪ ˈleɪbəl/",
+  "summary": "**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form.",
+  "definition": "**noun / slang.** A cosmetic pressing flaw where bubbles or dimples form under the label paper, creating a \"fish-eye\" appearance. This defect occurs during the pressing process when air or moisture becomes trapped between the label and the vinyl surface, causing the paper to lift and create circular or oval bulges that resemble an eye. Fish-eyes typically result from improper label application, excessive moisture in the label adhesive, or contamination on the pressing stamper. While purely cosmetic and not affecting sound quality, fish-eyes reduce a record's visual grade and collector value, particularly on rare or valuable pressings. The term emerged in the 1960s alongside increased quality control standards in vinyl manufacturing. Collectors distinguish between minor fish-eyes (small dimples) and severe examples (large bubbles that may crack or tear). Modern reissue plants have largely eliminated this flaw through improved climate control and automated label application systems.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "label bubble",
+    "label blister",
+    "eye defect"
+  ],
+  "alt_spellings": [
+    "fisheye",
+    "fish eye"
+  ],
+  "etymology": "Coined in the vinyl pressing industry during the 1960s, named for the resemblance of the circular label bulge to the protruding eye of a fish.",
+  "first_use": 1965,
   "see_also": [
     "pressing-blister",
     "label-variant",
     "visual-grade"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

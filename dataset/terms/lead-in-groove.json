@@ -1,22 +1,40 @@
 {
   "slug": "lead-in-groove",
   "term": "Lead-In Groove",
+  "pos": "noun",
+  "pronunciation": "/ˈliːd ɪn ɡruːv/",
   "summary": "'**noun / technical.** The smooth spiral groove at the outer rim of a record.",
-  "definition": "**noun / technical.** The smooth spiral groove at the outer rim of a record that guides the stylus toward the first modulated track groove.",
+  "definition": "**noun / technical.** The smooth spiral groove at the outer rim of a record that guides the stylus toward the first modulated track groove. Typically spanning 3-6 rotations from the record's edge, the lead-in groove is unmodulated—cut without audio information—and maintains a consistent depth and width to ensure smooth stylus entry. This transition zone prevents the needle from skating across the record surface and allows the tonearm to stabilize before encountering audio signals. Introduced with the earliest disc recording formats in the 1890s, the lead-in groove became standardized during the 78 rpm era and carried through to LPs and 45s. The groove's pitch (spacing between spirals) typically measures 8-12 grooves per millimeter, wider than the modulated grooves that follow. On some pressings, particularly from the 1960s-70s, engineers etched matrix numbers, catalog codes, or mastering engineer signatures into the lead-in area, making this dead wax region valuable to collectors and discographers. Modern pressing plants maintain strict tolerances for lead-in grooves to prevent tracking issues, especially critical for automatic turntables that rely on this area to trigger their cueing mechanisms.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "intro groove",
+    "run-in groove",
+    "lead groove"
+  ],
+  "alt_spellings": [
+    "lead in groove",
+    "leadin groove"
+  ],
+  "etymology": "From \"lead\" (to guide) + \"in\" (toward), adopted from early 20th-century disc recording terminology to describe the guiding function of the outer unmodulated spiral.",
+  "first_use": 1895,
   "see_also": [
     "cue-burn",
     "j-cut-single",
-    "locked-groove"
+    "locked-groove",
+    "dead-wax",
+    "run-out-groove"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,36 @@
 {
   "slug": "side-chain-cut",
   "term": "Side-Chain",
-  "summary": "'**noun / mastering technique.** A **vinyl-cutting compressor/limiter controlled.",
-  "definition": "**noun / mastering technique.** A **vinyl-cutting compressor/limiter controlled by a separate side-chain signal** (often the bass) to prevent groove over-modulation.",
+  "pos": "noun",
+  "pronunciation": "/ˈsaɪd tʃeɪn/",
+  "summary": "**noun / mastering technique.** A **vinyl-cutting compressor/limiter controlled by a separate side-chain signal** (often the bass) to prevent groove over-modulation.",
+  "definition": "**noun / mastering technique.** A **vinyl-cutting compressor/limiter controlled by a separate side-chain signal** (often the bass) to prevent groove over-modulation. Introduced in the 1960s as vinyl cutting engineers faced increasing low-frequency content in rock and soul recordings, side-chain compression became essential for preventing the cutting stylus from carving grooves too wide or deep, which would cause skipping or groove breakthrough. The technique routes a frequency-specific signal—typically isolated bass frequencies—to trigger gain reduction on the full mix, automatically attenuating levels when problematic low-end peaks occur. This allows louder overall cuts without physical groove limitations. Different cutting houses developed proprietary side-chain circuits, with Neumann and Scully lathes offering sophisticated multi-band options by the 1970s. Modern mastering engineers debate side-chain usage: purists argue it compromises artistic intent, while pragmatists view it as necessary for dance music and bass-heavy genres destined for club play. The technique remains standard practice for electronic music pressings, where sub-bass content would otherwise render vinyl unplayable. Digital vinyl mastering plugins now emulate classic side-chain behavior, though experienced cutting engineers still prefer hardware units for their musical response characteristics.",
   "tags": [
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "side-chain compression",
+    "side-chain limiting",
+    "bass-triggered compression"
+  ],
+  "alt_spellings": [
+    "sidechain",
+    "side chain"
+  ],
+  "etymology": "Borrowed from audio engineering terminology where 'side-chain' refers to a secondary signal path that controls processing on the main signal, adapted specifically for vinyl lathe cutting applications in the mid-1960s.",
+  "first_use": 1965,
   "see_also": [
     "mono-bass-fold-down",
     "groove-spacing",
     "hot-cut"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

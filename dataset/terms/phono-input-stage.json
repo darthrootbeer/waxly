@@ -1,22 +1,37 @@
 {
   "slug": "phono-input-stage",
   "term": "Phono Input",
+  "pos": "noun",
+  "pronunciation": "/ˈfoʊnoʊ ˈɪnpʊt/",
   "summary": "'**noun / technical.** An amplifier input with the specialized equalization.",
-  "definition": "**noun / technical.** An amplifier input with the specialized equalization and gain required for magnetic-cartridge signals; often labeled “[PHONO](../p/phono-stage-hum.md)” on vintage receivers.",
+  "definition": "**noun / technical.** An amplifier input with the specialized equalization and gain required for magnetic-cartridge signals; often labeled \"PHONO\" on vintage receivers. Unlike line-level inputs designed for CD players or tape decks, phono inputs incorporate a dedicated preamp stage that applies RIAA equalization to restore flat frequency response from records cut with inverse EQ, while simultaneously boosting the cartridge's weak millivolt-level signal (typically 2-5mV for moving-magnet designs) to usable line level. This two-stage process—amplification and de-emphasis—is essential because records are cut with bass frequencies attenuated and treble boosted to prevent groove overcrowding and reduce surface noise. Standard on virtually all receivers and integrated amplifiers from the 1950s through 1990s, phono inputs became increasingly rare after 2000 as CD playback dominated, forcing many vinyl enthusiasts to purchase external phono preamps. Quality varies dramatically: budget phono stages may introduce hum or noise, while high-end discrete designs costing $500-$5000+ offer adjustable loading, multiple EQ curves for 78s or early LPs, and audiophile-grade components. The disappearance of built-in phono inputs from modern equipment remains a frustration for collectors connecting vintage turntables, though their absence has spawned a thriving market for standalone phono preamps ranging from utilitarian $20 modules to statement pieces rivaling the cost of the turntable itself.",
   "tags": [
     "equipment",
     "technical",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "phono stage",
+    "phono preamp input",
+    "magnetic input"
+  ],
+  "alt_spellings": [
+    "phono-input"
+  ],
+  "etymology": "Derived from 'phonograph input,' referring to the dedicated amplifier circuit developed in the late 1940s to accommodate the newly standardized RIAA equalization curve adopted industry-wide in 1954.",
+  "first_use": 1948,
   "see_also": [
     "riaa-curve",
     "pre-amp",
     "line-level-input"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

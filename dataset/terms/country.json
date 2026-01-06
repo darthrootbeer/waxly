@@ -1,13 +1,22 @@
 {
   "slug": "country",
   "term": "Country",
+  "pos": "noun",
+  "pronunciation": "/ˈkʌntri/",
   "summary": "**Country** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system, originating from American folk traditions and encompassing styles from early hillbilly recordings to contemporary Nashville productions. The genre emerged commercially in the 1920s with artists like the Carter Family and Jimmie Rodgers, evolving through honky-tonk, western swing, outlaw country, and modern country-pop. Within vinyl collecting, country records span significant historical periods, from rare 78rpm shellac pressings to classic Bakersfield sound LPs of the 1960s and the urban cowboy era of the early 1980s. The Discogs taxonomy uses Country as a primary genre tag, often combined with style descriptors like Bluegrass, Honky Tonk, or Nashville Sound to provide more specific categorization. Collectors particularly prize original pressings from labels like Sun Records, Starday, and early Capitol country releases, with certain regional and independent label country 45s commanding premium prices due to scarcity and crossover appeal to rockabilly collectors.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Country Music",
+    "Country & Western"
+  ],
+  "alt_spellings": [
+    "Country-Western"
+  ],
+  "etymology": "Shortened from 'Country and Western,' itself derived from marketing terms distinguishing rural American folk music from urban popular styles in the 1940s-50s.",
+  "first_use": 1940,
   "see_also": [
     "bluegrass",
     "country-rock",
@@ -15,7 +24,11 @@
     "western"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

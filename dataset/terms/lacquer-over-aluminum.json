@@ -1,21 +1,35 @@
 {
   "slug": "lacquer-over-aluminum",
   "term": "Lacquer-Over-Aluminum Disc",
+  "pos": "noun",
+  "pronunciation": "/ˈlækər ˈoʊvər əˈluːmɪnəm dɪsk/",
   "summary": "'**noun / historical.** A 1930s-50s disc format with a lacquer coating on.",
-  "definition": "**noun / historical.** A 1930s-50s disc format with a lacquer coating on an aluminum core, used for broadcast transcriptions and one-off recordings before microgroove LPs.",
+  "definition": "**noun / historical.** A 1930s-50s disc format with a lacquer coating on an aluminum core, used for broadcast transcriptions and one-off recordings before microgroove LPs. Introduced in the mid-1930s as an improvement over earlier glass-based lacquer discs, the aluminum substrate provided durability and dimensional stability for professional recording applications. Radio stations relied heavily on these discs for pre-recorded programs and network transcriptions, while recording studios used them for master recordings and client reference copies. The lacquer layer, typically cellulose nitrate, could be cut with heated styli to create grooves capable of 10-20 plays before significant degradation. Unlike shellac pressings, these discs were one-offs or limited-run productions. By the late 1950s, magnetic tape largely replaced lacquer-over-aluminum for broadcast work, though the format remained in specialized use through the 1960s. Surviving examples are prized by archivists and collectors for their historical recordings, particularly rare radio broadcasts and unreleased music sessions.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "aluminum lacquer disc",
+    "lacquer-coated aluminum",
+    "aluminum transcription disc"
+  ],
+  "alt_spellings": [
+    "Lacquer-Over-Aluminium Disc",
+    "Lacquer Over Aluminum Disc"
+  ],
+  "etymology": "Named for its construction method: a thin coating of nitrocellulose lacquer applied over an aluminum base disc, developed as a more stable alternative to glass-core lacquer discs used in the early 1930s.",
+  "first_use": 1934,
   "see_also": [
     "transcription-disc",
     "acetate",
     "archival-playback"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

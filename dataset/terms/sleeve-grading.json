@@ -1,20 +1,35 @@
 {
   "slug": "sleeve-grading",
   "term": "Sleeve Grading",
-  "summary": "'**noun / collector practice.** The **condition rating of a record’s outer.",
-  "definition": "**noun / collector practice.** The **condition rating of a record’s outer jacket or sleeve** using standard grading scales — [Mint](../m/mint-minus.md) (M), Near Mint (NM), Very Good (VG), Good (G), etc.",
+  "pos": "noun",
+  "pronunciation": "/sliːv ˈɡreɪdɪŋ/",
+  "summary": "'**noun / collector practice.** The **condition rating of a record's outer.",
+  "definition": "**noun / collector practice.** The **condition rating of a record's outer jacket or sleeve** using standardized grading scales to assess physical condition and collector value. Sleeve grading emerged alongside the organized record collecting market in the 1970s-80s, when mail-order dealers needed consistent terminology to describe items sight-unseen. The system typically mirrors vinyl grading conventions—Mint (M), Near Mint (NM), Very Good Plus (VG+), Very Good (VG), Good (G), Fair (F), Poor (P)—but evaluates different criteria: seam integrity, corner wear, ring wear, spine splits, writing, stickers, water damage, and general surface condition. The Goldmine Grading Guide, published in 1981, standardized these practices across North America and Europe. Sleeve condition dramatically impacts collectibility and value, particularly for rare pressings where original packaging may be worth as much as the disc itself. Most sellers provide separate grades for sleeve and media (e.g., \"VG+/NM\" indicating sleeve/vinyl), recognizing that packaging often deteriorates faster than the record through handling and storage. Modern online marketplaces like Discogs enforce dual grading standards, making sleeve assessment as critical as audio quality evaluation.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "jacket grading",
+    "cover grading",
+    "packaging grading"
+  ],
+  "alt_spellings": [
+    "sleeve-grading"
+  ],
+  "etymology": "Derived from \"sleeve\" (record jacket/cover) + \"grading\" (condition assessment), formalized through mail-order record dealer networks and collecting publications in the late 1970s.",
+  "first_use": 1978,
   "see_also": [
     "goldmine-grading-scale",
     "seam-split",
     "ring-wear"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

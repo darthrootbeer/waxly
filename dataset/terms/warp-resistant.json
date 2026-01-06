@@ -1,21 +1,37 @@
 {
   "slug": "warp-resistant",
   "term": "Warp-Resistant Pressing",
-  "summary": "'**noun / manufacturing claim.** A **pressing marketed as less prone to dish-warp.",
-  "definition": "**noun / manufacturing claim.** A **pressing marketed as less prone to dish-warp or edge-warp**, often achieved through heavier vinyl weight, controlled cooling, or vacuum-hold techniques.",
+  "pos": "noun",
+  "pronunciation": "/wɔrp rɪˈzɪstənt ˈprɛsɪŋ/",
+  "summary": "**noun / manufacturing claim.** A **pressing marketed as less prone to dish-warp.",
+  "definition": "**noun / manufacturing claim.** A **pressing marketed as less prone to dish-warp or edge-warp**, often achieved through heavier vinyl weight, controlled cooling, or vacuum-hold techniques. Emerged in the 1970s as manufacturers responded to complaints about warped records caused by rapid cooling, inadequate quality control, and lightweight pressings. Techniques include using 180g or 200g vinyl formulations that resist deformation, extended cooling cycles that allow gradual temperature reduction, and vacuum stabilization during pressing to maintain flatness. Some plants employ specialized cooling racks or climate-controlled environments. The term became prominent marketing language during the audiophile vinyl revival of the 1990s-2000s, though effectiveness varies widely by pressing plant. Quality Vinyl Pressing (QVP) and Pallas became known for warp-resistant output through meticulous process control. Modern collectors often conflate heavy vinyl with warp resistance, though weight alone doesn't guarantee flatness—cooling methodology and storage conditions remain critical factors in long-term stability.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "warp-proof pressing",
+    "anti-warp vinyl",
+    "stable pressing"
+  ],
+  "alt_spellings": [
+    "warp resistant pressing"
+  ],
+  "etymology": "Coined as marketing terminology in 1970s pressing plants responding to consumer complaints about warped records from mass-production shortcuts and thin vinyl formulations of the oil crisis era.",
+  "first_use": 1975,
   "see_also": [
     "heavy-weight-vinyl",
-    "reflex-clamp",
-    "vacuum-platter"
+    "dish-warp",
+    "edge-warp",
+    "pressing-plant",
+    "cooling-cycle"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

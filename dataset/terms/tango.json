@@ -1,15 +1,28 @@
 {
   "slug": "tango",
   "term": "Tango",
+  "pos": "noun",
+  "pronunciation": "/ˈtæŋɡoʊ/",
   "summary": "'**Tango** - A musical style within the Latin genre, classified according.",
-  "definition": "A specific musical style within the broader latin genre classification.",
+  "definition": "A passionate musical style and dance form originating in the working-class neighborhoods of Buenos Aires and Montevideo during the 1880s, characterized by dramatic rhythms, bandoneón instrumentation, and melancholic undertones. In vinyl classification systems, tango represents a distinct genre category within Latin music, typically featuring orchestral arrangements led by legends like Carlos Gardel, Astor Piazzolla, and Aníbal Troilo. The golden age of tango (1935-1952) produced thousands of 78rpm recordings that remain highly collectible, with original pressings from Argentine labels like Odeón and RCA Victor commanding premium prices. Vinyl editions capture the genre's emotional intensity and instrumental nuances better than digital formats, particularly the breathy qualities of the bandoneón and the subtle interplay between orchestra sections. Modern reissues on 180-gram vinyl have introduced tango to new audiences, while original pressings from the 1940s-50s are prized for their warm, authentic sound quality.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "tango music",
+    "tango argentino"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from Latin American Spanish 'tango,' possibly from African languages via the slave trade, or from Latin 'tangere' (to touch). The term emerged in Buenos Aires in the late 19th century to describe both the music and dance.",
+  "first_use": 1880,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AR",
+    "UY"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

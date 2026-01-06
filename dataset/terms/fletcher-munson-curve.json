@@ -1,21 +1,37 @@
 {
   "slug": "fletcher-munson-curve",
   "term": "Fletcher",
+  "pos": "noun",
+  "pronunciation": "/ˈflɛtʃər ˈmʌnsən kɜːrv/",
   "summary": "noun / technical. The original 1933 equal-loudness contour graph that shows.",
-  "definition": "**noun / technical.** The original 1933 equal-loudness contour graph that shows how human hearing is less sensitive to bass/treble at low levels — influenced tone-control and loudness-button design on vintage amps for vinyl listening.",
+  "definition": "**noun / technical.** The original 1933 equal-loudness contour graph that shows how human hearing is less sensitive to bass and treble frequencies at low listening levels — a psychoacoustic phenomenon that profoundly influenced audio equipment design for vinyl playback. Developed by Harvey Fletcher and Wilden Munson at Bell Labs, the curves demonstrated that at lower volumes (below 80-90 dB), the human ear perceives frequencies below 500 Hz and above 10 kHz as significantly quieter relative to midrange frequencies. This discovery led directly to the development of loudness compensation buttons on 1950s-70s hi-fi receivers and integrated amplifiers, which boosted bass and treble when activated to compensate for quiet nighttime listening sessions. The curves were later refined as the Robinson-Dadson curves (1956) and eventually standardized as ISO 226:2003, but \"Fletcher-Munson\" remains the colloquial term among audio engineers and vinyl enthusiasts. Understanding these curves explains why records mastered for radio play often emphasized midrange frequencies, and why vintage tone controls were calibrated with these contours in mind. Modern vinyl listeners benefit from this research when using loudness switches on classic amplifiers or applying psychoacoustic EQ at low volumes.",
   "tags": [
     "technical",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Fletcher-Munson curves",
+    "equal-loudness contours",
+    "Fletcher-Munson effect"
+  ],
+  "alt_spellings": [
+    "Fletcher Munson curve",
+    "Fletcher-Munson Curve"
+  ],
+  "etymology": "Named after Bell Telephone Laboratories researchers Harvey Fletcher and Wilden A. Munson, who published their groundbreaking equal-loudness contour measurements in the Journal of the Acoustical Society of America in 1933.",
+  "first_use": 1933,
   "see_also": [
     "equal-loudness-curve",
     "loudness-switch",
-    "riaa-curve"
+    "riaa-curve",
+    "psychoacoustics"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

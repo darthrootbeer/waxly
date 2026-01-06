@@ -1,15 +1,30 @@
 {
   "slug": "breakbeat",
   "term": "Breakbeat",
+  "pos": "noun",
+  "pronunciation": "/ˈbreɪkbiːt/",
   "summary": "'**Breakbeat** - A musical style within the Electronic genre, classified.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A percussive drum pattern isolated from funk, soul, and jazz recordings, typically lasting 4-8 bars, that became foundational to hip-hop, jungle, and drum and bass music. Originated in early 1970s Bronx block parties when DJs like Kool Herc extended instrumental breaks by looping two copies of the same record, creating extended dance sections. The most sampled breaks include the Winstons' \"Amen Brother\" (1969) and James Brown's \"Funky Drummer\" (1970), with the former becoming the backbone of jungle and drum and bass at tempos of 160-180 BPM. By the late 1980s, breakbeat evolved into distinct subgenres including breakbeat hardcore, big beat, and nu skool breaks. Producers manipulate breaks through time-stretching, pitch-shifting, and chopping techniques, often layering multiple breaks to create complex polyrhythms. The breakbeat aesthetic emphasizes syncopation and groove over the four-on-the-floor patterns of house and techno. Compilations like \"Ultimate Breaks and Beats\" (1986-1991) codified essential breaks for producers, becoming highly sought-after collector items. Modern breakbeat production continues in genres like footwork, UK bass, and experimental electronic music.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "breaks",
+    "breakbeats"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "break-beat",
+    "break beat"
+  ],
+  "etymology": "Coined from \"break\" (instrumental percussion section in a song) and \"beat\" (rhythmic pattern), popularized by Bronx DJs in the early 1970s who isolated and extended these sections for b-boys and b-girls to dance during.",
+  "first_use": 1973,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

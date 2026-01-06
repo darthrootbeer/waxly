@@ -1,21 +1,36 @@
 {
   "slug": "kick-drum",
   "term": "Kick-Drum Cut",
+  "pos": "noun",
+  "pronunciation": "/kɪk drʌm kʌt/",
   "summary": "'**noun / slang.** A 12-inch single mastered with extra-wide grooves and.",
-  "definition": "**noun / slang.** A 12-inch single mastered with extra-wide grooves and deep EQ emphasis on the kick-drum for powerful club play.",
+  "definition": "**noun / slang.** A 12-inch single mastered with extra-wide grooves and deep EQ emphasis on the kick-drum for powerful club play. Emerging from disco and early house music culture in the late 1970s and 1980s, these specialized cuts prioritized low-frequency impact over playing time, with mastering engineers deliberately spacing grooves wider to accommodate the extreme bass excursions required for dance floor systems. The technique involves boosting sub-bass frequencies (typically 60-120 Hz) during the lacquer cutting stage while reducing overall track length to 4-6 minutes per side, preventing groove overcrowding that would cause distortion or skipping on club turntables. DJs prized these releases for their ability to physically move crowds through speaker stacks, with labels like West End, Prelude, and later Chicago house imprints making kick-drum cuts a format standard. Modern reissue labels and contemporary dance producers continue the tradition, though digital mastering has refined the process while maintaining the aesthetic of bass-forward vinyl designed explicitly for sound system playback rather than home listening.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "bass cut",
+    "club cut",
+    "wide-groove cut"
+  ],
+  "alt_spellings": [
+    "kick drum cut",
+    "kickdrum cut"
+  ],
+  "etymology": "Coined by disco-era mastering engineers and DJs to describe 12-inch singles cut specifically to maximize kick-drum impact through wider groove spacing and frequency-specific mastering.",
+  "first_use": 1978,
   "see_also": [
     "hot-cut",
     "groove-spacing",
-    "dub-mix"
+    "dub-mix",
+    "12-inch-single"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

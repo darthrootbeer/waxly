@@ -1,21 +1,37 @@
 {
   "slug": "leatherette-case",
   "term": "Leatherette Case",
+  "pos": "noun",
+  "pronunciation": "/ˈlɛðəˌrɛt keɪs/",
   "summary": "'**noun / vintage accessory.** A portable record-carry case covered in faux-leather.",
-  "definition": "**noun / vintage accessory.** A portable record-carry case covered in faux-leather leatherette, popular for 45s and youth-market players in the 1950s-70s.",
+  "definition": "**noun / vintage accessory.** A portable record-carry case covered in faux-leather leatherette, popular for 45s and youth-market players in the 1950s-70s. These cases typically featured metal clasps, reinforced corners, and internal dividers to protect singles during transport. The leatherette covering—a vinyl or paper-based imitation leather—came in colors ranging from conservative black and brown to vibrant pink, turquoise, and paisley patterns targeting teenage buyers. Most held 50-100 seven-inch records, though some deluxe models accommodated LPs. The cases became cultural icons of mid-century youth culture, appearing in films and advertisements as symbols of portable music freedom before the cassette era. Manufacturers like Platt and RCA Victor produced millions of units, often branded with record label logos or artist imagery. The golden age peaked in the early 1960s alongside portable record players, declining as 8-tracks and cassettes dominated portability by the mid-1970s. Today, vintage leatherette cases command $20-$100 depending on condition and graphics, prized by collectors for display or actual 45 storage. Reproduction cases have emerged for the vinyl revival market, though original examples with period advertising remain most sought-after.",
   "tags": [
     "historical",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record case",
+    "45 case",
+    "vinyl carry case",
+    "record tote"
+  ],
+  "alt_spellings": [
+    "leatherette-case",
+    "leatherette record case"
+  ],
+  "etymology": "From 'leatherette' (1880s term for artificial leather) combined with 'case,' adopted by record accessory manufacturers in the late 1940s as portable 45 RPM singles created demand for youth-oriented transport solutions.",
+  "first_use": 1949,
   "see_also": [
     "record-tote",
     "clamshell-case",
     "portable-changer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

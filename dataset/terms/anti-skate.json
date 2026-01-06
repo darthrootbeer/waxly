@@ -1,22 +1,40 @@
 {
   "slug": "anti-skate",
-  "term": "Anti",
+  "term": "Anti-Skate",
+  "pos": "noun",
+  "pronunciation": "/ˈænti skeɪt/",
   "summary": "A spring- or magnet-based control on turntables that counteracts the inward.",
-  "definition": "A spring- or magnet-based control on turntables that counteracts the inward pull on the tonearm caused by groove friction, helping the stylus stay centered in the groove.",
+  "definition": "A spring- or magnet-based control on turntables that counteracts the inward pull on the tonearm caused by groove friction, helping the stylus stay centered in the groove. As a record spins, the friction between the stylus and the groove walls creates a force that naturally pulls the tonearm toward the center of the record—a phenomenon known as skating force. Without compensation, this causes uneven wear on the inner groove wall and can result in distortion, mistracking, and premature stylus wear. Anti-skate mechanisms, introduced in the 1960s alongside the rise of stereo cartridges and lighter tracking forces, apply an outward counterforce to balance this effect. Most turntables employ either a spring-loaded dial system, a hanging weight on a thread, or magnetic repulsion to generate the corrective force. Proper anti-skate adjustment is crucial for optimal sound quality and groove preservation, typically set to match the tracking force value, though some audiophiles prefer fine-tuning by ear. High-end tonearms often feature more sophisticated anti-skate designs with adjustable calibration for different cartridge types and record conditions, while DJ turntables may omit the feature entirely given their heavy tracking forces and scratch-oriented use.",
   "tags": [
     "equipment",
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "skating compensation",
+    "bias compensation",
+    "anti-skating force"
+  ],
+  "alt_spellings": [
+    "antiskate",
+    "anti skate"
+  ],
+  "etymology": "Coined in the early 1960s from 'anti-' (against) and 'skate' (the inward sliding motion of the tonearm), describing the mechanism that counteracts the skating force inherent in lateral-cut disc playback.",
+  "first_use": 1963,
   "see_also": [
     "tracking-force",
     "tonearm",
-    "groove-wear"
+    "groove-wear",
+    "cartridge",
+    "stylus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

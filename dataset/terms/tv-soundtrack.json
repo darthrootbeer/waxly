@@ -1,15 +1,32 @@
 {
   "slug": "tv-soundtrack",
   "term": "TV Soundtrack",
+  "pos": "noun",
+  "pronunciation": "/ˌtiːˈviː ˈsaʊndtræk/",
   "summary": "'**TV Soundtrack** - A musical style within the Soundtrack genre, classified.",
-  "definition": "A specific musical style within the broader soundtrack genre classification.",
+  "definition": "A specific musical style within the broader soundtrack genre classification, encompassing original compositions and compiled music created for or featured in television programs. TV soundtracks emerged as a distinct commercial category in the 1960s when networks began releasing theme songs and incidental music from popular series on vinyl, with early successes including \"Peter Gunn\" (1959) and \"Mission: Impossible\" (1967). Unlike film soundtracks, TV releases often featured shorter cues, recurring themes, and episodic variations designed for weekly broadcast formats. The genre experienced significant growth during the 1970s-80s with action series like \"Miami Vice\" and \"Hill Street Blues\" driving album sales. TV soundtracks range from orchestral scores and jazz compositions to pop compilations and synthesizer-heavy themes, reflecting the diverse programming landscape. Collectors particularly value original pressings from cult series, limited promotional releases distributed to networks, and international variants with alternate arrangements. The format continues relevance in the streaming era, with prestige dramas like \"Stranger Things\" and \"The Last of Us\" receiving deluxe vinyl treatments.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "television soundtrack",
+    "TV score",
+    "television score"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "TV Soundtrack",
+    "T.V. Soundtrack"
+  ],
+  "etymology": "Derived from \"television\" (coined 1907, from Greek tele \"far\" + Latin visio \"sight\") and \"soundtrack\" (1929, originally referring to optical audio strips on film). The combined term gained commercial usage in the late 1950s as TV theme music became marketable.",
+  "first_use": 1959,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

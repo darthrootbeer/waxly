@@ -1,21 +1,34 @@
 {
   "slug": "wax-slang-for",
   "term": "Wax (Slang for Record)",
+  "pos": "phrase",
+  "pronunciation": "/wæks/",
   "summary": "'**noun / slang.** Hip-hop, DJ, and collector **slang for vinyl records in.",
-  "definition": "**noun / slang.** Hip-hop, DJ, and collector **slang for vinyl records in general** — inherited from shellac-era “wax discs.”",
+  "definition": "**noun / slang.** Hip-hop, DJ, and collector **slang for vinyl records in general** — inherited from shellac-era \"wax discs.\" The term originated when early 78 rpm records were actually pressed from shellac compounds mixed with wax-based materials, making \"wax\" a literal descriptor. Though vinyl replaced shellac in 1948, DJs and collectors retained the terminology, which became deeply embedded in hip-hop culture during the 1970s-80s Bronx scene. Pioneering DJs like Grandmaster Flash and Kool Herc popularized phrases like \"spinning wax\" and \"digging for wax,\" cementing its place in turntablist vocabulary. The term carries cultural weight beyond its literal meaning — calling records \"wax\" signals insider knowledge and respect for vinyl's tactile, analog heritage. Modern usage spans battle DJs, crate diggers, and audiophiles worldwide, appearing in track titles, label names (Hot Wax Records), and everyday shop talk. Its persistence despite vinyl's chemical evolution demonstrates how slang preserves musical lineage and community identity.",
   "tags": [
     "dj-related",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "wax disc",
+    "slabs of wax",
+    "hot wax"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from shellac-era records (1898-1950s) which contained wax compounds; terminology persisted through vinyl era via DJ and hip-hop culture.",
+  "first_use": 1920,
   "see_also": [
     "slabs-of-wax",
     "crate-of-wax",
     "hot-wax-single"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

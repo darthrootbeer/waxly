@@ -1,21 +1,35 @@
 {
   "slug": "jam-groove",
   "term": "Jam Groove",
-  "summary": "'**noun / slang.** A long, often improvised instrumental section captured.",
-  "definition": "**noun / slang.** A long, often improvised instrumental section captured on record — prized by DJs for its extended rhythm bed.",
+  "pos": "noun",
+  "pronunciation": "/dʒæm ɡruːv/",
+  "summary": "**noun / slang.** A long, often improvised instrumental section captured.",
+  "definition": "**noun / slang.** A long, often improvised instrumental section captured on record — prized by DJs for its extended rhythm bed. Emerging from funk and soul sessions of the late 1960s and early 1970s, jam grooves typically feature extended percussion breaks, minimal melodic changes, and hypnotic basslines that create ideal mixing material. These sections often appeared as album deep cuts or B-sides, where studio time allowed musicians to stretch out beyond radio-friendly constraints. DJs and producers began isolating these passages for their pure rhythmic content, making them foundational to hip-hop sampling culture and disco mixing techniques. Classic examples include the extended instrumental passages on James Brown records and the percussive breakdowns on funk 45s. Modern DJs and beatmakers actively hunt for obscure jam grooves on original pressings, as these sections provide organic, loop-ready material that predates electronic production. The term distinguishes these naturally occurring instrumental passages from deliberately constructed breakbeats or edits.",
   "tags": [
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "groove section",
+    "instrumental jam",
+    "rhythm bed"
+  ],
+  "alt_spelings": [
+    "jam-groove",
+    "jamgroove"
+  ],
+  "etymology": "Combines 'jam' (musicians' slang for improvised playing, from 1920s jazz culture) with 'groove' (rhythmic pocket or feel), popularized by hip-hop DJs and producers in the 1980s seeking extended instrumental passages for mixing and sampling.",
+  "first_use": 1972,
   "see_also": [
     "breakbeat",
     "club-cut",
     "instrumental-dub"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

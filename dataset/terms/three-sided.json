@@ -1,20 +1,36 @@
 {
   "slug": "three-sided",
   "term": "Three-Sided LP",
+  "pos": "noun",
+  "pronunciation": "/θriː ˈsaɪdɪd ɛl piː/",
   "summary": "'**noun / format gimmick.** An **album cut across three playable sides**,.",
-  "definition": "**noun / format gimmick.** An **album cut across three playable sides**, with the fourth side blank or etched — popular for deluxe double-LPs that don’t need all four sides.",
+  "definition": "**noun / format gimmick.** An **album cut across three playable sides**, with the fourth side blank or etched — popular for deluxe double-LPs that don't need all four sides. This format emerged in the 1970s as a solution for albums exceeding single-LP capacity (roughly 45 minutes) but falling short of filling two complete discs. Rather than cramming tracks tightly and sacrificing audio quality, labels pressed the music across three sides, leaving the fourth for decorative etching, band artwork, or messages. Pink Floyd's *The Wall* and Stevie Wonder's *Songs in the Key of Life* famously employed this approach. The blank side sometimes featured laser-etched designs visible under light, transforming the unused real estate into collectible art. Modern reissues continue the tradition, often adding previously unreleased material to justify the fourth side or maintaining the original three-sided presentation for authenticity. Collectors prize these releases for their visual uniqueness and the superior sound quality achieved through less compressed grooves.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "three-sided album",
+    "three-sided record",
+    "3-sided LP"
+  ],
+  "alt_spellings": [
+    "three sided LP",
+    "3-sided LP"
+  ],
+  "etymology": "Coined in the mid-1970s when progressive rock and concept albums frequently exceeded single-LP duration but didn't require full double albums, prompting creative use of the fourth side.",
+  "first_use": 1975,
   "see_also": [
     "single-sided-lp",
     "etched-disc-edition",
-    "side-long-track"
+    "side-long-track",
+    "gatefold"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,37 @@
 {
   "slug": "poly-lined-inner",
   "term": "Poly-Lined Inner Sleeve",
-  "summary": "'**noun / packaging / audiophile.** A paper sleeve lined with smooth polyethylene.",
-  "definition": "**noun / packaging / audiophile.** A paper sleeve lined with smooth polyethylene to reduce static and scuffing — the preferred archival inner.",
+  "pos": "noun",
+  "pronunciation": "/ˈpɒli laɪnd ˈɪnər sliːv/",
+  "summary": "**noun / packaging / audiophile.** A paper sleeve lined with smooth polyethylene.",
+  "definition": "**noun / packaging / audiophile.** A paper sleeve lined with smooth polyethylene to reduce static and scuffing — the preferred archival inner. Introduced in the mid-1970s as an upgrade to plain paper sleeves, poly-lined inners feature a thin layer of high-density polyethylene (HDPE) bonded to paper stock, creating a slippery surface that minimizes friction during insertion and removal. The polyethylene layer dramatically reduces static buildup that attracts dust and prevents the paper fibers from abrading the vinyl surface, a common problem with standard paper sleeves. Mobile Fidelity Sound Lab (MoFi) popularized premium versions in the 1980s with their rice-paper/poly hybrids, setting the audiophile standard. Modern variants include round-bottom designs that protect record edges and anti-static formulations. While original pressings often shipped with generic paper sleeves, collectors routinely replace them with poly-lined alternatives to preserve record condition. Available in white paper/poly, kraft paper/poly, and rice paper/poly constructions, with prices ranging from $0.25 to $1.50 per sleeve. Essential for any serious collection, particularly valuable pressings where surface noise preservation is critical.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "poly sleeve",
+    "polylined sleeve",
+    "HDPE inner",
+    "anti-static inner"
+  ],
+  "alt_spellings": [
+    "Polylined Inner Sleeve",
+    "Poly Lined Inner Sleeve"
+  ],
+  "etymology": "Compound term combining 'polyethylene' (thermoplastic polymer developed 1930s) with 'lined' and 'inner sleeve,' emerging as audiophile packaging innovation during 1970s vinyl quality movement.",
+  "first_use": 1975,
   "see_also": [
     "rice-paper-sleeve",
     "mofi-sleeve",
     "anti-static-sleeve"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

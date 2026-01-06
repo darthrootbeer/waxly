@@ -1,15 +1,35 @@
 {
   "slug": "rail-mount",
   "term": "Rail-Mount Tonearm Board",
+  "pos": "noun",
+  "pronunciation": "/reɪl maʊnt ˈtoʊnɑːrm bɔːrd/",
   "summary": "**noun / turntable design.**.",
-  "definition": "**noun / turntable design.**",
+  "definition": "**noun / turntable design.** A tonearm mounting system that uses a linear rail or track instead of a traditional fixed armboard, allowing precise lateral adjustment of the tonearm's position relative to the platter spindle. This design enables users to fine-tune cartridge alignment geometry and accommodate different tonearm lengths without permanent modifications to the turntable chassis. Rail-mount systems typically feature a sliding platform that locks into position along a machined rail, providing repeatable positioning for optimal overhang and offset angle settings. Popular among audiophile turntable manufacturers like VPI and SME from the 1980s onward, rail-mount boards became standard on high-end modular turntables where tonearm swapping and precise setup adjustments are prioritized. The system eliminates the need for drilling new armboard holes when changing tonearms, making it particularly valuable for enthusiasts who experiment with multiple tonearm and cartridge combinations. Modern implementations often include micrometer-style adjustment mechanisms and laser-etched positioning scales for precise setup. While offering superior flexibility, rail-mount systems require careful attention to rigidity and resonance control, as any play in the mounting mechanism can compromise sonic performance.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "rail-mount armboard",
+    "sliding armboard",
+    "adjustable tonearm mount"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "railmount",
+    "rail mount"
+  ],
+  "etymology": "Coined in the late 1970s as high-end turntable manufacturers developed modular systems requiring flexible tonearm mounting solutions without compromising structural integrity.",
+  "first_use": 1978,
+  "see_also": [
+    "tonearm",
+    "armboard",
+    "cartridge-alignment"
+  ],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

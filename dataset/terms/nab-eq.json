@@ -1,16 +1,33 @@
 {
   "slug": "nab-eq",
   "term": "NAB EQ (National Association of Broadcasters Equalization)",
-  "summary": "'**noun / technical / historical.** A standardized playback equalization.",
-  "definition": "**noun / technical / historical.** A standardized playback equalization curve established by the NAB for broadcast transcription discs before the RIAA curve became universal.",
+  "pos": "phrase",
+  "pronunciation": "/ɛn eɪ biː ˌiːkwəlaɪˈzeɪʃən/",
+  "summary": "**noun / technical / historical.** A standardized playback equalization curve established by the NAB for broadcast transcription discs before the RIAA curve became universal.",
+  "definition": "**noun / technical / historical.** A standardized playback equalization curve established by the National Association of Broadcasters for broadcast transcription discs before the RIAA curve became universal in 1954. NAB EQ specified bass rolloff at 500 Hz and treble boost at 2120 Hz, designed specifically for 78 RPM and early 33⅓ RPM radio transcription discs used by broadcasting stations from the late 1930s through the early 1950s. The curve differed significantly from competing standards like Columbia's and RCA Victor's proprietary curves, creating compatibility issues when playing discs cut with different equalization on standard equipment. Radio stations required specialized playback equipment with switchable EQ curves to properly reproduce transcription discs from various sources. The introduction of the RIAA equalization standard in 1954 finally unified the industry, rendering NAB EQ obsolete for new recordings, though broadcasters continued using existing NAB-cut transcription libraries for years afterward. Today, NAB EQ survives primarily as a historical curiosity and technical specification in vintage broadcast equipment restoration, with some high-end phono preamps offering NAB curve playback for collectors of rare transcription discs. Proper playback of NAB-equalized discs requires either period-correct equipment or modern preamps with selectable equalization curves.",
   "tags": [
     "technical",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "NAB curve",
+    "NAB standard",
+    "Broadcasters EQ"
+  ],
+  "alt_spellings": [
+    "NAB equalization",
+    "N.A.B. EQ"
+  ],
+  "etymology": "Named after the National Association of Broadcasters, the American trade organization that established the standard for radio broadcast transcription discs in the pre-RIAA era of the 1940s and early 1950s.",
+  "first_use": 1942,
+  "see_also": [
+    "riaa-curve",
+    "transcription-disc",
+    "eq-curve"
+  ],
   "regions": [
     "US"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

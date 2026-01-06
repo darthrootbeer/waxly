@@ -1,21 +1,38 @@
 {
   "slug": "wing-flap-inner",
   "term": "Wing-Flap Inner Sleeve",
+  "pos": "noun",
+  "pronunciation": "/wɪŋ flæp ˈɪnər sliːv/",
   "summary": "'**noun / packaging style.** A **paper or poly-lined inner sleeve with two.",
-  "definition": "**noun / packaging style.** A **paper or poly-lined inner sleeve with two folded ‘wings’ or flaps** that open at the centre hole — often used in mid-century classical LPs.",
+  "definition": "**noun / packaging style.** A **paper or poly-lined inner sleeve with two folded 'wings' or flaps** that open at the centre hole — often used in mid-century classical LPs. The design features a vertical split down the middle with overlapping triangular flaps that protect the record while allowing easy access through the spindle hole. Popular from the 1950s through the 1970s, particularly among classical labels like RCA Victor Red Seal, Columbia Masterworks, and Deutsche Grammophon, the wing-flap construction provided superior dust protection compared to standard open-bottom sleeves. The flaps typically extended 2-3 inches from the center, creating a secure closure that prevented the record from sliding out accidentally. Most examples used heavyweight paper stock, sometimes with poly or rice-paper linings to reduce static and prevent paper dust from adhering to grooves. While largely superseded by modern poly-lined designs with bottom openings, wing-flap inners remain prized by collectors for their period authenticity and are occasionally reproduced for deluxe reissue projects seeking vintage presentation.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "center-opening inner",
+    "flap inner",
+    "wing inner",
+    "split-center sleeve"
+  ],
+  "alt_spellings": [
+    "wing flap inner sleeve",
+    "wingflap inner"
+  ],
+  "etymology": "Named for the distinctive wing-like triangular flaps that fold over the center opening, resembling bird wings. Design emerged in the early LP era as manufacturers sought better dust protection than open-ended sleeves.",
+  "first_use": 1952,
   "see_also": [
     "poly-lined-sleeve",
     "rice-paper-inner",
-    "flip-back-jacket"
+    "flip-back-jacket",
+    "dust-sleeve"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

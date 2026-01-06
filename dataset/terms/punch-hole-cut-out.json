@@ -1,21 +1,36 @@
 {
   "slug": "punch-hole-cut-out",
   "term": "Punch-Hole Cut-Out",
-  "summary": "'**noun / retail practice.** A small hole punched through the LP jacket corner.",
-  "definition": "**noun / retail practice.** A small hole punched through the LP jacket corner or barcode to mark it as discounted **cut-out stock**, no longer returnable by the retailer.",
+  "pos": "noun",
+  "pronunciation": "/pʌntʃ hoʊl kʌt aʊt/",
+  "summary": "**noun / retail practice.** A small hole punched through the LP jacket corner.",
+  "definition": "**noun / retail practice.** A small hole punched through the LP jacket corner or barcode to mark it as discounted **cut-out stock**, no longer returnable by the retailer. This practice emerged in the late 1960s as record labels sought to liquidate overstock and commercially unsuccessful albums through budget bins at significantly reduced prices, typically 50-75% off original retail. The punch-hole served as permanent physical evidence preventing retailers from returning unsold inventory for credit. Variations include corner notches, saw cuts through the spine, and drilled holes through the UPC barcode on later pressings. While punch-holes technically devalue collectible records by damaging the original packaging, many sought-after titles only exist affordably as cut-outs, making them acceptable to budget-conscious collectors. The practice declined in the CD era as digital inventory tracking replaced physical markings, though cut-out CDs featured notched or clipped cases. Certain cut-out releases—particularly jazz, prog-rock, and obscure soul titles—have become valuable despite damage, as the punch-hole itself serves as authentication of period-correct retail distribution.",
   "tags": [
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cut-out",
+    "punch hole",
+    "drill hole"
+  ],
+  "alt_spellings": [
+    "punchhole cut-out",
+    "punch hole cutout",
+    "punchhole cutout"
+  ],
+  "etymology": "Derived from the physical retail practice of using a hand punch or drill to create holes in unsold record jackets, marking them as 'cut out' from regular inventory and sold at remainder prices.",
+  "first_use": 1968,
   "see_also": [
     "cut-corner-promo",
     "non-returnable-stamp",
     "remaindered-stock"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA",
+    "UK"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

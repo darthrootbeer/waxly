@@ -1,15 +1,30 @@
 {
   "slug": "roots-reggae",
   "term": "Roots Reggae",
+  "pos": "noun",
+  "pronunciation": "/ruːts ˈrɛɡeɪ/",
   "summary": "'**Roots Reggae** - A musical style within the Reggae genre, classified according.",
-  "definition": "A specific musical style within the broader reggae genre classification.",
+  "definition": "A spiritually-focused subgenre of reggae that emerged in Jamaica during the early 1970s, characterized by heavy emphasis on Rastafarian themes, social consciousness, and militant bass-driven rhythms. Pioneered by artists like Burning Spear, Culture, and Bob Marley during his Island Records era, roots reggae distinguished itself from earlier ska and rocksteady through slower tempos, prominent bass lines, and lyrics addressing poverty, oppression, repatriation to Africa, and Jah worship. The sound typically features one-drop drum patterns, melodica or horn sections, and the distinctive \"riddim\" approach where multiple artists voice different songs over the same instrumental track. Roots reggae reached its commercial and artistic peak between 1975-1981, with seminal albums pressed at quality Jamaican plants like Dynamic Sounds and exported worldwide. Original pressings from labels like Trojan, Virgin Front Line, and Jamaican imprints like Studio One and Channel One command premium prices among collectors, particularly rare 12-inch singles and pre-release dubplates. The genre's influence extends beyond reggae into dub, dancehall, and contemporary vinyl reissue culture, with specialist labels continually mining archives for unreleased material.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "roots",
+    "conscious reggae",
+    "cultural reggae"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Roots-Reggae"
+  ],
+  "etymology": "Term derives from \"roots\" referring to African heritage and grassroots Rastafarian culture, combined with \"reggae\" (possibly from \"streggae\" meaning ragged clothing or loose woman). Popularized in early 1970s Kingston to distinguish spiritual, politically conscious music from commercial reggae.",
+  "first_use": 1972,
+  "see_also": [],
+  "regions": [
+    "JM",
+    "UK",
+    "US",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,39 @@
 {
   "slug": "servo-controlled",
   "term": "Servo-Controlled Direct Drive",
+  "pos": "noun",
+  "pronunciation": "/ˈsɜːvoʊ kənˈtroʊld dəˈrɛkt draɪv/",
   "summary": "'**noun / hi-fi motor tech.** A **direct-drive turntable whose motor speed.",
-  "definition": "**noun / hi-fi motor tech.** A **direct-drive turntable whose motor speed is governed by a feedback servo loop**, improving rotational accuracy and torque.",
+  "definition": "**noun / hi-fi motor tech.** A **direct-drive turntable whose motor speed is governed by a feedback servo loop**, improving rotational accuracy and torque. The servo mechanism continuously monitors platter rotation via an optical or magnetic sensor, comparing actual speed against a reference signal and making microsecond adjustments to maintain precise 33⅓ or 45 RPM. Introduced by Technics with the SP-10 in 1970, servo-controlled direct drive revolutionized broadcast and DJ applications by eliminating belt-slip and providing instant start/stop capability with unwavering pitch stability. The closed-loop feedback system compensates for stylus drag, external vibration, and motor cogging, achieving wow and flutter specs below 0.025% WRMS—superior to most belt-drive designs. High-torque servo motors deliver full platter speed in under one second, making models like the Technics SL-1200 the industry standard for club DJs from the mid-1970s onward. Modern implementations often incorporate quartz-locked reference oscillators and digital signal processing for even tighter speed regulation. Audiophile debate persists over whether servo systems introduce their own micro-corrections that affect musicality, though measurable performance remains exceptional.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "servo direct drive",
+    "closed-loop direct drive",
+    "feedback-controlled turntable"
+  ],
+  "alt_spellings": [
+    "servo controlled direct drive",
+    "servocontrolled direct-drive"
+  ],
+  "etymology": "Combines 'servo' (from Latin servus, 'slave,' referring to automatic control systems) with 'direct drive' motor technology. Term emerged in early 1970s Japanese hi-fi engineering literature as manufacturers developed feedback mechanisms for direct-drive turntables.",
+  "first_use": 1970,
   "see_also": [
     "quartz-lock",
     "direct-drive-motor",
-    "wow-flutter"
+    "wow-flutter",
+    "technics-sl-1200",
+    "torque"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,37 @@
 {
   "slug": "non-returnable-stamp",
   "term": "Non-Returnable Stamp",
+  "pos": "noun",
+  "pronunciation": "/nɑn rɪˈtɜrnəbəl stæmp/",
   "summary": "'**noun / retail ephemera.** A stamp or sticker used by labels to mark promotional.",
-  "definition": "**noun / retail ephemera.** A stamp or sticker used by labels to mark promotional or discounted records as ineligible for retail returns.",
+  "definition": "**noun / retail ephemera.** A stamp or sticker used by labels to mark promotional or discounted records as ineligible for retail returns. Typically reading \"Not For Sale\" or \"Non-Returnable,\" these markings were applied to white label promos, DJ copies, and review copies sent to radio stations, journalists, and industry personnel from the 1960s onward. The stamps prevented retailers from returning unsold promotional stock for credit, protecting labels from fraudulent returns while maintaining promotional circulation. Common variations include red ink stamps, gold foil stickers, and punched notches on the spine or cover. While initially deterring resale, these markings now authenticate promotional provenance for collectors, often commanding premium prices despite their original intent to devalue the product. Modern promo copies may feature printed warnings directly on the cover art rather than applied stamps, though vintage stamped copies remain highly collectible as documentation of a record's promotional history and distribution path.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "promo stamp",
+    "not for sale stamp",
+    "non-returnable marking"
+  ],
+  "alt_spellings": [
+    "Non-returnable Stamp",
+    "Nonreturnable Stamp"
+  ],
+  "etymology": "Emerged from record industry distribution practices in the 1960s as labels formalized promotional copy policies to prevent retail fraud and control inventory returns through physical product marking.",
+  "first_use": 1963,
   "see_also": [
     "promo-copy",
     "cut-out-notch",
-    "remaindered-stock"
+    "remaindered-stock",
+    "white-label"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

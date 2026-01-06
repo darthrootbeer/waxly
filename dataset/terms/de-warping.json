@@ -1,20 +1,36 @@
 {
   "slug": "de-warping",
   "term": "De-Warping",
+  "pos": "noun",
+  "pronunciation": "/diːˈwɔːrpɪŋ/",
   "summary": "'**noun / verb.** The act of flattening a warped vinyl disc using controlled.",
-  "definition": "**noun / verb.** The act of flattening a warped vinyl disc using controlled heat and pressure.",
+  "definition": "**noun / verb.** The act of flattening a warped vinyl disc using controlled heat and pressure. Warped records—whether suffering from dish warps, edge warps, or localized bubbles—can often be restored through gradual heating to just below the vinyl's glass transition temperature (around 140-160°F for PVC compounds), combined with uniform pressure from glass or metal plates. Commercial devices like the Vinyl Flat and Orb emerged in the 2000s to standardize this previously DIY process, which collectors had attempted using methods ranging from oven warming to sun exposure with mixed results. The procedure typically requires 2-4 hours of heating followed by slow cooling under pressure to prevent new distortions. Success rates vary based on warp severity and vinyl formulation—thicker audiophile pressings generally respond better than thin 1970s-80s discs. While de-warping can restore playability to otherwise unlistenable records, purists debate whether the process affects sound quality through molecular restructuring. The practice has grown in importance as vintage record prices have climbed, making previously discarded warped copies worth salvaging.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record flattening",
+    "warp correction",
+    "vinyl flattening"
+  ],
+  "alt_spelings": [
+    "dewarping",
+    "de warping"
+  ],
+  "etymology": "Coined in the late 1990s-early 2000s from prefix 'de-' (removal) and 'warping' (distortion of flat surfaces), as collectors sought systematic methods to repair heat-damaged vinyl from storage and shipping issues.",
+  "first_use": 2001,
   "see_also": [
     "warp",
     "dish-warp",
-    "vinyl-flat"
+    "vinyl-flat",
+    "glass-transition-temperature"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

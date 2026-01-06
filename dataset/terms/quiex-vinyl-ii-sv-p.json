@@ -1,21 +1,35 @@
 {
   "slug": "quiex-vinyl-ii-sv-p",
   "term": "Quiex Vinyl",
+  "pos": "noun",
+  "pronunciation": "/ˈkwaɪ.ɛks ˈvaɪnəl/",
   "summary": "noun / audiophile pressing compound. A proprietary low-noise translucent.",
-  "definition": "**noun / audiophile pressing compound.** A proprietary **low-noise translucent vinyl formula** (usually brownish-purple when held to light) developed by the Specialty Records Corp. and used for certain ’80s–’90s premium LP runs.",
+  "definition": "**noun / audiophile pressing compound.** A proprietary **low-noise translucent vinyl formula** (usually brownish-purple when held to light) developed by the Specialty Records Corp. and used for certain '80s–'90s premium LP runs. Quiex was marketed as a superior compound with reduced surface noise and improved high-frequency response compared to standard black vinyl. The formulation utilized virgin vinyl pellets with specialized additives to minimize ticks and pops during playback. Most prominently adopted by Classic Records and Mobile Fidelity Sound Lab for their audiophile reissues, Quiex pressings commanded premium prices ($25-$50 in the 1990s) and developed a dedicated following among collectors. The translucent appearance allowed light inspection of the pressing quality. While production ceased in the early 2000s as pressing plants closed, original Quiex editions remain sought-after in the collector market for their purported sonic superiority, though blind listening tests have produced mixed results regarding audible differences from high-quality standard vinyl.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Quiex SV-P",
+    "Quiex Super Vinyl Profile"
+  ],
+  "alt_spellings": [
+    "Quiex-Vinyl",
+    "QUIEX"
+  ],
+  "etymology": "Proprietary name coined by Specialty Records Corp. in the 1980s, likely combining 'quiet' with 'excellence' to emphasize the compound's low-noise characteristics.",
+  "first_use": 1985,
   "see_also": [
-    "low-noise",
-    "translucent-wax",
-    "virgin-vinyl"
+    "virgin-vinyl",
+    "audiophile-pressing",
+    "translucent-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

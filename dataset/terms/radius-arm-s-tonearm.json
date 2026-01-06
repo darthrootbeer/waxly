@@ -1,21 +1,39 @@
 {
   "slug": "radius-arm-s-tonearm",
   "term": "Radius Arm",
+  "pos": "noun",
+  "pronunciation": "/ˈreɪdiəs ɑːrm/",
   "summary": "'**noun / hi-fi term.** A **curved S-shaped tonearm** whose pivot radius.",
-  "definition": "**noun / hi-fi term.** A **curved S-shaped tonearm** whose pivot radius helps minimize tracking-angle error across the disc.",
+  "definition": "**noun / hi-fi term.** A **curved S-shaped tonearm** whose pivot radius helps minimize tracking-angle error across the disc. The S-curve design emerged in the 1950s as engineers sought to reduce tracking distortion inherent in pivoted tonearms, which trace an arc rather than following the groove's original linear cutting path. By offsetting the headshell at an angle and incorporating a gentle S-bend in the arm tube, designers achieved better tangency alignment at two null points across the record surface, significantly reducing distortion compared to straight arms. The geometry balances multiple factors: the overhang distance, offset angle, and arm length all interact to determine tracking accuracy. Most modern tonearms employ this configuration, with variations in curve severity and offset angle reflecting different design philosophies—audiophile arms often feature subtle curves optimized for minimal resonance, while DJ-oriented designs prioritize durability and skip resistance. High-end manufacturers like SME, Rega, and Jelco have refined the radius arm geometry over decades, with contemporary designs achieving tracking error below 2 degrees at optimal alignment. The S-shape remains the industry standard despite the theoretical superiority of linear tracking arms, which never achieved widespread adoption due to complexity and cost.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "S-shaped tonearm",
+    "S-arm",
+    "offset tonearm"
+  ],
+  "alt_spellings": [
+    "radius-arm",
+    "S-shaped arm"
+  ],
+  "etymology": "Named for the radius of curvature in its S-shaped geometry, designed to optimize the pivot-to-stylus relationship for minimal tracking error across the record radius.",
+  "first_use": 1958,
   "see_also": [
     "straight-arm",
     "tangential-arm",
-    "headshell"
+    "headshell",
+    "tracking-error",
+    "overhang"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

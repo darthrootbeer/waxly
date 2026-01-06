@@ -1,21 +1,33 @@
 {
   "slug": "soul",
   "term": "Soul",
+  "pos": "noun",
+  "pronunciation": "/soʊl/",
   "summary": "**Soul** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system, encompassing African American popular music that emerged in the late 1950s and early 1960s, combining elements of gospel, rhythm and blues, and jazz. Soul music is characterized by its emphasis on vocal expressiveness, call-and-response patterns, and emotional intensity. The genre reached commercial and artistic peaks during the 1960s and 1970s through labels like Motown, Stax, and Atlantic Records, with artists such as Aretha Franklin, Otis Redding, and Marvin Gaye defining its sound. Within vinyl collecting, soul records are highly sought after, particularly original pressings from Detroit, Memphis, and Philadelphia. Regional variations include Northern Soul (uptempo rarities prized by UK collectors), Southern Soul (grittier, blues-influenced), and Philly Soul (lush orchestration). The genre's influence extends to modern styles like neo-soul and contemporary R&B, making soul vinyl a cornerstone category for collectors focused on Black music history and groove-oriented dance records.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "soul music"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from \"soul\" as a cultural term within African American communities, signifying emotional depth and spiritual authenticity; applied to music in the late 1950s to distinguish it from secularized rhythm and blues.",
+  "first_use": 1958,
   "see_also": [
     "northern-soul",
     "southern-soul",
     "motown",
-    "neo-soul"
+    "neo-soul",
+    "rhythm-and-blues",
+    "funk"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JP"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

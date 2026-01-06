@@ -1,21 +1,37 @@
 {
   "slug": "removable-headshell-leads",
   "term": "Removable Headshell Leads",
+  "pos": "noun",
+  "pronunciation": "/rɪˈmuːvəbəl ˈhɛdʃɛl liːdz/",
   "summary": "'**noun / tone-arm part.** The **tiny color-coded wires** with push-on clips.",
-  "definition": "**noun / [tone](../t/tone-arm.md)-arm part.** The **tiny color-coded wires** with push-on clips that connect cartridge pins to the headshell terminals.",
+  "definition": "**noun / [tone](../t/tone-arm.md)-arm part.** The **tiny color-coded wires** with push-on clips that connect cartridge pins to the headshell terminals. These delicate wires—typically 0.5mm to 1mm in diameter—feature a standardized four-color system: white (left channel positive), blue (left ground), red (right channel positive), and green (right ground). Introduced alongside detachable headshells in the 1960s, removable leads allowed users to swap cartridges without rewiring the entire tonearm, revolutionizing turntable maintenance and upgrade culture. The push-on clips require careful alignment with cartridge pins, a process that can be frustrating for beginners but becomes essential knowledge for serious vinyl enthusiasts. Quality varies dramatically: budget leads use thin copper wire with loose-fitting clips, while audiophile versions feature OFC (oxygen-free copper) or silver conductors with gold-plated connectors ($20-$100). Poor contact or damaged leads cause channel imbalance, crackling, or complete signal loss. Modern fixed-headshell designs have eliminated removable leads on many contemporary turntables, but they remain standard on DJ equipment and vintage Japanese turntables from manufacturers like Technics, Pioneer, and Yamaha.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "headshell wires",
+    "cartridge leads",
+    "tonearm leads"
+  ],
+  "alt_spellings": [
+    "headshell leads",
+    "head-shell leads"
+  ],
+  "etymology": "Term emerged in 1960s hi-fi literature with the adoption of standardized plug-in headshell systems, combining 'removable' (detachable component) with 'headshell' (cartridge mount) and 'leads' (electrical wiring).",
+  "first_use": 1963,
   "see_also": [
     "plug-in-headshell",
     "tone-arm-wiring",
     "cartridge-pins"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,36 @@
 {
   "slug": "clean-cut-groove",
   "term": "Clean",
+  "pos": "adjective",
+  "pronunciation": "/kliːn/",
   "summary": "A precisely-cut groove with minimal burrs or swarf from the cutting lathe.",
-  "definition": "A precisely-cut groove with minimal burrs or swarf from the cutting lathe — often cited in marketing for high-fidelity pressings.",
+  "definition": "A precisely-cut groove with minimal burrs or swarf from the cutting lathe — often cited in marketing for high-fidelity pressings. The term emerged during the 1970s audiophile boom when pressing quality became a key differentiator, particularly as major labels faced competition from specialty reissue companies like Mobile Fidelity Sound Lab. A clean cut results from proper lathe maintenance, optimal cutting stylus temperature, and correct lacquer preparation, producing groove walls free from the microscopic metal particles (swarf) and raised edges (burrs) that cause surface noise and tracking distortion. Japanese pressings from the 1980s, especially from plants like Toshiba-EMI and JVC, became legendary for their clean cuts, achieved through meticulous quality control and superior cutting equipment. Modern reissue labels continue to emphasize clean cutting as a hallmark of premium pressings, though the term has become somewhat diluted by marketing overuse. Collectors can verify clean cuts through visual inspection under magnification or by listening for absence of pre-echo and consistent low surface noise across the entire disc.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "clean groove",
+    "clean pressing",
+    "burr-free cut"
+  ],
+  "alt_spellings": [
+    "clean-cut"
+  ],
+  "etymology": "Derived from machining terminology where 'clean cut' describes metal working with minimal waste material; adopted by vinyl mastering engineers in the 1970s.",
+  "first_use": 1974,
   "see_also": [
     "lacquer-cut",
     "audiophile",
-    "stamper"
+    "stamper",
+    "swarf",
+    "surface-noise"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

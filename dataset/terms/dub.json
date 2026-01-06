@@ -1,15 +1,28 @@
 {
   "slug": "dub",
   "term": "Dub",
+  "pos": "noun",
+  "pronunciation": "/dʌb/",
   "summary": "'**Dub** - A musical style within the Reggae genre, classified according.",
-  "definition": "A specific musical style within the broader reggae genre classification.",
+  "definition": "A transformative musical style and production technique that emerged from reggae in late 1960s Jamaica, pioneered by engineers like King Tubby and Lee \"Scratch\" Perry. Dub involves stripping down existing reggae recordings to their rhythmic foundation—emphasizing bass and drums—while adding extensive studio effects including reverb, delay, echo, and phasing. The producer becomes an active performer, manipulating the mixing board in real-time, dropping instruments in and out, creating spatial dynamics that turned the studio itself into an instrument. Originally created as instrumental B-sides for sound system culture, dub versions allowed DJs to toast over the riddims. The genre profoundly influenced electronic music development, from post-punk and trip-hop to modern EDM and dubstep. Dub plates—exclusive acetate pressings of these mixes—became crucial weapons in sound system clashes. The aesthetic revolutionized production philosophy, demonstrating that remixing and deconstruction could be as creative as original composition, establishing the remix as an art form.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "dub version",
+    "version",
+    "dub mix"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from Jamaican patois meaning to duplicate or copy, originally referring to dubbing instrumental versions from master tapes onto acetate discs for sound systems.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "JM",
+    "UK",
+    "US",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

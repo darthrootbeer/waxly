@@ -1,21 +1,38 @@
 {
   "slug": "idler-wheel-drive",
   "term": "Idler-Wheel Drive",
+  "pos": "noun",
+  "pronunciation": "/ˈaɪdlər wiːl draɪv/",
   "summary": "A classic turntable mechanism where a rubber-covered wheel transmits power.",
-  "definition": "A classic turntable mechanism where a rubber-covered wheel transmits power from the motor spindle to the platter’s inner rim — famous for torque and “drive,” often with slight rumble.",
+  "definition": "A classic turntable mechanism where a rubber-covered wheel transmits power from the motor spindle to the platter's inner rim — famous for torque and \"drive,\" often with slight rumble. The idler wheel, typically made of hard rubber or synthetic elastomer, sits between the motor shaft and the platter rim, spinning at high speed to transfer rotational energy. Dominant from the 1950s through early 1970s, idler-wheel designs powered most consumer and broadcast turntables, including legendary models like the Thorens TD-124, Garrard 301/401, and EMT 927. The system delivers immediate start-up torque and powerful bass response, prized by DJs and broadcasters for cueing and back-cueing. However, the rubber wheel's direct contact introduces mechanical noise — a characteristic low-frequency rumble that varies with wheel condition. As the rubber ages, hardens, or develops flat spots, speed stability and noise worsen. Belt-drive and direct-drive technologies largely displaced idler systems by the mid-1970s, but recent decades have seen renewed collector interest and boutique manufacturers reviving idler designs with modern materials. Enthusiasts value the \"muscular\" sound and analog immediacy, while critics cite inferior speed consistency compared to contemporary drive methods. Maintenance requires periodic wheel replacement and motor bearing service.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "idler drive",
+    "rim drive",
+    "friction drive"
+  ],
+  "alt_spellings": [
+    "idler wheel drive",
+    "idler-wheel-drive"
+  ],
+  "etymology": "Named for the \"idler\" wheel component that runs freely between motor and platter, transmitting motion without being directly powered itself. Term emerged in audio engineering literature during the 1950s as manufacturers standardized turntable drive terminology.",
+  "first_use": 1950,
   "see_also": [
     "direct-drive",
     "belt-drive",
-    "rim-drive"
+    "rim-drive",
+    "platter",
+    "turntable"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

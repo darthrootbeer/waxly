@@ -1,22 +1,34 @@
 {
   "slug": "patent-pending",
   "term": "Patent Pending Sleeve",
+  "pos": "noun",
+  "pronunciation": "/ˈpeɪtənt ˈpɛndɪŋ sliːv/",
   "summary": "'**noun / collector term.** A sleeve manufactured while the design was awaiting.",
-  "definition": "**noun / collector term.** A sleeve manufactured while the design was awaiting patent approval, often marked “Patent Pending” — useful for dating early pressings.",
+  "definition": "**noun / collector term.** A record sleeve manufactured and distributed while the jacket design, printing process, or structural innovation was awaiting patent approval from the USPTO or equivalent patent office, typically marked with \"Patent Pending\" or \"Pat. Pend.\" text. These sleeves serve as crucial dating tools for collectors seeking to identify first pressings and early production runs, as the patent pending designation was usually removed once approval was granted or the application abandoned. Most commonly found on American releases from the 1950s through 1970s, particularly on innovative gatefold designs, laminated covers, and specialized inner sleeves with anti-static or protective features. The marking's presence indicates manufacture during a specific window—often just months—making these sleeves significantly more valuable to completist collectors. Notable examples include early Blue Note tip-on gatefolds and Columbia's first stereo-era jackets with structural reinforcements.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Pat. Pend. Sleeve",
+    "Patent Applied Sleeve"
+  ],
+  "alt_spellings": [
+    "Patent-Pending Sleeve",
+    "Patent pending sleeve"
+  ],
+  "etymology": "Derives from U.S. patent law requiring manufacturers to mark products with pending patent status during the application period, adopted by record industry for innovative packaging designs from the late 1940s onward.",
+  "first_use": 1948,
   "see_also": [
     "first-press-sleeve",
     "misprint-cover",
     "transitional-jacket"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

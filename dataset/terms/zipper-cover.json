@@ -1,20 +1,32 @@
 {
   "slug": "zipper-cover",
   "term": "Zipper",
+  "pos": "noun",
+  "pronunciation": "/ˈzɪpər/",
   "summary": "'**noun / iconic jacket gimmick.** A **LP jacket featuring a real working.",
-  "definition": "**noun / iconic jacket gimmick.** A **LP jacket featuring a real working zipper built into the cover art** — most famously the Andy Warhol-designed *Sticky Fingers* (1971).",
+  "definition": "**noun / iconic jacket gimmick.** An LP jacket featuring a real working zipper built into the cover art — most famously the Andy Warhol-designed *Sticky Fingers* (1971) for The Rolling Stones. The original pressing featured a functional brass zipper sewn into the front cover, which could be unzipped to reveal cotton underwear printed beneath. Manufactured by Craig Braun Inc., the elaborate construction required hand-assembly and significantly increased production costs, making it one of the most expensive album packages of its era. The metal zipper frequently damaged the vinyl inside and scratched adjacent records in storage, leading many retailers to stock it separately. Despite these practical flaws, the cover became one of rock's most celebrated designs, epitomizing the excess and artistic ambition of early-1970s album art. Later pressings replaced the metal zipper with printed graphics due to cost and damage concerns. Original zipper copies command premium prices among collectors, with mint-condition examples particularly scarce due to the inherent storage problems. The design has never been successfully replicated for another major release, cementing its status as a singular moment in packaging history.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "zipper cover",
+    "zipper sleeve",
+    "zipper jacket"
+  ],
+  "alt_spellings": [],
+  "etymology": "Named for the functional zipper fastener integrated into the album cover design, a packaging innovation unique to the 1971 Rolling Stones release.",
+  "first_use": 1971,
   "see_also": [
     "gimmick-sleeve",
     "die-cut-jacket",
     "peel-off-banana-cover"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

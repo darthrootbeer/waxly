@@ -1,20 +1,35 @@
 {
   "slug": "wash-clean",
   "term": "Wash-Clean Method / Wet-Play",
+  "pos": "noun",
+  "pronunciation": "/wɒʃ kliːn ˈmɛθəd/ /wɛt pleɪ/",
   "summary": "'**noun / obsolete cleaning fad.** A **1960s-70s hi-fi practice of playing.",
-  "definition": "**noun / obsolete cleaning fad.** A **1960s-70s hi-fi practice of playing LPs wet with a water-based solution** to reduce clicks — later discouraged because of residue and groove damage.",
+  "definition": "**noun / obsolete cleaning fad.** A **1960s-70s hi-fi practice of playing LPs wet with a water-based solution** to reduce clicks and surface noise during playback. Audiophile magazines promoted the technique as a way to achieve quieter reproduction by filling microscopic groove irregularities with fluid, temporarily masking pops and ticks. Practitioners applied distilled water, isopropyl alcohol mixtures, or proprietary solutions directly to the record surface while the platter rotated, sometimes using felt applicators or spray bottles. The method gained traction in high-end audio circles during the early stereo era when surface noise was considered the primary barrier to realistic sound reproduction. By the late 1970s, the practice fell into disrepute as collectors discovered that wet-playing caused **stylus contamination, accelerated groove wear, and left mineral deposits** that attracted dust and degraded fidelity over time. Residual moisture also risked label damage and encouraged mold growth in humid climates. Modern record care emphasizes **dry playback after proper cleaning**, with vacuum or ultrasonic machines removing contaminants before the stylus ever touches the groove. Wet-play remains a cautionary tale in vinyl maintenance, occasionally referenced when debunking persistent cleaning myths.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "wet playback",
+    "liquid play method",
+    "fluid play technique"
+  ],
+  "alt_spelings": [
+    "wash clean",
+    "wet play",
+    "wetplay"
+  ],
+  "etymology": "Coined in mid-1960s audiophile publications combining \"wash\" (cleaning action) with \"clean\" (desired result); \"wet-play\" emerged as shorthand descriptor for the controversial practice.",
+  "first_use": 1964,
   "see_also": [
     "wet-play-disc-cleaner",
     "ultrasonic-rinse",
     "groove-damage-residue"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

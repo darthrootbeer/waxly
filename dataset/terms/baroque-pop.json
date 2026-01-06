@@ -1,15 +1,29 @@
 {
   "slug": "baroque-pop",
   "term": "Baroque Pop",
+  "pos": "noun",
+  "pronunciation": "/bəˈroʊk pɒp/",
   "summary": "'**Baroque Pop** - A musical style within the Pop genre, classified according.",
-  "definition": "A specific musical style within the broader pop genre classification.",
+  "definition": "A sophisticated pop music style that incorporates classical instrumentation and compositional techniques derived from Baroque and Renaissance music traditions. Emerged in the mid-1960s as artists and producers began layering string sections, harpsichords, oboes, French horns, and other orchestral elements over rock and pop arrangements. The Beach Boys' \"Pet Sounds\" (1966) and The Beatles' \"Eleanor Rigby\" (1966) exemplified the genre's commercial peak, with producer Phil Spector's Wall of Sound technique providing a sonic blueprint. The Left Banke's \"Walk Away Renee\" showcased the harpsichord as signature instrument. Characterized by complex arrangements, counterpoint melodies, and lush production values that contrasted sharply with raw garage rock of the era. Experienced revival periods in the 1990s with chamber pop artists and continues to influence indie rock producers. Vinyl pressings from the original 1960s baroque pop era are highly collectible, with original mono mixes often preferred by audiophiles for their clarity and separation of orchestral elements.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "chamber pop",
+    "orchestral pop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "baroque pop",
+    "Baroque-pop"
+  ],
+  "etymology": "Coined by music journalists in the late 1960s, combining \"baroque\" (referring to the ornate European musical period of 1600-1750) with \"pop\" to describe the fusion of classical orchestration with contemporary popular music structures.",
+  "first_use": 1966,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

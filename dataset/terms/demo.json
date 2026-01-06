@@ -1,22 +1,39 @@
 {
   "slug": "demo",
   "term": "Demo Copy",
+  "pos": "noun",
+  "pronunciation": "/ˈdɛmoʊ ˈkɒpi/",
   "summary": "A promotional pressing distributed to radio stations, reviewers, or shops.",
-  "definition": "A promotional pressing distributed to radio stations, reviewers, or shops before official release—often stamped or stickered “For Demonstration Only.”",
+  "definition": "A promotional pressing distributed to radio stations, reviewers, or shops before official release—often stamped or stickered \"For Demonstration Only.\" Demo copies emerged in the 1950s as record labels sought to build airplay momentum ahead of commercial availability. These pressings typically feature distinctive markings: white labels with typed information, drill holes through the center, clipped corners, or gold \"Demonstration—Not For Sale\" stamps. Some demos include mono and stereo versions on opposite sides, or radio edits unavailable on commercial releases. Labels distributed demos weeks or months early to program directors and influential tastemakers, making them valuable tools for chart positioning. In collecting circles, demos command premium prices when they predate commercial pressings or contain alternate mixes. Certain legendary demos—particularly from Motown, soul, and psych labels—fetch hundreds or thousands of dollars due to their rarity and historical significance as the first physical manifestation of classic recordings.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "promo copy",
+    "demonstration record",
+    "advance pressing",
+    "DJ copy"
+  ],
+  "alt_spellings": [
+    "demo-copy"
+  ],
+  "etymology": "Abbreviated from \"demonstration copy,\" adopted by record labels in the early 1950s to distinguish promotional pressings from commercial stock intended for retail sale.",
+  "first_use": 1952,
   "see_also": [
     "promo-copy",
     "white-label",
-    "radio-edit"
+    "radio-edit",
+    "test-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

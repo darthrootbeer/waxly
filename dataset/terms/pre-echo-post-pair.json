@@ -1,20 +1,38 @@
 {
   "slug": "pre-echo-post-pair",
   "term": "Pre-Echo",
-  "summary": "'**noun / technical artifact.** Twin phenomena — **pre-echo** is heard just.",
-  "definition": "**noun / technical artifact.** Twin phenomena — **pre-echo** is heard just before a loud transient; **post-echo** lingers just after — both result from groove or tape print-through.",
+  "pos": "noun",
+  "pronunciation": "/priː ˈɛkoʊ/",
+  "summary": "**noun / technical artifact.** Twin phenomena — **pre-echo** is heard just before a loud transient; **post-echo** lingers just after — both result from groove or tape print-through.",
+  "definition": "**noun / technical artifact.** Twin phenomena where unwanted audio bleeds between adjacent grooves or tape layers. **Pre-echo** manifests as a faint ghost of a loud sound heard one revolution before the actual passage, while **post-echo** appears one revolution after. On vinyl, tight groove spacing causes physical pressure that transfers the modulation pattern from one wall to its neighbor — most audible before snare hits, cymbal crashes, or dramatic song openings. The effect plagued early LPs cut for maximum playing time, where grooves sat dangerously close. Mastering engineers combat pre-echo through strategic groove spacing, reducing modulation depth before transients, or cutting at lower levels. On tape, print-through occurs when magnetic particles on one layer influence adjacent windings during storage, creating similar phantom echoes. The phenomenon became a quality benchmark: budget pressings with cramped grooves exhibit pronounced pre-echo, while audiophile editions with generous spacing minimize it. Collectors scrutinize quiet intro passages — a pristine **Kind of Blue** or **Dark Side of the Moon** opening reveals mastering quality instantly. Modern cutting lathes with computer-controlled variable pitch largely eliminated the problem, though vintage pressings remain haunted by these spectral artifacts.",
   "tags": [
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "print-through",
+    "ghost echo",
+    "phantom echo"
+  ],
+  "alt_spellings": [
+    "pre echo",
+    "preecho",
+    "post-echo",
+    "post echo"
+  ],
+  "etymology": "Coined in early tape recording era (1940s-50s) from acoustic 'echo' phenomenon; 'pre-' prefix denotes temporal reversal of expected effect, where the echo precedes rather than follows the source.",
+  "first_use": 1948,
   "see_also": [
     "groove-spacing",
     "hot-cut",
-    "lacquer-memory"
+    "lacquer-memory",
+    "variable-pitch"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

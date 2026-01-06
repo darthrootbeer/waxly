@@ -1,21 +1,37 @@
 {
   "slug": "ivory-label-variant",
   "term": "Ivory-Label Variant",
+  "pos": "noun",
+  "pronunciation": "/ˈaɪvəri ˈleɪbəl ˈvɛriənt/",
   "summary": "'**noun / slang.** A collector nickname for certain pressings distinguished.",
-  "definition": "**noun / slang.** A collector nickname for certain pressings distinguished by a pale ivory-colored label background — often limited to early or export runs.",
+  "definition": "**noun / slang.** A collector nickname for certain pressings distinguished by a pale ivory-colored label background — often limited to early or export runs. The term emerged in collecting communities to differentiate specific pressings where labels departed from standard white, black, or colored paper stock in favor of an off-white, cream, or ivory hue. These variants typically appear in first pressings, promotional copies, or regional export editions where different paper stock was sourced. Notable examples include certain Blue Note pressings from the 1950s-60s where ivory labels indicate Japanese or European export runs, and select Columbia pressings where ivory-toned labels denote early manufacturing batches. Collectors prize these variants for their rarity and potential sonic differences, as label color often correlates with specific pressing plants or time periods. Distinguishing true ivory labels from age-yellowed white labels requires careful examination under proper lighting, as decades of storage can artificially create cream tones on originally white stock.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cream label",
+    "off-white label variant",
+    "ivory pressing"
+  ],
+  "alt_spellings": [
+    "Ivory Label Variant",
+    "ivory-label pressing"
+  ],
+  "etymology": "Coined by record collectors in the 1980s-90s to categorize pressings with distinctive ivory-colored label stock, differentiating them from standard white or colored label variants in pressing identification guides.",
+  "first_use": 1985,
   "see_also": [
     "label-variant",
-    "first",
-    "collectors-corner"
+    "first-pressing",
+    "export-pressing",
+    "pressing-plant"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

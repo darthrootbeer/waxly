@@ -1,15 +1,31 @@
 {
   "slug": "yes",
   "term": "yes",
+  "pos": "interjection",
+  "pronunciation": "/jɛs/",
   "summary": "A term used in vinyl culture to indicate agreement or confirmation.",
-  "definition": "# yes",
+  "definition": "# yes\n\nAn exclamation of affirmation or enthusiasm in vinyl collecting contexts, expressing approval of a find, purchase, or listening experience. The term appears frequently in online vinyl communities and record store interactions when collectors discover sought-after pressings, score rare titles at favorable prices, or experience particularly satisfying playback moments. Common usage includes celebrating clean first pressings (\"Original UK press? Yes!\"), successful thrift store finds, or when a record's sonic quality exceeds expectations. The interjection has become a cultural marker of the vinyl community's shared excitement, often appearing in social media posts showcasing new acquisitions or grail discoveries. While not exclusive to vinyl culture, its ubiquitous use in collector forums, YouTube unboxing videos, and record store conversations has made it a recognizable expression of the hobby's inherent enthusiasm and treasure-hunt mentality.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "affirmative",
+    "agreement"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "yess",
+    "yesss"
+  ],
+  "etymology": "Adopted from standard English affirmative usage into vinyl collecting vernacular through online forums and social media in the 2000s-2010s.",
+  "first_use": null,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

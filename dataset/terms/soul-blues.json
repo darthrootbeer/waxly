@@ -1,15 +1,27 @@
 {
   "slug": "soul-blues",
   "term": "Soul Blues",
+  "pos": "noun",
+  "pronunciation": "/soʊl bluːz/",
   "summary": "'**Soul Blues** - A musical style within the Blues genre, classified according.",
-  "definition": "A specific musical style within the broader blues genre classification.",
+  "definition": "A hybrid musical style that emerged in the late 1960s and early 1970s, blending traditional blues structures with the smoother vocal stylings, horn arrangements, and rhythmic sophistication of soul music. Soul blues typically features emotive, gospel-influenced vocals over blues chord progressions, supported by tight rhythm sections and punctuated by brass and string arrangements reminiscent of Stax and Motown productions. Artists like Bobby \"Blue\" Bland, Little Milton, and Z.Z. Hill pioneered the sound, which became a staple of the Chitlin' Circuit and urban blues clubs. The genre experienced commercial resurgence in the 1980s through Malaco Records, which documented Southern soul blues extensively on vinyl. Collectors prize original pressings from labels like Duke, ABC-Bluesway, and Malaco for their warm, analog production values that capture the genre's emotional intensity and instrumental richness.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Southern Soul Blues",
+    "Soul-Blues"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Soul-Blues",
+    "Soulblues"
+  ],
+  "etymology": "Coined in the late 1960s to describe the fusion of traditional blues with contemporary soul music production techniques, reflecting the urbanization of blues audiences and the influence of gospel-trained vocalists on the genre.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "US"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

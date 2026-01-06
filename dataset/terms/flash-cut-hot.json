@@ -1,21 +1,36 @@
 {
   "slug": "flash-cut-hot",
   "term": "Flash-Cut",
-  "summary": "'**noun / slang.** A lacquer master cut at higher volume and deeper groove.",
-  "definition": "**noun / slang.** A lacquer master cut at higher volume and deeper groove for maximum club-play punch — often hotter but more prone to pre-echo or skipping on weak tonearms.",
+  "pos": "noun",
+  "pronunciation": "/flæʃ kʌt/",
+  "summary": "**noun / slang.** A lacquer master cut at higher volume and deeper groove.",
+  "definition": "**noun / slang.** A lacquer master cut at significantly higher volume and deeper groove modulation than standard pressing specifications, designed to maximize sonic impact and low-end punch in club environments. Emerging from the disco and early hip-hop eras of the late 1970s and early 1980s, flash-cuts prioritized dance floor presence over technical perfection, with cutting engineers deliberately pushing lacquer limits to achieve louder playback without DJ volume adjustment. The technique creates wider groove spacing and more aggressive stylus excursion, resulting in dramatically increased bass response and overall SPL. However, this aggressive cutting approach carries inherent tradeoffs: increased risk of pre-echo (ghosting of loud passages in preceding grooves), potential for groove jumping on lightweight tonearms or poorly aligned cartridges, reduced playing time per side, and accelerated stylus wear. Flash-cuts became particularly prized among club DJs and mobile sound system operators who valued raw volume over fidelity. Modern reissue labels occasionally replicate flash-cut techniques for 12-inch singles targeting DJ markets, though contemporary mastering standards generally favor more conservative groove modulation to ensure playback compatibility across consumer equipment.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "hot cut",
+    "loud cut",
+    "club cut"
+  ],
+  "alt_spelings": [
+    "flash cut",
+    "flashcut"
+  ],
+  "etymology": "Coined in disco-era cutting rooms, combining 'flash' (showy, attention-grabbing) with 'cut' (lacquer mastering process), reflecting the technique's prioritization of immediate sonic impact over technical restraint.",
+  "first_use": 1978,
   "see_also": [
     "hot-cut",
-    "feed-through-groove",
-    "extended-mix"
+    "lacquer",
+    "mastering",
+    "pre-echo",
+    "groove-spacing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

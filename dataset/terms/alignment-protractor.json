@@ -1,20 +1,39 @@
 {
   "slug": "alignment-protractor",
   "term": "Alignment Protractor",
+  "pos": "noun",
+  "pronunciation": "/əˈlaɪnmənt prəˈtræktər/",
   "summary": "A printed or mirrored template used to align a turntable cartridge so the.",
-  "definition": "A printed or mirrored template used to align a turntable cartridge so the stylus tracks grooves at the proper angle across the record’s radius, minimizing distortion.",
+  "definition": "A printed or mirrored template used to align a turntable cartridge so the stylus tracks grooves at the proper angle across the record's radius, minimizing distortion. Developed in the 1960s as high-fidelity playback demands increased, protractors utilize geometric calculations based on null point theory—typically Baerwald, Löfgren, or Stevenson alignment geometries—to determine optimal stylus positioning. The tool features a spindle hole for centering on the turntable platter and reference grids or lines that correspond to specific points along a record's playing surface. Users adjust cartridge mounting screws while observing the stylus position against these reference marks, ensuring proper overhang and offset angle. Two-point protractors remain most common, establishing alignment at inner and outer null points where tracking error reaches zero. Mirrored versions offer superior accuracy by eliminating parallax error inherent in paper templates. While digital alignment tools and smartphone apps have emerged, traditional protractors remain preferred by serious audiophiles for their reliability and precision. Proper alignment dramatically reduces inner groove distortion and extends stylus life, making the protractor an essential setup tool despite its deceptively simple appearance. Premium models from manufacturers like Acoustical Systems and Dr. Feickert cost $100-$400, though printable versions based on specific tonearm geometry are available free online.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cartridge alignment gauge",
+    "stylus alignment tool",
+    "tonearm protractor",
+    "null point gauge"
+  ],
+  "alt_spellings": [
+    "alignment protractor",
+    "alignment-protractor"
+  ],
+  "etymology": "Combines 'alignment' from mechanical engineering terminology with 'protractor' (Latin protractus, 'drawn forward'), referring to the angular measurement tool. Adapted for audio use following research into optimal tracking geometry by Danish engineer H.G. Baerwald (1941) and Swedish engineer J.K. Löfgren (1938).",
+  "first_use": 1963,
   "see_also": [
-    "cartridge-setup",
+    "cartridge",
     "overhang",
-    "tracking-angle"
+    "tracking-angle",
+    "null-point",
+    "azimuth"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

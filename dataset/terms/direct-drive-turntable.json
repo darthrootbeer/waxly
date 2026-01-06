@@ -1,21 +1,37 @@
 {
   "slug": "direct-drive-turntable",
   "term": "Direct-Drive Turntable",
+  "pos": "noun",
+  "pronunciation": "/dəˈrɛkt draɪv ˈtɜrnˌteɪbəl/",
   "summary": "A turntable whose platter is driven directly by a motor shaft—renowned for.",
-  "definition": "A turntable whose platter is driven directly by a motor shaft—renowned for quick start/stop torque and rock-steady speed, ideal for DJ use.",
+  "definition": "A turntable whose platter is driven directly by a motor shaft, eliminating the need for belts or idler wheels. The motor's rotor is mounted directly beneath the platter spindle, creating a mechanically simple yet electronically sophisticated drive system. Developed by Matsushita (Technics) in 1969 with the groundbreaking SP-10, direct-drive technology revolutionized DJing with its instant start/stop capability, high torque, and immunity to belt wear. The quartz-locked motor maintains rock-steady speed even under heavy stylus drag during backspinning and scratching. The iconic Technics SL-1200, introduced in 1972 and refined through the MK2 (1979), became the industry standard in clubs and radio stations worldwide, with production running until 2010 before its 2016 revival. While audiophiles often prefer belt-drive designs for their perceived isolation from motor vibration, direct-drive remains unmatched for DJ applications and broadcast use. Modern high-end direct-drive tables from Technics, Pioneer, and others incorporate advanced motor control and vibration damping, bridging the gap between professional utility and audiophile performance.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "DD turntable",
+    "direct drive"
+  ],
+  "alt_spellings": [
+    "direct drive turntable"
+  ],
+  "etymology": "Coined in 1969 by Matsushita Electric (Technics) to describe their innovative motor-to-platter coupling system that eliminated intermediary drive mechanisms, contrasting with existing belt-drive and idler-wheel designs.",
+  "first_use": 1969,
   "see_also": [
-    "belt-drive",
+    "belt-drive-turntable",
     "quartz-lock",
-    "pitch-control"
+    "pitch-control",
+    "technics-sl-1200",
+    "torque"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

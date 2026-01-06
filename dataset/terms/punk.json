@@ -1,15 +1,25 @@
 {
   "slug": "punk",
   "term": "Punk",
+  "pos": "noun",
+  "pronunciation": "/pʌŋk/",
   "summary": "'**Punk** - A musical style within the Rock genre, classified according to.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A raw, aggressive musical style that emerged in the mid-1970s as a reaction against the perceived excesses of mainstream rock. Characterized by short, fast-paced songs with stripped-down instrumentation, distorted guitars, and confrontational lyrics, punk emphasized energy and attitude over technical proficiency. The genre spawned crucial vinyl releases from bands like The Ramones, Sex Pistols, and The Clash, with original pressings of early punk 7-inches and LPs becoming highly collectible. Punk's DIY ethos extended to record production, with many bands self-releasing albums on independent labels, often in limited runs with distinctive artwork. The movement's influence on vinyl culture includes the proliferation of indie labels, colored vinyl variants, and the 7-inch single format's resurgence. Subgenres like hardcore punk, post-punk, and pop-punk continued the tradition, each with their own vinyl collecting communities and sought-after pressings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "punk rock"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from American slang meaning 'worthless' or 'rotten,' the term was reclaimed by 1970s musicians and critics to describe the stripped-down, rebellious rock movement emerging simultaneously in New York and London.",
+  "first_use": 1976,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,30 @@
 {
   "slug": "big-band",
   "term": "Big Band",
+  "pos": "noun",
+  "pronunciation": "/bɪɡ bænd/",
   "summary": "'**Big Band** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A musical style within the broader jazz genre characterized by large orchestral ensembles typically featuring 10-25 musicians organized into sections of saxophones, trumpets, trombones, and rhythm instruments. Emerged during the 1920s and reached its commercial and cultural zenith during the Swing Era of the 1930s-40s, when bandleaders like Duke Ellington, Count Basie, and Benny Goodman dominated popular music. Big band arrangements emphasized coordinated section playing, call-and-response patterns between brass and reeds, and featured soloists supported by orchestral backing. The genre's decline in the 1950s coincided with rising bebop and rock music, though it persisted in jazz education and specialty recordings. Original big band pressings from the 78rpm and early LP eras remain highly collectible, particularly first pressings on labels like Columbia, Victor, and Blue Note. Modern reissues often focus on audiophile-quality transfers that capture the full dynamic range and spatial separation of large ensemble recordings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "swing band",
+    "jazz orchestra"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "big-band",
+    "bigband"
+  ],
+  "etymology": "Term emerged in the 1920s to distinguish large jazz orchestras from smaller combo formats, with 'big' referring to ensemble size rather than commercial success or cultural impact.",
+  "first_use": 1926,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

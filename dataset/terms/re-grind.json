@@ -1,20 +1,35 @@
 {
   "slug": "re-grind",
   "term": "Re-Grind Vinyl",
-  "summary": "'**noun / manufacturing term.** Vinyl compound **made from ground-up scrap.",
-  "definition": "**noun / manufacturing term.** Vinyl compound **made from ground-up scrap trimmings or returned records** blended back into new pressings — common in budget LPs.",
+  "pos": "noun",
+  "pronunciation": "/ˈriː ɡraɪnd ˈvaɪnəl/",
+  "summary": "**noun / manufacturing term.** Vinyl compound **made from ground-up scrap trimmings or returned records** blended back into new pressings — common in budget LPs.",
+  "definition": "**noun / manufacturing term.** Vinyl compound made from ground-up scrap trimmings or returned records blended back into new pressings. During the pressing process, edge trimmings, center punch-outs, and rejected discs are collected, ground into pellets, and mixed with virgin PVC to reduce material costs. Budget labels in the 1960s-70s routinely used 30-50% re-grind ratios, while audiophile pressings avoided it entirely. Re-grind increases surface noise, reduces high-frequency clarity, and creates visual inconsistencies — the telltale mottled, non-uniform appearance of cheaper records. Some pressing plants even purchased returned cutout bins and overstock to grind down, creating what collectors call \"landfill vinyl.\" The practice peaked during the vinyl glut of 1978-80 when millions of unsold disco and rock albums were recycled into new budget releases. Modern reissue labels explicitly advertise \"100% virgin vinyl\" to distance themselves from re-grind's compromised reputation, though environmental concerns have renewed interest in sustainable recycling methods that maintain acceptable audio quality through careful blending ratios.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "recycled vinyl",
+    "scrap vinyl",
+    "reprocessed vinyl"
+  ],
+  "alt_spelings": [
+    "regrind",
+    "re-ground"
+  ],
+  "etymology": "Manufacturing term combining \"re-\" (again) and \"grind\" (pulverize), adopted from plastics industry terminology when vinyl record pressing industrialized in the 1950s.",
+  "first_use": 1952,
   "see_also": [
     "virgin-vinyl",
     "low-noise-vinyl",
     "landfill-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

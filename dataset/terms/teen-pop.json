@@ -1,15 +1,32 @@
 {
   "slug": "teen-pop",
   "term": "Teen Pop",
+  "pos": "noun",
+  "pronunciation": "/tiːn pɒp/",
   "summary": "'**Teen Pop** - A musical style within the Pop genre, classified according.",
-  "definition": "A specific musical style within the broader pop genre classification.",
+  "definition": "A commercial pop music subgenre specifically marketed toward adolescent audiences, typically featuring upbeat tempos, catchy hooks, themes of young romance, and polished studio production. Emerged as a distinct category in the late 1950s with artists like Frankie Avalon and Annette Funicello, reaching early peaks during the bubblegum era of the late 1960s with acts like The Archies and The Monkees. The genre experienced major revivals in the early 1980s with teen idols like Debbie Gibson and Tiffany, and again in the late 1990s-early 2000s with the explosion of boy bands (Backstreet Boys, *NSYNC) and pop princesses (Britney Spears, Christina Aguilera). Vinyl releases from these eras, particularly original pressings from the late 1990s teen pop boom, have become increasingly collectible as millennials seek nostalgia pieces. The genre's emphasis on visual presentation and coordinated marketing campaigns made album artwork and promotional materials integral to the collecting experience.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "bubblegum pop",
+    "youth pop",
+    "adolescent pop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "teen-pop",
+    "teenpop"
+  ],
+  "etymology": "Coined in the late 1950s combining 'teen' (teenager) with 'pop' (popular music), reflecting the post-war emergence of adolescents as a distinct consumer demographic with disposable income and cultural influence.",
+  "first_use": 1958,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,37 @@
 {
   "slug": "reissue-label-variant",
   "term": "Reissue Label Variant",
+  "pos": "noun",
+  "pronunciation": "/ˌriːˈɪʃuː ˈleɪbəl ˈvɛəriənt/",
   "summary": "'**noun / collector term.** A **later label design** (fonts, logos, rim text).",
-  "definition": "**noun / collector term.** A **later label design** (fonts, logos, rim text) appearing on a reissued title — often used by collectors to date or authenticate copies.",
+  "definition": "**noun / collector term.** A **later label design** (fonts, logos, rim text) appearing on a reissued title — often used by collectors to date or authenticate copies. When a record is repressed months or years after its original release, labels frequently update their design elements: company logos evolve, typeface choices change, rim text gets added or removed, and color schemes shift. These variations serve as chronological markers, allowing collectors to distinguish a 1968 original from a 1971 second pressing or a 1980s reissue. Common changes include transitioning from mono to stereo designations, adding barcodes (post-1973), updating copyright symbols, or switching from bold to thin rim text. Major labels like Capitol, Columbia, and Blue Note went through multiple label eras — Capitol's rainbow labels, Columbia's six-eye versus two-eye designs, Blue Note's progression from deep groove to Liberty-era labels. Discographers and price guides rely heavily on label variants to establish pressing chronology and relative value, as original pressings typically command premium prices over later reissues despite identical audio content.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "label variation",
+    "label change",
+    "repress label"
+  ],
+  "alt_spellings": [
+    "re-issue label variant"
+  ],
+  "etymology": "Term emerged in collector communities during the 1970s-80s as vinyl enthusiasts developed systematic methods for cataloging pressing differences and dating records through observable label characteristics.",
+  "first_use": 1975,
   "see_also": [
     "label-design-change",
     "pressing-ring",
-    "matrix-number"
+    "matrix-number",
+    "original-pressing",
+    "deadwax"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,30 @@
 {
   "slug": "wax-stamp-promo-gold",
   "term": "Wax-Stamp Promo",
-  "summary": "**noun / promo-mark style.**.",
-  "definition": "**noun / promo-mark style.**",
+  "pos": "noun",
+  "pronunciation": "/wæks stæmp ˈproʊmoʊ/",
+  "summary": "**noun / promo-mark style.**",
+  "definition": "**noun / promo-mark style.** A promotional vinyl record identified by a physical wax stamp impression pressed into the label or deadwax area, typically reading \"PROMO,\" \"DEMONSTRATION,\" or \"NOT FOR SALE.\" Emerged in the 1950s as labels sought tamper-proof methods to distinguish promotional copies sent to radio stations, DJs, and reviewers from commercial stock. Unlike printed or sticker-based promo markings that could be removed or obscured, wax stamps were permanently embossed during manufacturing, creating a raised or indented impression. Gold-colored wax stamps became particularly associated with Columbia Records and its subsidiaries in the 1960s-70s, though other labels used various colors. These pressings often featured earlier matrix numbers or different mastering than retail versions, making them sought after by collectors for potential sonic differences. The practice declined in the 1980s as white label promos and later digital servicing replaced physical promotional formats. Today, wax-stamp promos command premium prices in the collector market, especially for jazz, soul, and classic rock titles where they may represent first pressings or superior masterings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "wax stamp",
+    "stamped promo",
+    "gold stamp promo"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Wax Stamp Promo",
+    "Waxstamp Promo"
+  ],
+  "etymology": "Derived from the sealing-wax-like appearance of the colored stamp impression pressed into vinyl labels during manufacturing, combined with 'promo' as shorthand for promotional record.",
+  "first_use": 1952,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "CA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

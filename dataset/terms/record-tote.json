@@ -1,22 +1,39 @@
 {
   "slug": "record-tote",
   "term": "Record Tote",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛkərd toʊt/",
   "summary": "'**noun / portable accessory.** A **portable bin or box-style case** with.",
-  "definition": "**noun / portable accessory.** A **portable bin or box-style case** with handle for transporting LPs or 45s — from vintage leatherette boxes to modern flight-cases.",
+  "definition": "**noun / portable accessory.** A **portable bin or box-style case** with handle for transporting LPs or 45s — from vintage leatherette boxes to modern flight-cases. Emerged in the 1950s alongside portable record players, early totes featured rigid cardboard or wooden construction with fabric or leatherette covering, typically holding 20-50 LPs in vertical orientation. By the 1960s, manufacturers like Platt and Brexton produced specialized DJ totes with reinforced corners and metal hardware. Mobile disco culture of the 1970s drove demand for heavy-duty aluminum flight-case designs with foam interiors, capable of protecting 50-100 records during transport. Modern iterations range from vintage-styled cardboard carriers favored by collectors to professional-grade ATA-rated cases with wheels and TSA locks used by touring DJs. Capacity varies from compact 7-inch singles carriers (50-100 records) to large LP totes (100+ albums). Essential for record fairs, DJ gigs, and moving collections safely — proper totes prevent warping and edge damage during transit.",
   "tags": [
     "dj-related",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record carrier",
+    "record case",
+    "vinyl tote",
+    "LP carrier",
+    "record box"
+  ],
+  "alt_spellings": [
+    "record-tote",
+    "recordtote"
+  ],
+  "etymology": "Combines 'record' with 'tote' (American English, from 17th-century 'to tote' meaning 'to carry'), popularized by luggage manufacturers in the 1950s as portable record players and home hi-fi ownership expanded.",
+  "first_use": 1952,
   "see_also": [
-    "leatherette-case",
     "flight-case",
-    "portable-record-changer"
+    "45-adapter",
+    "dj-bag"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

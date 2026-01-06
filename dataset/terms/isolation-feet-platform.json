@@ -1,20 +1,39 @@
 {
   "slug": "isolation-feet-platform",
   "term": "Isolation Feet",
+  "pos": "noun",
+  "pronunciation": "/ˌaɪsəˈleɪʃən fiːt/",
   "summary": "Shock-absorbing feet or platforms placed under turntables or amps to minimize.",
-  "definition": "Shock-absorbing feet or platforms placed under turntables or amps to minimize vibration from floors, speakers, or footsteps.",
+  "definition": "Shock-absorbing feet or platforms placed under turntables or amplifiers to minimize vibration transmission from floors, speakers, or footsteps that can degrade playback quality. These devices work by decoupling audio equipment from its supporting surface using materials like rubber, Sorbothane, spring-loaded mechanisms, or sophisticated ball-bearing systems. The physics involve either absorbing vibrational energy or creating a mechanical barrier that prevents resonances from traveling into the turntable's plinth and ultimately reaching the stylus. Common implementations range from simple rubber pucks costing under $20 to elaborate machined platforms with adjustable spikes exceeding $500. High-end audiophile designs often employ multiple isolation stages or magnetic levitation principles. Isolation feet became essential as turntables grew more sophisticated in the 1970s, particularly for suspended subchassis designs sensitive to external vibrations. The practice gained renewed importance during vinyl's 21st-century resurgence as listeners placed turntables on less-than-ideal surfaces like IKEA furniture or near active subwoofers. Effective isolation dramatically reduces rumble, improves bass definition, and prevents acoustic feedback loops where speaker output feeds back through the turntable. Audiophile debates rage over material choices, with advocates championing everything from carbon fiber to brass cones, though measurable improvements vary widely by implementation and listening environment.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "isolation platforms",
+    "vibration dampers",
+    "turntable feet",
+    "isolation pads",
+    "decoupling feet"
+  ],
+  "alt_spellings": [
+    "isolation foot"
+  ],
+  "etymology": "Term emerged from audio engineering vocabulary in the 1970s, combining 'isolation' (from Latin 'insula' meaning island) with 'feet' to describe devices that island equipment from vibration sources.",
+  "first_use": 1972,
   "see_also": [
     "plinth",
     "wall-mount-shelf",
-    "foot-fall-feedback"
+    "foot-fall-feedback",
+    "rumble",
+    "suspended-subchassis"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

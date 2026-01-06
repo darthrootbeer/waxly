@@ -1,21 +1,36 @@
 {
   "slug": "skip-test",
   "term": "Skip-Test",
+  "pos": "noun",
+  "pronunciation": "/skɪp tɛst/",
   "summary": "'**noun / cartridge-setup term.** A **special test-record band cut at extreme.",
-  "definition": "**noun / [cartridge](../c/cartridge.md)-setup term.** A **special test-record band cut at extreme velocity** to evaluate a cartridge’s tracking ability without skipping.",
+  "definition": "**noun / [cartridge](../c/cartridge.md)-setup term.** A **special test-record band cut at extreme velocity** to evaluate a cartridge's tracking ability without skipping. These high-amplitude grooves—typically cut at +18dB to +24dB above standard levels—push a stylus to its mechanical limits, revealing whether tracking force, anti-skate, and cartridge compliance are properly calibrated. Introduced in the 1960s alongside precision test records from manufacturers like Shure (TTR-103, TTR-115) and CBS STR series, skip-tests became essential tools for dealers demonstrating cartridge performance and audiophiles fine-tuning their rigs. The most notorious band is the Shure \"Torture Track\" at 80 microns peak velocity, which only premium cartridges could navigate cleanly. Modern skip-tests appear on contemporary test LPs from Analogue Productions and Mobile Fidelity, though many vintage pressings remain the gold standard. Successfully passing a skip-test without audible distortion or mistracking indicates optimal setup; failure signals excessive tracking force, worn stylus, or fundamental cartridge inadequacy. Collectors prize original test records, with sealed Shure TTR-series discs commanding $100-$300, while the practice remains vital for serious turntable setup despite digital calibration alternatives.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tracking test",
+    "torture track",
+    "anti-skate test"
+  ],
+  "alt_spellings": [
+    "skip test",
+    "skiptest"
+  ],
+  "etymology": "Coined in early 1960s hi-fi industry from literal function: testing whether stylus skips across high-velocity grooves during extreme tracking conditions.",
+  "first_use": 1963,
   "see_also": [
     "tracking-ability-test",
     "bias-adjustment",
     "anti-skate-calibration"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

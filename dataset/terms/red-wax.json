@@ -1,22 +1,39 @@
 {
   "slug": "red-wax",
   "term": "Red-Wax Pressing",
+  "pos": "noun",
+  "pronunciation": "/rɛd wæks ˈprɛsɪŋ/",
   "summary": "'**noun / collector term.** A record **pressed on translucent red-tinted.",
-  "definition": "**noun / collector term.** A record **pressed on translucent red-tinted vinyl** instead of standard carbon-black PVC. Often used in Japan (1950s-70s) and by certain Soviet or audiophile labels.",
+  "definition": "**noun / collector term.** A record **pressed on translucent red-tinted vinyl** instead of standard carbon-black PVC. Often used in Japan (1950s-70s) and by certain Soviet or audiophile labels. Japanese manufacturers like Victor and King Records adopted red vinyl for classical and jazz releases, believing the absence of carbon black improved sonic clarity—a claim disputed by modern analysis but influential in period marketing. Soviet-era Melodiya pressings occasionally used red vinyl for export editions and special releases. The practice declined in the 1970s as colored vinyl became associated with promotional gimmicks rather than audiophile quality. Contemporary red pressings appear primarily as limited editions or reissues trading on vintage aesthetics. Collectors prize original Japanese red-wax classical recordings and rare Soviet exports, with mint copies commanding premiums of 200-400% over black vinyl equivalents. The term \"wax\" persists from shellac-era terminology despite vinyl's chemical composition.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "red vinyl",
+    "red pressing",
+    "crimson wax"
+  ],
+  "alt_spellings": [
+    "red wax",
+    "red-wax"
+  ],
+  "etymology": "Coined in 1950s Japan where manufacturers marketed red-tinted PVC pressings as premium products, combining traditional \"wax\" terminology with the distinctive color identifier.",
+  "first_use": 1952,
   "see_also": [
     "color-vinyl",
     "quiex-vinyl",
-    "translucent-wax"
+    "translucent-wax",
+    "audiophile-pressing"
   ],
   "regions": [
-    "US"
+    "JA",
+    "RU",
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

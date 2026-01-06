@@ -1,22 +1,37 @@
 {
   "slug": "groovebox",
   "term": "Groovebox",
+  "pos": "noun",
+  "pronunciation": "/ˈɡruːvbɒks/",
   "summary": "noun / slang. While technically an electronic sampler-sequencer, in vinyl-DJ.",
-  "definition": "**noun / slang.** While technically an electronic sampler-sequencer, in vinyl-DJ slang it refers to portable drum-machine samplers (e.g., Roland MC-303) often used alongside turntables to add beats to records.",
+  "definition": "**noun / slang.** While technically an electronic sampler-sequencer, in vinyl-DJ slang it refers to portable drum-machine samplers (e.g., Roland MC-303) often used alongside turntables to add beats to records. The term emerged in the mid-1990s when Roland marketed its MC-303 as a \"groovebox,\" combining step sequencing, synthesis, and rhythm programming in a compact unit. Hip-hop and drum-and-bass DJs quickly adopted these devices to layer breakbeats, basslines, and effects over vinyl sets, creating hybrid performances that bridged traditional turntablism and electronic production. Unlike full samplers or drum machines, grooveboxes emphasized immediacy and portability, with hands-on controls designed for live manipulation. The Roland MC-505, Korg Electribe series, and Novation Circuit became staples in DJ booths throughout the late 1990s and early 2000s. While digital DJ software has largely replaced hardware grooveboxes in mainstream use, they remain valued in underground scenes for their tactile workflow and distinctive lo-fi character. Collectors seek vintage units like the MC-303 and Electribe ESX for their iconic sounds and nostalgic appeal, with working examples commanding premium prices.",
   "tags": [
     "equipment",
     "dj-related",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "groove box",
+    "beat box sequencer",
+    "hardware sequencer"
+  ],
+  "alt_spellings": [
+    "groove-box",
+    "groove box"
+  ],
+  "etymology": "Coined by Roland Corporation in 1996 as marketing term for the MC-303, combining \"groove\" (rhythmic feel) and \"box\" (self-contained unit).",
+  "first_use": 1996,
   "see_also": [
     "sampler",
     "battle-breaks",
     "live-pa"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

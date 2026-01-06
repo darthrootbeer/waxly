@@ -1,20 +1,35 @@
 {
   "slug": "die-cut",
   "term": "Die-Cut Sleeve",
+  "pos": "noun",
+  "pronunciation": "/daɪ kʌt sliːv/",
   "summary": "A jacket with a deliberate cut-out window—showing part of the record label.",
-  "definition": "A jacket with a deliberate cut-out window—showing part of the record label or picture sleeve beneath.",
+  "definition": "A record jacket featuring a precisely manufactured cut-out window, typically circular or shaped, that reveals the label information or artwork beneath. The term derives from the industrial die-cutting process, where a sharp steel die stamps through the cardboard sleeve during production. Die-cut sleeves emerged in the late 1940s as record labels sought cost-effective generic packaging—a single die-cut design could accommodate any artist or release by displaying the label through the window. The most common form is the center-hole die-cut, showing the label's logo and catalog number, though some feature shaped windows (guitars, keyholes, abstract designs) for artistic effect. Major labels like Columbia, Capitol, and Atlantic used standardized die-cut sleeves extensively through the 1950s-70s for singles and promotional copies. While generic die-cuts reduced packaging costs, they also limited album art possibilities, contributing to their decline as gatefold and full-color printing became standard. Today, die-cut sleeves appear primarily in reissues honoring original pressings, indie releases pursuing vintage aesthetics, or special editions where the cut-out creates intentional visual interplay between outer sleeve and inner label or picture disc.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cut-out sleeve",
+    "window sleeve",
+    "die-cut jacket"
+  ],
+  "alt_spellings": [
+    "diecut sleeve",
+    "die cut sleeve"
+  ],
+  "etymology": "From industrial die-cutting manufacturing, where shaped steel dies cut patterns in materials; adopted by record industry for cost-efficient generic packaging in late 1940s.",
+  "first_use": 1948,
   "see_also": [
     "picture-sleeve",
     "company-sleeve",
     "jacket-art"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

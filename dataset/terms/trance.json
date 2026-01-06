@@ -1,15 +1,27 @@
 {
   "slug": "trance",
   "term": "Trance",
+  "pos": "noun",
+  "pronunciation": "/træns/",
   "summary": "'**Trance** - A musical style within the Electronic genre, classified according.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A high-energy electronic dance music genre characterized by repetitive melodic phrases, tempo ranging from 125-150 BPM, and extended build-ups designed to induce euphoric states on the dancefloor. Emerged in early 1990s Germany through producers like Sven Väth and Jam & Spoon, combining elements of techno's mechanical precision with house music's emotional warmth. The genre emphasizes layered synthesizer textures, arpeggiated basslines, and dramatic breakdowns followed by climactic drops. Subgenres include progressive trance (slower, atmospheric), uplifting trance (anthemic, euphoric), and psytrance (psychedelic, faster). Reached commercial peak in late 1990s-early 2000s through artists like Paul van Dyk, Tiësto, and Armin van Buuren, with labels like Anjunabeats and Armada Music dominating vinyl releases. While pressed primarily on 12-inch singles for DJ use, notable albums like BT's \"ESCM\" and Ferry Corsten's \"L.E.F.\" received full LP treatment. Modern vinyl reissues of classic trance from 1995-2005 command premium prices among collectors seeking the genre's golden era.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "progressive trance",
+    "uplifting trance"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Named for the hypnotic, trance-like mental state the music's repetitive structures and building intensity aim to induce in listeners and dancers.",
+  "first_use": 1992,
+  "see_also": [],
+  "regions": [
+    "EU",
+    "UK",
+    "US",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

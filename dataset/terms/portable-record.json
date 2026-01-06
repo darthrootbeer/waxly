@@ -1,21 +1,36 @@
 {
   "slug": "portable-record",
   "term": "Portable Record Changer",
-  "summary": "'**noun / hardware / historical.** A compact suitcase-style phonograph with.",
-  "definition": "**noun / hardware / historical.** A compact suitcase-style phonograph with built-in speaker and auto-changer mechanism, common in mid-20th-century homes and dorms.",
+  "pos": "noun",
+  "pronunciation": "/ˈpɔːrtəbəl ˈrekərd ˈtʃeɪndʒər/",
+  "summary": "**noun / hardware / historical.** A compact suitcase-style phonograph with built-in speaker and auto-changer mechanism, common in mid-20th-century homes and dorms.",
+  "definition": "**noun / hardware / historical.** A compact suitcase-style phonograph with built-in speaker and auto-changer mechanism, common in mid-20th-century homes and dorms. These self-contained units typically featured a spring-loaded spindle that could stack and automatically play multiple records in sequence, usually up to six or eight discs. Popular from the 1950s through early 1970s, they combined portability with the convenience of extended listening sessions without manual intervention. Most models used ceramic cartridges with heavy tracking forces (5-8 grams), making them notorious among collectors today for causing accelerated groove wear. Manufacturers like RCA Victor, Magnavox, and Decca dominated the market, targeting teenagers and college students with colorful vinyl-covered cases in two-tone patterns. The built-in speakers were typically 4-6 inches, delivering modest sound quality prioritizing convenience over fidelity. While celebrated for democratizing music access and enabling the spread of rock and roll culture, these units are now viewed as record destroyers due to their crude tonearms and excessive stylus pressure. Vintage examples remain collectible as mid-century design artifacts rather than playback equipment.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "portable phonograph",
+    "suitcase record player",
+    "portable changer",
+    "briefcase turntable"
+  ],
+  "alt_spellings": [
+    "portable record-changer"
+  ],
+  "etymology": "Emerged in post-WWII America as manufacturers miniaturized home console technology into portable formats, combining 'portable' (from Latin portare, to carry) with 'record changer' automatic playback mechanisms developed in the 1940s.",
+  "first_use": 1948,
   "see_also": [
     "ceramic-cartridge",
     "penny-weight-hack",
     "console-player"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,39 @@
 {
   "slug": "sealed-copy-still-ss",
   "term": "Sealed Copy / Still-Sealed",
+  "pos": "noun",
+  "pronunciation": "/siːld ˈkɒpi/",
   "summary": "'**noun / collector-grading term.** A **record still in its original shrink-wrap.",
-  "definition": "**noun / collector-grading term.** A **record still in its original shrink-wrap or factory seal**, presumed unplayed; often denoted **SS** in grading.",
+  "definition": "**noun / collector-grading term.** A **record still in its original shrink-wrap or factory seal**, presumed unplayed and in pristine condition. Commonly abbreviated **SS** in record grading shorthand, sealed copies represent the highest tier of collectibility, commanding premium prices often 2-5x higher than opened Near Mint equivalents. The seal's integrity serves as proof of virginity—no needle has touched the grooves, no handling has risked surface damage. However, sealed status offers no guarantee against manufacturing defects, warping from storage conditions, or seam splits in the jacket. Savvy collectors examine sealed records for telltale bulges indicating warps or inspect hype stickers for clues about pressing plants and original release windows. The sealed copy market exploded in the 1980s-90s as investors treated records like stocks, shrink-wrapping becoming authentication armor. Modern reissues complicate matters—newly sealed 2020s pressings lack the cachet of original sealed pressings from the release era. Controversially, some collectors reseal opened records, making authentication crucial for high-value transactions.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "factory sealed",
+    "mint sealed",
+    "unopened copy"
+  ],
+  "alt_spellings": [
+    "still sealed",
+    "still-sealed"
+  ],
+  "etymology": "Term emerged in collector vernacular during the 1970s mail-order boom when dealers needed shorthand to describe condition sight-unseen; SS abbreviation standardized by Goldmine grading guide in 1980s.",
+  "first_use": 1975,
   "see_also": [
     "original-shrink",
     "cut-out-hole",
-    "sealed-but-warped"
+    "sealed-but-warped",
+    "mint-condition",
+    "hype-sticker"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

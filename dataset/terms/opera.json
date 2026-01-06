@@ -1,15 +1,27 @@
 {
   "slug": "opera",
   "term": "Opera",
+  "pos": "noun",
+  "pronunciation": "/ˈɒp.ər.ə/",
   "summary": "'**Opera** - A musical style within the Classical genre, classified according.",
-  "definition": "A specific musical style within the broader classical genre classification.",
+  "definition": "A theatrical art form combining orchestral music, vocal performance, drama, and stagecraft, originating in late 16th-century Italy. In vinyl collecting, opera recordings represent a significant classical music category, with pressings ranging from complete multi-disc box sets to highlight compilations and famous arias. Major opera labels like Decca, Deutsche Grammophon, EMI, and RCA Red Seal produced landmark recordings throughout the LP era, capturing legendary performances from La Scala, the Metropolitan Opera, and Covent Garden. Collectors prize first pressings of iconic recordings such as Callas's Tosca, Karajan's Ring Cycle, and Pavarotti's early Decca releases. Opera LPs often feature elaborate gatefold packaging with libretti, cast photos, and production notes. The format's extended playing time made it ideal for opera, though complete works still required multiple discs. Audiophile reissues from labels like Speakers Corner and Classic Records continue to make historic opera recordings available on heavyweight vinyl, emphasizing the dynamic range and vocal clarity that made these performances legendary.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "lyric drama",
+    "operatic music"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "From Italian 'opera' meaning 'work,' shortened from 'opera in musica' (work in music). The art form emerged in Florence around 1597 with Jacopo Peri's Dafne, spreading throughout Europe over subsequent centuries.",
+  "first_use": 1597,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

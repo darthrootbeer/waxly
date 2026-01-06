@@ -1,21 +1,36 @@
 {
   "slug": "knock-on",
   "term": "Knock-On Rumble",
-  "summary": "'**noun / slang.** Low-frequency vibration introduced when nearby doors slam,.",
-  "definition": "**noun / slang.** Low-frequency vibration introduced when nearby doors slam, subs pound, or furniture resonates, “knocking-on” into a sensitive turntable setup.",
+  "pos": "noun",
+  "pronunciation": "/nɒk ɒn ˈrʌmbəl/",
+  "summary": "**noun / slang.** Low-frequency vibration introduced when nearby doors slam,.",
+  "definition": "**noun / slang.** Low-frequency vibration introduced when nearby doors slam, subs pound, or furniture resonates, \"knocking-on\" into a sensitive turntable setup. The term describes external mechanical energy transmitted through floors, walls, or shared surfaces that causes the stylus to track unwanted low-frequency motion, producing audible rumble or feedback. Common culprits include footsteps on wooden floors, washing machines, HVAC systems, and especially bass-heavy music from adjacent rooms or speakers. The phenomenon became particularly problematic with the rise of high-compliance cartridges in the 1970s and DJ culture in the 1980s, where sound system vibrations could easily couple into decks. Solutions range from simple isolation feet and wall-mounted shelves to sophisticated spring-suspension platforms and concrete plinths. Audiophiles obsess over knock-on mitigation, sometimes installing dedicated floating floors or placing turntables on separate structural supports. DJs developed techniques like the \"finger brake\" to dampen vibrations during live mixing. Modern direct-drive tables with heavy platters offer better resistance than lightweight belt-drives, though proper isolation remains essential for any serious listening environment where external vibrations threaten playback fidelity.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "structure-borne feedback",
+    "mechanical coupling",
+    "vibration transfer"
+  ],
+  "alt_spellings": [
+    "knockon rumble",
+    "knock on rumble"
+  ],
+  "etymology": "Coined in UK DJ and audiophile circles during the 1980s, combining \"knock-on effect\" (British English for cascading consequences) with acoustic \"rumble\" terminology.",
+  "first_use": 1982,
   "see_also": [
-    "cabinet-rumble",
     "acoustic-feedback",
-    "isolation-feet"
+    "isolation-feet",
+    "rumble",
+    "subsonic-filter"
   ],
   "regions": [
-    "US"
+    "UK",
+    "US",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

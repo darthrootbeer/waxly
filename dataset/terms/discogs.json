@@ -1,21 +1,36 @@
 {
   "slug": "discogs",
   "term": "Discogs",
+  "pos": "noun",
+  "pronunciation": "/ˈdɪskɒɡz/",
   "summary": "'**noun / proper name.** An online global database and marketplace for vinyl,.",
-  "definition": "**noun / proper name.** An online global database and marketplace for vinyl, CDs, and tapes—vital for catalog numbers, pressing info, and resale.",
+  "definition": "**noun / proper name.** An online global database and marketplace for vinyl, CDs, and tapes—vital for catalog numbers, pressing info, and resale. Launched in 2000 by Kevin Lewandowski, Discogs (short for \"discographies\") has become the definitive crowdsourced resource for record collectors worldwide, documenting pressing variations, matrix numbers, label codes, and release histories with forensic detail. The platform combines a comprehensive cataloging system with an integrated marketplace where users can buy and sell physical music media using standardized grading criteria (Mint to Poor). Essential for identifying pressings by dead wax etchings, distinguishing original issues from reissues, and determining fair market values through sales history data. The database now contains over 15 million releases contributed by millions of users, making it indispensable for serious collectors, dealers, and anyone researching vinyl provenance. Modern pressing plants and labels often reference Discogs entries as authoritative documentation of their own catalog history.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Discogs.com",
+    "the Discogs database"
+  ],
+  "alt_spellings": [],
+  "etymology": "Portmanteau of \"discographies,\" reflecting the site's original mission to document complete recording catalogs. Founded during the early internet era when physical music documentation was fragmented across printed guides and collector knowledge.",
+  "first_use": 2000,
   "see_also": [
     "cat-no",
     "matrix-number",
-    "marketplace-grading"
+    "deadwax",
+    "pressing",
+    "reissue"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU",
+    "GLOBAL"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

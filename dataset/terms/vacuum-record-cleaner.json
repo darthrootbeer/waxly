@@ -1,21 +1,37 @@
 {
   "slug": "vacuum-record-cleaner",
   "term": "Vacuum Record Cleaner",
-  "summary": "noun / cleaning device. A machine that applies a cleaning fluid to the record’s.",
-  "definition": "**noun / cleaning device.** A **machine that applies a cleaning fluid to the record’s surface, scrubs the grooves, and then vacuums away the dirty fluid** — the classic audiophile method before ultrasonic units.",
+  "pos": "noun",
+  "pronunciation": "/ˈvækjuːm ˈrɛkərd ˈkliːnər/",
+  "summary": "noun / cleaning device. A machine that applies a cleaning fluid to the record's.",
+  "definition": "**noun / cleaning device.** A **machine that applies a cleaning fluid to the record's surface, scrubs the grooves, and then vacuums away the dirty fluid** — the classic audiophile method before ultrasonic units. Pioneered by Nitty Gritty and Keith Monks in the 1970s, these machines revolutionized vinyl care by actually extracting contaminants rather than spreading them around. The process typically involves a velvet brush or pad that agitates cleaning solution deep into the grooves while a vacuum arm simultaneously sucks away dissolved grime, mold release compounds, and fingerprint oils. Models range from manual units like the Spin-Clean with DIY vacuum attachment ($100-300) to fully automatic systems like the VPI HW-40 or Clearaudio Double Matrix ($2,000-7,000) that rotate, clean, and dry records with minimal handling. The method remains the gold standard for serious collectors dealing with estate-sale finds and thrift-store rescues, though ultrasonic cleaners have gained ground since 2010 for their ability to reach groove bottoms without physical contact.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record vacuum",
+    "vacuum cleaning machine",
+    "wet-vac cleaner"
+  ],
+  "alt_spellings": [
+    "vacuum record-cleaner",
+    "vacuum-record cleaner"
+  ],
+  "etymology": "Emerged in mid-1970s when audiophiles adapted industrial vacuum technology to vinyl care, combining wet-cleaning methods with suction extraction to prevent re-contamination.",
+  "first_use": 1974,
   "see_also": [
     "ultrasonic-record-cleaner",
     "enzyme-bath-clean",
     "anti-static-brush"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

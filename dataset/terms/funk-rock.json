@@ -1,15 +1,30 @@
 {
   "slug": "funk-rock",
   "term": "Funk Rock",
+  "pos": "noun",
+  "pronunciation": "/fʌŋk rɒk/",
   "summary": "'**Funk Rock** - A musical style within the Funk genre, classified according.",
-  "definition": "A specific musical style within the broader funk genre classification.",
+  "definition": "A hybrid musical style that emerged in the late 1960s, fusing the syncopated rhythms and groove-oriented bass lines of funk with the amplified guitar distortion and energy of rock music. Pioneered by acts like Sly and the Family Stone and later popularized by bands such as Red Hot Chili Peppers, Living Colour, and Prince, funk rock emphasizes tight rhythmic interplay between bass and drums while incorporating rock's aggressive guitar work and vocal intensity. The genre reached commercial peaks in the 1980s and 1990s, influencing alternative rock and spawning subgenres like funk metal. On vinyl, funk rock pressings are prized for their dynamic range requirements—capturing both the punchy low-end funk grooves and the raw edge of rock guitars demands quality mastering and pressing. Original pressings from labels like Warner Bros., Epic, and Paisley Park command collector interest, particularly first pressings of landmark albums that defined the genre's crossover appeal.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "rock-funk",
+    "funk-influenced rock"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "funk/rock",
+    "funkrock"
+  ],
+  "etymology": "Compound term combining 'funk' (from African American vernacular, meaning earthy or soulful) and 'rock' (shortened from rock and roll), first applied to describe late 1960s artists blending both genres' characteristics.",
+  "first_use": 1969,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

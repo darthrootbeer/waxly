@@ -1,22 +1,37 @@
 {
   "slug": "side-long",
   "term": "Side-Long Track",
-  "summary": "'**noun / sequencing term.** A **single extended composition that fills nearly.",
-  "definition": "**noun / sequencing term.** A **single extended composition that fills nearly an entire LP side** — typical in prog-[rock](../r/rock.md), [ambient](../a/ambient.md), [jazz](../j/jazz.md), or DJ-mix albums.",
+  "pos": "noun",
+  "pronunciation": "/saɪd lɔːŋ træk/",
+  "summary": "**noun / sequencing term.** A **single extended composition that fills nearly an entire LP side** — typical in prog-[rock](../r/rock.md), [ambient](../a/ambient.md), [jazz](../j/jazz.md), or DJ-mix albums.",
+  "definition": "**noun / sequencing term.** A **single extended composition that fills nearly an entire LP side** — typical in prog-[rock](../r/rock.md), [ambient](../a/ambient.md), [jazz](../j/jazz.md), or DJ-mix albums. Emerged in the late 1960s when artists began exploiting the LP format's 20-25 minute per-side capacity for uninterrupted musical statements. Progressive rock bands like Yes (*\"Close to the Edge\"*) and Pink Floyd (*\"Echoes\"*) pioneered the format, while jazz artists like Miles Davis (*\"Bitches Brew\"*) used it for extended improvisations. The approach requires careful mastering to manage [inner-groove distortion](../i/inner-groove-distortion.md), as extended playing time reduces [groove](../g/groove.md) spacing and can compromise high-frequency response toward the label. Electronic and ambient artists from Brian Eno to Aphex Twin have embraced side-long formats for immersive listening experiences. Modern DJ mix albums and dance compilations frequently employ side-long continuous mixes. Reissue labels often preserve original side-long sequencing even when digital formats eliminate physical constraints, recognizing the compositional intent behind the format.",
   "tags": [
     "dj-related",
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "side-long piece",
+    "full-side track",
+    "album-side composition"
+  ],
+  "alt_spellings": [
+    "sidelong",
+    "side long"
+  ],
+  "etymology": "Coined in late 1960s rock journalism to describe compositions designed to occupy an entire LP side, combining \"side\" (one face of a vinyl record) with \"long\" (extended duration).",
+  "first_use": 1969,
   "see_also": [
     "inner-groove-distortion",
     "continuous-mix-cut",
     "locked-groove"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

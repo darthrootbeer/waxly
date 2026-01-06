@@ -1,15 +1,29 @@
 {
   "slug": "electric-blues",
   "term": "Electric Blues",
+  "pos": "noun",
+  "pronunciation": "/ɪˈlɛktrɪk bluːz/",
   "summary": "'**Electric Blues** - A musical style within the Blues genre, classified.",
-  "definition": "A specific musical style within the broader blues genre classification.",
+  "definition": "A transformative evolution of traditional acoustic blues that emerged in the 1940s when artists began amplifying guitars, harmonicas, and adding electric bass and drums to create a louder, more aggressive sound suitable for urban clubs and dance halls. Pioneered by artists like Muddy Waters, Howlin' Wolf, and T-Bone Walker in Chicago and Memphis, electric blues incorporated amplification technology developed during and after World War II, fundamentally changing the genre's sonic character with sustained notes, distortion, and increased volume. The style became the foundation for rock and roll in the 1950s and directly influenced British blues revival bands of the 1960s. Electric blues records remain highly collectible, particularly original Chess, Vee-Jay, and Modern pressings from the 1950s, with early stereo pressings and mono first editions commanding premium prices among vinyl collectors focused on blues and early rock lineage.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Urban Blues",
+    "Chicago Blues",
+    "Amplified Blues"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Electric-Blues"
+  ],
+  "etymology": "Term coined in the late 1940s to distinguish the newly amplified urban blues sound from traditional acoustic Delta and country blues styles.",
+  "first_use": 1948,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

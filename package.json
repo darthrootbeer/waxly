@@ -1,0 +1,22 @@
+{
+  "name": "waxly",
+  "version": "2.1.0",
+  "description": "Vinyl terminology dataset and API",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node tools/validate.js",
+    "expand": "node tools/expand-definitions.js",
+    "expand:test": "node tools/expand-definitions.js --limit 5 --dry-run"
+  },
+  "keywords": ["vinyl", "records", "terminology", "music"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

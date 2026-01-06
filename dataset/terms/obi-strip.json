@@ -1,21 +1,37 @@
 {
   "slug": "obi-strip",
   "term": "Obi Strip",
+  "pos": "noun",
+  "pronunciation": "/ˈoʊbi strɪp/",
   "summary": "noun / packaging. A narrow paper band wrapped vertically (sometimes horizontally).",
-  "definition": "**noun / packaging.** A narrow paper band wrapped vertically (sometimes horizontally) around Japanese LP jackets, printed with title, price, catalog info, or promotional blurbs. Considered part of the collectible packaging.",
+  "definition": "**noun / packaging.** A narrow paper band wrapped vertically (sometimes horizontally) around Japanese LP jackets, printed with title, price, catalog info, or promotional blurbs. Originating in Japan's postwar record industry, the obi (literally \"sash\" in Japanese) serves multiple functions: displaying romanized titles for Western releases, listing catalog numbers, providing pricing information, and featuring promotional text or artist commentary. Typically 1.5-2 inches wide, obis wrap around the right spine edge of LPs, though some early pressings used horizontal bands across the top. Colors and designs vary by label and era—Victor's red obis, Columbia's blue, King's yellow became instantly recognizable markers. The strip's fragility makes intact examples highly prized by collectors; mint condition Japanese pressings with obis command significant premiums over obi-less copies. Western collectors began seeking Japanese pressings in the 1980s for their superior mastering quality, making the obi a symbol of audiophile authenticity. Modern reissues often replicate vintage obi designs, though purists distinguish reproductions from originals. Some obis include rare inserts or lyric sheets tucked behind the band.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "obi",
+    "spine card",
+    "belly band"
+  ],
+  "alt_spellings": [
+    "obi-strip",
+    "obi strip",
+    "OBI"
+  ],
+  "etymology": "From Japanese 帯 (obi), meaning \"sash\" or \"belt,\" referring to the traditional garment accessory. Adopted by Japanese record labels in the 1960s as a practical solution for adding retail information without altering imported jacket designs.",
+  "first_use": 1965,
   "see_also": [
-    "japanese",
+    "japanese-pressing",
     "hype-sticker",
     "insert"
   ],
   "regions": [
-    "US"
+    "JA",
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

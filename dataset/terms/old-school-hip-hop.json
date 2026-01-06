@@ -1,15 +1,32 @@
 {
   "slug": "old-school-hip-hop",
   "term": "Old School Hip Hop",
+  "pos": "noun",
+  "pronunciation": "/oʊld skuːl hɪp hɑp/",
   "summary": "'**Old School Hip Hop** - A musical style within the Hip Hop genre, classified.",
-  "definition": "A specific musical style within the broader hip-hop genre classification.",
+  "definition": "The foundational era of hip-hop music spanning roughly 1973 to 1984, characterized by party-oriented lyrics, funk and disco breakbeats, and pioneering DJ techniques developed in the Bronx. Distinguished by its emphasis on rhythmic vocal delivery over simple drum machine patterns (particularly the Roland TR-808) and sampled breaks, with minimal melodic complexity compared to later golden age production. Key stylistic elements include call-and-response crowd interaction, boastful but non-violent lyrical content, and the prominence of DJ culture over rapper-centric performances. Artists like Grandmaster Flash, Afrika Bambaataa, and Kurtis Blow defined the sound, which was primarily released on 12-inch singles for club and block party play. Original pressings from labels like Sugar Hill Records, Enjoy, and Tommy Boy command significant collector value, with clean copies of seminal releases fetching premium prices due to heavy DJ use degrading most surviving copies.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Old School Rap",
+    "Early Hip Hop",
+    "Bronx Hip Hop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Old-School Hip-Hop",
+    "Oldschool Hip Hop",
+    "Old School Hip-Hop"
+  ],
+  "etymology": "Term emerged in the mid-1980s to distinguish the original Bronx party rap style from the emerging harder-edged and more complex productions of the golden age era. 'Old school' borrowed from general slang denoting traditional or classic approaches.",
+  "first_use": 1985,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -12,6 +12,14 @@ site/build/
 *.log
 legacy-content-export.json
 
+# Environment & secrets
+.env
+.env.local
+
+# Script progress tracking
+.expand-progress.json
+tools/.expand-progress.json
+
 # OS
 .DS_Store
 Thumbs.db

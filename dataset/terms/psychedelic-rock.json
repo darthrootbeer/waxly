@@ -1,15 +1,29 @@
 {
   "slug": "psychedelic-rock",
   "term": "Psychedelic Rock",
+  "pos": "noun",
+  "pronunciation": "/ˌsaɪkəˈdɛlɪk rɒk/",
   "summary": "'**Psychedelic Rock** - A musical style within the Rock genre, classified.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A rock music subgenre characterized by distorted guitars, extended instrumental passages, experimental studio effects, and lyrics inspired by psychedelic drug experiences. Emerged from mid-1960s counterculture movements in San Francisco, London, and Los Angeles, with bands employing reverb, phasing, feedback, and backwards tape effects to simulate altered consciousness. Key artists include Pink Floyd, The Jimi Hendrix Experience, Jefferson Airplane, and The Doors, who pushed recording boundaries at studios like Abbey Road and Capitol. The genre's peak (1966-1969) produced landmark albums pressed with elaborate gatefold artwork and vibrant color schemes that complemented the sonic experimentation. Original pressings from this era, particularly UK and US first issues, command premium prices among collectors for their superior mastering and dynamic range. The style influenced progressive rock, heavy metal, and modern neo-psychedelia revivalists, with contemporary reissue labels like Sundazed and Anthology Recordings preserving the genre's vinyl legacy through high-quality pressings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Acid Rock",
+    "Psychedelia"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Psychedelic Rock",
+    "Psychadelic Rock"
+  ],
+  "etymology": "Derived from 'psychedelic' (coined 1956 by psychiatrist Humphry Osmond from Greek psyche 'mind' and delein 'to manifest') combined with 'rock,' popularized by music journalists in 1966-1967 to describe the San Francisco sound.",
+  "first_use": 1966,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

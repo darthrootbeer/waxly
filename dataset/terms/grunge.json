@@ -1,15 +1,26 @@
 {
   "slug": "grunge",
   "term": "Grunge",
+  "pos": "noun",
+  "pronunciation": "/ɡrʌndʒ/",
   "summary": "'**Grunge** - A musical style within the Rock genre, classified according.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A subgenre of alternative rock that emerged from Seattle's underground music scene in the mid-1980s, characterized by heavily distorted guitars, angst-filled lyrics, and a raw, unpolished sound that rejected the excess of 1980s hair metal. Pioneered by bands like Green River, Mudhoney, Soundgarden, Nirvana, and Pearl Jam, grunge fused punk rock's DIY ethos with heavy metal's sonic weight, creating a darker, more introspective approach to rock music. The genre exploded into mainstream consciousness in 1991 with Nirvana's *Nevermind* and Pearl Jam's *Ten*, fundamentally reshaping rock radio and MTV programming. Grunge's aesthetic extended beyond music to fashion (flannel shirts, ripped jeans, thrift store clothing) and attitude (anti-corporate, anti-establishment). For vinyl collectors, original Sub Pop singles and early pressings of seminal albums command significant premiums, particularly first pressings of Nirvana's *Bleach* on Sub Pop. The genre's commercial peak lasted roughly 1991-1996, though its influence on alternative and indie rock persists. Many grunge classics receive regular vinyl reissues, with audiophile editions and colored variants remaining popular among collectors.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Seattle Sound"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Term reportedly coined by Sub Pop Records founder Bruce Pavitt and popularized by Mark Arm of Green River/Mudhoney in the late 1980s to describe Seattle's dirty, feedback-heavy rock sound.",
+  "first_use": 1987,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

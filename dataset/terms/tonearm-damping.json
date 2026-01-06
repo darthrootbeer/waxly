@@ -1,20 +1,35 @@
 {
   "slug": "tonearm-damping",
   "term": "Tone-Arm Tube Damping",
-  "summary": "'**noun / audiophile tweak.** A **method of reducing unwanted micro-resonances.",
-  "definition": "**noun / audiophile tweak.** A **method of reducing unwanted micro-resonances inside the tone-arm wand** by injecting silicone fluid, foam, or using constrained-layer sleeves.",
+  "pos": "noun",
+  "pronunciation": "/ˈtoʊn ɑːrm tjuːb ˈdæmpɪŋ/",
+  "summary": "**noun / audiophile tweak.** A **method of reducing unwanted micro-resonances inside the tone-arm wand** by injecting silicone fluid, foam, or using constrained-layer sleeves.",
+  "definition": "**noun / audiophile tweak.** A **method of reducing unwanted micro-resonances inside the tone-arm wand** by injecting silicone fluid, foam, or using constrained-layer sleeves. The hollow aluminum or carbon-fiber tubes used in most tonearms can act as resonant chambers, transmitting vibrations that color the sound with subtle ringing artifacts, particularly in the midrange frequencies. Emerged in the late 1970s as high-end manufacturers like SME and Linn experimented with internal damping materials to achieve lower measured resonance peaks. The most common approach involves carefully injecting medical-grade silicone fluid into the tube cavity, though some audiophiles prefer polyester fiber fill or specialized acoustic foams. Constrained-layer damping—where thin metal sleeves are bonded to the tube exterior—became popular in 1990s Japanese designs from SAEC and Micro Seiki. Results vary wildly depending on tonearm geometry and cartridge compliance; overdamping can deaden transient response, while insufficient damping leaves resonances audible on bright recordings. Modern carbon-fiber arms often incorporate damping layers during manufacture, making aftermarket modifications less necessary. Remains a divisive tweak in audiophile circles, with some claiming transformative improvements in clarity and others hearing negligible differences.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tonearm tube damping",
+    "arm wand damping",
+    "internal tonearm damping"
+  ],
+  "alt_spellings": [
+    "tone arm tube damping",
+    "tonearm-tube damping"
+  ],
+  "etymology": "Coined in late 1970s high-end audio literature as manufacturers sought to address measurable resonance modes in hollow tonearm tubes through internal damping materials.",
+  "first_use": 1978,
   "see_also": [
     "silicone-fluid-trough",
     "resonance-control",
     "headshell-mass-tuning"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

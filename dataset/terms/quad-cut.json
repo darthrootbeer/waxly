@@ -1,22 +1,37 @@
 {
   "slug": "quad-cut",
   "term": "Quad-Cut Stylus",
+  "pos": "noun",
+  "pronunciation": "/kwɒd kʌt ˈstaɪləs/",
   "summary": "'**noun / technical.** A line-contact stylus shape — often Shibata or similar.",
-  "definition": "**noun / technical.** A line-contact stylus shape — often Shibata or similar — capable of tracing the **ultrasonic carrier** signals required by CD-4 discrete quadraphonic LPs.",
+  "definition": "**noun / technical.** A line-contact stylus shape — often Shibata or similar — capable of tracing the **ultrasonic carrier** signals required by CD-4 discrete quadraphonic LPs. Introduced in the early 1970s alongside JVC's Compatible Discrete 4 (CD-4) quad format, these styli feature an elongated contact area that can accurately track frequencies up to 45 kHz, far beyond the 20 kHz limit of standard conical or elliptical profiles. The Shibata profile, developed by Norio Shibata at JVC, became the most common quad-cut design, though Audio-Technica's MicroLine and other advanced shapes also qualify. CD-4 encoded rear-channel information as FM modulation in the 20-45 kHz range, demanding microscopic precision and minimal surface noise. Without a proper quad-cut stylus, CD-4 records play only their stereo mix. The format's commercial failure by 1977 left quad-cut styli as specialist items, though their superior groove contact and reduced distortion made them prized by audiophiles for standard stereo playback. Modern high-end cartridges frequently employ Shibata or line-contact profiles descended from quad-era engineering, preserving this technology's legacy long after discrete vinyl quadraphonics vanished.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "CD-4 stylus",
+    "quadraphonic stylus",
+    "Shibata stylus"
+  ],
+  "alt_spellings": [
+    "quad cut stylus",
+    "quadcut stylus"
+  ],
+  "etymology": "Coined circa 1971-1972 from 'quadraphonic' (four-channel audio) and 'cut' (referring to groove-cutting and tracking capability), specifically marketing styli capable of reproducing CD-4 encoded records.",
+  "first_use": 1971,
   "see_also": [
     "cd-4-demodulator",
     "shibata-stylus",
     "line-contact-stylus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "JA",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,37 @@
 {
   "slug": "bootleg",
   "term": "Bootleg",
+  "pos": "noun",
+  "pronunciation": "/ˈbuːtˌlɛɡ/",
   "summary": "'**noun / slang.** An unauthorized vinyl pressing of live concerts, unreleased.",
-  "definition": "**noun / slang.** An unauthorized vinyl pressing of live concerts, unreleased studio takes, or remixes — often cut from radio broadcasts or tapes without the artist’s consent.",
+  "definition": "**noun / slang.** An unauthorized vinyl pressing of live concerts, unreleased studio takes, or remixes — often cut from radio broadcasts or tapes without the artist's consent. Bootlegs emerged in the late 1960s when fans began pressing rare Dylan and Beatles performances, creating a shadow market for recordings labels refused to release. Unlike counterfeits that mimic official releases, bootlegs typically feature unique content unavailable through legitimate channels, often with minimal artwork or generic sleeves. Quality varies wildly from pristine soundboard recordings to muddy audience tapes. The practice flourished in the 1970s-80s prog and punk scenes, with legendary boots like Dylan's *Great White Wonder* (1969) achieving cult status. While illegal, bootlegs have influenced official archive releases, with artists like Pearl Jam eventually embracing the concept. Collectors prize early boots for historical value despite questionable fidelity, and some command premium prices despite their illicit origins.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "boot",
+    "unofficial pressing",
+    "unauthorized release"
+  ],
+  "alt_spellings": [
+    "boot-leg"
+  ],
+  "etymology": "Borrowed from Prohibition-era slang for illegally smuggled alcohol hidden in boot legs; applied to unauthorized recordings in the late 1960s counterculture.",
+  "first_use": 1969,
   "see_also": [
     "pirate-pressing",
     "white-label",
-    "acetate"
+    "acetate",
+    "test-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

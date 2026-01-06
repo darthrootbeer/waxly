@@ -1,20 +1,36 @@
 {
   "slug": "quick-release-clamp",
   "term": "Quick-Release Clamp",
-  "summary": "'**noun / hi-fi accessory.** A **center-spindle clamp or weight** with a.",
-  "definition": "**noun / hi-fi accessory.** A **center-spindle clamp or weight** with a cam-lock or push-button release for rapidly securing or removing the record during play.",
+  "pos": "noun",
+  "pronunciation": "/kwɪk rɪˈlis klæmp/",
+  "summary": "**noun / hi-fi accessory.** A **center-spindle clamp or weight** with a cam-lock or push-button release for rapidly securing or removing the record during play.",
+  "definition": "**noun / hi-fi accessory.** A **center-spindle clamp or weight** with a cam-lock or push-button release mechanism for rapidly securing or removing the record during play. Unlike traditional screw-down clamps that require multiple rotations to tighten, quick-release designs employ spring-loaded cam systems or lever mechanisms that lock with a single quarter-turn or button press, achieving proper clamping force in seconds. Introduced in the 1980s alongside high-end turntable designs, these clamps address the dual demands of optimal record-to-platter coupling and operational convenience, particularly valued by broadcast professionals and DJs who frequently swap records. The mechanism typically applies 3-8 pounds of downward pressure to flatten minor warps and improve bass response by eliminating air gaps between record and platter mat. Premium models from Clearaudio, Michell Engineering, and SOTA feature precision-machined brass or stainless steel construction with adjustable tension settings. While audiophile purists debate their sonic impact versus simple weights, quick-release clamps remain popular for their practical balance of performance and usability, especially on suspended subchassis turntables where repeated screw-down operations risk introducing vibration. Modern variants include hybrid designs combining clamp functionality with built-in bubble levels for azimuth adjustment.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cam-lock clamp",
+    "lever clamp",
+    "rapid-release weight"
+  ],
+  "alt_spelings": [
+    "quick release clamp",
+    "quick-release weight"
+  ],
+  "etymology": "Coined in early 1980s hi-fi marketing to distinguish cam-actuated designs from traditional screw-thread clamps, borrowing terminology from industrial quick-release mechanisms used in bicycle components and camera tripods.",
+  "first_use": 1982,
   "see_also": [
-    "center-weight",
-    "outer-ring-clamp",
-    "edge-warp"
+    "record-weight",
+    "center-clamp",
+    "platter-mat",
+    "record-stabilizer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

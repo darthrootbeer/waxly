@@ -1,21 +1,40 @@
 {
   "slug": "micro-line-stylus",
   "term": "Micro-Line Stylus",
+  "pos": "noun",
+  "pronunciation": "/ˈmaɪkroʊ laɪn ˈstaɪləs/",
   "summary": "'**noun / technical.** A stylus profile with a very narrow, elongated contact.",
-  "definition": "**noun / technical.** A stylus profile with a very narrow, elongated contact patch that traces deeper into the groove walls, reducing distortion and inner-groove wear.",
+  "definition": "**noun / technical.** A stylus profile with a very narrow, elongated contact patch that traces deeper into the groove walls, reducing distortion and inner-groove wear. Introduced by Audio-Technica in the 1980s as an evolution of linear-contact designs, the Micro-Line stylus features a highly polished ridge approximately 2.5 micrometers wide that runs along its length, mimicking the cutting stylus profile more closely than elliptical or spherical shapes. This extended contact area distributes tracking force over a larger surface, minimizing record wear while retrieving high-frequency detail that broader profiles miss. The design excels at inner grooves where distortion typically increases, maintaining clarity where conical and elliptical styli struggle. Similar advanced profiles include Shibata, Line Contact, and Fine Line designs, each manufacturer's proprietary take on the linear-contact concept. Micro-Line styli demand precise setup—proper VTA, azimuth, and anti-skate adjustments are critical to performance. Found on mid-to-high-end cartridges ($200-$2,000+), they represent a significant upgrade for serious listeners, though replacement costs run higher than standard profiles. Audiophiles prize them for extracting maximum information from well-maintained vinyl while preserving groove integrity across thousands of plays.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Microline",
+    "Micro Line",
+    "ML stylus"
+  ],
+  "alt_spellings": [
+    "Micro-line",
+    "MicroLine"
+  ],
+  "etymology": "Coined by Audio-Technica in the early 1980s, combining 'micro' (referring to the microscopic contact ridge) with 'line' (describing the linear contact geometry), distinguishing it from earlier point-contact designs.",
+  "first_use": 1983,
   "see_also": [
     "elliptical-stylus",
     "shibata-stylus",
-    "tracking-angle"
+    "line-contact-stylus",
+    "tracking-angle",
+    "cartridge",
+    "inner-groove-distortion"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

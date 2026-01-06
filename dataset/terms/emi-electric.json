@@ -1,22 +1,40 @@
 {
   "slug": "emi-electric",
   "term": "EMI (Electric & Musical Industries)",
+  "pos": "noun",
+  "pronunciation": "/ˌiː ˌɛm ˈaɪ/",
   "summary": "'**noun / proper name.** A legendary U.K. record label and manufacturing.",
-  "definition": "**noun / proper name.** A legendary U.K. record label and manufacturing giant responsible for pressing millions of Beatles, Pink Floyd, and classical LPs.",
+  "definition": "**noun / proper name.** A legendary British record label and manufacturing conglomerate responsible for pressing millions of Beatles, Pink Floyd, and classical LPs throughout the vinyl era. Formed in 1931 through the merger of Columbia Graphophone Company and the Gramophone Company (HMV), EMI became one of the world's largest music corporations, operating pressing plants across the U.K. and owning prestigious labels including Parlophone, Capitol, and Columbia. EMI's Hayes and Middlesex facilities produced some of the most collectible pressings in history, with original Beatles LPs on Parlophone and early Pink Floyd releases commanding premium prices. The company pioneered stereo recording techniques in the 1950s and operated Abbey Road Studios, where countless landmark albums were recorded and mastered. EMI matrix numbers and pressing plant codes are essential knowledge for collectors authenticating original U.K. pressings. The company was acquired by Universal Music Group in 2012, ending eight decades of independent operation.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Electric and Musical Industries",
+    "EMI Records",
+    "EMI Group"
+  ],
+  "alt_spellings": [
+    "E.M.I.",
+    "E M I"
+  ],
+  "etymology": "Formed from the 1931 merger of Columbia Graphophone Company and Gramophone Company Ltd., with the name reflecting the combination of electrical recording technology and the musical instrument/recording industries.",
+  "first_use": 1931,
   "see_also": [
     "parlophone",
     "matrix-number",
-    "mastering-engineer"
+    "mastering-engineer",
+    "pressing-plant",
+    "abbey-road"
   ],
   "regions": [
-    "US"
+    "UK",
+    "EU",
+    "US",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

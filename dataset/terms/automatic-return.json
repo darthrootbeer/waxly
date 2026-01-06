@@ -1,20 +1,36 @@
 {
   "slug": "automatic-return",
   "term": "Automatic Return",
+  "pos": "noun",
+  "pronunciation": "/ˌɔːtəˈmætɪk rɪˈtɜːrn/",
   "summary": "A mechanical or electronic feature on many consumer turntables that automatically.",
-  "definition": "A mechanical or electronic feature on many consumer turntables that automatically lifts and returns the tonearm to its rest at the end of a side.",
+  "definition": "A mechanical or electronic feature on many consumer turntables that automatically lifts and returns the tonearm to its rest at the end of a side. Introduced in the 1950s alongside the LP boom, automatic return mechanisms use a trigger arm or optical sensor to detect when the stylus reaches the run-out groove, activating a cam-driven or motor-powered system that raises the tonearm and swings it back to its resting position. The feature became standard on mid-range consumer turntables from manufacturers like Dual, Technics, and Pioneer throughout the 1960s-80s, offering convenience for casual listeners who might walk away during playback. Fully automatic models combine this with automatic start functions, while semi-automatic turntables require manual cueing but return automatically. Audiophiles often prefer fully manual operation to avoid the additional mechanical complexity that can introduce vibration or tracking force inconsistencies, though well-executed automatic mechanisms on quality decks like the Technics SL-1300 series add negligible sonic compromise. Modern turntable design has largely abandoned automatic features in favor of simpler manual operation, though vintage automatic tables remain popular for their ease of use and nostalgic appeal.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "auto-return",
+    "automatic lift",
+    "auto-lift"
+  ],
+  "alt_spellings": [
+    "auto return"
+  ],
+  "etymology": "Coined in the 1950s from 'automatic' (self-operating) and 'return' (bringing back to starting position), describing the self-actuating tonearm mechanism that eliminated the need for manual intervention at record's end.",
+  "first_use": 1956,
   "see_also": [
     "cue-lever",
     "semi-automatic",
-    "fully-manual"
+    "fully-manual",
+    "tonearm"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

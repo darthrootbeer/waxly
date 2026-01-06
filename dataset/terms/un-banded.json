@@ -1,21 +1,36 @@
 {
   "slug": "un-banded",
   "term": "Un-Banded LP",
+  "pos": "noun",
+  "pronunciation": "/ˌʌnˈbændɪd ɛl piː/",
   "summary": "'**noun / mastering style.** A **record side without visible track-spacing.",
-  "definition": "**noun / mastering style.** A **record side without visible track-spacing ‘bands’**, appearing as one continuous groove spiral — common for classical, [opera](../o/opera.md), live, or DJ-mix albums.",
+  "definition": "**noun / mastering style.** A **record side without visible track-spacing 'bands'**, appearing as one continuous groove spiral — common for classical, [opera](../o/opera.md), live, or DJ-mix albums. During the lacquer cutting process, engineers intentionally eliminate the wider spacing grooves that normally separate tracks, creating a seamless visual appearance. This mastering choice serves artistic purposes (maintaining flow in continuous performances or DJ mixes) and practical ones (maximizing playing time by eliminating wasted space). Classical labels like Deutsche Grammophon and Decca frequently employed un-banded sides for symphonic movements meant to flow uninterrupted. The format gained renewed prominence in the 1990s with the rise of continuous DJ mix compilations on vinyl, where visual track separation would contradict the seamless audio experience. Collectors and DJs must rely on timing notes or digital track listings rather than visual cues when cueing specific sections. Modern reissues sometimes add banding to originally un-banded releases for convenience, though purists consider this a compromise of the original artistic intent.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "continuous groove LP",
+    "unbanded record",
+    "seamless side"
+  ],
+  "alt_spellings": [
+    "unbanded",
+    "un banded"
+  ],
+  "etymology": "Term emerged in the 1950s-60s as classical music pressings adopted continuous cutting to preserve the uninterrupted flow of extended compositions, contrasting with the standard 'banded' practice of visible track separation.",
+  "first_use": 1955,
   "see_also": [
     "track-banded-lp",
     "cue-point-marker",
     "skip-guard-groove"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

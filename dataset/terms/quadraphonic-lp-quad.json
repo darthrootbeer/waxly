@@ -1,23 +1,40 @@
 {
   "slug": "quadraphonic-lp-quad",
   "term": "Quadraphonic LP",
+  "pos": "noun",
+  "pronunciation": "/ˌkwɒd.rəˈfɒn.ɪk ˌɛl ˈpiː/",
   "summary": "noun / format. A 1970s-era vinyl format engineered to deliver four-channel.",
-  "definition": "**noun / format.** A 1970s-era vinyl format engineered to deliver **four-channel surround sound** when played through compatible decoders and amps. Several competing systems existed — SQ, QS, and CD-4 — each encoding rear channels differently.",
+  "definition": "**noun / format.** A 1970s-era vinyl format engineered to deliver **four-channel surround sound** when played through compatible decoders and amplifiers. Three competing encoding systems dominated the market: **SQ** (CBS/Columbia's matrix system), **QS** (Sansui's matrix approach), and **CD-4** (JVC's discrete carrier-based format requiring specialized styli and extended frequency response to 45kHz). The format peaked between 1971-1976, with major labels releasing quad mixes of rock, jazz, and classical titles before incompatible standards and high equipment costs doomed commercial viability. Pink Floyd's *Dark Side of the Moon*, Santana's *Abraxas*, and numerous classical recordings received quad treatments. Today, quad LPs command collector premiums, particularly CD-4 pressings, though many lack functioning playback equipment. The format's ambition influenced later surround formats and remains a fascinating footnote in hi-fi history.",
   "tags": [
     "dj-related",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Quad LP",
+    "4-channel LP",
+    "Surround Sound LP"
+  ],
+  "alt_spellings": [
+    "Quadrophonic LP",
+    "Quadrophonic",
+    "Quad"
+  ],
+  "etymology": "From Latin 'quadri-' (four) and Greek 'phone' (sound), coined in the late 1960s as hi-fi manufacturers pursued immersive audio experiences beyond stereo's two-channel limitation.",
+  "first_use": 1971,
   "see_also": [
     "sq-matrix",
     "qs-matrix",
     "cd-4-discrete",
-    "decoder"
+    "decoder",
+    "cartridge"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,37 @@
 {
   "slug": "playback-wearcontinued",
   "term": "Playback Wear",
+  "pos": "noun",
+  "pronunciation": "/ˈpleɪbæk wɛr/",
   "summary": "'**noun / technical.** Cumulative groove damage caused by repeated plays,.",
-  "definition": "**noun / technical.** Cumulative [groove](../g/groove-wear.md) damage caused by repeated plays, especially with heavy or worn styli — manifests as hiss, distortion, or loss of high-end detail.",
+  "definition": "**noun / technical.** Cumulative groove damage caused by repeated plays, especially with heavy or worn styli — manifests as hiss, distortion, or loss of high-end detail. The phenomenon became a recognized concern in the late 1940s as consumers began building home record collections and playing favorites repeatedly. Each playback cycle causes microscopic abrasion to the delicate groove walls, with damage accelerating exponentially when tracking force exceeds recommended levels (typically 1.5-2.5 grams for modern cartridges) or when stylus tips develop flat spots or chipping. High-frequency information encoded in the finest groove modulations deteriorates first, resulting in dulled cymbals and sibilance before midrange clarity suffers. Heavily played records from the 78rpm and early LP eras often exhibit severe wear due to the use of steel needles and crystal cartridges tracking at 6-10 grams. Modern elliptical and line-contact styli distribute pressure more evenly than conical tips, significantly reducing wear rates — a well-maintained setup can theoretically play a record hundreds of times with minimal degradation. Collectors prize unplayed or lightly played pressings precisely because playback wear is irreversible, making condition grading central to vinyl valuation.",
   "tags": [
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "groove wear",
+    "record wear",
+    "stylus wear damage"
+  ],
+  "alt_spelings": [
+    "play-back wear"
+  ],
+  "etymology": "Compound term combining 'playback' (audio reproduction process) with 'wear' (material degradation), emerging in audio engineering literature as LP longevity became a consumer concern in the 1950s.",
+  "first_use": 1949,
   "see_also": [
     "groove-wear",
     "needle-wear",
-    "stylus-life"
+    "stylus-life",
+    "tracking-force",
+    "record-grading"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,27 @@
 {
   "slug": "honky-tonk",
   "term": "Honky Tonk",
+  "pos": "noun",
+  "pronunciation": "/ˈhɑŋki tɑŋk/",
   "summary": "'**Honky Tonk** - A musical style within the Country genre, classified according.",
-  "definition": "A specific musical style within the broader country genre classification.",
+  "definition": "A raw, electrified country music style that emerged in the late 1930s and 1940s, characterized by its hard-edged vocals, prominent steel guitar, fiddle, and electric instrumentation. Named after the rough working-class bars and dance halls where it was performed, honky tonk reflected the lives of rural Americans migrating to industrial cities, addressing themes of drinking, heartbreak, and hard living. Pioneered by Ernest Tubb and Hank Williams, the style marked a deliberate departure from the polished Nashville Sound, emphasizing emotional authenticity over commercial smoothness. The honky tonk sound became foundational to outlaw country in the 1970s and remains influential in alt-country and Americana movements. On vinyl, classic honky tonk recordings from the 1940s-1960s are highly collectible, with original pressings on labels like Decca and MGM commanding premium prices. The genre's stripped-down arrangements and dynamic vocal performances benefit from analog playback, making these records enduring favorites among country vinyl collectors.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "honky-tonk music",
+    "hard country"
   ],
-  "pos": "noun"
+  "alt_spelings": [
+    "honkytonk",
+    "honkey tonk"
+  ],
+  "etymology": "Derived from the Southern American slang term for rough bars and dance halls, possibly from African American vernacular or onomatopoeia mimicking the sound of upright pianos played in such establishments.",
+  "first_use": 1941,
+  "see_also": [],
+  "regions": [
+    "US"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

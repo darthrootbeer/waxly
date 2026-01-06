@@ -1,21 +1,35 @@
 {
   "slug": "plus-cut-hot",
   "term": "Plus-Cut",
-  "summary": "'**noun / mastering slang.** A colloquial term for an aggressively loud cut.",
-  "definition": "**noun / mastering slang.** A colloquial term for an aggressively loud cut where engineers pushed groove amplitude beyond standard specs — prized by DJs for punch but risky for tracking.",
+  "pos": "noun",
+  "pronunciation": "/plʌs kʌt/",
+  "summary": "**noun / mastering slang.** A colloquial term for an aggressively loud cut.",
+  "definition": "**noun / mastering slang.** A colloquial term for an aggressively loud cut where engineers pushed groove amplitude beyond standard specs — prized by DJs for punch but risky for tracking. Emerging from the competitive disco and early hip-hop scenes of the 1970s-80s, plus-cuts maximized groove modulation to make records jump out of club sound systems and cut through noisy environments. Engineers achieved this by widening groove spacing, reducing playing time, and cutting at higher temperatures to accommodate extreme lateral movement. While these records delivered unmatched impact on dance floors, they often suffered from increased surface noise, distortion on lesser turntables, and tracking issues with worn or lightweight cartridges. The practice declined with digital mastering but experienced revival among contemporary electronic and hip-hop labels catering to DJ culture, where loudness and physical presence remain paramount. Modern plus-cuts balance vintage aggression with improved cutting technology, though purists still seek original hot 12-inches from the format's golden era.",
   "tags": [
     "dj-related",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "hot cut",
+    "loud cut",
+    "aggressive cut"
+  ],
+  "alt_spellings": [
+    "Plus Cut",
+    "plus cut"
+  ],
+  "etymology": "Coined in mastering studios during the 1970s disco era, combining 'plus' (exceeding standard levels) with 'cut' (lacquer cutting process); paralleled the emergence of 12-inch singles optimized for club play.",
+  "first_use": 1975,
   "see_also": [
     "hot-cut",
     "loudness-war-cut",
     "groove-spacing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,30 @@
 {
   "slug": "dance-pop",
   "term": "Dance-pop",
+  "pos": "noun",
+  "pronunciation": "/dæns pɒp/",
   "summary": "'**Dance-pop** - A musical style within the Pop genre, classified according.",
-  "definition": "A specific musical style within the broader pop genre classification.",
+  "definition": "A hybrid musical style that emerged in the early 1980s, combining the accessible melodic structures and vocal hooks of pop music with the rhythmic drive and electronic production techniques of dance music. Characterized by uptempo beats (typically 110-130 BPM), synthesizer-heavy arrangements, and radio-friendly song structures, dance-pop dominated mainstream charts throughout the 1980s and 1990s with artists like Madonna, Kylie Minogue, and later Britney Spears defining the sound. The genre relies heavily on studio production and electronic instrumentation, making it particularly well-suited to the 12-inch single format, where extended club mixes could coexist with radio edits on the same release. Vinyl pressings of dance-pop records from the genre's golden era (1983-1995) often feature distinctive mastering optimized for both home listening and DJ playback, with many classic releases commanding premium prices among collectors for their pristine production quality and cultural significance in bridging underground club culture with mainstream pop accessibility.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "dance pop",
+    "pop-dance"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "dancepop"
+  ],
+  "etymology": "Term coined in early 1980s music press to describe the fusion of disco-derived dance rhythms with post-punk pop sensibilities, gaining widespread usage by 1983-1984.",
+  "first_use": 1982,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

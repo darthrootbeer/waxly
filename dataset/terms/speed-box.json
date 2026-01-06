@@ -1,21 +1,39 @@
 {
   "slug": "speed-box",
   "term": "Speed-Box / External Speed Controller",
+  "pos": "noun",
+  "pronunciation": "/spiːd bɒks/",
   "summary": "'**noun / hi-fi accessory.** An **outboard electronic speed-controller**.",
-  "definition": "**noun / hi-fi accessory.** An **outboard electronic speed-controller** for AC-motor belt-drive turntables, enabling precise 33⅓/45 RPM switching and fine-tuning of platter speed.",
+  "definition": "**noun / hi-fi accessory.** An **outboard electronic speed-controller** for AC-motor belt-drive turntables, enabling precise 33⅓/45 RPM switching and fine-tuning of platter speed. Introduced in the 1970s alongside high-end turntable designs, speed-boxes address inherent AC motor limitations by regulating frequency and voltage externally rather than through built-in circuitry. Early models like the Thorens TP-60 and later audiophile units from Clearaudio, Origin Live, and Walker Audio provide electronic speed switching, eliminating manual belt repositioning, while offering fine adjustment typically within ±3-5% to compensate for voltage fluctuations, belt stretch, or off-pitch recordings. Higher-end controllers incorporate quartz-locked precision, reducing wow and flutter to near-DC motor levels at a fraction of the cost. The speed-box became essential for DJs requiring instant 33/45 switching and audiophiles pursuing reference-level accuracy from vintage belt-drive decks. Modern implementations often include digital displays, strobe calibration functions, and motor start/stop control. Particularly valued in the used market for upgrading classic turntables like Linn Sondek LP12, Thorens TD-160, or Rega Planar models, transforming basic AC-synchronous designs into precision playback instruments. Prices range from $200 for basic units to $2,000+ for laboratory-grade controllers.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "external speed controller",
+    "motor controller",
+    "speed regulator",
+    "PSU speed controller"
+  ],
+  "alt_spellings": [
+    "speedbox",
+    "speed box"
+  ],
+  "etymology": "Coined in the 1970s hi-fi industry, combining \"speed\" (rotational velocity) with \"box\" (outboard electronics housing), paralleling terminology like \"phono box\" for external preamps.",
+  "first_use": 1973,
   "see_also": [
     "quartz-lock",
     "wow-and-flutter-spec",
-    "belt-drive-motor"
+    "belt-drive-motor",
+    "strobe-disc",
+    "ac-motor"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

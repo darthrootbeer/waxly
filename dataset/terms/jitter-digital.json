@@ -1,21 +1,34 @@
 {
   "slug": "jitter-digital",
-  "term": "Jitter (Digital",
-  "summary": "'**noun / technical.** Minute timing errors in a digital source’s clock signal.",
-  "definition": "**noun / technical.** Minute timing errors in a digital source’s clock signal that can subtly blur transients when cut to lacquer — an audiophile concern for digitally mastered vinyl.",
+  "term": "Jitter (Digital)",
+  "pos": "noun",
+  "pronunciation": "/ˈdʒɪtər/",
+  "summary": "**noun / technical.** Minute timing errors in a digital source's clock signal.",
+  "definition": "**noun / technical.** Minute timing errors in a digital source's clock signal that can subtly blur transients when cut to lacquer — an audiophile concern for digitally mastered vinyl. In digital audio systems, jitter represents deviations from perfect clock timing measured in picoseconds, causing temporal distortion as sample intervals become irregular. While CD players and DACs employ sophisticated reclocking circuits to minimize jitter, the analog cutting chain for vinyl introduces its own vulnerabilities when fed digital sources. Mastering engineers using high-end converters with precision master clocks (word clock generators) can reduce jitter to near-negligible levels, though purists argue analog tape sources avoid the issue entirely. The audible impact remains debated: some golden-eared listeners claim jitter smears soundstage depth and hardens treble, while skeptics note that modern 24-bit/96kHz digital chains exhibit jitter below human perception thresholds. Half-speed mastering from digital files may paradoxically increase susceptibility to timing errors. Most critical during the ADC/DAC conversion stages rather than in the cutting lathe itself, jitter represents one battleground in the analog-versus-digital mastering debate that has intensified since the 1990s CD remaster era.",
   "tags": [
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "clock jitter",
+    "timing jitter",
+    "digital timing error"
+  ],
+  "alt_spellings": [],
+  "etymology": "Borrowed from electronics engineering terminology in the 1970s, where 'jitter' described timing instabilities in oscilloscopes and data transmission systems. Applied to digital audio in the 1980s as CD technology revealed clock accuracy's impact on sound quality.",
+  "first_use": 1982,
   "see_also": [
     "dsd-mastering",
     "half-speed-mastering",
-    "lacquer-cut"
+    "lacquer-cut",
+    "adc-conversion"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

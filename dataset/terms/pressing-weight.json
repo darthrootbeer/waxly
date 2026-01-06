@@ -1,20 +1,36 @@
 {
   "slug": "pressing-weight",
   "term": "Pressing Weight",
+  "pos": "noun",
+  "pronunciation": "/ˈprɛsɪŋ weɪt/",
   "summary": "'**noun / manufacturing spec.** The target gram-weight of each vinyl disc.",
-  "definition": "**noun / manufacturing spec.** The target gram-weight of each vinyl disc set by the plant — heavier pressings are stiffer and sometimes marketed as “audiophile 180 gram.”",
+  "definition": "**noun / manufacturing spec.** The target gram-weight of each vinyl disc set by the plant before pressing, typically ranging from 120 to 200 grams for 12-inch LPs. Standard pressings from the 1960s through 1980s averaged 120-140 grams as manufacturers optimized for cost efficiency. Heavier pressings—particularly the marketed \"audiophile 180 gram\" and premium 200 gram variants—became popular in the 1990s reissue boom, valued for increased rigidity that theoretically reduces resonance and warping. The actual sonic benefits remain debated among audiophiles, as pressing quality, vinyl compound formulation, and mastering often matter more than raw weight. Modern plants typically offer 140g (economy), 160g (standard), 180g (premium), and 200g (deluxe) options. Weight affects manufacturing costs, shipping expenses, and perceived value—many collectors associate heft with quality regardless of audible differences. Some plants achieve target weight through thicker vinyl distribution, while others simply use more material, making consistency and centering as important as the number on the scale.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "gram weight",
+    "vinyl weight",
+    "disc weight"
+  ],
+  "alt_spellings": [
+    "pressing-weight",
+    "pressing wt."
+  ],
+  "etymology": "Term emerged with standardized vinyl manufacturing in the 1950s when plants began specifying target weights for quality control and material cost calculations.",
+  "first_use": 1952,
   "see_also": [
     "heavyweight-vinyl",
     "biscuit-puck",
-    "net-weight"
+    "audiophile-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

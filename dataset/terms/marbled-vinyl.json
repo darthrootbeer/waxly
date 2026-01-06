@@ -1,22 +1,39 @@
 {
   "slug": "marbled-vinyl",
   "term": "Marbled Vinyl",
+  "pos": "noun",
+  "pronunciation": "/ˈmɑrbəld ˈvaɪnəl/",
   "summary": "'**noun / pressing style.** Vinyl compound mixed with multiple colors to.",
-  "definition": "**noun / pressing style.** Vinyl compound mixed with multiple colors to create a swirled marble-like pattern throughout the disc.",
+  "definition": "**noun / pressing style.** Vinyl compound mixed with multiple colors to create a swirled marble-like pattern throughout the disc. During the pressing process, two or more colored PVC pellets are combined in the extruder but not fully blended, allowing the colors to flow and twist together organically. Each pressing produces a unique pattern, making every record one-of-a-kind. The technique emerged in the early 1970s as pressing plants experimented with colored vinyl manufacturing, initially as a way to use up leftover pigmented vinyl batches. Marbled variants became particularly popular during the punk and new wave eras for limited editions and indie releases. The aesthetic ranges from subtle two-tone swirls to chaotic multi-color explosions, with collectors often seeking specific color combinations or particularly striking patterns. Modern reissue labels frequently offer marbled editions as premium variants, sometimes commanding $10-30 premiums over standard black vinyl. The marbling process requires no additional manufacturing steps beyond standard colored vinyl, making it cost-effective while delivering high visual impact and collectibility.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "marble vinyl",
+    "swirl vinyl",
+    "mixed color vinyl"
+  ],
+  "alt_spellings": [
+    "marbled-vinyl",
+    "marble-vinyl"
+  ],
+  "etymology": "Named for the resemblance to natural marble stone patterns; term adopted by vinyl pressing industry in early 1970s as colored vinyl experimentation expanded beyond solid colors.",
+  "first_use": 1972,
   "see_also": [
     "color-vinyl",
     "splatter-vinyl",
-    "picture"
+    "picture-disc",
+    "colored-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,13 +1,23 @@
 {
   "slug": "hip-pocket",
   "term": "Hip-Pocket Disc",
-  "summary": "'**noun / novelty.** A super-thin 4-inch or 6-inch flexible vinyl single.",
-  "definition": "**noun / novelty.** A super-thin 4-inch or 6-inch flexible vinyl single sold in the late ’60s as an ultra-portable format designed to slip into a shirt or jeans pocket.",
+  "pos": "noun",
+  "pronunciation": "/hɪp ˈpɑkɪt dɪsk/",
+  "summary": "**noun / novelty.** A super-thin 4-inch or 6-inch flexible vinyl single.",
+  "definition": "**noun / novelty.** A super-thin 4-inch or 6-inch flexible vinyl single sold in the late '60s as an ultra-portable format designed to slip into a shirt or jeans pocket. Pressed on lightweight, bendable vinyl compound similar to flexi-discs but typically thicker and more durable, hip-pocket discs were marketed as the ultimate in portability during the height of the youth culture movement. Major labels including RCA and Columbia experimented with the format between 1967-1970, often packaging promotional singles or budget releases in colorful sleeves that emphasized their pocket-friendly dimensions. Sound quality was acceptable but inferior to standard 7-inch vinyl due to the thinner material and narrower grooves required for the compact size. The format never gained significant traction against cassettes and 8-tracks for portable music, and production ceased by the early 1970s. Today, hip-pocket discs are sought by novelty format collectors, with mint examples commanding moderate prices despite their promotional origins.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pocket record",
+    "pocket disc"
+  ],
+  "alt_spellings": [
+    "hip pocket disc",
+    "hippocket disc"
+  ],
+  "etymology": "Named for its intended storage location in hip pockets of jeans, reflecting late 1960s youth marketing strategies that emphasized portability and casual lifestyle integration.",
+  "first_use": 1967,
   "see_also": [
     "flexi",
     "postcard-record",
@@ -16,5 +26,6 @@
   "regions": [
     "US"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

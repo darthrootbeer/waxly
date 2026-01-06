@@ -1,15 +1,27 @@
 {
   "slug": "house",
   "term": "House",
+  "pos": "noun",
+  "pronunciation": "/haʊs/",
   "summary": "'**House** - A musical style within the Electronic genre, classified according.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A foundational electronic dance music genre that emerged from Chicago's underground club scene in the early 1980s, characterized by four-on-the-floor kick drum patterns, repetitive 4/4 beats, synthesized basslines, and soul-influenced vocals. Named after the Warehouse nightclub where DJ Frankie Knuckles pioneered the sound by blending disco, electro-pop, and drum machine rhythms, house music revolutionized dance culture and spawned countless subgenres including deep house, acid house, and tech house. The genre's emphasis on extended 12-inch singles made it intrinsically connected to vinyl culture, with DJs using turntables to beatmatch and create seamless mixes. House records became highly collectible, particularly early Chicago and Detroit pressings on labels like Trax Records and DJ International. The format's warm analog sound complemented house music's organic, body-moving aesthetic, making vinyl the preferred medium for serious collectors and club DJs through the 1980s and 1990s, a tradition that continues in contemporary dance music culture.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "house music",
+    "Chicago house"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the Warehouse nightclub in Chicago where DJ Frankie Knuckles played in the early 1980s, with patrons saying they were going to hear 'house music' or the music played at the 'house.'",
+  "first_use": 1984,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

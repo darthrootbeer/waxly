@@ -1,15 +1,31 @@
 {
   "slug": "motown",
   "term": "Motown",
+  "pos": "noun",
+  "pronunciation": "/ˈmoʊtaʊn/",
   "summary": "'**Motown** - A musical style within the Soul genre, classified according.",
-  "definition": "A specific musical style within the broader soul genre classification.",
+  "definition": "A distinctive soul music style and record label sound originating from Detroit, Michigan in the early 1960s. Founded by Berry Gordy Jr. in 1959, Motown Records developed a highly polished, pop-oriented approach to R&B characterized by sophisticated arrangements, prominent bass lines, tambourine-heavy percussion, call-and-response vocals, and lush string sections. The label's house band, The Funk Brothers, created the signature \"Motown Sound\" heard on countless hits by artists like The Supremes, Marvin Gaye, Stevie Wonder, and The Temptations. Motown's meticulous production quality translated exceptionally well to vinyl, with original pressings from the label's Detroit and later Los Angeles facilities highly sought by collectors. The characteristic warmth and punch of Motown recordings make them perennial favorites for demonstrating turntable and speaker capabilities. Original 1960s Tamla, Gordy, and Motown label 45s and LPs command premium prices, particularly first pressings with intact tri-center 45 adapters and early label variations.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Motown Sound",
+    "The Sound of Young America"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Mo-Town",
+    "Mo Town"
+  ],
+  "etymology": "Portmanteau of \"Motor Town,\" referencing Detroit's identity as the automotive capital of America. Berry Gordy trademarked the name for his record label in 1959.",
+  "first_use": 1959,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

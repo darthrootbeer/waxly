@@ -1,21 +1,35 @@
 {
   "slug": "transcription",
   "term": "Transcription Disc",
+  "pos": "noun",
+  "pronunciation": "/trænˈskrɪpʃən dɪsk/",
   "summary": "noun / historical broadcast format. A large-diameter 16-inch vinyl or lacquer.",
-  "definition": "**noun / historical broadcast format.** A **large-diameter 16-inch vinyl or lacquer disc** used from the 1930s-50s to distribute radio programs and live concerts to stations — cut at 33⅓ RPM well before the consumer LP.",
+  "definition": "**noun / historical broadcast format.** A **large-diameter 16-inch vinyl or lacquer disc** used from the 1930s-50s to distribute radio programs and live concerts to stations — cut at 33⅓ RPM well before the consumer LP. These professional-grade discs featured wider grooves requiring specialized playback styli and turntables, with some cut from the inside out to maximize fidelity on longer programs. Radio networks like NBC and CBS relied on transcription discs to syndicate shows across time zones before tape recording became standard. Studios often pressed them on heavy vinyl for durability through multiple broadcasts, though lacquer acetate versions existed for one-off recordings. The format pioneered the 33⅓ speed that Columbia would later adopt for the LP in 1948. Today, transcription discs are prized by collectors and archivists for preserving otherwise-lost broadcasts, though their large size and specialized playback requirements make them challenging to source and play.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "ET",
+    "electrical transcription",
+    "radio transcription",
+    "transcription"
+  ],
+  "alt_spellings": [
+    "transcription disk"
+  ],
+  "etymology": "From Latin transcriptio (a copying), adopted by radio industry in 1930s to describe discs that 'transcribed' live performances for delayed broadcast distribution.",
+  "first_use": 1933,
   "see_also": [
     "electrical-transcription",
     "wide-groove-stylus",
     "inside-out-cut"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

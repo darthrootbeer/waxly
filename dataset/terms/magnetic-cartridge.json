@@ -1,21 +1,36 @@
 {
   "slug": "magnetic-cartridge",
   "term": "Magnetic Cartridge",
+  "pos": "noun",
+  "pronunciation": "/mægˈnɛtɪk ˈkɑːtrɪdʒ/",
   "summary": "'**noun / technical.** A phono cartridge that uses a moving magnet (or iron).",
-  "definition": "**noun / technical.** A phono cartridge that uses a moving magnet (or iron) interacting with fixed coils to generate an electrical signal — the dominant design since the mid-20th century.",
+  "definition": "**noun / technical.** A phono cartridge that uses a moving magnet (or iron) interacting with fixed coils to generate an electrical signal — the dominant design since the mid-20th century. As the stylus traces the record groove, its movements cause either a magnet to move past stationary coils (moving magnet/MM) or a piece of iron to move within a magnetic field (moving iron/MI), inducing voltage that corresponds to the recorded audio. Magnetic cartridges replaced ceramic designs in the 1950s-60s, offering superior frequency response and reduced record wear. Moving magnet cartridges became the industry standard due to their robust construction, user-replaceable styli, and output levels (3-6mV) compatible with standard phono preamps. They typically cost $50-$500, with models like the Shure M97xE and Audio-Technica VM95 series representing the reliable workhorse category. Moving iron variants, championed by Grado and some vintage manufacturers, use a fixed magnet with a moving iron armature, offering a middle ground between MM and MC designs. Modern magnetic cartridges remain the most popular choice for turntable owners, balancing performance, affordability, and ease of setup without requiring step-up transformers or specialized preamp gain settings.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "MM cartridge",
+    "moving magnet cartridge",
+    "moving iron cartridge"
+  ],
+  "alt_spellings": [],
+  "etymology": "Term emerged in the 1950s to distinguish electromagnetic induction-based cartridges from piezoelectric ceramic designs, derived from the use of permanent magnets as the core transduction element.",
+  "first_use": 1952,
   "see_also": [
     "moving-magnet",
     "moving-coil",
-    "ceramic-cartridge"
+    "ceramic-cartridge",
+    "cartridge",
+    "stylus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

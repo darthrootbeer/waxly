@@ -1,13 +1,22 @@
 {
   "slug": "album",
   "term": "Album",
+  "pos": "noun",
+  "pronunciation": "/ˈælbəm/",
   "summary": "A collection of musical tracks issued as a cohesive package on a single or.",
-  "definition": "A collection of musical tracks issued as a cohesive package on a single or multi-disc vinyl release. On LPs (33⅓ rpm, 12-inch), an album typically runs 30–50 minutes per disc.",
+  "definition": "A collection of musical tracks issued as a cohesive package on a single or multi-disc vinyl release. On LPs (33⅓ rpm, 12-inch), an album typically runs 30–50 minutes per disc, divided between two sides. The format emerged as the dominant vehicle for artistic expression in popular music during the 1960s, when artists began conceiving releases as unified works rather than collections of singles. Albums can range from studio recordings to live performances, compilations, or soundtracks. The LP format's physical limitations—roughly 22 minutes per side before audio quality degradation—shaped how musicians structured their work, influencing song sequencing, pacing, and the strategic placement of stronger tracks to open each side. Double albums and box sets expand beyond the single-disc format for ambitious projects. In the vinyl revival era, albums remain the primary format for new releases and reissues, with collectors prizing original pressings, limited editions, and audiophile remasters. The album's cultural significance as an artistic statement endures despite the streaming era's emphasis on individual tracks.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "LP",
+    "long-player",
+    "full-length",
+    "record"
+  ],
+  "alt_spellings": [],
+  "etymology": "From Latin 'album' meaning 'white tablet,' originally referring to blank books for collecting photographs or autographs. Applied to multi-disc 78 rpm sets in the 1910s stored in book-like packages, then adopted for the LP format in 1948.",
+  "first_use": 1910,
   "see_also": [
     "lp",
     "ep",
@@ -15,7 +24,12 @@
     "concept-album"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

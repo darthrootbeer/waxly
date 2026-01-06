@@ -1,13 +1,23 @@
 {
   "slug": "hip-hop",
   "term": "Hip Hop",
+  "pos": "noun",
+  "pronunciation": "/ˈhɪp hɒp/",
   "summary": "**Hip Hop** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system, encompassing music rooted in the cultural movement that emerged from the South Bronx in the 1970s. Characterized by rhythmic vocal delivery (rapping/MCing), DJ techniques including sampling and scratching, breakbeats, and production centered around drum machines and turntables. The genre evolved from block party culture pioneered by DJ Kool Herc, Afrika Bambaataa, and Grandmaster Flash into a global phenomenon spanning subgenres from old-school and golden age hip hop through gangsta rap, conscious hip hop, trap, and experimental forms. Vinyl remains culturally significant to hip hop through DJ culture, sampling archaeology, and beat-making practices. Collectors prize original pressings of landmark releases from labels like Def Jam, Tommy Boy, and Sugar Hill Records, with rare 12-inch singles and regional pressings commanding premium prices.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "rap music",
+    "hip-hop music"
+  ],
+  "alt_spellings": [
+    "hip hop",
+    "hiphop"
+  ],
+  "etymology": "Term coined in the late 1970s, popularized by Afrika Bambaataa and the Zulu Nation to describe the broader culture beyond just rap music, combining 'hip' (contemporary/aware) and 'hop' (dance/movement).",
+  "first_use": 1978,
   "see_also": [
     "old-school-hip-hop",
     "gangsta-rap",
@@ -16,7 +26,12 @@
     "trap"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

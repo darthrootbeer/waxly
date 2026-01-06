@@ -1,13 +1,20 @@
 {
   "slug": "electronic",
   "term": "Electronic",
+  "pos": "noun",
+  "pronunciation": "/ˌɪlɛkˈtrɒnɪk/",
   "summary": "**Electronic** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize music produced primarily through electronic instruments and technology. Emerging from early experiments with synthesizers, drum machines, and tape manipulation in the 1960s-70s, the genre encompasses diverse subgenres including house, techno, ambient, drum & bass, and trance. The classification distinguishes music where electronic production is the primary creative method rather than an embellishment to traditional instrumentation. In record collecting and cataloging, the Electronic designation serves as an umbrella category that helps organize thousands of releases spanning experimental Kraftwerk albums to modern EDM pressings. The genre's vinyl presence exploded during the 1980s-90s rave era and remains vital in contemporary pressing culture, with electronic music often commanding premium prices for original pressings from pioneering labels like Warp, R&S, and Detroit techno imprints.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "electronic music",
+    "electronica"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from 'electronic music,' a term coined in the 1950s to describe music created using electronic instruments and technology. The Discogs genre classification was established in the early 2000s as part of the database's taxonomic system.",
+  "first_use": 1950,
   "see_also": [
     "ambient",
     "breakbeat",
@@ -16,7 +23,12 @@
     "electro"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

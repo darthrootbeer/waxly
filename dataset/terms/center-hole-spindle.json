@@ -1,21 +1,39 @@
 {
   "slug": "center-hole-spindle",
   "term": "Center Hole",
+  "pos": "noun",
+  "pronunciation": "/ˈsɛntər hoʊl/",
   "summary": "The precisely-cut hole in the middle of every disc that seats on the turntable.",
-  "definition": "The precisely-cut hole in the middle of every disc that seats on the turntable spindle; slight off-center drilling causes audible wow.",
+  "definition": "The precisely-cut hole in the middle of every disc that seats on the turntable spindle, enabling the record to rotate at a consistent speed during playback. Standard LP center holes measure 0.286 inches (7.24mm) in diameter, while 45 RPM singles feature larger 1.5-inch holes requiring a spindle adapter for home playback. The tolerance for center hole positioning is critical—off-center drilling of even a millimeter causes audible wow and flutter as the stylus traces an eccentric path through the groove. This manufacturing defect, common in budget pressings and some vintage records, creates a wavering pitch effect most noticeable on sustained notes. Quality control at pressing plants includes centering checks, though minor deviations passed inspection in earlier eras. Collectors prize perfectly centered pressings, particularly for audiophile releases where even slight eccentricity compromises sonic fidelity. The large-hole format on 45s originated from jukebox requirements, where robust mechanisms needed quick disc changes. Some modern reissue labels include technical specifications guaranteeing center hole accuracy within 0.1mm, addressing concerns from discerning listeners who recognize that the humble center hole fundamentally determines whether a pressing can achieve its full sonic potential.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "spindle hole",
+    "center punch",
+    "record hole"
+  ],
+  "alt_spellings": [
+    "centre hole",
+    "center-hole"
+  ],
+  "etymology": "Term emerged with the standardization of disc records in the early 1900s, when manufacturers established the center hole as the mechanical interface between record and playback device.",
+  "first_use": 1948,
   "see_also": [
     "wow-flutter",
     "45-adapter",
-    "off-center"
+    "off-center",
+    "spindle",
+    "pressing-defect"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

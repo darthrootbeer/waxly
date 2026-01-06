@@ -1,20 +1,36 @@
 {
   "slug": "phono-stage-hum",
-  "term": "Phono",
-  "summary": "'**noun / technical / slang.** A low-frequency hum introduced by poorly grounded.",
-  "definition": "**noun / technical / slang.** A low-frequency hum introduced by poorly grounded or shielded phono-stage circuits or cables.",
+  "term": "Phono Stage Hum",
+  "pos": "noun",
+  "pronunciation": "/ˈfoʊnoʊ steɪdʒ hʌm/",
+  "summary": "**noun / technical / slang.** A low-frequency hum introduced by poorly grounded.",
+  "definition": "**noun / technical / slang.** A low-frequency hum introduced by poorly grounded or shielded phono-stage circuits or cables. This persistent 50Hz or 60Hz buzz—corresponding to AC mains frequency in different regions—occurs when the delicate millivolt-level signal from a phono cartridge picks up electromagnetic interference before proper amplification. The phono stage, which applies RIAA equalization and boosts the cartridge's weak output by 30-40dB, is particularly vulnerable to grounding issues due to this extreme gain. Common culprits include ground loops between components, inadequate cable shielding, missing turntable ground wires, or proximity to power transformers. The problem became more pronounced in the 1970s as integrated amplifiers moved phono stages closer to power supplies, and remains a primary troubleshooting issue for vinyl enthusiasts. Modern solutions include star grounding schemes, double-shielded interconnects, outboard phono preamps with isolated power supplies, and proper turntable ground wire connections. Severe cases can completely obscure quiet passages in classical or jazz recordings, making proper grounding essential for serious listening. Distinguishing phono stage hum from other noise sources—like cartridge-generated hum or speaker buzz—requires systematic component isolation.",
   "tags": [
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "preamp hum",
+    "RIAA stage hum",
+    "phono preamp buzz"
+  ],
+  "alt_spelings": [
+    "phono-stage hum",
+    "phonostage hum"
+  ],
+  "etymology": "Term emerged in hi-fi literature during the 1960s-70s as separate phono preamplification stages became standard in audio components, combining 'phono' (from phonograph) with 'stage' (electronics terminology for circuit sections).",
+  "first_use": 1965,
   "see_also": [
     "ground-loop-hum",
     "patch-cable-hum",
     "shielding"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

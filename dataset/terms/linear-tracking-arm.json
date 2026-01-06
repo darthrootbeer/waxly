@@ -1,21 +1,39 @@
 {
   "slug": "linear-tracking-arm",
   "term": "Vertical-Tracking Linear Arm",
-  "summary": "'**noun / turntable design.** A **tone-arm that moves linearly on a rail.",
-  "definition": "**noun / turntable design.** A **[tone](../t/tone-arm.md)-arm that moves linearly on a rail to maintain a tangential angle across the disc’s radius**, reducing tracking-angle error compared to pivot arms.",
+  "pos": "noun",
+  "pronunciation": "/ˈvɜːrtɪkəl ˈtrækɪŋ ˈlɪniər ɑːrm/",
+  "summary": "**noun / turntable design.** A **tone-arm that moves linearly on a rail.",
+  "definition": "**noun / turntable design.** A **tone-arm that moves linearly on a rail to maintain a tangential angle across the disc's radius**, reducing tracking-angle error compared to pivot arms. Introduced commercially in the late 1960s with models like the Rabco SL-8, linear-tracking arms replicate the geometry of professional disc-cutting lathes, where the cutting head moves in a straight line across the lacquer master. The design eliminates skating force and inner-groove distortion inherent to pivoted arms, theoretically delivering superior channel separation and reduced wear. High-end implementations from Bang & Olufsen (Beogram 4000 series), Technics (SL-10), and Revox employed servo motors or air-bearing systems to glide the cartridge smoothly across the record surface. However, linear trackers require precise setup, stable motor control, and often complex maintenance, making them less forgiving than conventional arms. The technology peaked in the 1980s during the CD transition, with manufacturers abandoning expensive mechanical solutions. Today, vintage linear-tracking turntables command collector interest for their engineering ambition and distinctive aesthetic, though audiophiles debate whether their theoretical advantages outweigh practical reliability concerns in real-world playback.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "linear-tracking tonearm",
+    "tangential-tracking arm",
+    "radial-tracking arm",
+    "straight-line tonearm"
+  ],
+  "alt_spellings": [
+    "linear tracking arm",
+    "linear-tracking-arm"
+  ],
+  "etymology": "Coined in the late 1960s when consumer turntable manufacturers adapted the linear cutting geometry used in professional lathe systems to playback equipment, emphasizing the arm's straight-line motion perpendicular to groove modulation.",
+  "first_use": 1968,
   "see_also": [
     "tangential-tracking-arm",
     "servo-controlled-arm",
-    "cartridge-alignment"
+    "cartridge-alignment",
+    "tone-arm",
+    "skating-force"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

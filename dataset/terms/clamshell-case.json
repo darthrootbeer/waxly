@@ -1,22 +1,36 @@
 {
   "slug": "clamshell-case",
   "term": "Clamshell Case",
+  "pos": "noun",
+  "pronunciation": "/ˈklæmʃɛl keɪs/",
   "summary": "A rigid plastic or cardboard hinged case for protecting 7-inch or rare 12-inch.",
-  "definition": "A rigid plastic or cardboard hinged case for protecting 7-inch or rare 12-inch singles, often used by traveling DJs.",
+  "definition": "A rigid plastic or cardboard hinged case designed to protect individual 7-inch singles or select 12-inch records, featuring a hinged opening mechanism that resembles a clamshell. These protective cases emerged in the 1970s as traveling DJs and radio stations required durable storage solutions for high-value or frequently handled records. Plastic versions typically feature foam inserts or molded interiors that cradle the record securely, while cardboard variants offer lightweight protection for archival storage. Clamshell cases became essential equipment for mobile DJs working weddings, parties, and club circuits, where records faced constant handling and transport risks. The format gained particular prominence in rare soul and northern soul scenes, where collectors used them to protect valuable 45s worth hundreds or thousands of dollars. Modern variants accommodate picture discs, colored vinyl, and limited pressings, with some featuring clear plastic windows for display purposes. While less common in the streaming era, clamshell cases remain valued by vinyl collectors and DJs who prioritize physical media preservation.",
   "tags": [
     "dj-related",
     "collecting",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "clam case",
+    "hinged case",
+    "protective case"
+  ],
+  "alt_spellings": [
+    "clam-shell case",
+    "clamshell"
+  ],
+  "etymology": "Named for its resemblance to a bivalve mollusk shell, with the hinged opening mechanism mimicking how a clam opens and closes. The term entered vinyl terminology in the mid-1970s as specialized DJ equipment manufacturers adapted industrial packaging concepts for record protection.",
+  "first_use": 1975,
   "see_also": [
     "flight-case",
     "record-box",
     "road-case"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

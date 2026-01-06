@@ -1,16 +1,32 @@
 {
   "slug": "quick-change-headshell",
   "term": "Quick-Change Headshell",
+  "pos": "noun",
+  "pronunciation": "/kwɪk tʃeɪndʒ ˈhɛdˌʃɛl/",
   "summary": "'**noun / hardware.** A tone-arm design that lets users **swap cartridges.",
-  "definition": "**noun / hardware.** A tone-arm design that lets users **swap cartridges fast** using a bayonet, SME-type, or slide-in mechanism — invaluable for DJs and archivists with different stylus profiles.",
+  "definition": "**noun / hardware.** A detachable tonearm component that allows users to swap cartridges rapidly using standardized mounting systems—typically bayonet-lock, SME-style, or slide-in mechanisms. The headshell houses the cartridge and connects it to the tonearm via a multi-pin connector (usually 4 or 5 pins), carrying the delicate electrical signals from stylus to preamp. This modular approach became essential for radio stations and archivists in the 1960s-70s, who needed multiple stylus profiles for different record conditions—78 RPM shellac, microgroove LP, or damaged pressings. DJs embraced quick-change systems for battle setups, keeping backup cartridges ready during live performances. Technics popularized the design with their SL-1200 series, making headshell swapping a 10-second operation. Audiophiles debate whether the added connection point degrades signal purity compared to fixed-headshell designs, though convenience typically outweighs purist concerns. Modern turntables still favor detachable headshells for their versatility, with aftermarket options in aluminum, magnesium, or carbon fiber claiming sonic improvements. Vintage SME and Ortofon headshells command collector premiums, while DJ-focused models feature finger-lift cutouts and reinforced construction for scratching abuse.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "detachable headshell",
+    "removable headshell",
+    "interchangeable headshell"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "quick change headshell",
+    "quick-change head shell"
+  ],
+  "etymology": "Emerged in the 1960s when manufacturers standardized detachable tonearm connections, combining 'quick-change' (from automotive quick-change gearbox terminology) with 'headshell' (the cartridge-mounting component at the tonearm's head).",
+  "first_use": 1963,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

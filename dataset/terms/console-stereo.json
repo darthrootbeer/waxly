@@ -1,20 +1,36 @@
 {
   "slug": "console-stereo",
   "term": "Console Stereo",
+  "pos": "noun",
+  "pronunciation": "/ˈkɑːnsoʊl ˈstɛrioʊ/",
   "summary": "A mid-century piece of furniture integrating a turntable, tube amp, radio,.",
-  "definition": "A mid-century piece of furniture integrating a turntable, tube amp, radio, and speakers into a long wooden cabinet — once a living-room centerpiece.",
+  "definition": "A mid-century piece of furniture integrating a turntable, tube amp, radio, and speakers into a long wooden cabinet — once a living-room centerpiece. Manufactured primarily from the late 1950s through the 1970s by brands like Magnavox, RCA, Zenith, and Motorola, these all-in-one entertainment systems represented the height of domestic hi-fi aspiration before component separates became the audiophile standard. Most featured automatic record changers capable of stacking multiple LPs, tube amplification (later transitioning to solid-state), AM/FM radio tuners, and built-in speakers housed in elaborately styled cabinetry ranging from Danish Modern to Colonial Revival. The turntable mechanism typically mounted on top under a hinged lid, while controls and radio dial occupied the front panel. Sound quality varied dramatically — budget models used ceramic cartridges and small speakers, while premium consoles from Fisher or Scott incorporated legitimate hi-fi components. Cultural status peaked in the 1960s as suburban living room focal points, often doubling as display surfaces for family photos. Today, vintage consoles attract mid-century furniture collectors more than audiophiles, though some enthusiasts retrofit quality components into original cabinets. Working examples with intact tube amps command modest prices, while most are parted out for their iconic wood cases.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "stereo console",
+    "hi-fi console",
+    "phonograph console",
+    "record player console"
+  ],
+  "alt_spellings": [
+    "console hi-fi"
+  ],
+  "etymology": "From 'console' (a cabinet or control panel) combined with 'stereo' (stereophonic sound), reflecting the dual-channel audio technology introduced to consumer markets in 1958 and the furniture-as-appliance design philosophy of postwar America.",
+  "first_use": 1958,
   "see_also": [
     "changer",
     "acoustic-suspension",
-    "plinth"
+    "plinth",
+    "tube-amp"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA",
+    "UK",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

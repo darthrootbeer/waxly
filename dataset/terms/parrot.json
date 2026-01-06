@@ -1,21 +1,30 @@
 {
   "slug": "parrot",
   "term": "Parrot Label",
+  "pos": "noun",
+  "pronunciation": "/ˈpærət ˈleɪbəl/",
   "summary": "'**noun / collector slang.** Refers to any release on the 1960s **Parrot.",
-  "definition": "**noun / collector slang.** Refers to any release on the 1960s **Parrot Records** label (U.K./U.S.), easily identified by the colorful parrot logo.",
+  "definition": "**noun / collector slang.** Refers to any release on the 1960s **Parrot Records** label (U.K./U.S.), easily identified by the colorful parrot logo. Founded in 1964 as a subsidiary of London Records, Parrot specialized in British Invasion acts and American garage rock, issuing notable releases by The Zombies, Tom Jones (early material), and various psych-rock bands. The U.S. division, distributed through London-Parrot, became particularly significant for collectors seeking rare garage and psychedelic 45s from the mid-1960s. The label's distinctive artwork—featuring a vibrant tropical parrot illustration—makes these records instantly recognizable in dealer bins. Original Parrot pressings, especially obscure garage singles, command premium prices due to limited distribution and the label's brief operational period (roughly 1964-1968). The term is used interchangeably among collectors to describe both the label itself and the aesthetic qualities associated with its releases, which often featured raw production values characteristic of the era's independent rock output.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Parrot Records",
+    "Parrot 45"
+  ],
+  "alt_spellings": [],
+  "etymology": "Named after the parrot logo featured prominently on label artwork; established by London Records as a rock-oriented imprint during the British Invasion era.",
+  "first_use": 1964,
   "see_also": [
     "label-variant",
     "london-parrot",
     "imprint-logo"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

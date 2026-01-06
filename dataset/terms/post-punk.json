@@ -1,22 +1,39 @@
 {
   "slug": "post-punk",
   "term": "Post-Punk Pressing",
+  "pos": "noun",
+  "pronunciation": "/poʊst pʌŋk ˈprɛsɪŋ/",
   "summary": "'**noun / cultural collector tag.** Any first-wave pressing from the post-punk.",
-  "definition": "**noun / cultural collector tag.** Any first-wave pressing from the post-[punk](../p/punk.md) movement (roughly 1978-1984), prized for raw production and indie-label scarcity.",
+  "definition": "**noun / cultural collector tag.** Any first-wave pressing from the post-punk movement (roughly 1978-1984), prized for raw production and indie-label scarcity. These records emerged as punk's experimental aftermath, pressed primarily by small independent labels like Factory, 4AD, Rough Trade, and Mute in limited quantities with minimal budgets. Characterized by sparse, angular production aesthetics that reflected the music's austere sensibility, often on thin vinyl with basic sleeve artwork. Bands like Joy Division, Wire, Gang of Four, and Siouxsie and the Banshees defined the sound. Original pressings command premium prices due to low initial runs (often 500-5,000 copies), cultural significance in alternative music history, and the fragility of cheaply manufactured discs that didn't survive decades of play. UK pressings particularly sought after, though American indie labels like Ze and 99 Records contribute valuable artifacts. Modern reissues proliferate, but collectors prize first pressings for their historical authenticity and connection to a pivotal moment when underground music infrastructure was being built outside major label systems.",
   "tags": [
     "pressing",
     "collecting",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "first-wave post-punk",
+    "original post-punk pressing",
+    "post-punk original"
+  ],
+  "alt_spellings": [
+    "Post Punk Pressing",
+    "Postpunk Pressing"
+  ],
+  "etymology": "Term emerged in collector circles during the 1990s post-punk revival, combining the genre designation coined by UK music press circa 1978-1980 with standard vinyl collecting terminology to identify original pressings from the movement's formative years.",
+  "first_use": 1995,
   "see_also": [
     "indie-label-pressing",
     "punk-era",
-    "uk-import"
+    "uk-import",
+    "factory-records",
+    "rough-trade-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

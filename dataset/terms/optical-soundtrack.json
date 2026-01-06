@@ -1,20 +1,35 @@
 {
   "slug": "optical-soundtrack",
   "term": "Optical Soundtrack Disc",
+  "pos": "noun",
+  "pronunciation": "/ˈɒptɪkəl ˈsaʊndtræk dɪsk/",
   "summary": "'**noun / historical.** An experimental 1930s disc format that encoded film.",
-  "definition": "**noun / historical.** An experimental 1930s disc format that encoded film sound optically on a phonograph record, designed for synchronizing with motion pictures before magnetic film took over.",
+  "definition": "**noun / historical.** An experimental 1930s disc format that encoded film sound optically on a phonograph record, designed for synchronizing with motion pictures before magnetic film took over. Developed during the transition from silent to sound cinema, these discs featured photographic sound patterns etched or printed onto the record surface, which were read by photoelectric cells rather than mechanical styli. The technology attempted to bridge the gap between disc-based sound systems like Vitaphone and the optical-on-film soundtracks that would become standard. Engineers experimented with various implementations, including RCA's Photophone disc variants and similar European systems, though most proved impractical for commercial theater use due to synchronization difficulties and the superior convenience of optical tracks printed directly onto film strips. The format saw extremely limited production between 1929 and 1935, primarily for demonstration purposes and technical research. Today, optical soundtrack discs are exceptionally rare artifacts of early sound film history, prized by collectors of cinema technology and pre-war audio formats. Most surviving examples reside in film archives and museums, representing a fascinating dead-end in the evolution of motion picture sound reproduction.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "photographic sound disc",
+    "photoelectric disc",
+    "optical sound record"
+  ],
+  "alt_spellings": [
+    "optical sound-track disc",
+    "optical-sound-track disc"
+  ],
+  "etymology": "Coined in the early 1930s from 'optical' (relating to light-based reproduction) and 'soundtrack' (audio accompanying film), combining photographic sound technology with disc playback systems during the early talkie era.",
+  "first_use": 1929,
   "see_also": [
     "vitaphone-disc",
     "transcription-disc",
-    "shellac"
+    "shellac",
+    "acetate"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

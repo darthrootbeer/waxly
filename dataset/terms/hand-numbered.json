@@ -1,22 +1,39 @@
 {
   "slug": "hand-numbered",
   "term": "Hand-Numbered Edition",
+  "pos": "noun",
+  "pronunciation": "/hænd ˈnʌmbərd ɪˈdɪʃən/",
   "summary": "A limited-press vinyl release individually numbered by hand on the jacket.",
-  "definition": "A limited-press vinyl release individually numbered by hand on the jacket or insert — a common tactic for boutique or crowdfunding runs.",
+  "definition": "A limited-press vinyl release where each copy is individually numbered by hand, typically written or stamped on the jacket, inner sleeve, or insert to indicate its place within a finite production run. The practice emerged in the 1970s alongside the artist-edition print market, initially adopted by experimental and independent labels to authenticate scarcity and create collectible value. Numbers are usually formatted as fractions (e.g., \"23/500\"), with lower numbers—especially #1—commanding premium prices on the secondary market. Hand-numbering serves both practical and promotional functions: it verifies the limited nature of a pressing, adds perceived value through personal touch, and creates urgency among collectors. Common for Record Store Day exclusives, Kickstarter campaigns, and boutique reissues, particularly in metal, punk, and indie genres. Some labels employ elaborate numbering schemes—colored ink, embossing, or artist signatures—to further distinguish editions. While machine-printed numbers exist, true hand-numbered editions require manual inscription, making each jacket technically unique despite containing identical vinyl.",
   "tags": [
     "pressing",
     "collecting",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "numbered edition",
+    "limited numbered pressing",
+    "numbered release"
+  ],
+  "alt_spellings": [
+    "hand numbered",
+    "handnumbered"
+  ],
+  "etymology": "Adopted from fine art print terminology where limited edition lithographs and etchings were hand-numbered to certify authenticity and scarcity, practice transferred to vinyl in the mid-1970s by independent labels seeking to emulate collectible art markets.",
+  "first_use": 1974,
   "see_also": [
-    "limited",
+    "limited-edition",
     "variant-pressing",
-    "color-vinyl"
+    "test-pressing",
+    "white-label"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

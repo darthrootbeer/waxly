@@ -1,21 +1,34 @@
 {
   "slug": "tone-poem-sleeve-art",
   "term": "Tone-Poem Sleeve Art",
+  "pos": "noun",
+  "pronunciation": "/toʊn poʊəm sliːv ɑːrt/",
   "summary": "'**noun / 1950s-60s LP-art slang.** A **romantic marketing term for lush.",
-  "definition": "**noun / 1950s-60s LP-art slang.** A **romantic marketing term for lush painted or photographic sleeve art** meant to visually evoke the “tone-poem” style of light classical & mood-music LPs.",
+  "definition": "**noun / 1950s-60s LP-art slang.** A **romantic marketing term for lush painted or photographic sleeve art** meant to visually evoke the \"tone-poem\" style of light classical and mood-music LPs. Flourished during the LP's golden age when record companies commissioned elaborate cover artwork—often featuring soft-focus landscapes, impressionistic paintings, or dreamy atmospheric photography—to mirror the evocative, narrative-free instrumental music inside. Capitol, RCA Living Stereo, and Mercury Living Presence frequently employed this aesthetic for their orchestral \"pops\" recordings and easy-listening releases. The term borrowed prestige from the classical music world, where \"tone poem\" described programmatic orchestral works by Liszt, Strauss, and Debussy. Art directors like Jim Flora and S. Neil Fujita elevated the concept beyond mere decoration, creating covers that functioned as visual counterparts to the music's emotional landscape. By the mid-1960s, the approach fell out of favor as pop and rock LPs embraced bolder, more conceptual design. Today, these sleeves are prized by collectors for their period craftsmanship and nostalgic evocation of mid-century sophistication, with original pressings commanding premium prices when artwork remains pristine.",
   "tags": [
     "historical",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "mood-music sleeve art",
+    "atmospheric cover art",
+    "impressionistic LP art"
+  ],
+  "alt_spellings": [
+    "tone poem sleeve art",
+    "tonepoem sleeve art"
+  ],
+  "etymology": "Coined by 1950s record industry marketing departments, combining the classical music term \"tone poem\" (symphonic poem) with commercial LP packaging terminology to elevate mood-music releases.",
+  "first_use": 1954,
   "see_also": [
     "cheesecake-cover",
     "hi-fi-spectacular-sleeve",
     "exotica-lp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

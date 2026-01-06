@@ -1,15 +1,30 @@
 {
   "slug": "folk-rock",
   "term": "Folk Rock",
+  "pos": "noun",
+  "pronunciation": "/foʊk rɑk/",
   "summary": "'**Folk Rock** - A musical style within the Folk genre, classified according.",
-  "definition": "A specific musical style within the broader folk genre classification.",
+  "definition": "A hybrid musical genre that emerged in the mid-1960s, combining the acoustic instrumentation and lyrical storytelling traditions of folk music with the amplified sound, backbeat, and energy of rock and roll. Pioneered by artists like Bob Dylan, The Byrds, and Simon & Garfunkel, folk rock revolutionized both genres by introducing electric instruments and rock rhythms to folk's protest songs and narrative ballads. The genre reached its commercial and artistic peak between 1965-1971, producing landmark albums that remain highly collectible on vinyl today. Folk rock records typically feature jangly 12-string guitars, harmonized vocals, and socially conscious lyrics addressing civil rights, war, and generational change. Original pressings from labels like Columbia, Elektra, and Vanguard command premium prices among collectors, particularly mono editions from the genre's formative years. The sound influenced countless subgenres including country rock, chamber pop, and indie folk, maintaining relevance through modern reissues and continued influence on contemporary artists.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "folk-rock fusion",
+    "electric folk"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "folkrock",
+    "folk/rock"
+  ],
+  "etymology": "Coined in 1965 by music press to describe Bob Dylan's controversial electric performance at Newport Folk Festival and The Byrds' electrified cover of 'Mr. Tambourine Man,' merging folk music traditions with rock instrumentation.",
+  "first_use": 1965,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "CA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

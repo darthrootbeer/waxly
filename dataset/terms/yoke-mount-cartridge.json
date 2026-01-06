@@ -1,16 +1,29 @@
 {
   "slug": "yoke-mount-cartridge",
   "term": "Yoke-Mount Cartridge",
+  "pos": "noun",
+  "pronunciation": "/joʊk maʊnt ˈkɑːrtrɪdʒ/",
   "summary": "'**noun / cartridge-body style.** A **cartridge whose generator assembly.",
-  "definition": "**noun / [cartridge](../c/cartridge.md)-body style.** A **cartridge whose generator assembly is supported by a central ‘yoke’ bracket** — an older construction style sometimes seen in broadcast or rugged DJ cartridges.",
+  "definition": "**noun / [cartridge](../c/cartridge.md)-body style.** A **cartridge whose generator assembly is supported by a central 'yoke' bracket** — an older construction style sometimes seen in broadcast or rugged DJ cartridges. Unlike conventional cartridges where the stylus cantilever extends from a fixed generator housing, yoke-mount designs suspend the entire magnetic or coil assembly on a U-shaped or inverted-V bracket that pivots with the stylus movement. This configuration was popular from the 1950s through early 1970s, particularly in broadcast applications where robust tracking and resistance to shock were paramount. The yoke acts as both structural support and mechanical intermediary, translating stylus motion to the generator while absorbing lateral impacts that might damage more delicate designs. Models like the Shure M3D and certain Stanton broadcast cartridges employed yoke construction for maximum durability in demanding radio station environments. The design fell out of favor as miniaturized moving-magnet and moving-coil technologies improved, offering better frequency response and lower moving mass. Today, yoke-mount cartridges are primarily encountered in vintage equipment restoration or by collectors specializing in broadcast-era hardware, valued more for historical significance than sonic performance by modern audiophile standards.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "yoke cartridge",
+    "bracket-mount cartridge"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "yoke mount cartridge"
+  ],
+  "etymology": "Named for the 'yoke' bracket resembling the U-shaped harness used in animal-drawn equipment, adopted in early hi-fi engineering to describe the supporting framework around the generator assembly.",
+  "first_use": 1952,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

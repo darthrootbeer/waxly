@@ -1,21 +1,36 @@
 {
   "slug": "mono-switch",
   "term": "Mono Switch",
+  "pos": "noun",
+  "pronunciation": "/ˈmɒnoʊ swɪtʃ/",
   "summary": "'**noun / hi-fi control.** A switch on vintage amps and pre-amps that sums.",
-  "definition": "**noun / hi-fi control.** A switch on vintage amps and pre-amps that sums stereo channels into mono, reducing noise and phase issues when playing mono records with a stereo cartridge.",
+  "definition": "**noun / hi-fi control.** A switch on vintage amps and pre-amps that sums stereo channels into mono, reducing noise and phase issues when playing mono records with a stereo cartridge. Introduced in the late 1950s and early 1960s during the transition from mono to stereo playback, the mono switch addressed a critical technical problem: when a stereo cartridge tracks a mono groove, the vertical motion caused by imperfections, dust, or off-center pressings generates out-of-phase signals between the left and right channels, producing audible noise, surface crackle, and rumble. By electronically combining both channels into a single mono signal, the switch cancels these phase discrepancies, resulting in quieter, cleaner playback of pre-1968 mono pressings. High-end vintage equipment from manufacturers like Marantz, McIntosh, and Fisher featured dedicated mono switches as standard. The feature largely disappeared from consumer audio equipment by the mid-1970s as stereo became ubiquitous, though audiophile preamps and phono stages occasionally include it. Modern collectors playing mono records on contemporary stereo systems often resort to Y-cables or dedicated mono cartridges to achieve similar results, making original mono-switch-equipped amplifiers sought-after for vintage record playback.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "mono mode switch",
+    "mono button",
+    "stereo-mono switch"
+  ],
+  "alt_spelings": [
+    "mono-switch",
+    "monoswitch"
+  ],
+  "etymology": "Coined during the stereo transition era (1958-1965) from 'monaural' (single-channel audio) and 'switch' (electrical control), reflecting the need to toggle between playback modes as record collections contained both mono and stereo formats.",
+  "first_use": 1958,
   "see_also": [
     "dedicated-mono-cart",
     "phase-cancellation",
     "hi-fi-preamp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

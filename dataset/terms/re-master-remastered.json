@@ -1,21 +1,40 @@
 {
   "slug": "re-master-remastered",
   "term": "Re-Master",
+  "pos": "noun",
+  "pronunciation": "/ˌriːˈmæstər/",
   "summary": "'**noun / studio term.** A **newly mastered version** of an existing recording,.",
-  "definition": "**noun / studio term.** A **newly mastered version** of an existing recording, often using improved tapes, EQ, or digital restoration.",
+  "definition": "**noun / studio term.** A **newly mastered version** of an existing recording, created by returning to the original master tapes or high-quality source material and applying modern mastering techniques. Remastering typically involves improved equalization, dynamic range adjustments, noise reduction, and digital restoration to enhance clarity, depth, and overall sonic fidelity. The practice became widespread in the 1980s with the advent of compact discs, as labels sought to reissue catalog titles with improved sound quality. Remastered vinyl releases may utilize advanced cutting techniques like half-speed mastering or all-analog signal chains (AAA) to maximize audio performance. Quality varies significantly—acclaimed remasters by engineers like Kevin Gray or Bernie Grundman can reveal previously obscured details, while poorly executed remasters may suffer from excessive compression or loudness war artifacts. Collectors often debate the merits of original pressings versus remastered editions, with some preferring the authentic sound of vintage cuts despite technical limitations. Modern reissue labels like Analogue Productions and Mobile Fidelity Sound Lab have built reputations on audiophile-grade remastering.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "remastered edition",
+    "remastered release",
+    "sonic restoration"
+  ],
+  "alt_spellings": [
+    "Remaster",
+    "Re-mastered",
+    "Remastered"
+  ],
+  "etymology": "Compound of prefix 're-' (again) and 'master' (create a master recording), coined in the early 1980s during the CD era to market improved versions of catalog recordings.",
+  "first_use": 1982,
   "see_also": [
     "half-speed-mastering",
     "aaa-mastering",
-    "loudness-war-cut"
+    "loudness-war",
+    "lacquer",
+    "cutting-engineer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

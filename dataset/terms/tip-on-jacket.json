@@ -1,21 +1,38 @@
 {
   "slug": "tip-on-jacket",
   "term": "Tip-On Jacket",
+  "pos": "noun",
+  "pronunciation": "/tɪp ɒn ˈdʒækɪt/",
   "summary": "noun / packaging term. A premium jacket style where the printed slick is.",
-  "definition": "**noun / packaging term.** A **premium jacket style where the printed slick is glued (‘tipped-on’) to a separate cardboard core** — the vintage U.S. norm in the 1950s-70s, revived by audiophile labels.",
+  "definition": "**noun / packaging term.** A **premium jacket style where the printed slick is glued ('tipped-on') to a separate cardboard core** — the vintage U.S. norm in the 1950s-70s, revived by audiophile labels. The construction involves printing artwork on thin coated paper stock, then adhering it to thicker chipboard backing, creating a tactile two-layer feel. This labor-intensive process dominated major-label releases during vinyl's golden age, delivering superior color reproduction and a luxurious hand-feel compared to modern direct-to-board printing. Blue Note, Prestige, and Columbia used tip-ons extensively for jazz and rock releases. The method fell out of favor in the late 1970s as cost-cutting measures pushed the industry toward single-layer jackets. Contemporary reissue labels like Music Matters, Analogue Productions, and Speakers Corner have revived tip-on construction as a premium feature, often paired with 180g vinyl and all-analog mastering. Collectors prize original tip-on pressings for their durability—the slick can be replaced if damaged—and authentic period aesthetics. Expect to pay 20-40% more for modern tip-on editions.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tipped-on jacket",
+    "pasted-on jacket",
+    "glued slick jacket"
+  ],
+  "alt_spelings": [
+    "tip on jacket",
+    "tipon jacket",
+    "tip-on sleeve"
+  ],
+  "etymology": "From printing terminology 'tip-in' or 'tip-on,' referring to the process of pasting one sheet onto another, adopted by record manufacturers in the early LP era (late 1940s).",
+  "first_use": 1948,
   "see_also": [
     "direct-to-board-jacket",
     "laminated-sleeve",
-    "gatefold"
+    "gatefold",
+    "slick"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

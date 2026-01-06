@@ -1,21 +1,37 @@
 {
   "slug": "one-step",
   "term": "One-Step Pressing",
+  "pos": "noun",
+  "pronunciation": "/wʌn stɛp ˈprɛsɪŋ/",
   "summary": "noun / audiophile manufacturing. A premium pressing method eliminating intermediate.",
-  "definition": "**noun / audiophile manufacturing.** A premium pressing method eliminating intermediate “mother” and “stamper” generations — stampers made directly from the lacquer or DMM copper master, reducing generational loss.",
+  "definition": "**noun / audiophile manufacturing.** A premium pressing method eliminating intermediate \"mother\" and \"stamper\" generations — stampers made directly from the lacquer or DMM copper master, reducing generational loss. In conventional pressing, a lacquer father is plated to create a metal mother, which then generates multiple stampers for production runs. One-step processes skip the mother stage entirely, creating stampers directly from the original master, preserving more detail and dynamic range from the source. Pioneered in modern form by Mobile Fidelity Sound Lab (MoFi) in 2016 with their UltraDisc One-Step series, these pressings typically yield only 2,000-7,500 copies per lacquer due to limited stamper durability without mother backups. The process demands pristine lacquers and meticulous quality control, resulting in retail prices of $100-$150 per title. Audiophiles prize one-steps for their exceptional transparency, extended frequency response, and lower surface noise. Other labels including Analogue Productions and ORG Music have adopted the technique, making it the apex of contemporary vinyl manufacturing for serious collectors seeking maximum fidelity.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "direct stamper pressing",
+    "one-step process"
+  ],
+  "alt_spellings": [
+    "one step pressing",
+    "1-step pressing"
+  ],
+  "etymology": "Named for the single plating step from master to stamper, contrasting with conventional two-step (father-to-stamper) or three-step (father-mother-stamper) processes. Term popularized by Mobile Fidelity's trademarked UltraDisc One-Step series beginning 2016.",
+  "first_use": 2016,
   "see_also": [
     "lacquer-cut",
     "dmm-direct-metal-mastering",
-    "audiophile"
+    "audiophile",
+    "stamper",
+    "plating"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

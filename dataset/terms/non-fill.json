@@ -1,20 +1,35 @@
 {
   "slug": "non-fill",
   "term": "Non-Fill",
+  "pos": "noun",
+  "pronunciation": "/nɑn fɪl/",
   "summary": "noun / manufacturing defect. A defect where molten vinyl fails to completely.",
-  "definition": "**noun / manufacturing defect.** A defect where molten vinyl fails to completely flow into the stamper during pressing, leaving small unfilled patches that cause ripping or tearing sounds during playback.",
+  "definition": "**noun / manufacturing defect.** A defect where molten vinyl fails to completely flow into the stamper during pressing, leaving small unfilled patches that cause ripping or tearing sounds during playback. Non-fills occur when insufficient heat, pressure, or material quantity prevents the vinyl biscuit from reaching every groove of the stamper, creating microscopic voids or shallow sections in the finished record. These defects typically manifest as brief crackling, popping, or tearing sounds that repeat with each revolution, distinguishing them from surface contaminants. Common causes include worn stampers, inadequate pressing temperature, insufficient dwell time, or contaminated vinyl compound. Quality control inspectors identify non-fills through visual inspection under raking light or playback testing. Severe non-fills render records unplayable and warrant returns or replacements. The defect became more prevalent during the vinyl revival of the 2010s as new pressing plants ramped up production without experienced operators, leading to increased consumer awareness of pressing quality standards and the importance of proper manufacturing protocols.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "underfill",
+    "incomplete fill",
+    "short shot"
+  ],
+  "alt_spelings": [
+    "nonfill",
+    "non fill"
+  ],
+  "etymology": "Industrial manufacturing term adopted by vinyl pressing plants in the mid-20th century, derived from injection molding terminology describing incomplete cavity filling.",
+  "first_use": 1950,
   "see_also": [
     "pressing-blister",
     "stitching-noise",
     "qc-reject"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,36 @@
 {
   "slug": "finger-lift-headshell",
   "term": "Finger Lift",
+  "pos": "noun",
+  "pronunciation": "/ˈfɪŋɡər lɪft/",
   "summary": "A small curved tab attached to a headshell that lets you grip and guide the.",
-  "definition": "A small curved tab attached to a headshell that lets you grip and guide the tonearm without touching the cartridge body.",
+  "definition": "A small curved tab attached to a headshell that lets you grip and guide the tonearm without touching the cartridge body. Typically made from metal or durable plastic, the finger lift provides a designated gripping point positioned above the headshell, allowing users to manually cue records without risking damage to the delicate stylus or cartridge. Introduced in the 1950s alongside detachable headshell designs, finger lifts became standard equipment on quality turntables by the 1960s. The component serves both practical and protective functions—preventing fingerprints on the cartridge body and reducing the risk of accidental stylus damage during manual cueing. DJs particularly value finger lifts for precise beat-matching and scratching, where rapid, controlled tonearm movements are essential. Designs vary from simple wire loops to elaborate sculpted tabs, with some audiophile models featuring damped or weighted versions to minimize resonance transfer. Aftermarket finger lifts allow customization for ergonomics or aesthetics, though improper installation can affect tracking weight distribution. While automatic turntables and cue levers reduced reliance on manual cueing for casual listeners, finger lifts remain indispensable for DJs and vinyl enthusiasts who prefer hands-on control. Vintage models without finger lifts often see aftermarket additions, reflecting their enduring utility in modern turntable use.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cueing tab",
+    "tonearm grip",
+    "headshell tab"
+  ],
+  "alt_spelings": [
+    "fingerlift"
+  ],
+  "etymology": "Descriptive compound term combining 'finger' and 'lift,' referring to its function as a manual lifting point for tonearm operation. Emerged with standardized headshell designs in 1950s hi-fi equipment.",
+  "first_use": 1955,
   "see_also": [
     "headshell",
     "cue-lever",
     "tonearm"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

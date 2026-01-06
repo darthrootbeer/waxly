@@ -1,20 +1,35 @@
 {
   "slug": "slip-mat-burn-ring",
   "term": "Slip-Mat Burn",
+  "pos": "noun",
+  "pronunciation": "/slɪp mæt bɜːrn/",
   "summary": "Slip-Mat Burn / Mat-Burn Ring.",
-  "definition": "# Slip-Mat Burn\n\n**Etymology:** Slang — label shows a *burn-ring* from the *slip-mat*.\n\n**Example:** “The old battle 12-inch has heavy slip-mat burn around the center label.”\n\n**Cultural Note:** * Telltale of heavy DJ rotation and club life.",
+  "definition": "# Slip-Mat Burn\n\nCircular wear pattern appearing on a record label caused by friction between the vinyl and slip-mat during DJ use. The phenomenon occurs when DJs repeatedly cue, scratch, or backspin records while the platter continues rotating beneath—the felt or synthetic slip-mat creates abrasive contact that gradually burnishes or scuffs the label surface in a distinctive ring pattern concentric to the spindle hole.\n\nMost pronounced on battle records and club workhorses from the 1980s-90s hip-hop and dance eras, when aggressive cueing and scratching techniques became standard practice. The severity ranges from light discoloration to complete label obliteration on heavily-worked 12-inch singles. Unlike cue burn (which affects the vinyl itself), slip-mat burn is purely cosmetic label damage—playback remains unaffected.\n\nCollectors view heavy slip-mat burn as authentication of a record's working DJ history, particularly on rare breakbeat compilations and white labels that saw genuine club rotation. Original pressings with pristine labels often command higher prices, though some buyers specifically seek battle-worn copies as cultural artifacts of turntablism's golden age.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Mat-Burn Ring",
+    "Slip-Mat Ring",
+    "DJ Burn Ring"
+  ],
+  "alt_spellings": [
+    "Slipmat Burn",
+    "Slip Mat Burn"
+  ],
+  "etymology": "DJ slang emerging in 1980s hip-hop culture, describing the visible burn-like ring left by slip-mats on heavily-cued records.",
+  "first_use": 1985,
   "see_also": [
     "cue-burn",
     "label-wear",
     "groove-wear"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

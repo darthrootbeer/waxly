@@ -1,21 +1,38 @@
 {
   "slug": "add-on-arm-weight",
   "term": "Add-On Arm Weight",
+  "pos": "noun",
+  "pronunciation": "/ˈæd ɒn ɑːrm weɪt/",
   "summary": "A small auxiliary weight attached to the rear of a tonearm or to a detachable.",
-  "definition": "A small auxiliary weight attached to the rear of a tonearm or to a detachable headshell to balance heavier cartridges or DJ styli.",
+  "definition": "A small auxiliary weight attached to the rear of a tonearm or to a detachable headshell to balance heavier cartridges or DJ styli. These supplemental weights became essential in the 1970s as DJs adopted robust spherical styli and heavier cartridges like the Shure M44-7 and Stanton 500, which often exceeded the counterweight range of standard turntables. The add-on weight typically clamps or screws onto the existing counterweight assembly, shifting the tonearm's center of gravity rearward to accommodate the additional mass at the headshell end. Without proper counterbalancing, heavy cartridges would cause the tonearm to dive toward the record surface, making accurate tracking force adjustment impossible. Common weights range from 2 to 5 grams and are particularly prevalent in DJ setups where battle-style cartridges demand precise balance for scratching and backspinning. Technics included optional add-on weights with many SL-1200 models, cementing their status as standard DJ accessories. Modern turntable manufacturers often design counterweights with broader adjustment ranges, reducing the need for add-on weights, though they remain indispensable for vintage decks and specialized applications where extreme cartridge masses are employed.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "auxiliary weight",
+    "supplemental counterweight",
+    "cartridge balance weight"
+  ],
+  "alt_spellings": [
+    "add on arm weight",
+    "addon arm weight"
+  ],
+  "etymology": "Term emerged in the 1970s DJ and hi-fi communities as heavier tracking cartridges required supplemental counterbalancing beyond standard tonearm designs.",
+  "first_use": 1975,
   "see_also": [
     "counterweight",
     "tracking-force",
-    "headshell"
+    "headshell",
+    "cartridge",
+    "tonearm"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

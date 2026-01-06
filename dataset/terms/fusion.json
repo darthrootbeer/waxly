@@ -1,15 +1,28 @@
 {
   "slug": "fusion",
   "term": "Fusion",
+  "pos": "noun",
+  "pronunciation": "/ˈfjuːʒən/",
   "summary": "'**Fusion** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A groundbreaking musical style that emerged in the late 1960s, blending jazz improvisation and harmony with rock, funk, and R&B rhythms, electric instrumentation, and amplified sound. Pioneered by Miles Davis with albums like *Bitches Brew* (1970) and advanced by groups such as Weather Report, Mahavishnu Orchestra, and Return to Forever, fusion revolutionized jazz by incorporating electric keyboards, synthesizers, bass guitars, and rock-style drum patterns. The genre's vinyl releases from the 1970s golden era are highly collectible, prized for their dynamic range and innovative production techniques that pushed studio recording boundaries. Fusion albums often featured gatefold packaging with elaborate artwork reflecting the music's experimental nature, making original pressings particularly sought after by collectors who value both the sonic adventurousness and the physical presentation of these landmark recordings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Jazz Fusion",
+    "Jazz-Rock",
+    "Jazz-Rock Fusion"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the concept of 'fusion' meaning the merging of different elements, applied to music in the late 1960s to describe the blending of jazz with rock and funk influences, particularly as jazz musicians adopted electric instruments and rock rhythms.",
+  "first_use": 1969,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

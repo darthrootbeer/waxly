@@ -1,15 +1,31 @@
 {
   "slug": "gangsta-rap",
   "term": "Gangsta Rap",
+  "pos": "noun",
+  "pronunciation": "/ˈɡæŋstə ræp/",
   "summary": "'**Gangsta Rap** - A musical style within the Hip Hop genre, classified according.",
-  "definition": "A specific musical style within the broader hip-hop genre classification.",
+  "definition": "A confrontational subgenre of hip-hop that emerged in the mid-1980s, characterized by explicit lyrical content depicting street life, violence, drug culture, and conflicts with law enforcement. Pioneered by Philadelphia's Schoolly D and Los Angeles groups like N.W.A, gangsta rap became the dominant commercial force in hip-hop during the 1990s through artists like Ice-T, Tupac Shakur, The Notorious B.I.G., and Snoop Dogg. The genre's raw production often featured heavy funk samples, G-funk synthesizers, and hard-hitting drum patterns. Original pressings of landmark albums like N.W.A's *Straight Outta Compton* (1988), Dr. Dre's *The Chronic* (1992), and Snoop's *Doggystyle* (1993) command premium prices among vinyl collectors. The genre sparked intense cultural debate and congressional hearings over explicit content, leading to Parental Advisory stickers becoming standard on recordings. While controversial, gangsta rap fundamentally shaped modern hip-hop's sonic and lyrical vocabulary, with original vinyl pressings serving as historical artifacts of a transformative cultural movement.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "G-Rap",
+    "Reality Rap",
+    "Street Rap"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Gangster Rap",
+    "Gangsta-Rap"
+  ],
+  "etymology": "Derived from 'gangster' (1890s American slang for criminal gang member) combined with 'rap' (1960s-70s hip-hop vocal style), popularized by Ice-T's 1987 track '6 in the Mornin'' and solidified by N.W.A's self-identification as practitioners of unfiltered street narratives.",
+  "first_use": 1987,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

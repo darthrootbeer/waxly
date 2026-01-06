@@ -1,21 +1,37 @@
 {
   "slug": "q-up",
   "term": "Q-Up (Auto Tone-Arm Lifter)",
+  "pos": "noun",
+  "pronunciation": "/ˈkjuː ʌp/",
   "summary": "noun / accessory / brand name. A small spring-loaded device placed near the.",
-  "definition": "**noun / accessory / brand name.** A small spring-loaded device placed near the platter that **automatically lifts the tone-arm** at the run-out groove’s end — useful for manual tables lacking auto-return.",
+  "definition": "**noun / accessory / brand name.** A small spring-loaded device placed near the platter that **automatically lifts the tone-arm** at the run-out groove's end — useful for manual tables lacking auto-return. Introduced in the late 1970s, the Q-Up became essential for vinyl listeners who fell asleep to records or wanted stylus protection without investing in fully automatic turntables. The mechanism uses a sensing arm that detects when the tone-arm reaches the label area, triggering a spring-loaded lifter that gently raises the stylus away from the spinning record. Originally manufactured by the Q-Up Company, the device attaches via adhesive pad or clamp to the turntable plinth, positioned to intercept the tone-arm's inward travel. While audiophiles initially dismissed it as unnecessary intervention, the Q-Up gained acceptance for preventing stylus wear and inner-groove distortion from extended play in the locked groove. Modern variants include electronic servo-driven lifters, but vintage spring-loaded Q-Ups remain popular on the used market. The device proved particularly valuable during the 1980s vinyl decline, when automatic turntable production ceased but manual tables still dominated serious listening setups.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "auto tone-arm lifter",
+    "automatic stylus lifter",
+    "tonearm lift"
+  ],
+  "alt_spellings": [
+    "Q Up",
+    "Qup",
+    "Q-up"
+  ],
+  "etymology": "Proprietary brand name from Q-Up Company, with 'Q' possibly referencing 'cue' (the act of positioning a tone-arm) and 'up' describing the lifting action.",
+  "first_use": 1978,
   "see_also": [
     "auto-lift-arm-rest",
     "run-out-groove",
     "stylus-saver"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

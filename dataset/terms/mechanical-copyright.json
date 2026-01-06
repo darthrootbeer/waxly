@@ -1,21 +1,41 @@
 {
   "slug": "mechanical-copyright",
   "term": "Mechanical Copyright Stamp",
+  "pos": "noun",
+  "pronunciation": "/məˈkænɪkəl ˈkɒpiˌraɪt stæmp/",
   "summary": "'**noun / ephemera.** Small printed or stamped mark on European labels/jackets.",
-  "definition": "**noun / ephemera.** Small printed or stamped mark on European labels/jackets indicating licensing under a mechanical-copyright society such as MCPS or BIEM.",
+  "definition": "**noun / ephemera.** Small printed or stamped mark on European labels and jackets indicating licensing under a mechanical-copyright society such as MCPS (Mechanical-Copyright Protection Society) or BIEM (Bureau International de l'Édition Mécanique). These stamps emerged in the 1930s-40s as European collecting societies formalized royalty collection for recorded music reproduction. Typically appearing as small text blocks, circular emblems, or acronyms printed on label rims or rear jacket panels, they verify that mechanical royalties—payments owed to composers and publishers for physical reproduction—have been properly licensed. Common markings include \"MCPS,\" \"BIEM,\" \"GEMA\" (Germany), \"SIAE\" (Italy), and \"STEMRA\" (Netherlands). Stamps vary by country and era, with some pressed into dead wax or printed in microscopic type. Collectors use these marks to identify pressing plants, manufacturing periods, and distribution territories, as societies often licensed specific factories. Modern reissues sometimes omit or update these stamps based on current licensing agreements.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "mechanical rights stamp",
+    "copyright society mark",
+    "MCPS stamp",
+    "BIEM mark"
+  ],
+  "alt_spellings": [
+    "mechanical-copyright stamp",
+    "mechanical copyright marking"
+  ],
+  "etymology": "Derived from \"mechanical rights,\" the legal term for reproduction rights established in early 20th-century copyright law, combined with physical \"stamp\" markings required by European collecting societies beginning in the 1930s.",
+  "first_use": 1935,
   "see_also": [
     "label-variant",
     "country-of-origin-pressing",
-    "siae-stamp"
+    "siae-stamp",
+    "matrix-number",
+    "pressing-plant-code"
   ],
   "regions": [
-    "US"
+    "UK",
+    "EU",
+    "DE",
+    "IT",
+    "NL",
+    "FR"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

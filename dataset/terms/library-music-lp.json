@@ -1,21 +1,36 @@
 {
   "slug": "library-music-lp",
   "term": "Library Music LP",
+  "pos": "noun",
+  "pronunciation": "/ˈlaɪˌbrɛri ˈmjuːzɪk ɛl piː/",
   "summary": "'**noun / cultural.** A record produced for film, TV, and radio production.",
-  "definition": "**noun / cultural.** A record produced for film, TV, and radio production libraries — often generic instrumental cues, sold only to broadcasters but beloved by crate-diggers for funky breaks.",
+  "definition": "**noun / cultural.** A record produced for film, TV, and radio production libraries — often generic instrumental cues, sold only to broadcasters but beloved by crate-diggers for funky breaks. These LPs were never intended for retail sale, instead distributed to media professionals through specialized catalogs from labels like KPM, Bruton, and De Wolfe. Tracks were composed to evoke specific moods or scenarios (\"tense chase,\" \"romantic interlude,\" \"light industrial\") and licensed for synchronization use. The golden era spanned the 1960s-70s, when session musicians recorded vast quantities of jazz, funk, psychedelic, and electronic material under pseudonyms. Original pressings remained obscure until hip-hop producers and rare groove collectors discovered their rich breakbeats and unusual arrangements in the 1980s-90s. Today, library LPs command high prices in the collector market, with landmark releases from Alan Hawkshaw, John Cameron, and Keith Mansfield particularly sought after. Many libraries have been legitimately reissued, while samples from these records appear throughout modern electronic music and hip-hop production.",
   "tags": [
     "dj-related",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "production music LP",
+    "stock music record",
+    "mood music LP"
+  ],
+  "alt_spellings": [
+    "library-music LP",
+    "library music record"
+  ],
+  "etymology": "Term emerged in the 1950s when production music companies began organizing their catalogs into \"libraries\" for easy browsing by broadcasters, with vinyl LPs becoming the primary distribution format by the early 1960s.",
+  "first_use": 1955,
   "see_also": [
     "production-music",
     "breakbeat",
     "crate-digging"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

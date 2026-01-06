@@ -1,21 +1,35 @@
 {
   "slug": "y-groove",
   "term": "Y-Groove Junction",
-  "summary": "'**noun / cutting-room slang.** A **rare groove-geometry quirk where two.",
-  "definition": "**noun / cutting-room slang.** A **rare groove-geometry quirk where two run-out spirals merge like a ‘Y’-shaped junction** — usually from a cutting-lathe mis-feed or playful locked-groove trick.",
+  "pos": "noun",
+  "pronunciation": "/waɪ ɡruːv ˈdʒʌŋkʃən/",
+  "summary": "**noun / cutting-room slang.** A **rare groove-geometry quirk where two run-out spirals merge like a 'Y'-shaped junction** — usually from a cutting-lathe mis-feed or playful locked-groove trick.",
+  "definition": "**noun / cutting-room slang.** A **rare groove-geometry quirk where two run-out spirals merge like a 'Y'-shaped junction** — usually from a cutting-lathe mis-feed or playful locked-groove trick. Occurs when a lathe operator initiates a second lead-in or run-out groove that intersects an existing spiral path, creating a physical fork in the vinyl surface. Most Y-grooves result from test-cut errors during acetate or lacquer mastering, though experimental artists in the 1960s-70s occasionally engineered them deliberately for multi-path playback effects. The stylus encounters the junction and randomly follows one branch or the other, producing unpredictable track sequences—a technique exploited on novelty records and avant-garde releases. Authentic Y-grooves are exceedingly rare on commercial pressings due to quality control, making them prized anomalies among vinyl oddity collectors. Modern examples surface primarily on limited-run art editions or as documented pressing plant mistakes that escaped destruction.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Y-junction",
+    "fork groove",
+    "branching spiral"
+  ],
+  "alt_spellings": [
+    "Y groove",
+    "y-groove"
+  ],
+  "etymology": "Coined in cutting-room vernacular during the 1950s-60s, referencing the visual resemblance to a road junction or river fork when viewed under magnification.",
+  "first_use": 1958,
   "see_also": [
     "locked-groove",
     "spiral-track-trick",
     "run-out-etching"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,37 @@
 {
   "slug": "half-speed-mastering",
   "term": "Half-Speed Mastering",
+  "pos": "noun",
+  "pronunciation": "/hæf spiːd ˈmæstərɪŋ/",
   "summary": "noun / technical. A mastering process where the lacquer is cut at half the.",
-  "definition": "**noun / technical.** A mastering process where the lacquer is cut at half the normal playback speed (16⅔ RPM for a 33⅓ LP). This lets the cutting head trace high-frequency detail more accurately, reducing distortion and improving transient response.",
+  "definition": "**noun / technical.** A mastering process where the lacquer is cut at half the normal playback speed (16⅔ RPM for a 33⅓ LP). This lets the cutting head trace high-frequency detail more accurately, reducing distortion and improving transient response. Developed in the 1960s and popularized by Mobile Fidelity Sound Lab in the late 1970s, the technique allows the cutting stylus to navigate complex waveforms with greater precision, particularly in the treble range where standard-speed cutting can introduce harmonic distortion. The master tape is also played at half-speed during the process, maintaining correct pitch relationships. While requiring twice the cutting time and specialized equipment, half-speed mastering became synonymous with audiophile pressings during the 1980s, with distinctive gold or silver stickers marking premium releases. Modern debate continues over its audible benefits versus standard mastering, though collectors prize vintage half-speed editions from labels like MFSL, Nautilus, and CBS Mastersound for their typically quiet pressings and extended high-frequency response.",
   "tags": [
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "half-speed cut",
+    "HSM"
+  ],
+  "alt_spelings": [
+    "half speed mastering",
+    "halfspeed mastering"
+  ],
+  "etymology": "Named for the technique of cutting the lacquer master at half the intended playback speed, developed as audiophile market emerged in 1960s-70s seeking superior sound quality from vinyl format.",
+  "first_use": 1968,
   "see_also": [
     "audiophile",
     "lacquer-cut",
-    "hot-cut"
+    "hot-cut",
+    "mfsl",
+    "mastering"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,37 @@
 {
   "slug": "reverse-groove",
   "term": "Reverse Groove",
-  "summary": "'**noun / novelty mastering trick.** A **record cut so that the stylus starts.",
-  "definition": "**noun / novelty mastering trick.** A **record cut so that the stylus starts at the label and plays outward to the edge** — a mastering novelty occasionally used for special tracks.",
+  "pos": "noun",
+  "pronunciation": "/rɪˈvɜrs ɡruv/",
+  "summary": "**noun / novelty mastering trick.** A **record cut so that the stylus starts at the label and plays outward to the edge** — a mastering novelty occasionally used for special tracks.",
+  "definition": "**noun / novelty mastering trick.** A **record cut so that the stylus starts at the label and plays outward to the edge** — a mastering novelty occasionally used for special tracks. Unlike conventional records where the groove spirals inward from the outer edge toward the center label, reverse grooves require the listener to manually place the stylus at the innermost point and let it travel outward. This technique emerged in the 1960s as artists and engineers explored unconventional studio tricks, most famously employed on The Beatles' \"Sgt. Pepper's Lonely Hearts Club Band\" (1967) for the run-out groove chatter. Mastering a reverse groove requires cutting the lacquer in the opposite direction, which can affect sound quality since the outer grooves naturally allow for better fidelity due to increased linear velocity. The format serves primarily as a novelty or artistic statement rather than practical application, sometimes used for hidden messages, backward-masked audio, or conceptual album sequences. Manual turntables are essential for playback, as automatic return mechanisms will malfunction. Collectors prize reverse groove pressings for their rarity and the tactile engagement they demand, though they remain uncommon due to manufacturing complexity and listener inconvenience.",
   "tags": [
     "equipment",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "inside-start groove",
+    "outward groove",
+    "reverse-cut"
+  ],
+  "alt_spellings": [
+    "reverse groove",
+    "reversegroove"
+  ],
+  "etymology": "Coined in the mid-1960s during the experimental studio era, combining 'reverse' (opposite direction) with 'groove' (the spiral track cut into vinyl), describing the inverted playback path from label to edge.",
+  "first_use": 1967,
   "see_also": [
     "locked-groove",
     "hidden-track",
     "gimmick-cut"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

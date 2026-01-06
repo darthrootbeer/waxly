@@ -1,21 +1,36 @@
 {
   "slug": "shibata-stylus",
   "term": "Shibata Stylus",
+  "pos": "noun",
+  "pronunciation": "/ʃɪˈbɑːtə ˈstaɪləs/",
   "summary": "noun / stylus profile. A line-contact stylus shape originally designed in.",
-  "definition": "**noun / stylus profile.** A **line-contact stylus shape** originally designed in the early 1970s by engineer Norio Shibata for JVC’s **CD-4 quadraphonic** LPs. Its long, narrow contact patch traces groove walls more accurately than common elliptical tips.",
+  "definition": "**noun / stylus profile.** A **line-contact stylus shape** originally designed in the early 1970s by engineer Norio Shibata for JVC's **CD-4 quadraphonic** LPs. Its long, narrow contact patch traces groove walls more accurately than common elliptical tips. The Shibata profile features a highly polished, elongated ridge that contacts the groove at a specific angle, allowing it to track the ultrasonic carrier frequencies (up to 45kHz) required for discrete four-channel quad records. This extended frequency response also benefits standard stereo playback by retrieving more high-frequency detail and reducing distortion. The design distributes tracking force over a larger surface area, resulting in reduced record wear compared to spherical or elliptical styli. During the 1970s quad era, Shibata styli commanded premium prices and were found on high-end cartridges from Audio-Technica, Pickering, and others. Though CD-4 disappeared by the late 1970s, audiophiles continued seeking Shibata-equipped cartridges for their superior stereo performance. Modern line-contact designs like microline and micro-ridge evolved from Shibata's principles, though original Shibata profiles remain available on contemporary cartridges priced from $200 to several thousand dollars.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "line-contact stylus",
+    "Shibata tip",
+    "Shibata needle"
+  ],
+  "alt_spellings": [],
+  "etymology": "Named after Norio Shibata, the JVC engineer who developed the profile in 1972 to meet the technical demands of CD-4 quadraphonic disc reproduction.",
+  "first_use": 1972,
   "see_also": [
     "line-contact-stylus",
     "micro-ridge-tip",
-    "quad-cut-stylus"
+    "cd-4",
+    "elliptical-stylus",
+    "cartridge"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

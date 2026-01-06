@@ -1,20 +1,37 @@
 {
   "slug": "poly-outer",
   "term": "Poly Outer Sleeve",
-  "summary": "'**noun / packaging / protective.** A clear polyethylene or polypropylene.",
-  "definition": "**noun / packaging / protective.** A clear polyethylene or polypropylene bag used to protect the LP’s outer jacket from dust, ring-wear, and shelf-rub.",
+  "pos": "noun",
+  "pronunciation": "/ˈpɒli ˈaʊtər sliːv/",
+  "summary": "**noun / packaging / protective.** A clear polyethylene or polypropylene.",
+  "definition": "**noun / packaging / protective.** A clear polyethylene or polypropylene bag used to protect the LP's outer jacket from dust, ring-wear, and shelf-rub. These protective sleeves became standard among serious collectors in the 1980s as awareness grew about long-term preservation of album artwork and cardboard integrity. Available in multiple thicknesses (typically 2-4 mil), poly outers slip over the entire record jacket and are often resealable via adhesive strips or flaps. Higher-end archival versions use acid-free materials to prevent chemical degradation over decades. The sleeves prevent the circular wear patterns (ring-wear) caused by the record's weight pressing against shelving surfaces, and protect gatefold edges from splitting. Modern variants include crystal-clear polypropylene options that resist yellowing and static buildup better than standard polyethylene. Serious collectors often upgrade to premium sleeves like MoFi or Sleeve City brands, which offer superior clarity and durability. For sealed or mint-condition records, poly outers are essential to maintaining collector value, as even minor jacket wear can significantly impact resale prices in the grading-obsessed vintage market.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "outer sleeve",
+    "poly sleeve",
+    "protective sleeve",
+    "LP bag"
+  ],
+  "alt_spellings": [
+    "poly-outer",
+    "polyouter"
+  ],
+  "etymology": "Derived from 'polyethylene' (the plastic polymer) combined with 'outer' to distinguish from inner sleeves that contact the record directly. Term emerged in collector vernacular during the 1980s vinyl preservation movement.",
+  "first_use": 1982,
   "see_also": [
     "outer-jacket",
     "resealable-sleeve",
     "archival-bag"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,30 @@
 {
   "slug": "smooth-jazz",
   "term": "Smooth Jazz",
+  "pos": "noun",
+  "pronunciation": "/smuːð dʒæz/",
   "summary": "'**Smooth Jazz** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A commercially-oriented subgenre of jazz that emerged in the late 1970s and gained mainstream popularity throughout the 1980s-1990s, characterized by polished production, melodic accessibility, and reduced improvisational complexity compared to traditional jazz forms. Smooth jazz typically features electric instruments, synthesizers, and a steady rhythm section, prioritizing listener-friendly hooks over experimental or avant-garde elements. The style became synonymous with radio formats targeting adult contemporary audiences, with artists like George Benson, Grover Washington Jr., and Kenny G achieving crossover success. On vinyl, smooth jazz releases from the genre's peak era (1980s-1990s) often showcase pristine pressing quality and dynamic range that highlight the studio-crafted production values, though the genre remains less sought-after among jazz purist collectors compared to bebop, hard bop, or modal jazz pressings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Contemporary Jazz",
+    "Lite Jazz",
+    "Jazz Fusion Lite"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Smooth-Jazz"
+  ],
+  "etymology": "Term coined in the mid-1970s by radio programmers seeking to distinguish melodic, accessible jazz from harder bebop and free jazz styles. Gained widespread adoption with the launch of dedicated smooth jazz radio formats in the 1980s.",
+  "first_use": 1975,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

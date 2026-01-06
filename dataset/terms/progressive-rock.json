@@ -1,15 +1,31 @@
 {
   "slug": "progressive-rock",
   "term": "Progressive Rock",
+  "pos": "noun",
+  "pronunciation": "/prəˈɡrɛsɪv rɒk/",
   "summary": "'**Progressive Rock** - A musical style within the Rock genre, classified.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A complex and experimental rock music style that emerged in the late 1960s, characterized by extended compositions, conceptual album structures, and incorporation of classical, jazz, and world music influences. Progressive rock bands typically featured virtuosic instrumental performances, unconventional time signatures, and thematic album concepts that elevated rock music to art-rock status. The genre reached its commercial and creative zenith between 1970-1976, with landmark albums from Yes, Genesis, King Crimson, Emerson Lake & Palmer, and Pink Floyd defining the sound. These releases frequently utilized the gatefold format to accommodate elaborate artwork and lyrical concepts. The genre's emphasis on album-oriented listening made it particularly suited to vinyl presentation, where side-long suites and careful sequencing enhanced the listening experience. Progressive rock albums remain highly collectible, with original pressings from the golden era commanding premium prices, and audiophile reissues continuing to showcase the genre's sonic ambition and production sophistication.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "prog rock",
+    "prog",
+    "art rock",
+    "symphonic rock"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Progressive-Rock",
+    "progressive rock"
+  ],
+  "etymology": "Coined in late 1960s from 'progressive' (advancing, innovative) and 'rock,' reflecting the genre's ambition to progress beyond conventional rock music boundaries into more sophisticated compositional territory.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

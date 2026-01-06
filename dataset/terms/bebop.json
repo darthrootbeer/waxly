@@ -1,15 +1,31 @@
 {
   "slug": "bebop",
   "term": "Bebop",
+  "pos": "noun",
+  "pronunciation": "/ˈbiːbɒp/",
   "summary": "'**Bebop** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A revolutionary jazz style that emerged in the early 1940s, characterized by fast tempos, complex chord progressions, and virtuosic instrumental improvisation. Developed primarily by African American musicians including Charlie Parker, Dizzy Gillespie, and Thelonious Monk as a reaction against the commercialized swing era, bebop emphasized artistic expression over danceable rhythms. The style features intricate melodic lines, extended harmonies, and asymmetrical phrasing that demanded exceptional technical skill. Bebop recordings became highly collectible on vinyl, particularly original pressings on labels like Blue Note, Prestige, and Savoy from the 1940s-50s. First-pressing bebop albums command premium prices among jazz collectors, with mint condition copies of seminal releases fetching thousands of dollars. The format's warm analog reproduction particularly suits bebop's acoustic instrumentation and dynamic range, making vintage vinyl the preferred medium for purists seeking authentic sound reproduction of this foundational modern jazz movement.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "bop",
+    "bebop jazz",
+    "modern jazz"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "be-bop",
+    "be bop"
+  ],
+  "etymology": "Coined in the mid-1940s, likely derived from the nonsense syllables used in scat singing that mimicked the style's staccato rhythmic patterns. The term was initially used dismissively by critics before being embraced by musicians and fans.",
+  "first_use": 1945,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

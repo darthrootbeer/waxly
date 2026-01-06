@@ -1,22 +1,41 @@
 {
   "slug": "not-for-sale",
   "term": "Not-For-Sale Copy",
+  "pos": "phrase",
+  "pronunciation": "/nɑt fɔr seɪl ˈkɑpi/",
   "summary": "'**noun / promo term.** A promotional pressing distributed free to radio,.",
-  "definition": "**noun / promo term.** A promotional pressing distributed free to radio, reviewers, or in-store play — explicitly marked “Not For Sale.”",
+  "definition": "**noun / promo term.** A promotional pressing distributed free to radio stations, music reviewers, DJs, or retailers for in-store play — explicitly marked \"Not For Sale\" or \"N.F.S.\" on the label, jacket, or both. Emerged in the 1950s as record labels sought to prevent promotional copies from entering retail channels and undercutting legitimate sales. These pressings often feature identical audio to commercial releases but include distinctive markings: stamped or printed warnings, hole punches through the artwork or label, clipped corners, or gold \"promo\" stamps. Some not-for-sale copies include mono mixes on albums otherwise released in stereo, or earlier test pressings sent for preview. Highly collectible today, particularly for rare soul, funk, and rock titles where promo copies may represent the only surviving pressings of certain mixes. The markings ironically enhance value rather than diminish it, with collectors paying premiums for authenticated promotional copies that document an album's pre-release distribution history.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "N.F.S. copy",
+    "promo copy",
+    "promotional copy",
+    "advance copy"
+  ],
+  "alt_spellings": [
+    "Not For Sale Copy",
+    "Not-For-Sale",
+    "Not For Sale"
+  ],
+  "etymology": "Originated in the mid-1950s when major labels formalized promotional distribution systems to radio and press, requiring legal disclaimers to prevent resale and maintain price control over retail inventory.",
+  "first_use": 1955,
   "see_also": [
     "promo-copy",
     "dj-copy",
-    "white-label"
+    "white-label",
+    "test-pressing",
+    "advance-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA",
+    "AU"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

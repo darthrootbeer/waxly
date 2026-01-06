@@ -1,15 +1,30 @@
 {
   "slug": "modern-classical",
   "term": "Modern Classical",
+  "pos": "noun",
+  "pronunciation": "/ˈmɒdərn ˈklæsɪkəl/",
   "summary": "'**Modern Classical** - A musical style within the Classical genre, classified.",
-  "definition": "A specific musical style within the broader classical genre classification.",
+  "definition": "A contemporary musical style within the broader classical genre that emerged in the late 20th and early 21st centuries, characterized by minimalist composition techniques, ambient textures, and crossover appeal to non-traditional classical audiences. Modern Classical often incorporates electronic elements, repetitive melodic patterns, and cinematic soundscapes while maintaining roots in traditional orchestral instrumentation. Pioneered by composers like Max Richter, Ólafur Arnalds, and Nils Frahm, the style gained commercial traction through streaming platforms and vinyl releases targeting younger demographics. Labels such as Deutsche Grammophon, Erased Tapes, and 130701 have championed the genre, with vinyl pressings often featuring extended compositions and superior mastering that highlights the dynamic range absent in compressed digital formats. The style bridges art music and popular accessibility, making it particularly successful in the vinyl revival era where collectors seek meditative, high-fidelity listening experiences.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Contemporary Classical",
+    "Neo-Classical",
+    "Post-Classical"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Modern-Classical"
+  ],
+  "etymology": "Term emerged in the 2000s to distinguish contemporary minimalist and ambient-influenced classical composition from both traditional classical music and earlier 20th-century modernist movements.",
+  "first_use": 2005,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

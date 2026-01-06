@@ -1,20 +1,36 @@
 {
   "slug": "pencil-marked",
   "term": "Pencil",
-  "summary": "'**noun / grading / ephemera.** A record whose center label bears light pencil.",
-  "definition": "**noun / grading / ephemera.** A record whose center label bears light pencil writing (price, initials, catalog #) — usually removable and less devaluing than ink marker.",
+  "pos": "noun",
+  "pronunciation": "/ˈpɛnsəl/",
+  "summary": "**noun / grading / ephemera.** A record whose center label bears light pencil.",
+  "definition": "**noun / grading / ephemera.** A record whose center label bears light pencil writing (price, initials, catalog #) — usually removable and less devaluing than ink marker. Pencil marks emerged as standard record store inventory practice from the 1950s through 1980s, when retailers needed reversible pricing methods before computerized systems. Shop owners typically inscribed prices in the label's dead wax area or upper quadrant, allowing erasure when stock was repriced or sold. Unlike permanent marker or stamp notations, graphite rarely penetrates label fibers and can be lifted with soft erasers without damaging artwork, making pencil-marked copies significantly more desirable than inked equivalents. Grading standards generally dock pencil marks minimally (VG+ to VG) if removable, versus harsher penalties for marker (VG to VG-). Collectors often remove pencil themselves using vinyl-safe erasers or Magic Rub blocks, though archivists sometimes preserve markings as provenance evidence of retail history. Certain pencil marks — particularly from legendary shops like Bleecker Bob's or Amoeba — can paradoxically add value as authentication. The practice declined with barcode stickers in the 1990s, making pencil marks a nostalgic identifier of pre-digital record retail culture.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pencil-marked",
+    "pencil writing",
+    "pencil notation"
+  ],
+  "alt_spellings": [
+    "pencil-marked",
+    "pencil marked"
+  ],
+  "etymology": "Adopted from general retail practice of using erasable pencil for temporary price marking, applied to vinyl records as inventory management tool from post-war era forward.",
+  "first_use": 1950,
   "see_also": [
     "marker-scrawl",
     "promo-stamp",
     "play-grade"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

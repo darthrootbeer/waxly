@@ -1,15 +1,30 @@
 {
   "slug": "conscious-hip-hop",
   "term": "Conscious Hip Hop",
+  "pos": "noun",
+  "pronunciation": "/ˈkɑːnʃəs hɪp hɑːp/",
   "summary": "'**Conscious Hip Hop** - A musical style within the Hip Hop genre, classified.",
-  "definition": "A specific musical style within the broader hip-hop genre classification.",
+  "definition": "A subgenre of hip-hop characterized by socially aware, politically charged, and philosophically reflective lyrical content that addresses systemic inequality, racial justice, education, and community empowerment. Emerged in the late 1980s as artists like Public Enemy, KRS-One, and Poor Righteous Teachers rejected gangsta rap's materialism for Afrocentric themes and activist messaging. Distinguished by dense, intellectual wordplay over jazz-influenced or sample-heavy production. The movement peaked commercially in the mid-1990s with acts like The Roots, Common, and Mos Def, while labels like Rawkus Records championed the sound. Original pressings of seminal albums—Public Enemy's *It Takes a Nation of Millions* (Def Jam, 1988), A Tribe Called Quest's *The Low End Theory* (Jive, 1991)—command premium prices among collectors. The term itself became contested by the 2000s, with many artists rejecting the label as limiting or preachy, though the tradition continues through Kendrick Lamar, J. Cole, and underground scenes worldwide.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Political Hip Hop",
+    "Knowledge Rap",
+    "Positive Hip Hop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Conscious Hip-Hop",
+    "Conscious Rap"
+  ],
+  "etymology": "Coined in the late 1980s, combining 'conscious' (socially aware) with 'hip hop,' popularized by music journalists and artists themselves to distinguish message-driven rap from emerging gangsta and commercial styles.",
+  "first_use": 1988,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

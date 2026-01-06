@@ -1,21 +1,38 @@
 {
   "slug": "intermodulation-distortion",
   "term": "Intermodulation Distortion",
+  "pos": "noun",
+  "pronunciation": "/ˌɪntərˌmɒdjʊˈleɪʃən dɪˈstɔːrʃən/",
   "summary": "'**noun / technical.** A type of distortion created when two or more frequencies.",
-  "definition": "**noun / technical.** A type of distortion created when two or more frequencies interact non-linearly in cartridge, amplifier, or speaker, producing unwanted sum-and-difference tones.",
+  "definition": "**noun / technical.** A type of distortion created when two or more frequencies interact non-linearly in a cartridge, amplifier, or speaker, producing unwanted sum-and-difference tones that were not present in the original signal. Unlike harmonic distortion, which generates multiples of a single frequency, intermodulation distortion (IMD) creates entirely new frequencies by mathematically combining the input signals—if 1kHz and 2kHz tones are present, IMD produces artifacts at 3kHz (sum) and 1kHz (difference), plus higher-order products. First systematically studied in telecommunications during the 1930s, IMD became a critical specification for hi-fi equipment by the 1960s as audio engineers recognized its particularly objectionable sonic character—often described as harsh, metallic, or muddy. In vinyl playback, IMD primarily occurs in the phono cartridge during loud, complex passages where the stylus must trace multiple high-amplitude frequencies simultaneously, with mistracking being a major contributor. Moving coil cartridges typically exhibit lower IMD than moving magnet designs due to reduced moving mass. Quality amplifiers measure IMD using twin-tone tests (typically 19kHz and 20kHz), with figures below 0.1% considered excellent. Modern audiophiles often find IMD more aurally fatiguing than equivalent levels of harmonic distortion.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "IMD",
+    "intermod",
+    "cross-modulation distortion"
+  ],
+  "alt_spellings": [
+    "inter-modulation distortion"
+  ],
+  "etymology": "From Latin 'inter' (between) and 'modulatio' (rhythmic measure), combined with 'distortion'; coined in early 20th-century telecommunications engineering to describe non-linear interactions between multiple signal frequencies.",
+  "first_use": 1934,
   "see_also": [
     "thd",
     "cartridge-compliance",
-    "frequency-response"
+    "frequency-response",
+    "mistracking",
+    "wow-and-flutter"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

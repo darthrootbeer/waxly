@@ -1,22 +1,36 @@
 {
   "slug": "guitar-shaped-picture",
   "term": "Guitar-Shaped Picture Disc",
+  "pos": "noun",
+  "pronunciation": "/ɡɪˈtɑr ʃeɪpt ˈpɪk.tʃər dɪsk/",
   "summary": "'**noun / novelty.** A shaped picture disc die-cut to resemble a guitar (or.",
-  "definition": "**noun / novelty.** A shaped [picture disc](../p/picture-disc.md) die-cut to resemble a guitar (or other object) while still playable around its circular center.",
+  "definition": "**noun / novelty.** A shaped [picture disc](../p/picture-disc.md) die-cut to resemble a guitar (or other object) while still playable around its circular center. These novelty pressings emerged in the 1970s and peaked during the 1980s, when die-cutting technology allowed manufacturers to create elaborate silhouettes beyond the standard circular format. The playable grooves remain in a traditional circular pattern at the center, while the outer vinyl is cut into decorative shapes—guitars being particularly popular for rock and country releases. Sound quality typically suffers compared to standard pressings due to the irregular weight distribution and reduced surface area for groove spacing. The shaped portions are purely aesthetic and non-functional. Collectors prize these releases for their visual appeal and display value rather than audio fidelity, with mint condition examples commanding premiums. Notable examples include releases by Prince, Kiss, and various hair metal bands of the era. Modern shaped picture discs remain in limited production as deluxe collector items, though their novelty status has shifted from mainstream gimmick to niche collectible.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "shaped picture disc",
+    "die-cut picture disc",
+    "novelty picture disc"
+  ],
+  "alt_spellings": [
+    "guitar shaped picture disc"
+  ],
+  "etymology": "Evolved from standard picture disc technology in the late 1970s when improved die-cutting techniques allowed manufacturers to create non-circular vinyl shapes while maintaining playability in the circular groove area.",
+  "first_use": 1978,
   "see_also": [
-    "picture",
+    "picture-disc",
     "color-vinyl",
     "die-cut"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

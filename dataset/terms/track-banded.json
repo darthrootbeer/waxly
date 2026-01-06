@@ -1,20 +1,38 @@
 {
   "slug": "track-banded",
   "term": "Track-Banded LP",
-  "summary": "'**noun / mastering style.** A **long-playing album where each track is visibly.",
-  "definition": "**noun / mastering style.** A **long-playing album where each track is visibly separated by a small land groove (‘band’)** — allows manual cueing to individual songs.",
+  "pos": "noun",
+  "pronunciation": "/træk ˈbændɪd ɛl piː/",
+  "summary": "**noun / mastering style.** A **long-playing album where each track is visibly separated by a small land groove ('band')** — allows manual cueing to individual songs.",
+  "definition": "**noun / mastering style.** A **long-playing album where each track is visibly separated by a small land groove ('band')** — allows manual cueing to individual songs. The band appears as a smooth, unmodulated space between tracks, creating a visible divider that reflects light differently than the grooved areas. Introduced in the 1950s as LP production standardized, track banding became essential for radio DJs and home listeners who needed to locate specific songs without playing through entire sides. The lacquer cutting engineer creates these bands by disengaging the cutting head briefly between tracks, leaving a narrow silent land. Width typically ranges from 1-3mm, balancing visibility against maximizing playing time. Radio stations particularly valued track-banded pressings for quick on-air cueing. Some audiophile and experimental releases deliberately omit banding for continuous-play concept albums or to eliminate any potential sonic artifacts at transition points. Modern reissues generally maintain track banding for user convenience, though the practice became less critical with the advent of automatic indexing turntables in the 1970s. Collectors and DJs still prefer clearly banded records for tactile cueing accuracy.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "banded LP",
+    "banded pressing",
+    "track-separated record"
+  ],
+  "alt_spellings": [
+    "track banded LP",
+    "trackbanded LP"
+  ],
+  "etymology": "Coined from 'track' (individual song) and 'band' (the visible ungrooved separator), emerging as standard mastering terminology in the mid-1950s as LP production techniques matured and manual cueing became a professional necessity.",
+  "first_use": 1955,
   "see_also": [
     "un-banded-lp",
     "skip-guard-groove",
-    "cue-point-marker"
+    "cue-point-marker",
+    "lacquer-cutting",
+    "land-groove"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,38 @@
 {
   "slug": "d2c-direct",
-  "term": "D2C (Direct",
-  "summary": "'**noun / abbreviation.** A distribution model where artists or labels sell.",
-  "definition": "**noun / abbreviation.** A distribution model where artists or labels sell vinyl directly to fans—often online—skipping traditional retail.",
+  "term": "D2C (Direct-to-Consumer)",
+  "pos": "phrase",
+  "pronunciation": "/diː tuː siː/",
+  "summary": "**noun / abbreviation.** A distribution model where artists or labels sell.",
+  "definition": "**noun / abbreviation.** A distribution model where artists or labels sell vinyl directly to fans—often online—skipping traditional retail. Emerged in the early 2000s with artist websites and Bandcamp-style platforms, D2C accelerated dramatically during the COVID-19 pandemic when brick-and-mortar stores closed and pressing plant backlogs made retail distribution unpredictable. Artists typically offer exclusive variants, signed copies, or bundled merchandise through their own webstores, capturing full retail margins while maintaining creative control. Major labels now operate D2C stores alongside traditional distribution, using limited variants to drive collector demand. The model has reshaped vinyl economics: fans pay higher prices for exclusivity and direct artist support, while creators bypass distributor cuts and retail consignment risks. Crowdfunding platforms like Qrates extended D2C into pressing itself, allowing artists to gauge demand before manufacturing. Critics note D2C can fragment the market with excessive variants and inflate secondary prices, while supporters argue it democratizes access for independent artists unable to secure traditional distribution deals.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "direct-to-consumer",
+    "direct-to-fan",
+    "D2F",
+    "artist direct"
+  ],
+  "alt_spellings": [
+    "D2C",
+    "DTC",
+    "direct to consumer"
+  ],
+  "etymology": "Borrowed from broader e-commerce terminology where manufacturers sell directly to end users, eliminating middlemen. Gained traction in vinyl discourse circa 2010-2015 as Bandcamp and artist webstores proliferated.",
+  "first_use": 2010,
   "see_also": [
     "preorder-exclusive",
     "limited-run",
     "variant-edition"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

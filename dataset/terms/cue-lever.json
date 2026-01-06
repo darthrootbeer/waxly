@@ -1,21 +1,39 @@
 {
   "slug": "cue-lever",
   "term": "Tone-Arm Lift",
+  "pos": "noun",
+  "pronunciation": "/toʊn ɑːrm lɪft/",
   "summary": "'**noun / deck control.** A **damped mechanical or hydraulic lever** that.",
-  "definition": "**noun / deck control.** A **damped mechanical or hydraulic lever** that raises and lowers the tone-arm gently to prevent stylus or groove damage.",
+  "definition": "**noun / deck control.** A **damped mechanical or hydraulic lever** that raises and lowers the tone-arm gently to prevent stylus or groove damage. Introduced on semi-automatic turntables in the late 1950s, the tone-arm lift (or cue lever) became standard equipment on quality decks by the 1970s, particularly valued by radio broadcasters and DJs who needed precise, repeatable cueing without risking expensive styli or rare records. The mechanism typically employs silicone damping fluid or spring tension to control descent speed, ensuring the stylus contacts the groove at a controlled rate rather than dropping freely. Higher-end models like those found on Technics SL-1200 series and audiophile decks feature adjustable damping rates, while budget turntables often use simpler spring-loaded designs that can become loose or sticky with age. The lift platform itself—usually a small rest that supports the headshell or cartridge body—must be height-adjustable to accommodate different cartridge profiles. For DJs, the cue lever enables backcueing and beat-matching without hand-cueing directly on the record, though many still prefer manual control for greater tactile feedback. Malfunctioning cue levers are among the most common turntable repairs, as dried damping fluid or worn pivot points cause erratic lifting or uncontrolled drops that can damage both stylus and vinyl.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "cue lever",
+    "cueing lever",
+    "arm lift",
+    "lift lever",
+    "cueing device"
+  ],
+  "alt_spellings": [
+    "tone arm lift",
+    "tonearm lift"
+  ],
+  "etymology": "Derived from 'tone-arm' (the pivoting arm holding the cartridge) and 'lift' (raising mechanism); term became standard with semi-automatic turntable development in the late 1950s, replacing earlier 'cueing lever' terminology.",
+  "first_use": 1958,
   "see_also": [
     "cue-lever-damping",
     "semi-automatic-turntable",
     "q-up-auto-lifter"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

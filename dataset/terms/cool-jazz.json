@@ -1,15 +1,29 @@
 {
   "slug": "cool-jazz",
   "term": "Cool Jazz",
+  "pos": "noun",
+  "pronunciation": "/kuːl dʒæz/",
   "summary": "'**Cool Jazz** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A relaxed, understated style of jazz that emerged in the late 1940s as a reaction to the frenetic energy of bebop, characterized by lighter tones, slower tempos, formal arrangements, and a emphasis on melodic development over improvisation. Pioneered by Miles Davis with his 1949-50 Birth of the Cool sessions, the style incorporated elements of classical music and featured instruments uncommon in bebop like French horn and tuba. West Coast jazz scenes, particularly in Los Angeles, became synonymous with the cool aesthetic throughout the 1950s, with artists like Chet Baker, Dave Brubeck, and Gerry Mulligan defining the sound. Cool jazz records are highly collectible, with original pressings on labels like Capitol, Pacific Jazz, and Prestige commanding premium prices. The style's sophisticated arrangements and refined production values made it ideal for the LP format, which was gaining dominance during cool jazz's peak years.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "West Coast Jazz",
+    "Birth of the Cool style"
   ],
-  "pos": "noun"
+  "alt_spelings": [
+    "Cool-Jazz"
+  ],
+  "etymology": "Term coined in the late 1940s to describe the 'cooler' emotional temperature and restrained approach compared to 'hot' bebop jazz. Popularized by Miles Davis's Birth of the Cool recording sessions.",
+  "first_use": 1949,
+  "see_also": [],
+  "regions": [
+    "US",
+    "EU",
+    "UK",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,37 @@
 {
   "slug": "plexiglass-dust-cover",
-  "term": "Plexiglass Dust",
-  "summary": "'**noun / hi-fi accessory / vintage.** A rigid transparent lid made from.",
-  "definition": "**noun / hi-fi accessory / vintage.** A rigid transparent lid made from plexiglass or acrylic that protects the turntable from dust — synonymous with Perspex covers but often U.S.-market term.",
+  "term": "Plexiglass Dust Cover",
+  "pos": "noun",
+  "pronunciation": "/ˈplɛksɪˌɡlæs dʌst ˈkʌvər/",
+  "summary": "**noun / hi-fi accessory / vintage.** A rigid transparent lid made from plexiglass or acrylic that protects the turntable from dust.",
+  "definition": "**noun / hi-fi accessory / vintage.** A rigid transparent lid made from plexiglass or acrylic that protects the turntable from dust, debris, and accidental contact while allowing visual monitoring of playback. Standard equipment on most turntables from the 1960s through 1980s, these covers typically mount via rear hinges to the plinth, though some high-end models feature detachable designs to eliminate resonance transfer. The transparent material—polymethyl methacrylate (PMMA)—became widely adopted after World War II as manufacturers sought affordable alternatives to glass. While protecting vinyl and stylus from environmental contamination, dust covers sparked audiophile debate: purists argue that even lifted hinged covers introduce unwanted vibration and acoustic reflections, degrading sound quality during playback. Vintage covers often yellow with UV exposure or develop stress cracks at hinge points, making pristine examples valuable to collectors restoring period-correct setups. Modern audiophile turntables frequently omit covers entirely or offer them as optional accessories, reflecting the performance-over-convenience philosophy. The term \"plexiglass\" predominates in North American markets, while UK and European collectors typically reference \"Perspex covers\" for identical components.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "dust cover",
+    "turntable lid",
+    "acrylic cover",
+    "record player cover"
+  ],
+  "alt_spellings": [
+    "plexiglas dust cover",
+    "plexi-glass dust cover"
+  ],
+  "etymology": "From Plexiglas, trademark name registered by Röhm and Haas in 1933 for acrylic glass, combined with \"dust cover.\" Term gained currency in American hi-fi markets during 1960s turntable boom.",
+  "first_use": 1958,
   "see_also": [
     "perspex-dust-cover",
     "hinged-lid",
-    "plinth"
+    "plinth",
+    "turntable-mat"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

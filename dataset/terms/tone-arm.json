@@ -1,20 +1,39 @@
 {
   "slug": "tone-arm",
-  "term": "Tone",
-  "summary": "'**noun / turntable component.** The **pivoting or linear-tracking arm that.",
-  "definition": "**noun / turntable component.** The **pivoting or linear-tracking arm that holds the headshell & [cartridge](../c/cartridge.md)**, guiding the stylus through the groove.",
+  "term": "Tone Arm",
+  "pos": "noun",
+  "pronunciation": "/ˈtoʊn ɑːrm/",
+  "summary": "**noun / turntable component.** The **pivoting or linear-tracking arm that holds the headshell & [cartridge](../c/cartridge.md)**, guiding the stylus through the groove.",
+  "definition": "**noun / turntable component.** The **pivoting or linear-tracking arm that holds the headshell & [cartridge](../c/cartridge.md)**, guiding the stylus through the groove. The tonearm emerged in the acoustic phonograph era but evolved dramatically with electrical reproduction in the 1920s-30s, becoming a precision instrument balancing competing demands: low mass for tracking ability, high rigidity to resist resonance, and frictionless bearings for smooth movement. **Pivoted arms** (the dominant design) swing in an arc from a fixed bearing, introducing tracking error that designers minimize through geometry—typically 9\" or 12\" lengths, with longer arms reducing distortion. **Linear-tracking (tangential) arms** move perpendicular to the record, eliminating tracking error but requiring complex servo mechanisms or air bearings. Premium tonearms ($500-$5,000+) employ exotic materials like carbon fiber or magnesium, precision gimbal or unipivot bearings, and sophisticated anti-skate mechanisms. Proper setup—vtf, azimuth, vta adjustments—profoundly impacts sound quality, making the tonearm as crucial as the cartridge itself. Vintage arms from SME, Ortofon, and Technics remain coveted, while modern designs from Rega, Pro-Ject, and VPI continue refinement of this century-old technology.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pickup arm",
+    "stylus arm",
+    "phono arm"
+  ],
+  "alt_spellings": [
+    "tonearm",
+    "tone-arm"
+  ],
+  "etymology": "From 'tone' (referring to sound reproduction) + 'arm' (the physical pivoting appendage); term standardized in early electrical phonograph literature of the 1920s, replacing earlier 'reproducer arm' terminology.",
+  "first_use": 1925,
   "see_also": [
     "s-arm",
     "straight-arm",
-    "tangential-tracking-arm"
+    "tangential-tracking-arm",
+    "headshell",
+    "cartridge",
+    "anti-skate"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

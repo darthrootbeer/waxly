@@ -1,20 +1,36 @@
 {
   "slug": "return-to",
   "term": "Return-to-Jacket Sleeve",
-  "summary": "'**noun / collector habit.** The practice of **storing the vinyl in a separate.",
-  "definition": "**noun / collector habit.** The practice of **storing the vinyl in a separate poly-lined inner behind the jacket**, keeping the jacket empty to avoid ring-wear and seam splits.",
+  "pos": "phrase",
+  "pronunciation": "/rɪˈtɜrn tuː ˈdʒækɪt sliːv/",
+  "summary": "**noun / collector habit.** The practice of **storing the vinyl in a separate poly-lined inner behind the jacket**, keeping the jacket empty to avoid ring-wear and seam splits.",
+  "definition": "**noun / collector habit.** The practice of **storing the vinyl in a separate poly-lined inner behind the jacket**, keeping the jacket empty to avoid ring-wear and seam splits. This preservation method emerged in the 1980s among serious collectors who recognized that storing records inside their original jackets caused inevitable wear—the disc's circular edge creates pressure rings visible on the cover, while repeated insertion and removal stresses jacket seams. The technique involves placing the record in a high-quality poly-lined or anti-static inner sleeve, then storing this sleeve behind or beside the jacket within an outer protective sleeve. Though it adds handling steps during playback, return-to-jacket storage significantly extends jacket condition, critical for maintaining resale value and aesthetic appeal. The practice became standard among audiophile and rare record collectors by the 1990s, particularly for valuable first pressings, limited editions, and mint-condition acquisitions. Modern variants include storing records in premium MoFi-style inners or using purpose-designed outer sleeves with dual compartments. While purists debate whether records should ever be separated from their original packaging, the measurable preservation benefits have made return-to-jacket the de facto standard for serious collectors prioritizing long-term condition over convenience.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "behind-the-jacket storage",
+    "separate inner storage",
+    "jacket preservation method"
+  ],
+  "alt_spellings": [
+    "Return to Jacket Sleeve",
+    "Return-To-Jacket"
+  ],
+  "etymology": "Term coined by collector communities in 1980s-90s to describe the practice of returning records to a position behind rather than inside the jacket after play, contrasting with conventional storage methods.",
+  "first_use": 1985,
   "see_also": [
     "poly-lined-inner",
     "outer-poly-sleeve",
-    "seam-split"
+    "seam-split",
+    "ring-wear"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

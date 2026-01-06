@@ -1,15 +1,29 @@
 {
   "slug": "flamenco",
   "term": "Flamenco",
+  "pos": "noun",
+  "pronunciation": "/fləˈmɛŋkoʊ/",
   "summary": "'**Flamenco** - A musical style within the Latin genre, classified according.",
-  "definition": "A specific musical style within the broader latin genre classification.",
+  "definition": "A passionate musical and dance tradition originating from Andalusia in southern Spain, characterized by intricate guitar work, percussive footwork, and emotive vocals. In vinyl classification systems, flamenco occupies a specific category within Latin music sections, though its distinct cultural identity often warrants separate binning in specialized record shops. Traditional flamenco recordings from the 1950s-70s golden era—featuring legends like Paco de Lucía, Camarón de la Isla, and Sabicas—remain highly collectible, particularly Spanish pressings on labels like Hispavox and Philips. The genre's complex rhythmic structures (palos) and dynamic range make it a demanding test for cartridge tracking ability and tonearm setup. Flamenco nuevo movements of the 1970s-80s incorporated jazz and rock influences, expanding the genre's appeal to progressive music collectors. Modern reissues on audiophile labels have introduced flamenco's sonic intensity to new generations of vinyl enthusiasts.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "flamenco music",
+    "música flamenca"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "flamenko"
+  ],
+  "etymology": "Derived from Spanish, possibly from Arabic 'fellah mengu' (fugitive peasant) or Flemish origins. The term emerged in the late 18th century to describe the Andalusian Romani musical tradition.",
+  "first_use": 1780,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "ES"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

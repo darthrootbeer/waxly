@@ -1,15 +1,31 @@
 {
   "slug": "film-score",
   "term": "Film Score",
+  "pos": "noun",
+  "pronunciation": "/fɪlm skɔːr/",
   "summary": "'**Film Score** - A musical style within the Soundtrack genre, classified.",
-  "definition": "A specific musical style within the broader soundtrack genre classification.",
+  "definition": "A specific musical style within the broader soundtrack genre classification, referring to original orchestral or instrumental compositions written specifically to accompany a motion picture. Film scores differ from soundtrack albums in that they contain only the composer's original underscore rather than licensed popular music or songs. Emerged as a distinct collectible category during the LP era of the 1960s-70s when labels like Varèse Sarabande and Intrada began issuing dedicated score releases. Vinyl pressings typically feature extended suites and themes arranged for listening outside the theatrical context. Notable composers like John Williams, Ennio Morricone, and Bernard Herrmann achieved cult followings among collectors, with original pressings of iconic scores commanding premium prices. Modern reissues often include expanded editions with previously unreleased cues and colored vinyl variants marketed to both film enthusiasts and audiophiles who prize the dynamic range and orchestral depth best captured on vinyl.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "motion picture score",
+    "original score",
+    "underscore"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "film-score",
+    "filmscore"
+  ],
+  "etymology": "Derived from 'score' meaning written musical notation, combined with 'film' to distinguish cinematic compositions from theatrical or concert works. Term gained prominence in the 1930s-40s Golden Age of Hollywood.",
+  "first_use": 1935,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

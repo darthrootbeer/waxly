@@ -1,21 +1,40 @@
 {
   "slug": "upscale-re",
   "term": "Upscale Re-Press",
-  "summary": "'**noun / marketing term.** A **new high-end re-pressing of a classic album**.",
-  "definition": "**noun / marketing term.** A **new high-end re-pressing of a classic album** often on heavy-weight vinyl with upgraded jackets and remastering.",
+  "pos": "noun",
+  "pronunciation": "/ˈʌpskeɪl ˈriːprɛs/",
+  "summary": "**noun / marketing term.** A **new high-end re-pressing of a classic album**.",
+  "definition": "**noun / marketing term.** A **new high-end re-pressing of a classic album** often on heavy-weight vinyl with upgraded jackets and remastering. Emerging in the early 2000s as audiophile labels like Music Matters Jazz and Analogue Productions sought to capitalize on the vinyl revival, upscale re-presses typically feature 180g or 200g virgin vinyl, all-analog mastering chains, premium packaging elements like tip-on jackets and Stoughton printing, and sometimes expanded formats like 45 RPM double-LP editions. These releases command premium prices ($35-$125) compared to standard reissues, targeting collectors willing to pay for demonstrable sonic improvements and archival-quality presentation. The category has expanded dramatically since 2010, with major labels launching dedicated audiophile imprints (Blue Note Tone Poet, Verve Acoustic Sounds) alongside boutique pressers like ORG Music and Pure Pleasure. While marketing claims occasionally outpace actual quality improvements, legitimate upscale re-presses sourced from original master tapes and cut by respected engineers like Kevin Gray or Bernie Grundman represent the pinnacle of modern vinyl manufacturing, often surpassing original pressings in fidelity and durability.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "audiophile reissue",
+    "premium repress",
+    "deluxe reissue",
+    "high-end repress"
+  ],
+  "alt_spellings": [
+    "Upscale Repress",
+    "Up-scale Re-press"
+  ],
+  "etymology": "Coined in early 2000s by audiophile record labels and marketing departments to distinguish premium vinyl reissues from budget represses during the format's commercial resurgence.",
+  "first_use": 2003,
   "see_also": [
     "half-speed-master",
     "one-step-pressing",
-    "tip-on-jacket"
+    "tip-on-jacket",
+    "virgin-vinyl",
+    "all-analog"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

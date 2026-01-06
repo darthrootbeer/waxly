@@ -1,20 +1,36 @@
 {
   "slug": "peel-off",
   "term": "Peel-Off Sticker Cover",
+  "pos": "noun",
+  "pronunciation": "/piːl ɔf ˈstɪkər ˈkʌvər/",
   "summary": "'**noun / packaging / gimmick.** An album jacket whose top-layer sticker.",
-  "definition": "**noun / packaging / gimmick.** An album jacket whose top-layer sticker or photo can be peeled away to reveal alternate art beneath.",
+  "definition": "**noun / packaging / gimmick.** An album jacket whose top-layer sticker or photo can be peeled away to reveal alternate art beneath. This interactive packaging technique emerged in the late 1960s as labels sought novel ways to engage listeners beyond the music itself. The top layer typically adheres lightly to the underlying jacket, allowing collectors to choose between two distinct visual presentations—or to preserve the original sealed state. The Rolling Stones' *Sticky Fingers* (1971) featured a removable zipper rather than a peel-off sticker, but established the era's appetite for tactile album experiences. Notable examples include The Velvet Underground & Nico's banana sticker (1967, designed by Andy Warhol) and various psychedelic-era releases where peeling revealed hidden imagery or alternate band photos. Modern reissues sometimes replicate these features, though vintage originals with intact, unpeeled stickers command significant premiums among collectors. The gimmick reflects vinyl's physical format advantage over digital media—offering tangible interaction that enhances the listening ritual and collectible value.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "peel-away cover",
+    "removable sticker jacket",
+    "peel-back cover"
+  ],
+  "alt_spellings": [
+    "peel off sticker cover",
+    "peeloff sticker cover"
+  ],
+  "etymology": "Derived from the physical action of peeling away an adhesive layer, popularized during the late 1960s psychedelic and pop art movements when album packaging became an artistic statement.",
+  "first_use": 1967,
   "see_also": [
     "sticker-cover-variant",
     "misprint-cover",
-    "interactive-jacket"
+    "interactive-jacket",
+    "gatefold"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

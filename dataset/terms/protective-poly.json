@@ -1,20 +1,37 @@
 {
   "slug": "protective-poly",
   "term": "Protective Poly Outer",
+  "pos": "noun",
+  "pronunciation": "/prəˈtɛktɪv ˈpɒli ˈaʊtər/",
   "summary": "'**noun / packaging upgrade.** A clear resealable poly outer sleeve with.",
-  "definition": "**noun / packaging upgrade.** A clear resealable poly outer sleeve with adhesive flap, standard on Japanese LPs and premium audiophile imports.",
+  "definition": "**noun / packaging upgrade.** A clear resealable poly outer sleeve with adhesive flap, standard on Japanese LPs and premium audiophile imports. Typically made from polyethylene or polypropylene plastic measuring 12.75\" x 12.75\" for standard LPs, these sleeves provide an additional protective barrier against dust, moisture, ring wear, and shelf damage to album covers. Japanese pressings pioneered their widespread use in the 1970s as part of superior manufacturing standards, often paired with obi strips. Western collectors adopted the practice in the 1980s and 1990s as awareness of preservation grew within the audiophile community. Modern variants include archival-grade options with UV protection and anti-static properties, ranging from budget 3-mil thickness to premium 5-mil museum-quality sleeves. The resealable flap distinguishes protective poly outers from shrink wrap, allowing repeated access without compromising protection. Serious collectors replace original shrink wrap with poly outers to prevent cover warping and split seams while maintaining near-mint condition. Essential for preserving investment-grade pressings and first editions.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "poly outer",
+    "outer sleeve",
+    "LP bag",
+    "protective sleeve"
+  ],
+  "alt_spellings": [
+    "protective poly-outer",
+    "protective polyouter"
+  ],
+  "etymology": "Adopted from Japanese record industry packaging standards in the 1970s, combining 'protective' with 'poly' (shortened from polyethylene/polypropylene) and 'outer' to distinguish from inner sleeves.",
+  "first_use": 1972,
   "see_also": [
     "obi-strip",
     "poly-outer",
     "archival-bag"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

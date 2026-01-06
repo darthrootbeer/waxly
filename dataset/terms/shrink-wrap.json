@@ -1,20 +1,36 @@
 {
   "slug": "shrink-wrap",
   "term": "Shrink-Wrap",
+  "pos": "noun",
+  "pronunciation": "/ˈʃrɪŋk ræp/",
   "summary": "'**noun / packaging.** A **tight plastic film heat-shrunk around retail LP.",
-  "definition": "**noun / packaging.** A **tight plastic film heat-shrunk around retail LP jackets** to keep them factory-fresh and tamper-evident.",
+  "definition": "**noun / packaging.** A **tight plastic film heat-shrunk around retail LP jackets** to keep them factory-fresh and tamper-evident. Introduced to the record industry in the mid-1960s, shrink-wrap became the standard retail packaging method by the early 1970s, replacing paper overwraps and open-bin merchandising. The polyolefin or PVC film is applied loosely, then heated to contract tightly around the jacket, creating a glossy, protective seal that prevents shelf wear, moisture damage, and unauthorized opening. Most shrink includes a factory-applied hype sticker announcing key information like hit singles or guest musicians. In collector circles, the presence of original shrink dramatically affects value—a sealed first pressing commands premium prices, while partial shrink or opened-but-preserved wrap still adds authentication. The wrap's aging characteristics help verify authenticity: vintage shrink yellows, becomes brittle, and develops distinctive stress patterns impossible to replicate. Debate persists over whether to remove shrink from stored records, as prolonged contact can cause ring wear or jacket warping, though many collectors prize the untouched factory seal above all else. Modern reissues continue the tradition, making shrink-wrap an enduring symbol of vinyl's retail heritage.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "shrink",
+    "factory seal",
+    "poly wrap"
+  ],
+  "alt_spellings": [
+    "shrinkwrap",
+    "shrink wrap"
+  ],
+  "etymology": "From industrial shrink-wrapping technology adapted for consumer goods packaging in the 1950s-60s; term combines 'shrink' (the heat-contraction process) and 'wrap' (protective covering).",
+  "first_use": 1965,
   "see_also": [
     "original-shrink",
     "sealed-copy",
     "hype-sticker"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

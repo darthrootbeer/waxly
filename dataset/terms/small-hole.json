@@ -1,15 +1,36 @@
 {
   "slug": "small-hole",
   "term": "Small-Hole 45",
+  "pos": "noun",
+  "pronunciation": "/smɔːl hoʊl ˈfɔːrti faɪv/",
   "summary": "Small-Hole 45 (Standard-Hole Single).",
-  "definition": "# Small-Hole 45",
+  "definition": "# Small-Hole 45\n\nA 7-inch single with a standard 0.286-inch center hole, matching the spindle diameter of conventional turntables. Introduced alongside the 45 RPM format by RCA Victor in 1949, small-hole singles became the dominant configuration outside the United States, where large-hole variants with plastic adapters prevailed. The format allowed direct playback on standard equipment without requiring spindle adapters, making it preferred by European and UK pressing plants throughout the vinyl era. Small-hole 45s typically featured the same content as their large-hole counterparts—A-side hit singles backed with B-sides—but the physical difference reflected regional manufacturing standards and consumer playback habits. Most jukeboxes required large-hole pressings, so small-hole variants were primarily marketed for home listening. Today, collectors often encounter both versions of the same release, with small-hole pressings sometimes commanding premiums in regions where they were less common, particularly among American collectors seeking international variants.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Standard-Hole Single",
+    "Standard-Hole 45",
+    "Solid Centre 45"
+  ],
+  "alt_spellings": [
+    "Small Hole 45",
+    "Small-hole 45"
+  ],
+  "etymology": "Named for the standard 0.286-inch center hole diameter that matched traditional turntable spindles, distinguishing it from the 1.5-inch large-hole 45s designed for jukebox compatibility.",
+  "first_use": 1949,
+  "see_also": [
+    "large-hole-45",
+    "45-rpm",
+    "spindle-adapter"
+  ],
   "regions": [
+    "UK",
+    "EU",
+    "JA",
+    "AU",
     "US"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

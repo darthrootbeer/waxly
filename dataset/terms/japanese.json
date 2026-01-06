@@ -1,21 +1,36 @@
 {
   "slug": "japanese",
   "term": "Japanese Pressing",
+  "pos": "noun",
+  "pronunciation": "/ˌdʒæpəˈniːz ˈprɛsɪŋ/",
   "summary": "'**noun / collector term.** Any vinyl record manufactured in Japan, renowned.",
-  "definition": "**noun / collector term.** Any vinyl record manufactured in Japan, renowned for meticulous QC, quiet virgin-vinyl compound, and often warmer mastering choices.",
+  "definition": "**noun / collector term.** Any vinyl record manufactured in Japan, renowned for meticulous quality control, exceptionally quiet virgin-vinyl compound, and often warmer mastering choices. Japanese pressings emerged as premium products in the 1960s when labels like Toshiba-EMI, Victor, and CBS/Sony established rigorous manufacturing standards that exceeded Western norms. The vinyl formulation typically contains minimal recycled material, resulting in jet-black surfaces with virtually silent groove backgrounds. Mastering engineers at facilities like JVC Cutting Center and Memory Tech often favored less compressed, more dynamic cuts compared to loudness-war-era Western counterparts. Most Japanese pressings include obi strips—wraparound paper bands with catalog information and pricing—which significantly affect collector value when intact. The attention to packaging detail extends to inserts, often printed on heavier stock with superior color reproduction. While typically more expensive than domestic pressings at release, Japanese editions became highly sought by audiophiles and collectors from the 1980s onward, commanding premium prices on the secondary market. Modern reissue labels like King Records and Impex continue the tradition of superior Japanese manufacturing standards.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "JP pressing",
+    "Japan press",
+    "Japanese edition"
+  ],
+  "alt_spellings": [
+    "Japanese-pressing"
+  ],
+  "etymology": "Term emerged in 1970s collector discourse as Western audiophiles discovered superior sound quality of records manufactured in Japan, particularly jazz and rock imports that outperformed domestic releases.",
+  "first_use": 1975,
   "see_also": [
     "obi-strip",
     "virgin-vinyl",
     "country-of-origin-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,35 @@
 {
   "slug": "fidelity",
   "term": "Fidelity",
+  "pos": "noun",
+  "pronunciation": "/fɪˈdɛlɪti/",
   "summary": "A measure of how accurately a playback or recording system reproduces the.",
-  "definition": "A measure of how accurately a playback or recording system reproduces the original sound — the holy grail for audiophiles comparing pressings.",
+  "definition": "A measure of how accurately a playback or recording system reproduces the original sound — the holy grail for audiophiles comparing pressings. The term encompasses the entire signal chain from master tape to turntable, cartridge, and speakers, evaluating how faithfully sonic characteristics like frequency response, dynamic range, and harmonic detail are preserved. High fidelity (hi-fi) emerged as a marketing and technical standard in the 1950s when improvements in vinyl formulation, cutting lathes, and playback equipment made accurate home reproduction possible for the first time. Audiophiles assess fidelity through factors like surface noise, channel separation, bass extension, and the presence of compression or distortion. Original pressings cut from analog master tapes are often prized for superior fidelity compared to later digital remasters, though this remains hotly debated. Modern reissue labels like Analogue Productions and Music Matters emphasize high-fidelity reproduction through all-analog mastering chains, heavyweight vinyl, and quality control that rivals or exceeds vintage pressings.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "sound fidelity",
+    "audio fidelity",
+    "reproduction accuracy"
+  ],
+  "alt_spellings": [],
+  "etymology": "From Latin fidelitas meaning faithfulness or loyalty, adopted into audio terminology in the 1920s to describe accurate sound reproduction.",
+  "first_use": 1927,
   "see_also": [
     "hi-fi",
     "audiophile",
-    "frequency-response"
+    "frequency-response",
+    "mastering",
+    "pressing-quality"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,37 @@
 {
   "slug": "alternate-take",
   "term": "Alternate Take",
+  "pos": "noun",
+  "pronunciation": "/ˈɔːltərnət teɪk/",
   "summary": "A different recorded version of the same song or performance, sometimes issued.",
-  "definition": "A different recorded version of the same song or performance, sometimes issued later on vinyl re-releases or deluxe box sets.",
+  "definition": "A different recorded version of the same song or performance, captured during the same recording session or sessions but featuring distinct variations in arrangement, tempo, instrumentation, or vocal delivery. During studio sessions, artists and producers typically record multiple takes of each song, selecting the best version for official release while archiving the others. Alternate takes became significant to collectors and music historians starting in the 1960s when labels began mining their vaults for bonus material on reissues and deluxe editions. Jazz labels like Blue Note and Prestige pioneered this practice, releasing alternate takes that revealed the creative process behind classic recordings. The term gained wider currency during the CD era of the 1980s-90s when expanded reissues became standard, though alternate takes continue to appear on vinyl box sets and anniversary editions. For collectors, these versions offer insight into artistic decision-making and sometimes reveal superior performances to the originally released master take.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "alternate version",
+    "alt take",
+    "alternative take"
+  ],
+  "alt_spellings": [
+    "alternative take"
+  ],
+  "etymology": "Derived from studio recording terminology, combining 'alternate' (from Latin alternatus, meaning 'done by turns') with 'take' (film and recording industry term for a single continuous recorded performance).",
+  "first_use": 1955,
   "see_also": [
     "outtake",
     "session-tape",
-    "box-set"
+    "box-set",
+    "master-tape"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,16 +1,32 @@
 {
   "slug": "slow-cut",
   "term": "Slow-Cut Lacquer",
-  "summary": "'**noun / mastering style.** A **lacquer cut at slower lead-screw pitch**.",
-  "definition": "**noun / mastering style.** A **lacquer cut at slower lead-screw pitch** so grooves are spaced wider apart — useful for loud or bass-heavy tracks to avoid groove collisions.",
+  "pos": "noun",
+  "pronunciation": "/sloʊ kʌt ˈlækər/",
+  "summary": "**noun / mastering style.** A **lacquer cut at slower lead-screw pitch**.",
+  "definition": "**noun / mastering style.** A **lacquer cut at slower lead-screw pitch** so grooves are spaced wider apart — useful for loud or bass-heavy tracks to avoid groove collisions. During the cutting process, the lathe's lead screw determines how quickly the cutting head advances across the disc surface; slowing this rate creates wider spacing between adjacent grooves. This technique became essential in the 1970s as rock and disco recordings demanded higher volume levels and deeper bass than earlier standards allowed. The trade-off is reduced playing time per side — a typical LP might drop from 22 minutes to 18 minutes — but the sonic benefits include cleaner bass response, reduced distortion, and louder possible playback levels without groove breakthrough. Mastering engineers often reserve slow-cutting for singles, 12-inch dance releases, and audiophile pressings where sound quality trumps duration. Modern cutting lathes allow variable pitch control, letting engineers adjust spacing track-by-track rather than committing to a single rate for an entire side.",
   "tags": [
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "wide-cut",
+    "wide-groove cut",
+    "low-pitch cut"
   ],
-  "pos": "verb"
+  "alt_spellings": [
+    "slow cut",
+    "slowcut"
+  ],
+  "etymology": "Term emerged in mastering engineering circles during the 1970s to describe the practice of reducing lead-screw pitch rates for higher-fidelity cuts, contrasting with standard-pitch cutting used for maximum playing time.",
+  "first_use": 1972,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

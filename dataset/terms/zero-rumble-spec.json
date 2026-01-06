@@ -1,20 +1,37 @@
 {
   "slug": "zero-rumble-spec",
   "term": "Zero-Rumble Spec",
-  "summary": "'**noun / deck spec slang.** A **marketing claim that a turntable’s measured.",
-  "definition": "**noun / deck spec slang.** A **marketing claim that a turntable’s measured rumble was below the instrument’s noise-floor** — common ad lingo once quartz-locked direct-drives hit -70 dB or better.",
+  "pos": "noun",
+  "pronunciation": "/ˈzɪroʊ ˈrʌmbəl spɛk/",
+  "summary": "'**noun / deck spec slang.** A **marketing claim that a turntable's measured.",
+  "definition": "**noun / deck spec slang.** A **marketing claim that a turntable's measured rumble was below the instrument's noise-floor** — common ad lingo once quartz-locked direct-drives hit -70 dB or better. Emerged in the late 1970s when Japanese manufacturers like Technics, Denon, and Yamaha began producing direct-drive turntables with rumble specifications exceeding -70 dB DIN-B weighted, effectively making motor noise unmeasurable with standard audio test equipment of the era. The claim became a competitive talking point in spec-sheet wars, though critics noted that \"zero rumble\" was technically impossible — the measurement simply fell below the analyzer's -80 to -90 dB threshold. By the early 1980s, flagship models routinely advertised -78 dB or better, with some claiming \"unmeasurable\" performance. The term reflected both genuine engineering achievement (precision bearings, vibration isolation, heavy platters) and marketing hyperbole, as real-world listening conditions and cartridge sensitivity often revealed low-frequency noise that specs suggested didn't exist. Modern high-end turntables still chase ultra-low rumble figures, though the focus has shifted to actual audible performance rather than measurement-floor bragging rights.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "unmeasurable rumble",
+    "below-threshold rumble",
+    "zero-noise spec"
+  ],
+  "alt_spellings": [
+    "zero rumble spec",
+    "0-rumble spec"
+  ],
+  "etymology": "Coined in late-1970s hi-fi advertising copy when direct-drive turntable rumble specifications began exceeding the measurement capabilities of standard audio test equipment, creating a marketing opportunity to claim \"zero\" or \"unmeasurable\" performance.",
+  "first_use": 1978,
   "see_also": [
     "rumble-filter",
     "quartz-lock-motor",
-    "signal-to-noise-ratio"
+    "signal-to-noise-ratio",
+    "direct-drive",
+    "din-b-weighting"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,26 @@
 {
   "slug": "african",
   "term": "African",
+  "pos": "noun",
+  "pronunciation": "/ˈæfrɪkən/",
   "summary": "'**African** - A musical style within the World genre, classified according.",
-  "definition": "A specific musical style within the broader world genre classification.",
+  "definition": "A broad musical classification within the world music genre encompassing traditional and contemporary styles originating from the African continent. This category emerged in Western record retail during the 1980s as labels and distributors sought to organize the diverse musical traditions of Africa—including Afrobeat, highlife, soukous, mbaqanga, and desert blues—under a marketable umbrella term. The classification typically covers recordings featuring traditional African instruments, polyrhythmic percussion, call-and-response vocals, and regional linguistic traditions, though it also includes modern fusion styles blending African elements with jazz, funk, and electronic music. The term gained prominence following Paul Simon's Graceland (1986) and the rise of artists like Fela Kuti, Youssou N'Dour, and Salif Keita in international markets. While useful for cataloging, the classification has been criticized for oversimplifying a continent's vast musical diversity. Collectors value original African pressings for their rarity and authentic sound, particularly releases from labels like Syliphone, African, and Soundway's reissues of archival material.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "African music",
+    "Afro"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the continental designation 'Africa,' adopted by Western music retailers in the 1980s to categorize diverse musical styles from African nations under a single genre classification.",
+  "first_use": 1982,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

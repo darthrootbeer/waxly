@@ -1,21 +1,35 @@
 {
   "slug": "lathe-cut",
   "term": "Lathe",
-  "summary": "'**noun / DIY / boutique.** A one-off or small-batch record individually.",
-  "definition": "**noun / DIY / boutique.** A one-off or small-batch record individually cut on a record-lathe rather than pressed from stampers — common for micro-labels, art pieces, or instant souvenirs.",
+  "pos": "noun",
+  "pronunciation": "/leɪð/",
+  "summary": "**noun / DIY / boutique.** A one-off or small-batch record individually.",
+  "definition": "**noun / DIY / boutique.** A one-off or small-batch record individually cut on a record-lathe rather than pressed from stampers — common for micro-labels, art pieces, or instant souvenirs. Unlike conventional pressing that requires expensive electroplating and stamper production, lathe-cutting uses a stylus to carve grooves directly into a blank disc in real-time, similar to how acetates are made but typically on polycarbonate or other durable materials. Popular in the 2000s-2010s DIY and experimental music scenes, lathe-cuts allowed artists to release ultra-limited runs (often 10-50 copies) economically. Sound quality varies wildly depending on equipment and operator skill — boutique services using precision lathes can rival pressed vinyl, while budget operations may produce noisy, inconsistent results. Each disc is unique, with slight variations between copies. Turnaround time is slow (minutes per disc), making them impractical for larger runs. Highly collectible in noise, drone, and indie communities, where hand-numbered lathe-cuts often command premium prices despite technical limitations.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "lathe-cut record",
+    "cut record",
+    "direct-cut"
+  ],
+  "alt_spellings": [
+    "lathe cut",
+    "lathecut"
+  ],
+  "etymology": "From the record-cutting lathe machines used since the 1930s for acetate production, repurposed by DIY labels in the 2000s for small-batch vinyl alternatives.",
+  "first_use": 2005,
   "see_also": [
-    "direct-to-disc",
-    "boutique-pressing",
-    "acetate"
+    "acetate",
+    "dubplate",
+    "direct-to-disc"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

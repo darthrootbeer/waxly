@@ -1,22 +1,39 @@
 {
   "slug": "moving-magnet",
   "term": "Moving-Magnet Cartridge",
+  "pos": "noun",
+  "pronunciation": "/ˈmuːvɪŋ ˈmæɡnɪt ˈkɑːrtrɪdʒ/",
   "summary": "'**noun / technical.** The most common phono cartridge type where a lightweight.",
-  "definition": "**noun / technical.** The most common phono cartridge type where a lightweight magnet moves on the cantilever inside fixed coils, generating sufficient output for standard phono stages.",
+  "definition": "**noun / technical.** The most common phono cartridge type where a lightweight magnet moves on the cantilever inside fixed coils, generating sufficient output for standard phono stages. Introduced in the late 1940s and refined throughout the 1950s, MM cartridges became the dominant design by the 1960s due to their higher output voltage (typically 3-6mV) compared to moving-coil alternatives, eliminating the need for step-up transformers or specialized preamps. The design positions tiny magnets at the end of the cantilever that vibrate within stationary copper coils wound around iron pole pieces, inducing electrical current through electromagnetic induction. This configuration allows for user-replaceable styli, a significant practical advantage that made MM cartridges the standard choice for consumer turntables from the 1970s through today. Models like the Shure M97xE and Audio-Technica AT95E became industry benchmarks, offering excellent sound quality at accessible price points ($50-$300). While moving-coil designs are often preferred by audiophiles for their superior transient response and detail retrieval, MM cartridges remain popular for their warm, musical character, ease of setup, and lower cost of ownership, making them the ideal entry point for vinyl enthusiasts and the workhorse choice for broadcast and DJ applications.",
   "tags": [
     "equipment",
     "technical",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "MM cartridge",
+    "MM",
+    "moving magnet"
+  ],
+  "alt_spellings": [
+    "moving magnet cartridge"
+  ],
+  "etymology": "Term derives from the mechanical principle where the magnet component moves while coils remain stationary, coined to distinguish from earlier crystal and ceramic cartridge designs when introduced by manufacturers like General Electric and Pickering in the late 1940s.",
+  "first_use": 1948,
   "see_also": [
     "magnetic-cartridge",
     "moving-coil",
-    "stylus-compliance"
+    "stylus-compliance",
+    "phono-stage",
+    "cartridge-alignment"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

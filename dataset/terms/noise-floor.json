@@ -1,22 +1,39 @@
 {
   "slug": "noise-floor",
-  "term": "Noise",
-  "summary": "'**noun / technical.** The inherent background level of noise — hiss, hum,.",
-  "definition": "**noun / technical.** The inherent background level of noise — hiss, hum, surface-whoosh — present in a system or on the vinyl itself below which musical signal sits.",
+  "term": "Noise Floor",
+  "pos": "noun",
+  "pronunciation": "/nɔɪz flɔːr/",
+  "summary": "**noun / technical.** The inherent background level of noise — hiss, hum, surface-whoosh — present in a system or on the vinyl itself below which musical signal sits.",
+  "definition": "**noun / technical.** The inherent background level of noise — hiss, hum, surface-whoosh — present in a system or on the vinyl itself below which musical signal sits. Every component in the playback chain contributes: the vinyl compound itself generates surface noise from microscopic imperfections, phono preamps introduce electronic hiss, and turntable motors can add low-frequency rumble. Measured in decibels below peak signal, a lower noise floor reveals more musical detail and increases perceived dynamic range. Virgin vinyl pressings typically achieve -60 to -70 dB, while recycled vinyl may only reach -50 dB due to contaminants. Audiophile pressings on 180-gram virgin vinyl, combined with quality mastering and pristine stampers, can push the noise floor lower, making quiet passages genuinely silent. The format's inherent noise floor — around -70 dB at best — remains vinyl's primary technical limitation compared to digital's -90+ dB. Collectors prize Japanese pressings and early stampers partly for their superior noise floor performance. Modern cleaning methods, anti-static treatments, and high-end cartridges help minimize noise floor intrusion, though some listeners embrace vinyl's characteristic noise signature as part of the format's warmth and authenticity.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "system noise floor",
+    "background noise level",
+    "residual noise"
+  ],
+  "alt_spellings": [
+    "noise-floor",
+    "noisefloor"
+  ],
+  "etymology": "Borrowed from audio engineering terminology in the 1960s, combining 'noise' (unwanted signal) with 'floor' (lowest measurable level), as high-fidelity systems made background noise increasingly audible and measurable.",
+  "first_use": 1965,
   "see_also": [
     "surface-noise",
-    "low-noise",
-    "dynamic-range"
+    "dynamic-range",
+    "signal-to-noise-ratio",
+    "virgin-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

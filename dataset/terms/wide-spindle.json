@@ -1,13 +1,24 @@
 {
   "slug": "wide-spindle",
   "term": "Wide-Spindle 45",
-  "summary": "'**noun / U.S. 45-RPM format.**A **seven-inch single with a 1.5-inch centre.",
-  "definition": "**noun / U.S. 45-RPM format.**A **seven-inch single with a 1.5-inch centre hole designed for jukebox spindles**, requiring an adapter for standard turntables.",
+  "pos": "noun",
+  "pronunciation": "/waɪd ˈspɪndəl ˌfɔːrti faɪv/",
+  "summary": "**noun / U.S. 45-RPM format.** A **seven-inch single with a 1.5-inch centre hole designed for jukebox spindles**, requiring an adapter for standard turntables.",
+  "definition": "**noun / U.S. 45-RPM format.** A **seven-inch single with a 1.5-inch centre hole designed for jukebox spindles**, requiring an adapter for standard turntables. Introduced by RCA Victor in 1949 alongside the 45-RPM format, the oversized centre hole allowed jukeboxes to rapidly change records using thick automatic spindles. The design became the American standard for singles throughout the 1950s-70s, dominating the commercial market while smaller-hole variants prevailed internationally. The large aperture required plastic **spider inserts** (adapters) for home playback on standard 0.25-inch turntable spindles, spawning numerous adapter designs from simple solid discs to the iconic Webcor snap-in style. Jukeboxes could stack and play dozens of wide-spindle 45s automatically, making the format essential to diner and bar culture. By the 1980s, as jukebox prevalence declined, many labels shifted to small-hole pressings, though wide-spindle remained common for U.S. releases. Collectors often prefer original wide-spindle pressings as markers of first-issue authenticity, particularly for soul, rock and roll, and early R&B singles. The format's distinctive appearance—often with colorful vinyl and bold center labels—remains iconic of mid-century American pop culture.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "large hole 45",
+    "jukebox single",
+    "big hole single"
+  ],
+  "alt_spellings": [
+    "wide spindle 45",
+    "wide-spindle forty-five"
+  ],
+  "etymology": "Named for the 1.5-inch centre hole designed to accommodate the wide automatic spindles used in commercial jukeboxes, distinguishing it from the international small-hole 45 standard.",
+  "first_use": 1949,
   "see_also": [
     "spider-insert",
     "dinked-centre-45",
@@ -16,5 +27,6 @@
   "regions": [
     "US"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

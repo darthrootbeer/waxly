@@ -1,15 +1,31 @@
 {
   "slug": "bluegrass",
   "term": "Bluegrass",
+  "pos": "noun",
+  "pronunciation": "/ˈbluːɡræs/",
   "summary": "'**Bluegrass** - A musical style within the Country genre, classified according.",
-  "definition": "A specific musical style within the broader country genre classification.",
+  "definition": "A high-energy acoustic music style characterized by rapid tempos, virtuosic instrumental breaks, and tight vocal harmonies, originating in the Appalachian region of the United States. Pioneered by Bill Monroe and His Blue Grass Boys in the 1940s, the genre features mandolin, fiddle, banjo, guitar, and upright bass played in distinctive syncopated rhythms. Bluegrass records became significant collectibles in the 1960s folk revival, with early King, Decca, and independent label pressings commanding premium prices. Original pressings of Flatt & Scruggs, the Stanley Brothers, and Monroe's foundational recordings are highly sought by both music historians and vinyl collectors. The genre's intricate instrumental passages and acoustic purity make it particularly suited to high-fidelity vinyl reproduction, with audiophile reissues from labels like Analogue Productions and Mobile Fidelity preserving the warmth and clarity of the original recordings.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "bluegrass music",
+    "bluegrass country"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "blue grass",
+    "blue-grass"
+  ],
+  "etymology": "Named after Bill Monroe's band, the Blue Grass Boys, which itself referenced Monroe's home state of Kentucky, known as the Bluegrass State.",
+  "first_use": 1946,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "CA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

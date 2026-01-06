@@ -1,15 +1,29 @@
 {
   "slug": "chicago-blues",
   "term": "Chicago Blues",
+  "pos": "noun",
+  "pronunciation": "/ʃɪˈkɑːɡoʊ bluːz/",
   "summary": "'**Chicago Blues** - A musical style within the Blues genre, classified according.",
-  "definition": "A specific musical style within the broader blues genre classification.",
+  "definition": "A distinct electric blues style that emerged in Chicago during the 1940s-1950s when Southern blues musicians migrated north and adapted their acoustic Delta blues sound for urban audiences. Characterized by amplified guitars, harmonica, bass, drums, and piano, Chicago Blues transformed the intimate country blues into a louder, more aggressive sound suitable for crowded nightclubs and bars. Key innovators like Muddy Waters, Howlin' Wolf, Little Walter, and Willie Dixon recorded for Chess Records and other Chicago labels, creating a template that influenced rock and roll, British blues revival bands, and modern electric blues. The style emphasizes driving rhythms, extended guitar solos, and powerful vocals, often featuring small combos rather than solo performers. Vinyl recordings from Chess, Vee-Jay, and Delmark labels remain highly collectible, with original pressings from the 1950s commanding premium prices. The Chicago Blues sound became synonymous with post-war urban blues and established the city as a major recording center.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Electric Chicago Blues",
+    "Urban Blues"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Chicago blues",
+    "Chicago-style blues"
+  ],
+  "etymology": "Named after Chicago, Illinois, where the style developed in the city's South and West Side neighborhoods as African American migrants from the Mississippi Delta electrified traditional blues forms for urban club settings.",
+  "first_use": 1947,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

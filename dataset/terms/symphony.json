@@ -1,15 +1,29 @@
 {
   "slug": "symphony",
   "term": "Symphony",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪm.fə.ni/",
   "summary": "'**Symphony** - A musical style within the Classical genre, classified according.",
-  "definition": "A specific musical style within the broader classical genre classification.",
+  "definition": "A large-scale orchestral composition typically structured in multiple movements (usually four), representing one of the most significant forms in Western classical music. Symphonies emerged in the mid-18th century, reaching their apex during the Classical and Romantic periods through composers like Haydn, Mozart, Beethoven, and Mahler. In vinyl collecting, symphonic recordings hold particular importance due to their demanding technical requirements—capturing the full dynamic range, spatial depth, and timbral complexity of 80+ piece orchestras requires superior pressing quality and playback equipment. Audiophile labels like Deutsche Grammophon, Decca, and RCA Living Stereo built their reputations on symphonic recordings, with original pressings from the 1950s-60s golden age commanding premium prices. The format's ability to reproduce the concert hall experience made symphonic works ideal demonstration material for high-end systems, while gatefold packaging often featured extensive liner notes and conductor photographs that enhanced the listening ritual.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "symphonic work",
+    "orchestral symphony"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "symphonie"
+  ],
+  "etymology": "From Greek symphōnia meaning 'agreement or concord of sound,' through Latin symphonia, adopted into musical terminology in the 17th century to describe instrumental ensemble works before crystallizing into its modern form by the Classical era.",
+  "first_use": 1750,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

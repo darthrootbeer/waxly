@@ -1,22 +1,37 @@
 {
   "slug": "deep-groove",
   "term": "Deep Groove",
-  "summary": "A wide recessed ring around the label area on many 1950s–early ’60s LPs,.",
-  "definition": "A wide recessed ring around the label area on many 1950s–early ’60s LPs, a by-product of early pressing molds.",
+  "pos": "noun",
+  "pronunciation": "/diːp ɡruːv/",
+  "summary": "A wide recessed ring around the label area on many 1950s–early '60s LPs,.",
+  "definition": "A wide recessed ring around the label area on many 1950s–early '60s LPs, a by-product of early pressing molds designed to prevent label damage during the pressing process. This distinctive physical feature appears as a concentric groove approximately 1/8 to 1/4 inch wide, creating a valley between the label and the start of the playing surface. Deep grooves were standard on Columbia, RCA Victor, Blue Note, Prestige, and other labels from roughly 1948 through 1963, when improved pressing technology and cost-cutting measures led manufacturers to adopt flat-profile stampers. Among jazz collectors, deep groove pressings command premium prices, particularly on Blue Note records where they typically indicate original Plastylite pressings from the golden era of Rudy Van Gelder recordings. While the deep groove itself has no sonic impact, its presence serves as a reliable visual marker for early pressings that often feature superior mastering, virgin vinyl stock, and careful quality control. Collectors use the term as shorthand for authenticity verification, though some labels briefly returned to deep groove profiles in later years, making additional authentication markers necessary.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "DG",
+    "deep-groove pressing"
+  ],
+  "alt_spellings": [
+    "deep groove",
+    "deepgroove"
+  ],
+  "etymology": "Coined by record collectors in the 1970s to describe the recessed ring feature of 1950s pressings, distinguishing valuable early issues from later reissues with flat label areas.",
+  "first_use": 1948,
   "see_also": [
-    "first",
+    "first-pressing",
     "label-variant",
-    "rvg-stamp"
+    "rvg-stamp",
+    "plastylite"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

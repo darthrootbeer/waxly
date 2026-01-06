@@ -1,22 +1,37 @@
 {
   "slug": "mid-side",
   "term": "Mid-Side Fold-Down",
+  "pos": "noun",
+  "pronunciation": "/mɪd saɪd foʊld daʊn/",
   "summary": "'**noun / technical.** A mono vinyl master derived by electronically folding.",
-  "definition": "**noun / technical.** A mono vinyl master derived by electronically folding down the mid-side channels of a stereo mix, instead of using a dedicated mono mix.",
+  "definition": "**noun / technical.** A mono vinyl master derived by electronically folding down the mid-side channels of a stereo mix, instead of using a dedicated mono mix. This technique emerged in the 1980s as studios adopted mid-side microphone recording and processing, allowing engineers to extract a mono-compatible signal by isolating the mid (center) channel while discarding the side (stereo difference) information. While convenient for mastering engineers working with limited source material, mid-side fold-downs often produce inferior results compared to dedicated mono mixes, as they can introduce phase issues, unbalanced frequency response, and loss of intentional mono imaging decisions made during mixing. The practice became common for vinyl reissues when original mono masters were lost or unavailable, particularly for 1960s rock and soul records. Modern mastering engineers debate the sonic trade-offs, with purists arguing that fold-downs lack the punch and clarity of purpose-mixed mono versions, while pragmatists accept them as acceptable compromises for preserving catalog availability on seven-inch singles and mono LPs.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "M-S fold-down",
+    "stereo-to-mono fold",
+    "mid channel extraction"
+  ],
+  "alt_spellings": [
+    "Mid/Side Fold-Down",
+    "Mid Side Folddown"
+  ],
+  "etymology": "Derived from mid-side recording technique developed in the 1930s but popularized in studio mastering during the 1980s digital transition when engineers needed efficient methods to create mono compatibility from stereo sources.",
+  "first_use": 1985,
   "see_also": [
     "dedicated-mono-mix",
     "phase-cancellation",
     "mastering-engineer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

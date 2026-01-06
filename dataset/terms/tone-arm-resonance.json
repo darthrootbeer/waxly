@@ -1,20 +1,38 @@
 {
   "slug": "tone-arm-resonance",
   "term": "Tone-Arm Resonance",
+  "pos": "noun",
+  "pronunciation": "/toʊn ɑːrm ˈrɛzənəns/",
   "summary": "noun / hi-fi performance spec. The natural resonant frequency created by.",
-  "definition": "**noun / hi-fi performance spec.** The **natural resonant frequency created by the mass of the tone-arm and the compliance of the cartridge’s cantilever suspension** — ideally falls between 8-12 Hz to avoid rumble or audible bass-boost.",
+  "definition": "**noun / hi-fi performance spec.** The **natural resonant frequency created by the mass of the tone-arm and the compliance of the cartridge's cantilever suspension** — ideally falls between 8-12 Hz to avoid rumble or audible bass-boost. This mechanical interaction forms a spring-mass system where the effective mass of the tonearm (typically 5-25 grams) combines with the cartridge's compliance (measured in micrometers per millinewton) to create a resonant peak. If resonance occurs below 8 Hz, the system becomes susceptible to warp-induced mistracking and low-frequency motor rumble; above 12 Hz, it enters the audible bass region, causing muddy low-end response and potential feedback issues. The phenomenon became critical with the shift from ceramic cartridges (low compliance, high mass) to moving-magnet and moving-coil designs in the 1960s-70s, when audiophiles discovered that mismatched arm-cartridge combinations produced wildly uneven frequency response. Modern setup requires calculating resonance using the formula: f = 1000 / (6.28 × √(M × C)), where M is effective mass and C is compliance. High-end manufacturers now publish detailed specifications, and dedicated test records with subsonic tones allow precise measurement. Proper matching remains one of analog playback's most overlooked yet sonically significant variables.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "arm-cartridge resonance",
+    "tonearm resonant frequency",
+    "mechanical resonance"
+  ],
+  "alt_spellings": [
+    "tonearm resonance",
+    "tone arm resonance"
+  ],
+  "etymology": "Term emerged in audio engineering literature during the 1960s as lightweight tonearm designs and high-compliance cartridges created previously unknown matching problems in turntable systems.",
+  "first_use": 1965,
   "see_also": [
     "cartridge-compliance",
-    "arm-mass-calculator",
-    "sub-sonic-filter"
+    "effective-mass",
+    "subsonic-filter",
+    "warped-record",
+    "rumble"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

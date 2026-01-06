@@ -1,22 +1,35 @@
 {
   "slug": "flat-edge",
   "term": "Flat-Edge Pressing",
+  "pos": "noun",
+  "pronunciation": "/flæt ɛdʒ ˈprɛsɪŋ/",
   "summary": "'**noun / historical.** An LP manufactured without the small raised outer.",
-  "definition": "**noun / historical.** An LP manufactured without the small raised outer lip common after the early ’60s — has a perfectly flat [edge](../e/edge-warp.md) all the way to the rim.",
+  "definition": "**noun / historical.** An LP manufactured without the small raised outer lip common after the early '60s — has a perfectly flat [edge](../e/edge-warp.md) all the way to the rim. This pressing style dominated the 1950s and early 1960s before manufacturers introduced the raised lip as a protective feature to prevent edge damage during handling and shipping. Flat-edge pressings are most commonly found on early mono LPs and first pressings from labels like Blue Note, Prestige, and Columbia. The absence of the lip makes these records more vulnerable to edge warps and chips, particularly along the outermost grooves. Collectors prize flat-edge pressings as indicators of early production runs, often correlating with superior mastering and stamper quality before subsequent reissues. The transition to lipped edges occurred gradually between 1962-1965, varying by label and pressing plant. Identifying a flat-edge can help authenticate first pressings and establish manufacturing dates, making it a valuable tool in record collecting and valuation.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "flat edge",
+    "no-lip pressing"
+  ],
+  "alt_spelings": [
+    "flat edge pressing",
+    "flatedge"
+  ],
+  "etymology": "Descriptive term adopted by collectors in the 1980s-90s to distinguish early LP manufacturing characteristics from later standard pressings with protective outer lips.",
+  "first_use": 1948,
   "see_also": [
     "deep-groove",
-    "first",
+    "first-pressing",
     "edge-warp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

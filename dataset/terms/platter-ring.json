@@ -1,22 +1,37 @@
 {
   "slug": "platter-ring",
   "term": "Platter Ring",
-  "summary": "'**noun / grading slang.** A faint circular shadow or gloss change on an.",
-  "definition": "**noun / grading slang.** A faint circular shadow or gloss change on an LP jacket front or back that mirrors the record’s outline inside — caused by years of pressure and shelf-rub.",
+  "pos": "noun",
+  "pronunciation": "/ˈplætər rɪŋ/",
+  "summary": "**noun / grading slang.** A faint circular shadow or gloss change on an LP jacket front or back that mirrors the record's outline inside — caused by years of pressure and shelf-rub.",
+  "definition": "**noun / grading slang.** A faint circular shadow or gloss change on an LP jacket front or back that mirrors the record's outline inside — caused by years of pressure and shelf-rub. Most visible on matte-finish covers, platter rings develop over decades as the vinyl disc presses against cardboard fibers, creating subtle indentation and surface compression. The effect intensifies with temperature fluctuations and horizontal storage weight. Unlike ring wear — which involves actual cardboard damage and splitting — platter rings are cosmetic impressions that don't compromise structural integrity. Graders distinguish between light rings (visible only in angled light) and moderate rings (clearly defined circles). Original pressings from the 1960s-70s frequently exhibit platter rings, as period storage practices and thinner jacket stock made them inevitable. Collectors debate whether platter rings add \"character\" to vintage copies or constitute condition flaws; most grading standards drop jacket condition from Near Mint to VG+ when rings are prominent.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record ring",
+    "disc impression",
+    "vinyl shadow"
+  ],
+  "alt_spellings": [
+    "platter-ring",
+    "platterring"
+  ],
+  "etymology": "Collector term emerging in 1980s mail-order grading vocabulary, combining \"platter\" (slang for vinyl record) with \"ring\" (the circular mark left behind).",
+  "first_use": 1982,
   "see_also": [
     "ring-wear",
     "outer-jacket",
     "grading-terms"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

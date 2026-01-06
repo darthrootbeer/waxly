@@ -1,21 +1,35 @@
 {
   "slug": "speed-pull",
   "term": "Speed-Pull Idler",
+  "pos": "noun",
+  "pronunciation": "/spiːd pʊl ˈaɪdlər/",
   "summary": "'**noun / vintage changer part.** A **sliding idler-wheel mechanism** that.",
-  "definition": "**noun / vintage changer part.** A **sliding idler-wheel mechanism** that changes contact diameter on stepped motor pulley to alter platter RPM on old record changers.",
+  "definition": "**noun / vintage changer part.** A **sliding idler-wheel mechanism** that changes contact diameter on stepped motor pulley to alter platter RPM on old record changers. Developed in the 1950s as an elegant solution for multi-speed automatic changers, the speed-pull system uses a single rubber idler wheel mounted on a lateral slide mechanism. When the user selects 16, 33, 45, or 78 RPM, a mechanical linkage pulls or pushes the idler along its track to contact different diameter steps on the motor's conical or stepped drive pulley. The larger the pulley diameter contacted, the faster the platter spins. This design eliminated the need for multiple idler wheels or complex gear trains, making changers more compact and affordable. Common on VM, BSR, and Garrard changers from the 1950s-70s, speed-pull mechanisms are notorious for developing speed instability as the idler rubber hardens or the slide mechanism accumulates grime. The idler must maintain precise contact pressure at all positions; worn slides cause the wheel to shift during play, creating pitch warble. Restoration requires cleaning the slide rails, replacing the idler wheel, and adjusting the positioning stops for accurate speed at each setting. Collectors of vintage changers consider properly functioning speed-pull systems essential for authentic period playback.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "speed selector idler",
+    "variable speed idler",
+    "pull-type idler"
+  ],
+  "alt_spellings": [
+    "speed pull idler",
+    "speedpull idler"
+  ],
+  "etymology": "Coined in the 1950s from the mechanical action of 'pulling' the idler wheel across different speed positions on the motor pulley, distinguishing it from lever-shifted or gear-based speed change systems.",
+  "first_use": 1952,
   "see_also": [
     "idler-drive-motor",
     "rumble-spec",
     "idler-wheel-rebuild"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,22 +1,37 @@
 {
   "slug": "reference-lacquer",
   "term": "Reference Lacquer",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛfərəns ˈlækər/",
   "summary": "'**noun / mastering term.** A **one-off lacquer disc** cut directly from.",
-  "definition": "**noun / mastering term.** A **one-off lacquer disc** cut directly from the mix as a **reference copy** for producers or artists to audition before committing to production.",
+  "definition": "**noun / mastering term.** A **one-off lacquer disc** cut directly from the mix as a **reference copy** for producers or artists to audition before committing to production. Cut on the same lathe used for production masters, reference lacquers allow A&R personnel, producers, and artists to evaluate the final sound quality in a playable format before authorizing expensive test pressings or full production runs. Unlike acetates intended for broadcast or DJ use, reference lacquers serve purely as approval tools in the mastering workflow. They became standard practice in the 1960s as studios formalized quality control procedures, offering a tangible preview of how the final vinyl would sound after the electroplating and pressing process. The mastering engineer typically cuts one or two reference lacquers from the approved master tape, noting any EQ adjustments or level changes required. While fragile like all lacquers (limited to 10-20 plays), they provide invaluable sonic verification before the irreversible step of creating metal stampers. Surviving reference lacquers occasionally surface in collector markets, prized for their unique provenance and often superior sound quality compared to mass-produced pressings.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "reference acetate",
+    "reference cut",
+    "approval lacquer"
+  ],
+  "alt_spellings": [
+    "reference laquer"
+  ],
+  "etymology": "Emerged from 1960s mastering studio terminology, combining 'reference' (approval standard) with 'lacquer' (the aluminum disc coated with nitrocellulose used in disc cutting).",
+  "first_use": 1965,
   "see_also": [
     "acetate",
     "test-pressing",
-    "first-cut-lacquer"
+    "first-cut-lacquer",
+    "dubplate",
+    "mastering"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

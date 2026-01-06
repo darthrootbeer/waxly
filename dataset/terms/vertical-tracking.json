@@ -1,21 +1,35 @@
 {
   "slug": "vertical-tracking",
   "term": "Vertical Tracking Angle",
+  "pos": "noun",
+  "pronunciation": "/ˈvɜːrtɪkəl ˈtrækɪŋ ˈæŋɡəl/",
   "summary": "'**noun / cartridge alignment spec.** The **angle of the cantilever/stylus.",
-  "definition": "**noun / cartridge alignment spec.** The **angle of the cantilever/stylus relative to the record surface in the vertical plane**, ideally matching the angle of the cutter head.",
+  "definition": "**noun / cartridge alignment spec.** The **angle of the cantilever/stylus relative to the record surface in the vertical plane**, ideally matching the angle of the cutter head used during the mastering process. The industry standard cutting angle is 92 degrees (or 2 degrees back from perpendicular), established during the stereo LP era of the late 1950s. When VTA is properly set, the stylus sits in the groove at the same angle it was cut, ensuring optimal contact with both groove walls and accurate reproduction of the stereo signal. Mismatched VTA—often caused by records of varying thickness or incorrect tonearm height—can result in frequency response imbalances, with too steep an angle emphasizing treble and too shallow favoring bass. High-end turntables feature adjustable tonearm height mechanisms allowing users to dial in VTA for different record weights (120g vs 180g pressings). Audiophiles often spend considerable time fine-tuning VTA by ear, listening for the sweet spot where soundstage depth and tonal balance converge. While casual listeners may never adjust VTA beyond initial setup, serious collectors recognize it as a critical parameter alongside tracking force and anti-skate, particularly when playing vintage pressings cut before thickness standardization.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "VTA"
+  ],
+  "alt_spellings": [
+    "Vertical Tracking-Angle",
+    "vertical tracking angle"
+  ],
+  "etymology": "Term emerged with the introduction of stereo microgroove records in 1958, when vertical modulation became critical to the 45/45 stereo cutting system, necessitating precise angular alignment terminology.",
+  "first_use": 1958,
   "see_also": [
     "sra-stylus-rake-angle",
     "tone-arm-height-adjuster",
     "tracking-force"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

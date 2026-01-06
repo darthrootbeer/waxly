@@ -1,21 +1,37 @@
 {
   "slug": "inner-sleeve-rash",
   "term": "Inner-Sleeve Rash",
+  "pos": "noun",
+  "pronunciation": "/ˈɪnər sliːv ræʃ/",
   "summary": "'**noun / slang.** A cloudy or mottled vinyl surface pattern caused by reaction.",
-  "definition": "**noun / slang.** A cloudy or mottled vinyl surface pattern caused by reaction with cheap PVC or acidic paper inner sleeves — usually cosmetic but sometimes noisy.",
+  "definition": "**noun / slang.** A cloudy or mottled vinyl surface pattern caused by chemical reaction between a record's surface and cheap PVC or acidic paper inner sleeves during prolonged storage. The condition appears as hazy patches, streaks, or ring-shaped marks that follow the sleeve's contact points, most commonly affecting records from the 1960s-80s when low-quality paper sleeves were industry standard. While primarily cosmetic — creating a milky or frosted appearance that doesn't wash off — severe cases can produce audible surface noise or clicks. The damage results from plasticizers migrating from inferior sleeve materials or sulfur compounds in acidic paper reacting with vinyl compounds. Collectors distinguish between light rash (visible only under direct light, minimal sonic impact) and heavy rash (obvious clouding, potential audio degradation). The condition is irreversible, making it a significant grading consideration. Modern poly-lined or anti-static sleeves prevent the issue entirely, leading many collectors to immediately replace original sleeves upon purchase. Vintage records stored in their factory sleeves for decades are particularly susceptible, especially pressings from budget labels that used the cheapest materials available.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "sleeve scuffing",
+    "paper rash",
+    "sleeve haze",
+    "inner sleeve damage"
+  ],
+  "alt_spellings": [
+    "inner sleeve rash",
+    "innersleeve rash"
+  ],
+  "etymology": "Collector slang emerging in the 1980s-90s as vintage record trading expanded and buyers needed terminology to describe storage-related vinyl degradation distinct from play wear or manufacturing defects.",
+  "first_use": 1985,
   "see_also": [
     "poly-lined-sleeve",
     "visual-grade",
     "play-grade"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

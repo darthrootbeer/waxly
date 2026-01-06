@@ -1,15 +1,35 @@
 {
   "slug": "thrift-store",
   "term": "Thrift-Store Find",
+  "pos": "noun",
+  "pronunciation": "/θrɪft stɔːr faɪnd/",
   "summary": "Thrift-Store Find / Thrift-Dig.",
-  "definition": "# Thrift-Store Find",
+  "definition": "# Thrift-Store Find\n\nA vinyl record discovered and purchased at a secondhand shop, charity store, or thrift outlet, often at significantly below market value. The thrill of the thrift-store find lies in uncovering valuable, rare, or personally significant albums among bins of common releases. Serious diggers develop systematic approaches: checking multiple locations weekly, building relationships with staff to learn delivery schedules, and rapidly assessing condition while flipping through hundreds of records. Notable finds range from original pressings of jazz classics and private-press rarities to sealed copies of sought-after titles that somehow escaped previous collectors. The practice gained prominence in the 1980s-90s hip-hop era when producers like DJ Shadow and J Dilla built their sample libraries through relentless thrift digging. Today, despite increased competition from resellers and online price-checking, thrift stores remain hunting grounds where knowledge, persistence, and timing can yield extraordinary discoveries at $1-5 price points that would command hundreds elsewhere.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "thrift dig",
+    "charity shop find",
+    "secondhand score",
+    "goodwill find"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "thrift store find",
+    "thriftstore find"
+  ],
+  "etymology": "Emerged in 1980s-90s record collecting culture as vinyl became unfashionable and thrift stores accumulated donated collections, creating opportunities for knowledgeable diggers to find valuable records at negligible prices.",
+  "first_use": 1985,
+  "see_also": [
+    "crate-digging",
+    "dollar-bin"
+  ],
+  "regions": [
+    "US",
+    "UK",
+    "CA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

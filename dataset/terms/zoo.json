@@ -1,15 +1,26 @@
 {
   "slug": "zoo",
   "term": "Zoo-Label Novelty 45",
+  "pos": "noun",
+  "pronunciation": "/zuː ˈleɪbəl ˈnɒvəlti ˈfɔːrti faɪv/",
   "summary": "'**noun / collector nickname.** A **novelty-label 7-inch single released.",
-  "definition": "**noun / collector nickname.** A **novelty-label 7-inch single released by small regional ‘zoo’-branded labels** in the 1950s-60s — term also loosely for any animal-mascot kids’ record label.",
+  "definition": "**noun / collector nickname.** A **novelty-label 7-inch single released by small regional 'zoo'-branded labels** in the 1950s-60s — term also loosely for any animal-mascot kids' record label. These budget pressings typically featured children's songs, animal sound effects, or educational content marketed through department stores, grocery chains, and five-and-dimes. Labels like Peter Pan Records, Cricket Records, and Golden Records dominated the format, often using colorful picture labels with cartoon mascots. Pressing quality varied wildly — some used virgin vinyl, others recycled compound that wore after a handful of plays. Zoo-label 45s became a collector subcategory in the 1990s when crate-diggers discovered oddball tracks: strange cover versions, proto-sampling experiments, and bizarre spoken-word pieces. Original pressings with intact picture sleeves now command $10-$50 depending on rarity and kitsch appeal. The term occasionally extends to any animal-themed novelty imprint, including regional zoo promotional records and wildlife sound-effect discs pressed for educational use.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "kiddie 45",
+    "animal-label single",
+    "novelty zoo record"
+  ],
+  "alt_spellings": [
+    "Zoo Label Novelty 45",
+    "zoo-label 45"
+  ],
+  "etymology": "Coined by record collectors in the 1990s to categorize children's 45s from labels featuring zoo animals or cartoon mascots on their branding, referencing the menagerie of animal imagery used in mid-century kids' record marketing.",
+  "first_use": 1995,
   "see_also": [
     "kiddie-record-format",
     "picture-label-45",
@@ -18,5 +29,6 @@
   "regions": [
     "US"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

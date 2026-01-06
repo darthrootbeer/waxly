@@ -1,20 +1,33 @@
 {
   "slug": "velvet-dust",
   "term": "Velvet Dust Brush",
-  "summary": "'**noun / cleaning accessory.** A **hand-held block lined with fine velvet.",
-  "definition": "**noun / cleaning accessory.** A **hand-held block lined with fine velvet pile used to sweep surface dust off records before play** — often paired with anti-static fluid.",
+  "pos": "noun",
+  "pronunciation": "/ˈvɛlvɪt dʌst brʌʃ/",
+  "summary": "**noun / cleaning accessory.** A **hand-held block lined with fine velvet pile used to sweep surface dust off records before play** — often paired with anti-static fluid.",
+  "definition": "**noun / cleaning accessory.** A **hand-held block lined with fine velvet pile used to sweep surface dust off records before play** — often paired with anti-static fluid. Popular from the 1950s through the 1970s, the velvet dust brush represented the first generation of dedicated vinyl cleaning tools, predating carbon fiber and microfiber technologies. The dense, directional pile of the velvet fabric traps loose particles while the soft material prevents groove damage. Most designs featured a wooden or plastic handle attached to a rectangular pad, typically 3-4 inches wide, allowing users to sweep in the direction of the grooves with gentle pressure. While effective at removing surface debris, velvet brushes offered no anti-static properties and could themselves accumulate dust and oils, requiring periodic cleaning or replacement. The format fell from favor in the late 1970s as carbon fiber brushes with conductive properties proved superior for both cleaning and static discharge. Today velvet brushes are largely obsolete, occasionally appearing in vintage cleaning kits or used by collectors seeking period-correct accessories. Some audiophiles still employ them for pre-cleaning before wet washing, though modern microfiber cloths have largely assumed this role.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "velvet pad",
+    "velvet record brush",
+    "dust velvet"
+  ],
+  "alt_spellings": [
+    "velvet-dust brush"
+  ],
+  "etymology": "Named for the velvet fabric pile material used in construction; emerged alongside LP format as dedicated maintenance accessory in early 1950s.",
+  "first_use": 1952,
   "see_also": [
     "carbon-fiber-brush",
     "discwasher-pad",
     "anti-static-treatment"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

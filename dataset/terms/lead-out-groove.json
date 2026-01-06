@@ -1,21 +1,37 @@
 {
   "slug": "lead-out-groove",
   "term": "Lead-Out Groove",
+  "pos": "noun",
+  "pronunciation": "/liːd aʊt ɡruːv/",
   "summary": "'**noun / technical.** The silent spiral groove after the final track that.",
-  "definition": "**noun / technical.** The silent spiral groove after the final track that guides the stylus inward toward the run-out area.",
+  "definition": "**noun / technical.** The silent spiral groove after the final track that guides the stylus inward toward the run-out area. Engineered as a continuous spiral with wider spacing than program grooves, the lead-out ensures the tonearm completes its journey across the record surface without abrupt termination. On automatic turntables, this section triggers the return mechanism, lifting the tonearm and returning it to rest. The lead-out typically spans 3-6 rotations before reaching the lock groove or run-out area, maintaining consistent groove velocity to prevent tracking errors. Introduced with the LP format in 1948, the lead-out became standardized as part of the RIAA cutting specifications, though early 78rpm records often featured more abrupt endings. Cutting engineers sometimes encode hidden messages or catalog numbers in the run-out dead wax immediately following the lead-out, visible under magnification. Modern pressings maintain this convention despite the obsolescence of automatic changers, as the gradual transition prevents stylus damage and provides a buffer zone. Collectors inspect lead-out condition when grading records, as damage here often indicates the disc was played repeatedly until the needle reached the label area.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tail-out groove",
+    "end groove"
+  ],
+  "alt_spelings": [
+    "leadout groove",
+    "lead out groove"
+  ],
+  "etymology": "Derived from engineering terminology where 'lead-out' describes the exit path of a process, standardized with LP manufacturing specifications in the late 1940s.",
+  "first_use": 1948,
   "see_also": [
     "run-out-groove",
     "locked-groove",
-    "hidden-track"
+    "lead-in-groove",
+    "dead-wax"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,31 @@
 {
   "slug": "zero-inner",
   "term": "Zero-Inner-Groove-Distortion Cut",
+  "pos": "noun",
+  "pronunciation": "/ˈzɪəroʊ ˈɪnər ɡruːv dɪˈstɔːrʃən kʌt/",
   "summary": "Zero-Inner-Groove-Distortion Cut.",
-  "definition": "# Zero-Inner-[Groove](../g/groove-wear.md)-Distortion Cut",
+  "definition": "# Zero-Inner-[Groove](../g/groove-wear.md)-Distortion Cut\n\nA mastering technique that minimizes or eliminates distortion in the innermost grooves of a vinyl record by carefully managing groove spacing, cutting depth, and signal level as the lacquer approaches the label area. As the stylus travels toward the center of a record, the linear velocity decreases while the groove density increases, creating inherent challenges for accurate playback. Engineers achieve zero-distortion cuts through strategic track sequencing (placing quieter material on inner bands), reduced high-frequency content, wider groove pitch, and sometimes shorter playing times per side. The technique emerged in the 1970s as audiophile pressings demanded higher fidelity standards, with mastering engineers like Stan Ricker and Bernie Grundman pioneering methods to combat the physics of inner-groove geometry. Modern reissue labels often employ these principles, sometimes splitting albums across multiple discs at 45 RPM to maintain optimal groove spacing throughout. Collectors prize zero-distortion cuts for their consistent sonic quality from outer to inner tracks, particularly important for albums with dynamic finales.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "IGD-free cut",
+    "distortion-free mastering",
+    "optimized inner groove cut"
   ],
-  "pos": "verb"
+  "alt_spellings": [
+    "Zero Inner Groove Distortion Cut",
+    "Zero-IGD Cut"
+  ],
+  "etymology": "Coined in the 1970s audiophile era as mastering engineers developed systematic approaches to combat inner-groove distortion (IGD), a phenomenon recognized since the earliest days of disc recording but not systematically addressed until high-fidelity playback revealed its impact.",
+  "first_use": 1975,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

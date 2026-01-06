@@ -1,20 +1,34 @@
 {
   "slug": "cabinet-rumble",
   "term": "Cabinet Rumble",
+  "pos": "noun",
+  "pronunciation": "/ˈkæbɪnət ˈrʌmbəl/",
   "summary": "Low-frequency resonance transmitted from a speaker cabinet or furniture into.",
-  "definition": "Low-frequency resonance transmitted from a speaker cabinet or furniture into the turntable, causing audible woofer flutter or muddy bass.",
+  "definition": "Low-frequency resonance transmitted from a speaker cabinet or furniture into the turntable, causing audible woofer flutter or muddy bass. This acoustic feedback loop occurs when bass frequencies from speakers vibrate the surface supporting the turntable, which then travels through the plinth and into the tonearm, creating a self-reinforcing cycle of unwanted low-frequency noise. The phenomenon became widely recognized in the 1960s as hi-fi systems grew more powerful and vinyl playback moved from console units to separates placed on shared furniture. Cabinet rumble typically manifests as a booming, undefined bass response or visible woofer pumping even during quiet passages. The issue is most pronounced with suspended subchassis turntables and high-compliance cartridges that are particularly sensitive to low-frequency movement. Solutions include proper isolation using dedicated turntable stands, isolation platforms, or feet designed to decouple the turntable from resonant surfaces. Serious audiophiles often place turntables on wall-mounted shelves or separate furniture from speakers entirely. The problem remains relevant in modern setups, particularly with powered bookshelf speakers placed near turntables on shared desks or media consoles, where convenience often conflicts with acoustic isolation principles.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "speaker feedback",
+    "acoustic rumble",
+    "structural feedback"
+  ],
+  "alt_spelings": [],
+  "etymology": "Compound term combining 'cabinet' (referring to speaker enclosures or furniture) with 'rumble' (low-frequency vibration), emerging from hi-fi terminology of the 1960s stereo era.",
+  "first_use": 1965,
   "see_also": [
     "acoustic-feedback",
     "plinth",
-    "isolation-feet"
+    "isolation-feet",
+    "rumble",
+    "subsonic-filter"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

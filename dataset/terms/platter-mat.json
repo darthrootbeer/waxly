@@ -1,21 +1,37 @@
 {
   "slug": "platter-mat",
   "term": "Platter Mat",
+  "pos": "noun",
+  "pronunciation": "/ˈplætər mæt/",
   "summary": "'**noun / hi-fi accessory.** A thin mat of rubber, felt, cork, leather, or.",
-  "definition": "**noun / hi-fi accessory.** A thin mat of rubber, felt, cork, leather, or acrylic placed on the turntable platter to cushion the record, reduce vibration, and influence static and tonal character.",
+  "definition": "**noun / hi-fi accessory.** A thin mat of rubber, felt, cork, leather, or acrylic placed on the turntable platter to cushion the record, reduce vibration, and influence static and tonal character. Introduced alongside early hi-fi turntables in the 1950s, platter mats serve multiple functions: they provide a cushioning interface between the vinyl and metal platter, dampen unwanted resonances that can color playback, and help dissipate static electricity. Material choice significantly impacts sound—rubber mats offer excellent damping but can deaden high frequencies, felt provides neutral warmth favored by audiophiles, cork delivers a balanced midrange with natural resonance control, while acrylic and leather mats emphasize detail and tightness. High-end audiophile mats from manufacturers like Funk Firm, Herbies, and Dr. Feickert can cost $100-$500, promising measurable improvements in clarity and bass definition. DJ culture developed the slip mat variation, using felt or synthetic materials to enable scratching and backspinning. Modern turntables often include basic felt or rubber mats, but upgrading remains a popular tweak among serious listeners seeking to extract maximum fidelity from their system without cartridge-level investment.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "turntable mat",
+    "record mat"
+  ],
+  "alt_spellings": [
+    "platter-mat",
+    "plattermat"
+  ],
+  "etymology": "Compound term from 'platter' (the rotating disc of a turntable) and 'mat' (protective surface layer), emerging with post-WWII hi-fi equipment development.",
+  "first_use": 1952,
   "see_also": [
     "slip-mat",
-    "turntable-mat",
-    "static-dissipating-mat"
+    "turntable",
+    "platter",
+    "static"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

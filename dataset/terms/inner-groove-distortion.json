@@ -1,21 +1,39 @@
 {
   "slug": "inner-groove-distortion",
   "term": "Inner-Groove Distortion",
-  "summary": "'**noun / technical.** Audible high-frequency harshness or sibilance that.",
-  "definition": "**noun / technical.** Audible high-frequency harshness or sibilance that occurs near the record’s center due to the stylus tracing a tighter groove radius at lower linear speed.",
+  "pos": "noun",
+  "pronunciation": "/ˈɪnər ɡruːv dɪˈstɔːrʃən/",
+  "summary": "**noun / technical.** Audible high-frequency harshness or sibilance that occurs near the record's center due to the stylus tracing a tighter groove radius at lower linear speed.",
+  "definition": "**noun / technical.** Audible high-frequency harshness or sibilance that occurs near the record's center due to the stylus tracing a tighter groove radius at lower linear speed. As the stylus approaches the label, the decreasing circumference forces it to navigate increasingly tight curves while maintaining the same rotational speed, reducing linear velocity from roughly 500mm/sec at the outer edge to 200mm/sec near the runout. This geometric challenge causes the stylus to trace higher-frequency waveforms at sharper angles, producing audible distortion particularly on sibilant vocals and cymbal crashes. The phenomenon became more pronounced during the 1970s as labels maximized playing time by cutting longer sides with tighter groove spacing. Advanced stylus profiles—elliptical, Shibata, and microline—mitigate the effect by maintaining better contact with groove walls at extreme radii. Proper cartridge alignment using Baerwald, Löfgren, or Stevenson geometries balances tracking error across the record surface. Audiophile pressings often limit runtime to 18-20 minutes per side to keep musical content in the outer grooves where distortion remains minimal. Mastering engineers may apply pre-emphasis or dynamic range compression to problematic passages destined for inner grooves, though purists consider this compromise undesirable.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "end-of-side distortion",
+    "IGD",
+    "inner-groove wear"
+  ],
+  "alt_spellings": [
+    "inner groove distortion",
+    "innergroove distortion"
+  ],
+  "etymology": "Term emerged in audio engineering literature during the 1950s as high-fidelity playback revealed geometric limitations inherent to the Emile Berliner disc format, combining descriptive location ('inner groove') with acoustic result ('distortion').",
+  "first_use": 1952,
   "see_also": [
     "tracking-angle",
     "elliptical-stylus",
-    "baerwald-alignment"
+    "baerwald-alignment",
+    "cartridge",
+    "shibata-stylus"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

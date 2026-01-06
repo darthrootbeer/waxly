@@ -1,20 +1,35 @@
 {
   "slug": "loudness-war-cut",
   "term": "Loudness War Cut",
-  "summary": "'**noun / slang.** A modern reissue or club 12-inch mastered at the highest.",
-  "definition": "**noun / slang.** A modern reissue or club 12-inch mastered at the highest possible groove amplitude to compete in perceived loudness, sometimes at the expense of dynamic range or tracking.",
+  "pos": "noun",
+  "pronunciation": "/ˈlaʊdnəs wɔːr kʌt/",
+  "summary": "**noun / slang.** A modern reissue or club 12-inch mastered at the highest possible groove amplitude to compete in perceived loudness.",
+  "definition": "**noun / slang.** A modern reissue or club 12-inch mastered at the highest possible groove amplitude to compete in perceived loudness, sometimes at the expense of dynamic range or tracking ability. Emerging in the late 1990s as digital mastering tools allowed engineers to push cutting levels beyond traditional analog limits, these pressings mirror the CD-era loudness war by maximizing groove modulation to stand out in record bins or club sound systems. While hot cuts have always existed for dance music impact, loudness war cuts take the practice to extremes, often compressing dynamics heavily before lacquer cutting. The result: records that appear visually impressive with wide, deep grooves but may exhibit distortion on aggressive passages, inner-groove compromises, or tracking difficulties on lighter tonearms. Audiophile collectors typically avoid these pressings, favoring earlier masters with preserved dynamic range, though DJs sometimes prize them for raw club power and needle-holding groove depth.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "hot reissue",
+    "brick-walled cut",
+    "compressed pressing"
+  ],
+  "alt_spellings": [
+    "Loudness-War Cut",
+    "loudness war cutting"
+  ],
+  "etymology": "Coined in online vinyl communities circa 2005-2010, adapting the digital audio term 'loudness war' to describe analogous practices in vinyl mastering and reissue campaigns.",
+  "first_use": 2005,
   "see_also": [
     "hot-cut",
-    "flash-cut",
-    "groove-spacing"
+    "groove-spacing",
+    "dynamic-range",
+    "all-analog-mastering"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

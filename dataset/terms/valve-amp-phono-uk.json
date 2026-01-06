@@ -1,20 +1,36 @@
 {
   "slug": "valve-amp-phono-uk",
   "term": "Valve Amp / Valve Phono",
-  "summary": "'**noun / British hi-fi term.** The **UK equivalent of ‘tube amp’ or ‘tube.",
-  "definition": "**noun / British hi-fi term.** The **UK equivalent of ‘tube amp’ or ‘tube phono stage’** — uses vacuum tubes (“valves”).",
+  "pos": "noun",
+  "pronunciation": "/vælv æmp/ /vælv ˈfəʊnəʊ/",
+  "summary": "'**noun / British hi-fi term.** The **UK equivalent of 'tube amp' or 'tube.",
+  "definition": "**noun / British hi-fi term.** The **UK equivalent of 'tube amp' or 'tube phono stage'** — amplification equipment using vacuum tubes (called \"valves\" in British English) rather than solid-state transistors. Valve amps became the standard for hi-fi systems from the 1940s through mid-1960s, prized for their warm, harmonically rich sound characteristics. In vinyl playback, valve phono stages provide RIAA equalization while imparting the distinctive sonic signature that many audiophiles prefer: smooth midrange, natural harmonic distortion, and forgiving high frequencies. The terminology split reflects post-WWII divergence in technical vocabulary, with \"valve\" remaining standard in UK, Europe, and Commonwealth countries while \"tube\" dominated American usage. British manufacturers like Leak, Quad, and Radford became legendary for valve designs. Though largely supplanted by transistor technology in the 1970s, valve equipment experienced a major revival from the 1990s onward, driven by audiophiles seeking vintage warmth and vinyl's resurgence. Modern valve phono stages range from affordable Chinese-made units (£200-500) to high-end British and European designs (£2,000-15,000+), often combining vintage NOS (new old stock) valves with contemporary circuit design. Maintenance requires periodic valve replacement and biasing adjustments.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "tube amp",
+    "tube phono stage",
+    "valve amplifier",
+    "valve phono preamplifier"
+  ],
+  "alt_spellings": [
+    "valve-amp",
+    "valve phono-stage"
+  ],
+  "etymology": "From \"thermionic valve,\" the British term for vacuum tubes, adopted in early 20th century radio engineering. American \"tube\" vs British \"valve\" split emerged in 1920s-30s technical literature.",
+  "first_use": 1925,
   "see_also": [
     "vacuum-tube",
     "set-amp",
     "classic-hi-fi"
   ],
   "regions": [
-    "US"
+    "UK",
+    "EU",
+    "AU",
+    "NZ"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

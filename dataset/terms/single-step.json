@@ -1,20 +1,36 @@
 {
   "slug": "single-step",
   "term": "Single-Step Plating",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪŋɡəl stɛp ˈpleɪtɪŋ/",
   "summary": "noun / manufacturing method. A plating process that skips the usual father–mother–stamper.",
-  "definition": "**noun / manufacturing method.** A **plating process that skips the usual father–mother–stamper chain**, creating stampers straight from the lacquer or copper DMM — limits copies but yields very close-to-master sound.",
+  "definition": "**noun / manufacturing method.** A **plating process that skips the usual father–mother–stamper chain**, creating stampers straight from the lacquer or copper DMM master — limits the number of viable copies but yields sound quality remarkably close to the original master. Traditional three-step plating creates a father (negative), mother (positive), and multiple stampers (negative) for mass production, with each generation introducing microscopic degradation. Single-step eliminates these intermediary stages, producing stampers directly from the master, preserving more detail and dynamics. The trade-off is durability: single-step stampers wear faster, typically yielding 500-1,000 pressings versus 1,500-3,000 from conventional stampers. Audiophile labels like Mobile Fidelity (Original Master Recordings) and Music Matters Jazz pioneered single-step for premium reissues in the 2000s-2010s, marketing the process as \"one-step\" or \"ultradisc one-step\" to emphasize sonic superiority. Collectors pay premium prices ($100-$150) for these limited editions, valuing the demonstrably quieter surfaces and enhanced transparency that come from fewer plating generations.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "one-step plating",
+    "direct metal plating"
+  ],
+  "alt_spellings": [
+    "single step plating",
+    "singlestep plating"
+  ],
+  "etymology": "Derived from electroplating terminology, describing the reduction from the standard three-step galvanic process to a single plating generation, emerging as audiophile marketing terminology in the early 2000s.",
+  "first_use": 2005,
   "see_also": [
     "one-step-pressing",
     "dmm-cut",
-    "stamper-wear"
+    "stamper-wear",
+    "father-mother-stamper",
+    "lacquer-master"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

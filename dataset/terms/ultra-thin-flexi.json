@@ -1,22 +1,39 @@
 {
   "slug": "ultra-thin-flexi",
   "term": "Ultra-Thin Flexi-Disc",
+  "pos": "noun",
+  "pronunciation": "/ˈʌltrə θɪn ˈflɛksi dɪsk/",
   "summary": "'**noun / novelty format.** A **paper-thin, flexible vinyl (or PVC) disc**.",
-  "definition": "**noun / novelty format.** A **paper-thin, flexible vinyl (or PVC) disc** often included in magazines, mail-order promotions, or cereal boxes — playable on a regular turntable but fragile.",
+  "definition": "**noun / novelty format.** A **paper-thin, flexible vinyl (or PVC) disc** often included in magazines, mail-order promotions, or cereal boxes — playable on a regular turntable but fragile. Introduced commercially in the late 1950s, flexi-discs were manufactured by pressing phonograph grooves into ultra-thin plastic sheets, typically ranging from 5 to 9 mils thick (compared to 120+ mils for standard vinyl). The format peaked during the 1960s-80s when publishers like National Geographic and music magazines bundled them as promotional giveaways, offering everything from spoken-word content to exclusive music tracks. Playback quality was noticeably inferior to standard vinyl — surface noise, limited bass response, and warping issues were common — but the low production cost made them ideal for mass distribution. The discs required careful handling and often came mounted on postcards or cardboard backing for stability. While flexi-discs largely disappeared by the 1990s, they've experienced a minor revival among indie labels and zine publishers seeking nostalgic novelty formats. Collectors prize vintage examples, particularly rare music flexis from cereal boxes or obscure magazine issues, though playback degrades rapidly with repeated use.",
   "tags": [
     "equipment",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "flexi-disc",
+    "floppy record",
+    "soundsheet",
+    "phonosheet"
+  ],
+  "alt_spellings": [
+    "flexi disc",
+    "flexidisc",
+    "flexi disk"
+  ],
+  "etymology": "Coined from 'flexible' and 'disc' to describe the pliable nature of the thin plastic format, distinguishing it from rigid shellac and vinyl records.",
+  "first_use": 1958,
   "see_also": [
     "soundsheet",
     "cardboard-record",
     "magazine-insert"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

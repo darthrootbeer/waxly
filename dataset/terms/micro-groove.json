@@ -1,21 +1,39 @@
 {
   "slug": "micro-groove",
-  "term": "Micro",
+  "term": "Micro-groove",
+  "pos": "noun",
+  "pronunciation": "/ˈmaɪ.kroʊ.ɡruːv/",
   "summary": "'**noun / technical / historical.** The finer, narrower groove standard introduced.",
-  "definition": "**noun / technical / historical.** The finer, narrower [groove](../g/groove-wear.md) standard introduced by Columbia in 1948 for LPs and 45s, allowing 20-plus minutes per side at 33⅓ RPM.",
+  "definition": "**noun / technical / historical.** The finer, narrower [groove](../g/groove-wear.md) standard introduced by Columbia Records in 1948 for long-playing records, replacing the wider grooves of 78 RPM shellac discs. Micro-groove technology reduced groove width from approximately 3 mils (thousandths of an inch) to roughly 1 mil, enabling dramatically increased playing time—over 20 minutes per side at 33⅓ RPM for LPs and 5-7 minutes at 45 RPM for singles. This innovation required corresponding advances in stylus design, with lightweight pickups using diamond or sapphire tips replacing the heavy steel needles of the 78 era. The narrower grooves allowed for closer spacing on the disc surface while maintaining adequate groove walls to prevent distortion and skipping. RCA Victor adopted the technology for their 45 RPM format launched in 1949, cementing micro-groove as the industry standard. The term distinguished modern vinyl pressings from obsolete coarse-groove 78s throughout the 1950s-60s transition period. While rarely used in contemporary contexts—since virtually all vinyl since 1950 employs micro-groove technology—the term remains significant in record collecting circles when discussing format compatibility and vintage playback equipment specifications.",
   "tags": [
     "technical",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "microgroove",
+    "fine groove",
+    "LP groove"
+  ],
+  "alt_spellings": [
+    "micro groove",
+    "microgroove"
+  ],
+  "etymology": "Coined by Columbia Records in 1948 from Greek 'mikros' (small) + 'groove,' emphasizing the reduced groove width that enabled the long-playing record format.",
+  "first_use": 1948,
   "see_also": [
-    "macro-groove",
+    "coarse-groove",
     "stylus-size",
-    "lp"
+    "lp",
+    "33-rpm",
+    "45-rpm"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

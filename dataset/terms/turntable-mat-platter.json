@@ -1,22 +1,38 @@
 {
   "slug": "turntable-mat-platter",
   "term": "Turntable Mat",
-  "summary": "'**noun / deck interface.** The **disc-shaped layer placed between the platter.",
-  "definition": "**noun / deck interface.** The **disc-shaped layer placed between the platter and the record** — can be rubber, felt, cork, leather, graphite, etc., affecting damping and grip.",
+  "pos": "noun",
+  "pronunciation": "/ˈtɜːrnteɪbəl mæt/",
+  "summary": "**noun / deck interface.** The **disc-shaped layer placed between the platter and the record** — can be rubber, felt, cork, leather, graphite, etc., affecting damping and grip.",
+  "definition": "**noun / deck interface.** The **disc-shaped layer placed between the platter and the record** — can be rubber, felt, cork, leather, graphite, acrylic, or composite materials, affecting damping, grip, and sonic characteristics. Early turntables from the 1950s-60s typically featured thin rubber mats for basic vibration isolation, while audiophile culture from the 1970s onward drove experimentation with cork, felt, and exotic materials claiming superior resonance control. Material choice significantly impacts sound: rubber provides damping but can deaden highs, felt offers neutral coupling, cork adds warmth, and leather or graphite promise improved detail retrieval. DJ culture spawned the specialized **slipmat** in the late 1970s—thin felt designed for minimal friction during scratching and backspinning. High-end turntables sometimes eschew mats entirely, placing records directly on machined metal platters with optional clamps or weights. The audiophile mat market exploded in the 1980s-90s with boutique offerings at $50-$500+, though sonic improvements remain debated. Modern direct-drive decks for DJs universally use slipmats, while belt-drive hi-fi setups vary wildly in mat philosophy, from purist no-mat approaches to elaborate multi-layer composite designs claiming measurable resonance suppression.",
   "tags": [
     "equipment",
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "platter mat",
+    "record mat",
+    "deck mat"
+  ],
+  "alt_spellings": [
+    "turntable-mat",
+    "turn-table mat"
+  ],
+  "etymology": "Compound term combining 'turntable' (phonograph rotating mechanism, 1900s) and 'mat' (protective layer). Became standardized terminology with component hi-fi systems in the 1960s as audiophiles began isolating and upgrading individual turntable elements.",
+  "first_use": 1965,
   "see_also": [
     "slip-mat",
     "clamp-and-mat-tuning",
     "record-weight-coupling"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

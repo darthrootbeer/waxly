@@ -1,20 +1,37 @@
 {
   "slug": "track-listing",
   "term": "Track-Listing Sticker",
-  "summary": "'**noun / packaging ephemera.** A **front-cover sticker listing hit singles.",
-  "definition": "**noun / packaging ephemera.** A **front-cover sticker listing hit singles or standout tracks** to grab buyers’ attention in stores.",
+  "pos": "noun",
+  "pronunciation": "/træk ˈlɪstɪŋ ˈstɪkər/",
+  "summary": "**noun / packaging ephemera.** A **front-cover sticker listing hit singles or standout tracks** to grab buyers' attention in stores.",
+  "definition": "**noun / packaging ephemera.** A **front-cover sticker listing hit singles or standout tracks** to grab buyers' attention in stores. Emerged in the 1970s as record labels sought cost-effective ways to highlight commercial appeal without reprinting album covers. These adhesive labels typically featured text like \"Includes the hits...\" followed by two to four song titles, often the singles released to radio. Unlike hype stickers promoting awards or reviews, track-listing stickers served a purely informational function—helping casual buyers identify albums containing songs they'd heard on the radio or MTV. Placement varied but commonly appeared in the upper-right corner or across the shrink wrap. The practice peaked during the 1980s-90s when hit-driven marketing dominated retail strategy, particularly for compilation albums and greatest hits packages. Modern pressings occasionally replicate vintage track-listing stickers as nostalgic design elements, though their original retail function has been rendered obsolete by digital previews. Collectors debate whether to remove these stickers: pristine removal increases cover grade, but intact period stickers provide historical authenticity. Residue and paper tears remain common condition issues for albums sold during the sticker's commercial heyday.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "track sticker",
+    "hit sticker",
+    "song listing sticker"
+  ],
+  "alt_spelings": [
+    "tracklisting sticker",
+    "track-list sticker"
+  ],
+  "etymology": "Derived from retail marketing practices of the 1970s when labels began applying promotional stickers directly to shrink wrap rather than investing in revised cover printing.",
+  "first_use": 1973,
   "see_also": [
     "hype-sticker",
     "timing-strip",
-    "shrink-wrap"
+    "shrink-wrap",
+    "promo-copy"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

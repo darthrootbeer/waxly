@@ -1,20 +1,35 @@
 {
   "slug": "wide-groove-78-rpm",
   "term": "Wide-Groove",
+  "pos": "noun",
+  "pronunciation": "/waɪd ɡruːv/",
   "summary": "A **heavy puck or clamp placed on the record spindle to improve contact with.",
-  "definition": "A **heavy puck or clamp placed on the record spindle to improve contact with the platter**, helping tame warps and resonance.",
+  "definition": "The groove specification used on **78 RPM shellac records, measuring approximately 0.003 inches (3 mils) in width**, requiring specialized styli and playback equipment. Wide-groove records dominated the recording industry from the 1890s through the late 1940s, with groove spacing of 85-100 grooves per inch compared to the 200-300 grooves per inch found on later microgroove formats. The wider groove accommodated the heavier tracking forces (up to 3-4 ounces) necessary for acoustic and early electric playback systems, while the shellac material's brittle nature demanded robust physical contact. Playing wide-groove records with modern microgroove styli (0.7 mil) causes the stylus to ride on the groove bottom rather than the walls, producing distorted sound and potential record damage. Collectors and archivists use period-correct equipment or modern turntables with swappable headshells to properly reproduce these historical recordings, preserving the sonic character of early jazz, blues, and classical performances that exist only in this format.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "coarse groove",
+    "standard groove",
+    "78 groove"
+  ],
+  "alt_spellings": [
+    "wide groove",
+    "widegrove"
+  ],
+  "etymology": "Term emerged in the early 1950s to distinguish traditional 78 RPM groove dimensions from the newly introduced \"microgroove\" technology used on 33⅓ and 45 RPM vinyl records.",
+  "first_use": 1948,
   "see_also": [
     "micro-groove-lp",
     "shellac-disc",
     "3-mil-stylus-tip"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,36 @@
 {
   "slug": "in-store-play",
   "term": "In-Store Play Copy",
+  "pos": "noun",
+  "pronunciation": "/ɪn stɔːr pleɪ ˈkɒpi/",
   "summary": "'**noun / slang.** A record kept by a shop specifically for demonstration.",
-  "definition": "**noun / slang.** A record kept by a shop specifically for demonstration on the store turntable so customers could sample albums before buying.",
+  "definition": "**noun / slang.** A record kept by a shop specifically for demonstration on the store turntable so customers could sample albums before buying. These copies emerged during the 1960s and 1970s when independent record stores commonly maintained listening stations where customers could audition albums before purchase. Unlike promo copies sent to radio stations or reviewers, in-store play copies were working inventory items that absorbed heavy rotation, often playing dozens of times daily. Stores typically pulled regular stock copies for this purpose, though some labels provided dedicated demo copies marked \"For In-Store Play Only\" or similar stamps. The practice declined with the rise of CD listening stations in the 1980s and became nearly extinct by the 1990s as retail consolidation and shrinking profit margins eliminated personalized service. In-store play copies that survive today typically show significant wear—surface noise, groove wear, and damaged sleeves—making them less desirable to collectors unless they represent rare pressings or feature unique markings. Some shops maintained multiple play copies, rotating them to extend usability, while others simply played stock until unsellable and wrote off the loss.",
   "tags": [
     "equipment",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "demo copy",
+    "listening station copy",
+    "store play copy",
+    "floor copy"
+  ],
+  "alt_spellings": [
+    "in store play copy",
+    "instore play"
+  ],
+  "etymology": "Coined from retail practice of maintaining demonstration records for in-store playback systems; term became standardized in collector circles during the 1980s to distinguish heavily-played retail copies from pristine stock.",
+  "first_use": 1965,
   "see_also": [
     "promo-copy",
     "cut-out",
     "demo"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

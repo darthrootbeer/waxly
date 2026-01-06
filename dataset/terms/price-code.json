@@ -1,20 +1,35 @@
 {
   "slug": "price-code",
   "term": "Price-Code Sticker",
+  "pos": "noun",
+  "pronunciation": "/praɪs koʊd ˈstɪkər/",
   "summary": "'**noun / retail ephemera.** A small printed sticker or box on the jacket.",
-  "definition": "**noun / retail ephemera.** A small printed sticker or box on the jacket showing the label’s internal price code — used by shops for inventory tiers.",
+  "definition": "**noun / retail ephemera.** A small printed sticker or box on the jacket showing the label's internal price code — used by shops for inventory tiers. Typically appearing as alphanumeric codes (like \"AD\" for Columbia's $6.98 tier or \"AE\" for $7.98), these codes allowed retailers to quickly identify wholesale pricing categories without revealing actual prices to customers. Introduced widely in the 1970s as record labels expanded catalog depth and pricing structures, price codes became standardized across major labels, with each developing proprietary systems. The codes usually appeared on the spine, back cover corner, or as part of the barcode box on later pressings. For collectors, price codes serve as valuable dating tools — Columbia's \"PC\" prefix indicates 1977-1979, while \"FC\" marks 1979-1982 pressings. Cut-out bins often targeted specific price codes for deletion. Original price-code stickers, especially on sealed copies, help verify first pressings and market positioning, though their presence or absence rarely affects value significantly compared to matrix variants or label differences.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "price code",
+    "pricing code",
+    "inventory code"
+  ],
+  "alt_spellings": [
+    "price code sticker",
+    "pricecode sticker"
+  ],
+  "etymology": "Emerged from retail inventory management practices as record labels diversified pricing tiers in the early 1970s, replacing simpler single-price models of the mono/stereo era.",
+  "first_use": 1971,
   "see_also": [
     "hype-sticker",
     "label-variant",
-    "catalog-number"
+    "catalog-number",
+    "cut-out",
+    "barcode"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

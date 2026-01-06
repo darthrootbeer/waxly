@@ -1,22 +1,37 @@
 {
   "slug": "turntablist",
   "term": "Turntablist",
+  "pos": "noun",
+  "pronunciation": "/ˈtɜːrnˌteɪbəlɪst/",
   "summary": "'**noun / DJ culture term.** A **DJ who treats the turntable as a musical.",
-  "definition": "**noun / DJ culture term.** A **DJ who treats the turntable as a musical instrument**, manipulating records with scratching, [beat](../b/beat-matching.md)-juggling, body-tricks, etc.",
+  "definition": "**noun / DJ culture term.** A **DJ who treats the turntable as a musical instrument**, manipulating records with scratching, beat-juggling, body-tricks, and other advanced techniques. Emerged in the late 1980s and early 1990s as hip-hop DJs like DJ Qbert, Mix Master Mike, and the Invisibl Skratch Piklz elevated turntable manipulation beyond simple mixing into a virtuosic performance art. Turntablists employ specialized equipment including direct-drive decks (typically Technics SL-1200s), battle mixers with crossfader curve controls, and carefully selected scratch records. The discipline encompasses multiple techniques: cutting, transforming, flaring, crabbing, and chirping, executed with precision timing across two or more turntables. The DMC World DJ Championships (established 1985) and ITF competitions formalized turntablism as a competitive discipline with judging criteria for technical skill, musicality, and originality. While traditional club DJs focus on song selection and crowd engagement, turntablists prioritize technical execution and live manipulation. The term distinguishes these instrumental practitioners from conventional radio or club DJs, though many artists blur these boundaries. Modern turntablism has influenced electronic music production, with digital vinyl systems like Serato and Traktor incorporating traditional scratch techniques into controller-based setups.",
   "tags": [
     "equipment",
     "dj-related",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "scratch DJ",
+    "battle DJ",
+    "instrumental DJ"
+  ],
+  "alt_spellings": [
+    "turntablist",
+    "turn-tablist"
+  ],
+  "etymology": "Coined by DJ Babu of the Beat Junkies in 1995 to distinguish artistic turntable manipulation from conventional DJing, combining 'turntable' with the suffix '-ist' to denote a practitioner of the craft.",
+  "first_use": 1995,
   "see_also": [
     "scratch-dj",
     "beat-juggle",
     "dmc-battle"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

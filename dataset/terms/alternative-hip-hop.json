@@ -1,15 +1,32 @@
 {
   "slug": "alternative-hip-hop",
   "term": "Alternative Hip Hop",
+  "pos": "noun",
+  "pronunciation": "/ɔːlˈtɜːrnətɪv hɪp hɒp/",
   "summary": "'**Alternative Hip Hop** - A musical style within the Hip Hop genre, classified.",
-  "definition": "A specific musical style within the broader hip-hop genre classification.",
+  "definition": "A subgenre of hip-hop that emerged in the late 1980s, characterized by its departure from mainstream gangsta rap and commercial production conventions. Artists in this category typically incorporate diverse musical influences including jazz, funk, rock, and electronic music, while exploring unconventional lyrical themes beyond street narratives. The movement gained momentum through groups like De La Soul, A Tribe Called Quest, and The Pharcyde, who prioritized artistic experimentation over commercial formulas. Alternative hip-hop releases often feature eclectic sampling choices, live instrumentation, and introspective or socially conscious lyrics. The genre experienced a commercial breakthrough in the 1990s through labels like Rawkus Records and later expanded to include artists such as MF DOOM, Madlib, and Flying Lotus. Vinyl pressings of alternative hip-hop albums are highly sought by collectors, particularly first pressings from independent labels and limited-run releases featuring unique artwork and bonus tracks that reflect the genre's emphasis on artistic presentation.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "alt-hip-hop",
+    "underground hip-hop",
+    "conscious hip-hop",
+    "experimental hip-hop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Alternative Hip-Hop",
+    "Alternative HipHop"
+  ],
+  "etymology": "Coined in the late 1980s by music journalists to distinguish experimental and jazz-influenced hip-hop artists from the emerging gangsta rap mainstream. The term gained widespread use following the commercial success of De La Soul's '3 Feet High and Rising' in 1989.",
+  "first_use": 1988,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,36 @@
 {
   "slug": "parallel-tracking-arm",
   "term": "Parallel",
-  "summary": "'**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**,.",
-  "definition": "**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**, designed to move straight across the record’s radius to reduce tracking-angle error.",
+  "pos": "noun",
+  "pronunciation": "/ˈpærəlɛl/",
+  "summary": "**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**,.",
+  "definition": "**noun / technical / hi-fi.** Another term for a **linear-tracking tonearm**, designed to move straight across the record's radius to reduce tracking-angle error. Unlike conventional pivoting tonearms that arc across the record surface, parallel tracking arms maintain a consistent 90-degree tangency to the groove throughout playback, mimicking the geometry of the cutting lathe that originally inscribed the master disc. This approach eliminates tracking-angle error and inner-groove distortion, theoretically delivering superior sonic accuracy. First popularized in high-end turntables during the late 1970s and early 1980s—notably in models from Bang & Olufsen, Revox, and Technics—parallel tracking systems employed various mechanisms including servo motors, air bearings, and electromagnetic drives to achieve lateral movement. While praised for their technical precision, these arms proved mechanically complex, expensive to manufacture, and prone to maintenance issues. The term \"parallel\" emphasizes the arm's constant parallel relationship to the record's radius, distinguishing it from radial-tracking designs. Though largely abandoned in mainstream turntable production by the 1990s due to cost and reliability concerns, parallel tracking arms remain sought after by audiophiles and collectors who prize their theoretical advantages and represent a fascinating chapter in turntable evolution.",
   "tags": [
     "equipment",
     "technical",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "linear-tracking tonearm",
+    "tangential tonearm",
+    "radial-tracking arm"
+  ],
+  "alt_spellings": [
+    "parallel-tracking",
+    "parallel tracking"
+  ],
+  "etymology": "From the Latin \"parallelus,\" describing the arm's geometrically parallel motion relative to the record's radius, contrasting with conventional pivoting designs. Term gained currency in hi-fi literature during the 1970s turntable innovation era.",
+  "first_use": 1978,
   "see_also": [
     "linear-tracking-turntable",
     "tangential-arm"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

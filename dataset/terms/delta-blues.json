@@ -1,15 +1,29 @@
 {
   "slug": "delta-blues",
   "term": "Delta Blues",
+  "pos": "noun",
+  "pronunciation": "/ˈdɛltə bluːz/",
   "summary": "'**Delta Blues** - A musical style within the Blues genre, classified according.",
-  "definition": "A specific musical style within the broader blues genre classification.",
+  "definition": "A raw, emotionally intense style of blues music that originated in the Mississippi Delta region during the early 20th century, characterized by slide guitar techniques, field hollers, and deeply personal vocal delivery. Pioneered by legendary artists like Robert Johnson, Son House, and Charley Patton between the 1920s and 1940s, Delta Blues established the foundational language of modern blues with its distinctive use of open tunings, bottleneck slides, and call-and-response patterns rooted in African American work songs. The style typically featured solo acoustic guitar accompaniment, though some artists incorporated harmonica or small ensembles. Original 78 RPM recordings from labels like Paramount, Vocalion, and Okeh are among the most sought-after artifacts in record collecting, with pristine copies commanding thousands of dollars. The genre experienced major revival during the 1960s folk and blues renaissance, influencing rock pioneers like The Rolling Stones and Led Zeppelin, and continues to be reissued on vinyl by labels specializing in archival blues releases.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Mississippi Delta Blues",
+    "Deep Delta Blues"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Delta blues",
+    "delta-blues"
+  ],
+  "etymology": "Named after the Mississippi Delta region (the alluvial plain between the Mississippi and Yazoo rivers), where the style developed among African American communities in the early 1900s. The term gained widespread use in the 1960s as musicologists began categorizing regional blues styles.",
+  "first_use": 1960,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

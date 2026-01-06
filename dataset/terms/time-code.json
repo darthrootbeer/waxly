@@ -1,20 +1,39 @@
 {
   "slug": "time-code",
   "term": "Time-Code Vinyl",
+  "pos": "noun",
+  "pronunciation": "/taɪm koʊd ˈvaɪnəl/",
   "summary": "noun / digital-DJ medium. A special vinyl disc that carries a continuous.",
-  "definition": "**noun / digital-DJ medium.** A **special vinyl disc that carries a continuous control-tone signal** read by a digital-vinyl-system (DVS) interface to manipulate digital audio files as if they were on real vinyl.",
+  "definition": "**noun / digital-DJ medium.** A **special vinyl disc that carries a continuous control-tone signal** read by a digital-vinyl-system (DVS) interface to manipulate digital audio files as if they were on real vinyl. Introduced in the early 2000s with systems like Final Scratch (2001) and Serato Scratch Live (2004), time-code vinyl revolutionized DJ culture by bridging analog turntablism with digital music libraries. The grooves contain no music—only encoded sine-wave patterns (typically 1kHz tones) that track platter position, speed, and direction with extreme precision. This allows DJs to scratch, backspin, and beatmatch MP3s or WAV files using traditional turntables and mixer setups. Available in 12-inch and 7-inch formats, time-code records feature distinctive visual patterns (Serato's iconic \"control tone\" design, Traktor's concentric circles) that aid needle-drop cueing. While purists initially dismissed the technology as inauthentic, time-code vinyl became standard equipment in professional DJ booths worldwide, preserving turntable skills while embracing digital convenience. Modern DVS systems support high-resolution audio and offer latency under 2 milliseconds, making the tactile experience nearly indistinguishable from manipulating pressed records.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "control vinyl",
+    "DVS vinyl",
+    "Serato vinyl",
+    "Traktor vinyl"
+  ],
+  "alt_spellings": [
+    "timecode vinyl",
+    "time code vinyl"
+  ],
+  "etymology": "Coined from \"time code\" (temporal synchronization data) + \"vinyl,\" reflecting the disc's function as a position-tracking medium rather than audio carrier. Emerged from late-1990s experiments in digitizing DJ workflows.",
+  "first_use": 2001,
   "see_also": [
     "control-tone-disc",
     "dvs-interface",
-    "slip-mat"
+    "slip-mat",
+    "scratch-dj",
+    "direct-drive"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

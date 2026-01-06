@@ -1,21 +1,37 @@
 {
   "slug": "tracking-force",
   "term": "Tracking Force",
+  "pos": "noun",
+  "pronunciation": "/ˈtrækɪŋ fɔrs/",
   "summary": "'**noun / cartridge-setup spec.** The **downward pressure in grams applied.",
-  "definition": "**noun / [cartridge](../c/cartridge.md)-setup spec.** The **downward pressure in grams applied by the tone-arm to keep the stylus seated in the groove** — specified by cartridge maker.",
+  "definition": "**noun / [cartridge](../c/cartridge.md)-setup spec.** The **downward pressure in grams applied by the tone-arm to keep the stylus seated in the groove** — specified by cartridge maker. Typically ranging from 1.0 to 3.0 grams for modern cartridges, tracking force represents the critical balance between maintaining groove contact and minimizing record wear. Too light and the stylus skips or mistreads groove information, producing distortion and sibilance; too heavy and accelerated groove wear occurs, particularly on inner grooves where tracking demands increase. High-end moving coil cartridges often track at lighter forces (1.5-2.0g) while DJ cartridges designed for scratching may require 3-5 grams for stability. The optimal tracking force sits within the manufacturer's specified range, typically a 0.5-gram window, and should be measured with a stylus force gauge rather than relying on tonearm counterweight markings. Proper tracking force works in concert with anti-skate settings and cartridge compliance matching to ensure accurate reproduction and longevity. The audiophile community debates optimal force within spec ranges — some favor the lighter end for reduced wear, others prefer slightly heavier tracking for improved bass response and dynamic tracking ability on heavily modulated passages.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "stylus pressure",
+    "vertical tracking force",
+    "VTF",
+    "needle pressure"
+  ],
+  "alt_spelings": [
+    "tracking-force"
+  ],
+  "etymology": "Term emerged in the 1950s with the development of the LP and lighter-tracking microgroove cartridges, replacing earlier \"needle pressure\" terminology from 78rpm era shellac playback.",
+  "first_use": 1952,
   "see_also": [
     "stylus-scale",
     "anti-skate-calibration",
     "cartridge-compliance"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

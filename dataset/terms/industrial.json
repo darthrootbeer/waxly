@@ -1,15 +1,25 @@
 {
   "slug": "industrial",
   "term": "Industrial",
+  "pos": "noun",
+  "pronunciation": "/ɪnˈdʌstriəl/",
   "summary": "'**Industrial** - A musical style within the Electronic genre, classified.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A confrontational and experimental musical style that emerged in the mid-1970s, characterized by transgressive themes, abrasive mechanical sounds, and the incorporation of found sounds, noise, and unconventional production techniques. Pioneered by British groups Throbbing Gristle and Cabaret Voltaire, industrial music drew inspiration from early electronic experimentation, musique concrète, and the provocative aesthetics of performance art. The genre evolved through the 1980s with the rise of industrial rock (Ministry, Nine Inch Nails) and electronic body music (Front 242, Nitzer Ebb), influencing everything from techno to metal. On vinyl, industrial releases often featured stark, provocative artwork and unconventional packaging that reflected the genre's anti-establishment ethos. Original pressings from seminal labels like Industrial Records, Wax Trax!, and Mute Records are highly sought by collectors, particularly limited editions with inserts and alternative mixes that never appeared on CD.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "industrial music"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Named after Industrial Records, the label founded by Throbbing Gristle in 1976, itself referencing the dehumanizing aspects of industrial society and factory production.",
+  "first_use": 1976,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

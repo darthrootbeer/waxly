@@ -1,15 +1,30 @@
 {
   "slug": "musical-theater",
   "term": "Musical Theater",
+  "pos": "noun",
+  "pronunciation": "/ˈmjuːzɪkəl ˈθiːətər/",
   "summary": "'**Musical Theater** - A musical style within the Soundtrack genre, classified.",
-  "definition": "A specific musical style within the broader soundtrack genre classification.",
+  "definition": "A specific musical style within the broader soundtrack genre classification, encompassing recordings of stage productions that combine songs, spoken dialogue, acting, and dance. Musical theater vinyl captures the complete original cast recordings (OCRs) or revival productions of Broadway, West End, and regional theatrical works. These pressings gained prominence in the 1940s-1950s golden age, with landmark releases like Oklahoma!, My Fair Lady, and West Side Story becoming multi-million sellers that transcended theatrical audiences. The format typically features gatefold packaging with production photography, cast lists, and libretto excerpts. Collectors prize first pressings of classic shows, particularly mono editions from the 1950s-1960s, while modern reissues often include bonus material like alternate takes and rehearsal recordings. The genre bridges popular music and theatrical performance, preserving ephemeral stage productions in permanent audio form.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Broadway Soundtrack",
+    "Cast Recording",
+    "Show Tunes",
+    "Theatre Music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Musical Theatre"
+  ],
+  "etymology": "Derived from the American theatrical tradition combining 'musical' (pertaining to music) and 'theater' (performance venue), formalized as a recording category in the 1940s with the rise of original cast album releases on major labels like Decca and Columbia.",
+  "first_use": 1943,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

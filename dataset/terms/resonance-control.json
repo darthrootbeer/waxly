@@ -1,21 +1,37 @@
 {
   "slug": "resonance-control",
   "term": "Resonance Control Footers",
-  "summary": "'**noun / hi-fi accessory.** Special **vibration-damping feet or cones**.",
-  "definition": "**noun / hi-fi accessory.** Special **vibration-damping feet or cones** placed under turntables or amps to reduce **acoustic feedback and structural vibration**.",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛzənəns kənˈtroʊl ˈfʊtərz/",
+  "summary": "**noun / hi-fi accessory.** Special **vibration-damping feet or cones** placed under turntables or amps to reduce **acoustic feedback and structural vibration**.",
+  "definition": "**noun / hi-fi accessory.** Special **vibration-damping feet or cones** placed under turntables or amplifiers to reduce **acoustic feedback and structural vibration**. These devices work by either decoupling equipment from resonant surfaces or providing controlled energy dissipation through specialized materials. Common designs include **spiked cones** (typically machined aluminum or brass that concentrate weight onto minimal contact points), **elastomer pads** (rubber or synthetic compounds that absorb vibrations), and **mass-loading footers** (heavy metal cylinders that add inertia). Emerged in the **1970s audiophile movement** as turntable manufacturers recognized that floor-borne vibrations and speaker feedback could reach the stylus and cause audible distortion. **DJ culture** adopted isolation solutions by the 1980s for club environments where massive sound systems created extreme feedback conditions. Materials range from affordable **Sorbothane pads** ($20-50) to exotic **ceramic ball-bearing isolators** ($500+ per set). Effectiveness depends on turntable mass, floor construction, and room acoustics. **High-end models** incorporate multiple materials in sandwich construction to address different frequency ranges. Modern **direct-drive decks** benefit less than **belt-drives** due to inherent motor isolation, though footer upgrades remain popular tweaks among vinyl enthusiasts seeking incremental sonic improvements.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "isolation footers",
+    "damping feet",
+    "turntable cones",
+    "vibration isolators",
+    "footer spikes"
+  ],
+  "alt_spellings": [
+    "Resonance-Control Footers"
+  ],
+  "etymology": "Term derives from acoustic engineering concept of resonance control, applied to consumer audio equipment as audiophile market expanded in 1970s-80s seeking mechanical isolation solutions.",
+  "first_use": 1975,
   "see_also": [
     "isolation-platform",
     "plinth",
     "anti-feedback-mat"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

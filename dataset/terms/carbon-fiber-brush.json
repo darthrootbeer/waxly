@@ -1,20 +1,36 @@
 {
   "slug": "carbon-fiber-brush",
   "term": "Carbon",
+  "pos": "noun",
+  "pronunciation": "/ˈkɑːrbən ˈfaɪbər brʌʃ/",
   "summary": "A staple record-cleaning tool whose ultra-fine conductive bristles sweep.",
-  "definition": "A staple record-cleaning tool whose ultra-fine conductive bristles sweep off dust while discharging static electricity from vinyl surfaces.",
+  "definition": "A staple record-cleaning tool whose ultra-fine conductive bristles sweep off dust while discharging static electricity from vinyl surfaces. Introduced in the 1970s as an improvement over traditional horsehair brushes, carbon fiber brushes feature thousands of microscopic conductive filaments—typically one to two million per square inch—that gently reach into record grooves without causing wear. The conductive properties ground static charges to the brush handle, preventing dust from being immediately re-attracted to the record surface. Available in handheld and mounted configurations, quality examples from manufacturers like AudioQuest and Thunderon became essential pre-play ritual tools throughout the vinyl revival era. Modern designs often combine carbon fiber with velvet pads or incorporate grounding wires for enhanced static dissipation. While effective for dry cleaning between plays, carbon fiber brushes cannot remove oils, fingerprints, or deeply embedded grime, making them complementary to rather than replacements for wet-cleaning methods.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "anti-static brush",
+    "record brush",
+    "carbon brush"
+  ],
+  "alt_spellings": [
+    "carbon fibre brush",
+    "carbon-fibre brush"
+  ],
+  "etymology": "Named for its carbon fiber bristle material, developed from aerospace technology and adapted for audio applications in the early 1970s as audiophiles sought solutions to static-related surface noise.",
+  "first_use": 1972,
   "see_also": [
     "anti-static-brush",
     "wet-cleaning-solution",
     "stylus-brush"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

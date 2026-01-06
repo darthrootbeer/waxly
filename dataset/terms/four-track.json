@@ -1,22 +1,37 @@
 {
   "slug": "four-track",
   "term": "Four-Track",
+  "pos": "noun",
+  "pronunciation": "/fɔːr træk/",
   "summary": "'**noun / historical.** A reel-to-reel and cartridge tape format preceding.",
-  "definition": "**noun / historical.** A reel-to-reel and cartridge tape format preceding eight-track; sometimes offered album samplers alongside LPs in the early ’60s.",
+  "definition": "**noun / historical.** A reel-to-reel and cartridge tape format preceding eight-track; sometimes offered album samplers alongside LPs in the early '60s. Developed as a consumer stereo format in the late 1950s, four-track tape utilized two stereo programs on quarter-inch tape, with tracks running in opposite directions. The cartridge variant, introduced by Earl Muntz around 1962-63, featured continuous-loop technology that predated the more commercially successful eight-track format. Record labels occasionally released promotional four-track samplers containing excerpts from multiple albums, distributed to dealers and audiophiles as demonstration material. The format's technical limitations—including audible splicing, inferior frequency response compared to vinyl, and mechanical unreliability—prevented widespread adoption. By the mid-1960s, four-track was largely superseded by eight-track cartridges and compact cassettes. Today, four-track tapes and players are uncommon collector's items, with promotional samplers commanding particular interest among format historians. The term occasionally causes confusion with four-track recording equipment, an entirely separate multitrack technology used in music production.",
   "tags": [
     "equipment",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "4-track",
+    "Stereo-Pak",
+    "Muntz Stereo-Pak"
+  ],
+  "alt_spelings": [
+    "4-track",
+    "four track"
+  ],
+  "etymology": "Named for its four parallel magnetic tracks on quarter-inch tape, configured as two stereo programs. The cartridge version was marketed as 'Stereo-Pak' by inventor Earl 'Madman' Muntz.",
+  "first_use": 1958,
   "see_also": [
     "eight-track",
     "reel-to-reel",
-    "lp"
+    "lp",
+    "cassette"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

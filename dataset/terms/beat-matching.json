@@ -1,18 +1,36 @@
 {
   "slug": "beat-matching",
-  "term": "Beat",
-  "summary": "'**verb / noun.** The DJ technique of synchronizing the tempo and downbeat.",
-  "definition": "**verb / noun.** The DJ technique of synchronizing the tempo and downbeat of two records so they blend seamlessly during a mix.",
+  "term": "Beat Matching",
+  "pos": "noun",
+  "pronunciation": "/biːt ˈmætʃɪŋ/",
+  "summary": "**verb / noun.** The DJ technique of synchronizing the tempo and downbeat.",
+  "definition": "**verb / noun.** The DJ technique of synchronizing the tempo and downbeat of two records so they blend seamlessly during a mix. The practice emerged in the early 1970s when disco and hip-hop DJs began using turntables with pitch controls to manually align the BPM (beats per minute) of two tracks, allowing extended mixes without jarring tempo shifts. The DJ listens through headphones to cue the incoming record, adjusting the platter speed via pitch fader while simultaneously using hand pressure on the vinyl to nudge beats into alignment. Mastering beat matching requires developing an ear for tempo differences and physical coordination to maintain sync throughout the mix. The technique became foundational to club DJing, separating professional mixers from simple record players. While modern digital DJ software offers auto-sync features, vinyl purists and traditionalists still regard manual beat matching as an essential skill that demonstrates true craftsmanship. The practice directly influenced the development of specialized DJ turntables like the Technics SL-1200, which featured wider pitch ranges and high-torque direct drive motors to facilitate precise tempo manipulation.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "beatmatching",
+    "tempo matching",
+    "syncing beats"
+  ],
+  "alt_spellings": [
+    "beat-matching",
+    "beatmatching"
+  ],
+  "etymology": "Coined in early 1970s New York disco scene, combining 'beat' (rhythmic pulse) with 'matching' (synchronizing), popularized by pioneering DJs Francis Grasso and Grandmaster Flash.",
+  "first_use": 1972,
   "see_also": [
-    "pitch-control"
+    "pitch-control",
+    "slip-mat",
+    "cueing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

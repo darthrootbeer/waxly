@@ -1,20 +1,36 @@
 {
   "slug": "percussion-break",
   "term": "Percussion Break",
+  "pos": "noun",
+  "pronunciation": "/pərˈkʌʃən breɪk/",
   "summary": "'**noun / DJ / cultural.** A short drum-only section in a song that DJs isolate.",
-  "definition": "**noun / DJ / cultural.** A short drum-only section in a song that DJs isolate and loop for dancers or MCs — often hunted on funk, [soul](../s/soul.md), and disco vinyl.",
+  "definition": "**noun / DJ / cultural.** A short drum-only section in a song that DJs isolate and loop for dancers or MCs — often hunted on funk, [soul](../s/soul.md), and disco vinyl. These breaks, typically lasting 4-8 bars, became the foundation of hip-hop DJing in the 1970s when pioneers like Kool Herc discovered that dancers responded most energetically to the drum-only passages. DJs began using two copies of the same record to extend these moments indefinitely through [double-copy](../d/double-copy.md) techniques. The most coveted breaks — Apache, Funky Drummer, Amen Brother — have been sampled thousands of times and command premium prices in original pressings. Classic breaks appear on obscure library records, B-sides, and forgotten funk 45s, making crate-digging essential. The practice transformed how DJs approached records, valuing a 15-second drum passage over an entire composition. Modern [breakbeat](../b/breakbeat.md) genres from jungle to footwork trace their lineage directly to this vinyl-era innovation, though digital technology now allows instant isolation that once required two turntables and precise manual timing.",
   "tags": [
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "break",
+    "drum break",
+    "breakbeat section"
+  ],
+  "alt_spellings": [
+    "percussion-break",
+    "percussion break"
+  ],
+  "etymology": "Emerged from 1970s Bronx hip-hop culture when DJs identified instrumental 'breaks' in funk and soul records where the band would 'break down' to drums and percussion only, creating danceable passages that could be extended through looping.",
+  "first_use": 1973,
   "see_also": [
     "breakbeat",
-    "double-copy"
+    "double-copy",
+    "b-boy"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

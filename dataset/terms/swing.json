@@ -1,15 +1,26 @@
 {
   "slug": "swing",
   "term": "Swing",
+  "pos": "noun",
+  "pronunciation": "/swɪŋ/",
   "summary": "'**Swing** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A dominant jazz style that emerged in the early 1930s, characterized by a strong rhythmic drive, syncopated melodies, and arrangements typically performed by big bands of 10-20 musicians. Swing music emphasized the off-beat pulse and \"swinging\" eighth notes that gave the genre its name and danceability. The style reached its commercial and cultural peak during the Swing Era (roughly 1935-1946), when bandleaders like Benny Goodman, Duke Ellington, Count Basie, and Glenn Miller achieved mainstream popularity. Swing records from this period remain highly collectible, with original pressings on labels like Victor, Columbia, and Decca sought after for their historical significance and often superior sound quality. The genre's emphasis on ensemble arrangements and danceable rhythms distinguished it from earlier New Orleans jazz and later bebop styles, making it the first jazz form to achieve widespread commercial success and cultural dominance in American popular music.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Swing Jazz",
+    "Big Band Swing"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the rhythmic \"swing\" feel characteristic of the music, where eighth notes are played with uneven, lilting timing rather than strict equal divisions. The term gained widespread use in the early 1930s as the style crystallized.",
+  "first_use": 1932,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

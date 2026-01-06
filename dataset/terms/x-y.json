@@ -1,22 +1,37 @@
 {
   "slug": "x-y",
   "term": "X-Y Stereo Pickup Test",
+  "pos": "noun",
+  "pronunciation": "/ɛks waɪ ˈstɛrioʊ ˈpɪkʌp tɛst/",
   "summary": "'**noun / lab setup term.** A **test configuration where two cartridges are.",
-  "definition": "**noun / lab setup term.** A **test configuration where two cartridges are mounted at 90-degree (X-Y) axes** to evaluate channel separation and crosstalk — used by cartridge designers and archivists.",
+  "definition": "**noun / lab setup term.** A **test configuration where two cartridges are mounted at 90-degree (X-Y) axes** to evaluate channel separation and crosstalk — used by cartridge designers and archivists. The setup positions one cartridge to read the lateral (left-right) groove modulation while the second reads vertical (up-down) movement, allowing precise measurement of how well a stereo cartridge isolates left and right channels. Developed in the early 1960s alongside stereo record standardization, the X-Y test became essential for manufacturers like Shure and Ortofon to verify that their designs met the 20-30 dB channel separation targets required for convincing stereo imaging. Engineers use specialized test records with out-of-phase signals or single-channel tones to quantify crosstalk — the unwanted bleed of one channel into another. High crosstalk (poor separation) causes a collapsed, mono-like soundstage, while excellent separation above 25 dB preserves spatial information and instrument placement. Archivists restoring vintage recordings employ X-Y testing to select cartridges that minimize inter-channel contamination. Modern implementations often use electronic phase analysis rather than dual cartridges, but the X-Y principle remains the gold standard for evaluating stereo pickup performance in both quality control and restoration work.",
   "tags": [
     "equipment",
     "collecting",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "X-Y cartridge test",
+    "orthogonal pickup test",
+    "90-degree stereo test"
+  ],
+  "alt_spellings": [
+    "XY stereo pickup test",
+    "X/Y stereo pickup test"
+  ],
+  "etymology": "Named for the X-Y coordinate system in mathematics, referring to the perpendicular axes at which the two test cartridges are mounted, corresponding to lateral and vertical groove modulation in stereo records.",
+  "first_use": 1961,
   "see_also": [
     "crosstalk-test",
     "phase-coherence-check",
     "mono-switch-test"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

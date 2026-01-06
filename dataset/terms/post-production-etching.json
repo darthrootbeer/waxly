@@ -1,15 +1,32 @@
 {
   "slug": "post-production-etching",
   "term": "Post-Production Etching",
+  "pos": "noun",
+  "pronunciation": "/poʊst prəˈdʌkʃən ˈɛtʃɪŋ/",
   "summary": "'**noun / novelty / manufacturing.** A decorative or identification etching.",
-  "definition": "**noun / novelty / manufacturing.** A decorative or identification etching added to metal mothers or stampers after lacquer cutting — usually a logo, motto, or hidden message in the run-out.",
+  "definition": "**noun / novelty / manufacturing.** A decorative or identification etching added to metal mothers or stampers after lacquer cutting — usually a logo, motto, or hidden message in the run-out. These hand-scribed markings appear in the dead wax between the final groove and the label, created by engineers or mastering technicians using specialized engraving tools. Common examples include engineer signatures (George Peckham's \"Porky Prime Cut,\" Chris Bellman's \"CB\"), studio codes, personal messages, or inside jokes that become collector Easter eggs. The practice flourished from the 1960s through the 1980s when individual engineers had greater creative freedom. Some etchings identify specific pressing plants or matrix numbers, while others are purely artistic flourishes — The Beatles' *White Album* features numerous cryptic messages, and punk records often contain political slogans. Modern pressings occasionally revive the tradition, though digital mastering has reduced the personal touch. Collectors prize first pressings with specific engineer etchings, sometimes commanding premium prices for records bearing signatures of legendary mastering engineers whose sonic work is equally celebrated.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "runout etching",
+    "dead wax etching",
+    "matrix etching",
+    "engineer etching"
   ],
-  "pos": "noun"
+  "alt_spelings": [
+    "post production etching",
+    "postproduction etching"
+  ],
+  "etymology": "Term emerged in the 1960s as vinyl engineers began personalizing their work with hand-scribed messages in the runout groove area after the primary manufacturing process was complete.",
+  "first_use": 1965,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

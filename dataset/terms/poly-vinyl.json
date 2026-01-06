@@ -1,21 +1,39 @@
 {
   "slug": "poly-vinyl",
   "term": "Poly-Vinyl Chloride",
-  "summary": "'**noun / material.** The thermoplastic polymer used to press modern records.",
-  "definition": "**noun / material.** The thermoplastic polymer used to press modern records — standard black or color-tinted compound with plasticizers for flexibility.",
+  "pos": "noun",
+  "pronunciation": "/ˌpɒliˈvaɪnəl ˈklɔːraɪd/",
+  "summary": "**noun / material.** The thermoplastic polymer used to press modern records.",
+  "definition": "**noun / material.** The thermoplastic polymer used to press modern records — standard black or color-tinted compound with plasticizers for flexibility. Introduced to record manufacturing in the mid-1940s as a replacement for shellac, PVC revolutionized the industry with its durability, flexibility, and ability to reproduce higher frequencies with lower surface noise. The compound consists of vinyl chloride polymers mixed with stabilizers, lubricants, and plasticizers that allow the material to flow into stamper grooves under heat and pressure (typically 300-350°F). Carbon black creates the standard black appearance while blocking light that could degrade the polymer, though colored variants sacrifice this protection for aesthetic appeal. Virgin vinyl produces the quietest pressings, while recycled compounds may introduce ticks and pops from contaminants. The material's thermoplastic nature allows it to be reheated and reformed, though each heating cycle degrades audio quality. Modern audiophile pressings often specify high-grade PVC formulations with minimal additives for superior playback fidelity.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "PVC",
+    "vinyl chloride polymer",
+    "vinyl compound"
+  ],
+  "alt_spellings": [
+    "Polyvinyl Chloride",
+    "Polyvinylchloride"
+  ],
+  "etymology": "From Greek 'poly' (many) and 'vinyl' (derived from Latin 'vinum' meaning wine, referencing ethylene compounds), combined with 'chloride.' First synthesized in 1872 by German chemist Eugen Baumann, adapted for commercial record production by Columbia Records and RCA Victor in 1946-1948.",
+  "first_use": 1946,
   "see_also": [
     "vinyl-compound",
     "virgin-vinyl",
-    "low-noise-vinyl"
+    "low-noise-vinyl",
+    "shellac",
+    "180-gram"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

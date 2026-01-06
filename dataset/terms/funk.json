@@ -1,20 +1,30 @@
 {
   "slug": "funk",
   "term": "Funk",
+  "pos": "noun",
+  "pronunciation": "/fʌŋk/",
   "summary": "**Funk** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system, originating as an American musical style that emerged in the mid-1960s when African American musicians created a rhythmic, danceable new form of music through a mixture of soul, jazz, and R&B. Characterized by syncopated bass lines, strong rhythmic grooves driven by electric bass and drums, and the de-emphasis of melody in favor of percussive playing styles across all instruments. Pioneered by James Brown, Sly and the Family Stone, and George Clinton's Parliament-Funkadelic collective, funk became a foundational element in hip-hop sampling and electronic dance music. In vinyl collecting, original funk pressings from the late 1960s through 1970s golden era command premium prices, particularly rare 45s and regional releases. The genre's emphasis on groove and rhythm made it ideal for the vinyl format, where extended 12-inch versions allowed for uninterrupted dance floor momentum.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "funk music"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from African American vernacular meaning 'earthy' or 'musty,' originally jazz slang for authentic, soulful expression; appropriated as genre name in mid-1960s.",
+  "first_use": 1966,
   "see_also": [
     "p-funk",
     "funk-rock",
     "jazz-funk"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

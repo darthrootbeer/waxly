@@ -1,22 +1,37 @@
 {
   "slug": "feedthrough",
   "term": "Feedthrough",
+  "pos": "noun",
+  "pronunciation": "/ˈfiːdθruː/",
   "summary": "'**noun / technical.** A manufacturing defect where a loud signal on one.",
-  "definition": "**noun / technical.** A manufacturing defect where a loud signal on one groove wall slightly imprints as a faint echo in the adjacent groove, audible a split-second early or late.",
+  "definition": "**noun / technical.** A manufacturing defect where a loud signal on one groove wall slightly imprints as a faint echo in the adjacent groove, audible a split-second early or late. Occurs during the lacquer cutting process when excessive stylus pressure or extreme bass frequencies physically deform adjacent groove walls, creating a ghosted preview or echo of loud passages. Most common on records with closely-spaced grooves (extended playing time) or aggressive low-frequency content. Distinguished from **pre-echo** by its mechanical origin rather than magnetic print-through on tape. Became a recognized quality control issue in the 1960s as labels pushed for longer album sides, forcing tighter groove spacing that increased susceptibility. Audiophile pressings combat feedthrough through wider groove pitch, conservative cutting levels, and skilled mastering engineers who anticipate problematic passages. DJs particularly notice feedthrough during quiet intro sections where upcoming drum hits become faintly audible. Modern reissue labels address historical feedthrough by remastering from earlier tape generations or adjusting EQ curves during the cutting stage.",
   "tags": [
     "dj-related",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "groove echo",
+    "mechanical pre-echo",
+    "groove bleed"
+  ],
+  "alt_spellings": [
+    "feed-through",
+    "feed through"
+  ],
+  "etymology": "From electrical engineering term describing signal leakage between adjacent circuits; adopted by mastering engineers in the 1960s to describe physical signal transfer between adjacent grooves.",
+  "first_use": 1965,
   "see_also": [
     "pre-echo",
     "hot-cut",
-    "lacquer-cut"
+    "lacquer-cut",
+    "groove-pitch"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

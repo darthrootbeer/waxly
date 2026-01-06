@@ -1,13 +1,20 @@
 {
   "slug": "latin",
   "term": "Latin",
+  "pos": "noun",
+  "pronunciation": "/ˈlætɪn/",
   "summary": "**Latin** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize music originating from or influenced by Latin American, Caribbean, and Iberian cultures. The category emerged in record industry taxonomy during the 1950s-60s as American and European distributors sought to organize imports from Spanish and Portuguese-speaking regions. Within Discogs, Latin serves as an umbrella term encompassing numerous sub-genres including salsa, bossa nova, tango, cumbia, reggaeton, and Latin jazz. The classification reflects both geographic origins and stylistic characteristics—particularly the use of clave rhythms, Afro-Caribbean percussion, and Romance-language vocals. While the term simplifies diverse musical traditions spanning Mexico to Argentina, it remains essential for record cataloging and discovery. Collectors often specialize in specific Latin sub-genres or national styles, with particular interest in original pressings from labels like Fania, Elenco, and Discos Fuentes.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Latin Music",
+    "Latin Genre"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from 'Latin America,' itself named for Romance languages (Spanish, Portuguese) spoken in the region. Adopted by the music industry mid-20th century as a marketing and cataloging umbrella term.",
+  "first_use": 1955,
   "see_also": [
     "salsa",
     "bossa-nova",
@@ -15,7 +22,11 @@
     "flamenco"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "LA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

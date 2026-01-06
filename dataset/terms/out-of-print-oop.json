@@ -1,20 +1,37 @@
 {
   "slug": "out-of-print-oop",
   "term": "Out-of-Print",
-  "summary": "'**noun / collector term.** A record title no longer manufactured or distributed.",
-  "definition": "**noun / collector term.** A record title no longer manufactured or distributed by the label, often becoming scarce and rising in secondary-market value.",
+  "pos": "phrase",
+  "pronunciation": "/aʊt əv prɪnt/",
+  "summary": "**noun / collector term.** A record title no longer manufactured or distributed.",
+  "definition": "**noun / collector term.** A record title no longer manufactured or distributed by the label, often becoming scarce and rising in secondary-market value. When a pressing plant ceases production of a particular release—whether due to licensing expiration, catalog pruning, label bankruptcy, or lack of demand—the title enters out-of-print status. Original pressings of OOP albums frequently command premium prices among collectors, particularly for cult classics, deleted jazz titles, and discontinued audiophile editions. Major labels routinely declare titles OOP to manage inventory costs, sometimes reissuing them years later as limited editions or remastered variants. The digital era has complicated OOP status: some titles remain physically unavailable while streaming digitally, creating a distinction between format-specific and absolute deletion. Collectors monitor OOP announcements closely, as scarcity drives secondary-market speculation. Record Store Day and boutique reissue labels like Sundazed and Speakers Corner have built business models around reviving OOP catalog gems, though licensing complexities often prevent certain titles from ever returning to print.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "OOP",
+    "deleted",
+    "discontinued"
+  ],
+  "alt_spellings": [
+    "out of print",
+    "out-of-print"
+  ],
+  "etymology": "Borrowed from book publishing terminology, where \"out of print\" has denoted unavailable titles since the 18th century. Applied to phonograph records by the 1950s as labels began managing catalog lifecycles.",
+  "first_use": 1952,
   "see_also": [
-    "limited",
+    "limited-edition",
     "cut-out",
-    "warehouse-find"
+    "warehouse-find",
+    "reissue"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,27 @@
 {
   "slug": "drone",
   "term": "Drone",
+  "pos": "noun",
+  "pronunciation": "/droʊn/",
   "summary": "'**Drone** - A musical style within the Experimental genre, classified according.",
-  "definition": "A specific musical style within the broader experimental genre classification.",
+  "definition": "A sustained tone or chord held continuously throughout a composition or extended passage, forming a foundational sonic element that other musical elements layer upon. Rooted in ancient musical traditions from Indian classical music (tanpura) and Scottish bagpipes, drone became a defining characteristic of experimental and avant-garde music in the 1960s through pioneers like La Monte Young and Tony Conrad. The Velvet Underground's \"Heroin\" and \"Venus in Furs\" brought drone aesthetics to rock audiences, while minimalist composers explored its meditative and psychoacoustic properties. Drone music emphasizes timbre, texture, and gradual transformation over traditional melody or rhythm, creating immersive sonic environments that reward deep listening. The style flourished on vinyl through labels like Table of the Elements and Editions Mego, with albums often pressed at 45 RPM for maximum fidelity of subtle harmonic overtones. Modern drone encompasses subgenres from doom metal's amplifier worship to ambient drone's celestial expanses, with artists like Sunn O))), Stars of the Lid, and Tim Hecker continuing to explore the form's hypnotic potential on limited-edition vinyl pressings prized by collectors.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "drone music",
+    "dronology"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "From Middle English 'drone' (male bee, continuous humming sound), applied to sustained musical tones in traditional folk music, adopted by experimental composers in the 1960s to describe minimalist sustained-tone compositions.",
+  "first_use": 1966,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

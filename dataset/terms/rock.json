@@ -1,13 +1,20 @@
 {
   "slug": "rock",
   "term": "Rock",
+  "pos": "noun",
+  "pronunciation": "/rɒk/",
   "summary": "**Rock** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize recordings characterized by electric guitar-driven instrumentation, strong rhythmic foundation, and roots in 1950s rock and roll. Emerged as a distinct category in the mid-1960s when rock and roll evolved into more diverse subgenres including psychedelic rock, hard rock, and progressive rock. The Discogs taxonomy uses Rock as a parent genre encompassing hundreds of subgenres from blues rock and folk rock to alternative and indie rock. As a database classification, it helps collectors and researchers organize vinyl releases spanning seven decades of musical evolution. The genre designation appears on release pages alongside style tags that provide more specific categorization, making it essential for accurate cataloging of physical media.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "rock music",
+    "rock genre"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from 'rock and roll,' itself originating from African American vernacular describing rhythmic movement and dancing; shortened to 'rock' in mid-1960s as the music matured beyond its dance-oriented origins into a broader artistic movement.",
+  "first_use": 1966,
   "see_also": [
     "alternative-rock",
     "classic-rock",
@@ -16,7 +23,13 @@
     "grunge"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA",
+    "JP"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

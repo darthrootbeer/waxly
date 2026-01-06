@@ -1,15 +1,29 @@
 {
   "slug": "techno",
   "term": "Techno",
+  "pos": "noun",
+  "pronunciation": "/ˈtɛknoʊ/",
   "summary": "'**Techno** - A musical style within the Electronic genre, classified according.",
-  "definition": "A specific musical style within the broader electronic genre classification.",
+  "definition": "A specific musical style within the broader electronic genre classification, characterized by repetitive four-on-the-floor beats, synthesized melodies, and machine-driven rhythms typically ranging from 120-150 BPM. Originating in Detroit during the mid-1980s through the pioneering work of the Belleville Three (Juan Atkins, Derrick May, and Kevin Saunderson), techno fused European electronic influences like Kraftwerk with funk, electro, and Chicago house. The genre's stark, futuristic aesthetic emphasized mechanical precision and minimalist arrangements, creating hypnotic dancefloor experiences. Detroit techno's initial pressing runs became highly collectible, with original releases on labels like Metroplex, Transmat, and KMS commanding premium prices. European adoption, particularly in Berlin and the UK rave scene, spawned countless subgenres including acid techno, minimal techno, and industrial techno. Modern vinyl releases maintain techno's cultural connection to DJ culture, with 12-inch singles remaining the format of choice for club play due to superior bass response and mixing capabilities.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Detroit techno",
+    "electronic dance music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "tekno"
+  ],
+  "etymology": "Coined by Juan Atkins in the early 1980s, combining 'technology' with the musical suffix, initially used for his project Cybotron before defining the Detroit sound.",
+  "first_use": 1985,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

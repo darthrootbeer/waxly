@@ -1,21 +1,40 @@
 {
   "slug": "ground-loop-hum",
-  "term": "Ground",
-  "summary": "'**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing.",
-  "definition": "**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing an electrical ground at different potentials — common in turntable-to-amp setups if the ground wire is loose or missing.",
+  "term": "Ground Loop Hum",
+  "pos": "noun",
+  "pronunciation": "/ɡraʊnd luːp hʌm/",
+  "summary": "**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing an electrical ground at different potentials.",
+  "definition": "**noun / technical.** A low 50/60 Hz hum caused by multiple components sharing an electrical ground at different potentials — common in turntable-to-amp setups if the ground wire is loose or missing. The phenomenon occurs when two or more audio devices connect to AC power at different outlets, creating multiple paths to ground with slight voltage differences between them. This voltage differential generates a current loop that manifests as an audible 50 Hz hum (in 240V regions) or 60 Hz hum (in 120V regions) through the audio signal path. In vinyl playback systems, ground loops most frequently appear when a turntable's chassis ground wire fails to properly connect to the amplifier or phono preamp's ground terminal, though they can also result from cable TV connections, multiple power strips, or daisy-chained equipment. The hum typically increases in volume when touching the tonearm or metal platter, confirming a grounding issue. Solutions include securing the ground wire connection, using a ground loop isolator, plugging all components into the same power outlet or conditioner, or in persistent cases, lifting the ground on one component (though this compromises electrical safety). Proper grounding remains essential for both noise-free playback and protection against electrical shock in vintage equipment with metal chassis.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "hum loop",
+    "ground hum",
+    "mains hum",
+    "60-cycle hum",
+    "50-cycle hum"
+  ],
+  "alt_spellings": [
+    "ground-loop hum",
+    "groundloop hum"
+  ],
+  "etymology": "From electrical engineering terminology, combining 'ground loop' (a circuit condition identified in early 20th-century power distribution systems) with 'hum' (describing the audible frequency of AC mains interference). The term became prevalent in audio contexts during the 1950s with the proliferation of multi-component hi-fi systems.",
+  "first_use": 1952,
   "see_also": [
     "ground-wire",
     "shielding",
-    "phono-pre-amp"
+    "phono-preamp",
+    "cartridge"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

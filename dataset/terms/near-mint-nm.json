@@ -1,20 +1,36 @@
 {
   "slug": "near-mint-nm",
   "term": "Near-Mint",
-  "summary": "'**noun / grading term.** A record grading just below Mint — virtually flawless.",
-  "definition": "**noun / grading term.** A record grading just below Mint — virtually flawless with only superficial hairline scuffs that do not affect play; jacket likewise crisp with minimal shelf-wear.",
+  "pos": "noun",
+  "pronunciation": "/nɪr mɪnt/",
+  "summary": "**noun / grading term.** A record grading just below Mint — virtually flawless.",
+  "definition": "**noun / grading term.** A record grading just below Mint — virtually flawless with only superficial hairline scuffs that do not affect play; jacket likewise crisp with minimal shelf-wear. Standardized in the 1970s as the second-highest tier in the Goldmine Grading Standard, Near-Mint represents records that appear nearly unplayed but show evidence of careful handling or storage. The vinyl may exhibit faint spindle marks or the slightest surface traces visible under direct light, yet produces no audible clicks, pops, or surface noise during playback. Jackets retain sharp corners and vivid graphics with perhaps minor ring wear or edge wear from shelving. The NM grade became the de facto ceiling for most collectors, as true Mint records (factory-sealed or demonstrably unplayed) command exponential premiums and remain exceedingly rare in the secondary market. Many dealers further distinguish NM+ (bordering Mint) and NM- (approaching Very Good Plus), creating a practical spectrum within this critical grade. For serious collectors, Near-Mint represents the sweet spot of condition versus value, offering exceptional playback quality without the stratospheric pricing of sealed or Mint specimens.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "NM",
+    "Near Mint condition"
+  ],
+  "alt_spellings": [
+    "Near Mint",
+    "Nearmint"
+  ],
+  "etymology": "Derived from numismatic and stamp collecting terminology, adapted to vinyl records in the 1970s as mail-order trading required standardized condition descriptors.",
+  "first_use": 1973,
   "see_also": [
     "mint-minus",
-    "vg",
-    "goldmine-grading"
+    "vg-plus",
+    "goldmine-grading",
+    "record-grading"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

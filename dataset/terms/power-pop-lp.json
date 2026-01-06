@@ -1,20 +1,35 @@
 {
   "slug": "power-pop-lp",
   "term": "Power",
-  "summary": "'**noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-pop.",
-  "definition": "**noun / genre-collector term.** Refers to late-’70s/early-’80s jangly guitar-[pop](../p/pop.md) vinyl releases sought by fans of the power-pop genre.",
+  "pos": "noun",
+  "pronunciation": "/ˈpaʊər/",
+  "summary": "'**noun / genre-collector term.** Refers to late-'70s/early-'80s jangly guitar-pop.",
+  "definition": "**noun / genre-collector term.** Refers to late-'70s/early-'80s jangly guitar-[pop](../p/pop.md) vinyl releases sought by fans of the power-pop genre. Characterized by melodic hooks, Beatles-influenced harmonies, and crisp production, these LPs emerged as a response to punk's raw energy while maintaining pop accessibility. Key artists include Big Star, The Raspberries, Cheap Trick, and The Knack, with many releases appearing on independent or regional labels. Collectors prize original pressings from labels like Ardent, Big Tree, and Beserkley, particularly overlooked albums that gained cult status decades after release. The term gained traction in record stores and fanzines during the late 1970s as buyers sought alternatives to mainstream arena rock and disco. Power-pop LPs often feature gatefold sleeves with band photography emphasizing youthful energy. Modern reissue labels like Omnivore and Real Gone have revived many obscure titles, though original pressings command premium prices among collectors who value the genre's brief commercial window and enduring influence on alternative rock.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "power-pop vinyl",
+    "power-pop record"
+  ],
+  "alt_spellings": [
+    "power pop LP",
+    "powerpop LP"
+  ],
+  "etymology": "Derived from 'power pop' genre term, coined by The Who's Pete Townshend in 1967, combined with 'LP' to denote vinyl format collecting category that emerged in late 1970s record retail culture.",
+  "first_use": 1978,
   "see_also": [
     "private-press",
     "regional",
-    "post-punk"
+    "post-punk",
+    "new-wave"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,13 +1,21 @@
 {
   "slug": "folk",
   "term": "Folk",
+  "pos": "noun",
+  "pronunciation": "/foʊk/",
   "summary": "**Folk** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize traditional and contemporary music rooted in cultural heritage and acoustic instrumentation. The term encompasses everything from archival field recordings of pre-industrial societies to the 1960s folk revival movement led by artists like Bob Dylan and Joan Baez. Within Discogs, Folk serves as a parent category containing numerous sub-genres including Traditional Folk, Contemporary Folk, Singer-Songwriter, and regional variants like Celtic, Appalachian, and Nordic folk traditions. The classification typically identifies music emphasizing acoustic instruments (guitar, banjo, fiddle, mandolin), narrative songwriting, and connection to cultural or political movements. Folk records span from early 20th-century ethnographic recordings by Alan Lomax to modern indie-folk releases, making it one of the most diverse and historically significant genre tags in record collecting and cataloging systems.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "folk music",
+    "traditional music",
+    "acoustic folk"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from Old English 'folc' meaning 'common people.' Applied to music in the 19th century to distinguish traditional songs of rural communities from composed art music.",
+  "first_use": 1890,
   "see_also": [
     "folk-rock",
     "traditional-folk",
@@ -15,7 +23,11 @@
     "world-music"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "GLOBAL"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

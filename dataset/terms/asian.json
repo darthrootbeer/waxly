@@ -1,15 +1,27 @@
 {
   "slug": "asian",
   "term": "Asian",
+  "pos": "noun",
+  "pronunciation": "/ˈeɪʒən/",
   "summary": "'**Asian** - A musical style within the World genre, classified according.",
-  "definition": "A specific musical style within the broader world genre classification.",
+  "definition": "A broad categorical designation within the World Music genre classification system used by record stores, distributors, and cataloging databases to group musical traditions originating from the Asian continent. This umbrella term encompasses diverse musical styles from East Asia (Chinese opera, Japanese enka, Korean trot), South Asia (Indian classical, Bollywood soundtracks, qawwali), Southeast Asia (gamelan, Thai luk thung), and Central Asia (throat singing, regional folk traditions). The classification emerged in Western record retail during the 1980s-90s world music boom as labels like Real World and Nonesuch Explorer Series introduced non-Western recordings to mainstream audiences. While useful for commercial organization, the term has drawn criticism for homogenizing vastly different musical cultures spanning dozens of countries and thousands of ethnic groups under a single geographic label. Contemporary vinyl collectors seek out original pressings from regional labels, particularly Japanese pressings known for superior audio quality, Bollywood soundtrack rarities, and ethnographic field recordings from the Folkways and Ocora catalogs.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Asian Music",
+    "Music of Asia"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the geographic term 'Asia,' adopted by Western record industry classification systems in the 1980s during the commercial codification of World Music categories.",
+  "first_use": 1987,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

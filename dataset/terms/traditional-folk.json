@@ -1,15 +1,30 @@
 {
   "slug": "traditional-folk",
   "term": "Traditional Folk",
+  "pos": "noun",
+  "pronunciation": "/trəˈdɪʃənəl foʊk/",
   "summary": "'**Traditional Folk** - A musical style within the Folk genre, classified.",
-  "definition": "A specific musical style within the broader folk genre classification.",
+  "definition": "A musical style encompassing songs and ballads passed down through oral tradition, typically rooted in specific regional or ethnic communities. Traditional folk music predates commercial recording, with origins in work songs, sea shanties, spirituals, and rural storytelling traditions. The genre gained scholarly attention in the early 20th century through field recordings by ethnomusicologists like Alan Lomax, who documented Appalachian ballads, Delta blues, and cowboy songs across America. In the UK, Cecil Sharp collected English, Scottish, and Irish folk songs that influenced the 1960s folk revival. Vinyl reissues of field recordings from the 1920s-1950s have become highly collectible, particularly Library of Congress recordings and early Folkways releases. The style is distinguished from contemporary folk by its emphasis on preservation of authentic regional variants, unaccompanied vocals or acoustic instrumentation, and connection to specific cultural communities rather than individual songwriters.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Folk Traditional",
+    "Trad Folk",
+    "Ethnic Folk",
+    "Roots Folk"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Traditional-Folk"
+  ],
+  "etymology": "Derived from 'tradition' (Latin tradere, 'to hand over') and 'folk' (Old English folc, 'common people'), the term emerged in early 20th century ethnomusicology to distinguish indigenous community music from composed art music.",
+  "first_use": 1907,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

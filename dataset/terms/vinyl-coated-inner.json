@@ -1,20 +1,38 @@
 {
   "slug": "vinyl-coated-inner",
   "term": "Vinyl Coated Inner Sleeve",
+  "pos": "noun",
+  "pronunciation": "/ˈvaɪnəl ˈkoʊtɪd ˈɪnər sliːv/",
   "summary": "'**noun / packaging hazard.** A **paper inner sleeve lined with a thin vinyl-like.",
-  "definition": "**noun / packaging hazard.** A **paper [inner sleeve](../i/inner-sleeve.md) lined with a thin vinyl-like plastic film** once used for premium LPs; prone to chemical reactions that can fog or imprint records over decades.",
+  "definition": "**noun / packaging hazard.** A **paper [inner sleeve](../i/inner-sleeve.md) lined with a thin vinyl-like plastic film** once used for premium LPs; prone to chemical reactions that can fog or imprint records over decades. Introduced in the late 1960s as a supposedly protective upgrade from plain paper sleeves, these polyvinyl chloride (PVC) or polyethylene-coated sleeves were marketed as anti-static and scratch-resistant. Record labels used them extensively through the 1970s and early 1980s for deluxe pressings and audiophile releases. The irony became apparent decades later when collectors discovered that the plastic coating could degrade, leaching plasticizers that chemically react with vinyl records to create permanent clouding, tackiness, or even transfer the sleeve's printed graphics onto the disc surface—a phenomenon known as [groove imprint damage](../g/groove-imprint-damage.md). The problem intensifies in warm, humid storage conditions. Modern collectors immediately replace vinyl-coated inners with archival-quality alternatives like [rice paper](../r/rice-paper-inner-sleeve.md), high-density polyethylene (HDPE), or anti-static poly-lined sleeves. Original vinyl-coated sleeves are typically discarded or stored separately for historical documentation, never in contact with the record itself.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "PVC inner sleeve",
+    "plastic-lined inner",
+    "coated paper sleeve"
+  ],
+  "alt_spellings": [
+    "vinyl coated inner sleeve",
+    "vinyl-coated inner"
+  ],
+  "etymology": "Named for the polyvinyl chloride (PVC) or similar plastic coating applied to paper stock; introduced as premium packaging during the LP's golden age before long-term chemical incompatibility was understood.",
+  "first_use": 1968,
   "see_also": [
     "rice-paper-inner-sleeve",
     "poly-lined-sleeve",
-    "groove-imprint-damage"
+    "groove-imprint-damage",
+    "inner-sleeve",
+    "plasticizer-migration"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

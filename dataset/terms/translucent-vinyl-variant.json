@@ -1,22 +1,37 @@
 {
   "slug": "translucent-vinyl-variant",
   "term": "Translucent",
+  "pos": "noun",
+  "pronunciation": "/trænsˈluːsənt/",
   "summary": "'**noun / collector term.** A **vinyl compound that appears opaque under.",
-  "definition": "**noun / collector term.** A **vinyl compound that appears opaque under normal light but glows translucent ruby or amber when held to strong back-light** — common in 1980s Quiex-type pressings.",
+  "definition": "**noun / collector term.** A vinyl compound that appears opaque under normal light but glows translucent ruby or amber when held to strong back-light — common in 1980s Quiex-type pressings. Developed as audiophile-grade formulations by JVC and other manufacturers seeking superior sonic characteristics, these compounds used virgin vinyl with reduced carbon black filler, which inadvertently created the light-transmitting property. The translucent glow test became a collector authentication method for identifying genuine Quiex and Quiex II pressings, particularly valuable for 1980s jazz and classical reissues. Unlike fully transparent colored vinyl, translucent variants maintain a solid black or dark appearance until backlit, revealing deep red, amber, or occasionally green hues. Modern pressings rarely exhibit this characteristic due to different manufacturing standards, making vintage translucent records prized by audiophiles who believe the reduced filler content contributes to quieter surfaces and improved dynamic range.",
   "tags": [
     "pressing",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "semi-translucent vinyl",
+    "glow-through vinyl",
+    "backlit vinyl"
+  ],
+  "alt_spellings": [
+    "trans-lucent"
+  ],
+  "etymology": "From Latin translucens, meaning 'shining through,' applied to vinyl pressings in the 1980s when audiophile manufacturers discovered that high-purity formulations with minimal carbon black exhibited light-transmission properties.",
+  "first_use": 1982,
   "see_also": [
     "quiex-ii-vinyl",
     "colored-vinyl-pressing",
-    "glow-through-test"
+    "glow-through-test",
+    "virgin-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,36 @@
 {
   "slug": "open-reel",
   "term": "Open-Reel to Vinyl Transfer",
+  "pos": "phrase",
+  "pronunciation": "/ˈoʊpən riːl tuː ˈvaɪnəl ˈtrænsfɜːr/",
   "summary": "'**noun / mastering process.** The process of cutting a vinyl master directly.",
-  "definition": "**noun / mastering process.** The process of cutting a vinyl master directly from original open-reel analog tape as opposed to a digital remaster.",
+  "definition": "**noun / mastering process.** The process of cutting a vinyl master directly from original open-reel analog tape as opposed to a digital remaster. This all-analog chain preserves the warmth, dynamics, and tonal characteristics of the original master tape without digital conversion artifacts. Studios use professional tape machines—typically Studer, Ampex, or Scully decks—to play back ¼-inch or ½-inch master tapes at 15 or 30 IPS (inches per second) directly into the cutting lathe. The practice became a premium selling point in the audiophile market during the 1990s and 2000s as labels like Analogue Productions, Music Matters, and Mobile Fidelity emphasized tape-sourced reissues. Engineers must carefully assess tape condition, as oxide shedding and print-through can compromise decades-old masters. When executed properly with well-preserved tapes, open-reel transfers often reveal superior high-frequency extension and spatial information compared to digital intermediaries, making them highly sought after by collectors willing to pay premium prices for sonically authentic pressings.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "analog tape transfer",
+    "tape-to-vinyl transfer",
+    "reel-to-vinyl mastering"
+  ],
+  "alt_spellings": [
+    "open reel to vinyl transfer",
+    "open-reel-to-vinyl transfer"
+  ],
+  "etymology": "Term emerged in the 1990s audiophile market as labels began distinguishing all-analog mastering chains from increasingly common digital remasters, emphasizing the use of original open-reel tape machines.",
+  "first_use": 1995,
   "see_also": [
     "aaa-mastering",
     "tape-hiss",
-    "half-speed-mastering"
+    "half-speed-mastering",
+    "lacquer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

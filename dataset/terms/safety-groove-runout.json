@@ -1,21 +1,36 @@
 {
   "slug": "safety-groove-runout",
   "term": "Safety Groove",
+  "pos": "noun",
+  "pronunciation": "/ˈseɪfti ɡruːv/",
   "summary": "'**noun / cutting-room term.** A **silent protective groove** cut just after.",
-  "definition": "**noun / cutting-room term.** A **silent protective groove** cut just after the last musical groove but before the lock-groove to prevent the stylus from skating into the label.",
+  "definition": "**noun / cutting-room term.** A **silent protective groove** cut just after the last musical groove but before the lock-groove to prevent the stylus from skating into the label. Typically spanning 2-5 revolutions, the safety groove acts as a buffer zone in the runout area, ensuring that if a turntable's auto-return mechanism fails or a listener doesn't manually lift the tonearm, the stylus won't jump across the smooth, grooveless label surface and potentially damage itself or the record. Introduced during the LP era of the late 1940s when automatic turntables became widespread, the safety groove became standard practice in cutting rooms worldwide. The groove contains no audio signal—just a continuous, silent spiral that maintains stylus tracking before transitioning to the locked groove's infinite loop. Some audiophile pressings feature wider safety grooves to provide extra protection for valuable records, while budget pressings may reduce this area to maximize playing time. Mastering engineers carefully calculate the spacing to balance protection with available surface area. Modern cutting lathes automate safety groove creation, though vintage records occasionally lack them entirely, making playback on automatic turntables risky. Collectors examining deadwax often overlook this crucial element of vinyl engineering that has prevented countless stylus-to-label collisions over seven decades.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "protective groove",
+    "buffer groove",
+    "guard groove"
+  ],
+  "alt_spellings": [
+    "safety-groove",
+    "safetygroove"
+  ],
+  "etymology": "Coined in late 1940s cutting rooms as automatic turntable mechanisms required protective measures between musical content and label area; term reflects its primary function of preventing stylus damage.",
+  "first_use": 1948,
   "see_also": [
     "locked-groove",
     "run-out-groove",
     "lead-out"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

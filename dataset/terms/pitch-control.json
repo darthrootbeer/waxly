@@ -1,21 +1,40 @@
 {
   "slug": "pitch-control",
   "term": "Pitch Control",
+  "pos": "noun",
+  "pronunciation": "/pɪtʃ kənˈtroʊl/",
   "summary": "'**noun / DJ / hi-fi feature.** A slider or knob on turntables that adjusts.",
-  "definition": "**noun / DJ / hi-fi feature.** A slider or knob on turntables that adjusts platter speed slightly faster or slower than standard RPM — vital for beat-matching in DJ work.",
+  "definition": "**noun / DJ / hi-fi feature.** A slider or knob on turntables that adjusts platter speed slightly faster or slower than standard RPM — vital for beat-matching in DJ work. Introduced on broadcast and DJ turntables in the 1960s, pitch control typically offers ±8% to ±20% speed variation, allowing DJs to synchronize the tempo of two records for seamless mixing. Early implementations used mechanical variable resistors to adjust motor voltage, while modern designs employ quartz-locked digital circuits with pitch faders that maintain accuracy even at extreme settings. The Technics SL-1200, launched in 1972, popularized the vertical pitch slider positioned beside the platter, a layout that became the industry standard. High-end audiophile turntables often include fine-tuning pitch controls (±2-3%) to compensate for minor speed drift, ensuring accurate playback at 33⅓ or 45 RPM. In DJ culture, pitch control transformed turntables from passive playback devices into performance instruments, enabling the hip-hop and disco mixing techniques that defined modern club music. Contemporary DJ turntables feature digital readouts showing precise BPM and percentage adjustments, though vinyl purists debate whether analog or digital pitch circuits offer superior sound quality during speed manipulation.",
   "tags": [
     "equipment",
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pitch slider",
+    "pitch fader",
+    "speed control",
+    "vari-pitch"
+  ],
+  "alt_spellings": [
+    "pitch-control",
+    "pitchcontrol"
+  ],
+  "etymology": "Derived from audio engineering term 'pitch' (frequency/speed relationship) combined with 'control' (adjustment mechanism); popularized by broadcast turntable manufacturers in the 1960s who needed precise speed adjustment for radio production.",
+  "first_use": 1962,
   "see_also": [
     "quartz-lock",
     "wow-flutter",
-    "slip-cue"
+    "slip-cue",
+    "beat-matching",
+    "direct-drive"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

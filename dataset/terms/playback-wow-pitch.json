@@ -1,21 +1,37 @@
 {
   "slug": "playback-wow-pitch",
   "term": "Playback WOW",
+  "pos": "noun",
+  "pronunciation": "/ˈpleɪbæk waʊ/",
   "summary": "'**noun / defect.** A slow, cyclical pitch variation (wow) audible on sustained.",
-  "definition": "**noun / defect.** A slow, cyclical pitch variation (wow) audible on sustained notes, often caused by off-center pressings, warped discs, or unstable turntable speed.",
+  "definition": "**noun / defect.** A slow, cyclical pitch variation audible on sustained notes, typically occurring at rates below 6 Hz, which creates a warbling or wavering effect in music playback. Unlike flutter (faster pitch variations), wow manifests as a slow, seasick-like undulation most noticeable on piano, organ, or string passages. Primary causes include off-center pressings where the spindle hole is misaligned from the record's true center, warped discs that create vertical platter movement, worn or improperly lubricated turntable bearings, and motor speed instability. Belt-drive turntables are particularly susceptible to wow from elastic belt stretch, while direct-drive models may exhibit wow from cogging (motor torque irregularities). Vintage turntables from the 1960s-70s often specified wow-and-flutter measurements as a combined percentage (0.1% being acceptable, 0.05% excellent). Audiophiles consider wow one of the most objectionable playback defects because human hearing is acutely sensitive to pitch variations. Modern high-end turntables minimize wow through precision manufacturing, heavy platters for rotational stability, and sophisticated motor control. Off-center pressings remain problematic even on premium equipment, making centering tools valuable for serious collectors addressing chronic wow issues.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pitch wow",
+    "speed wow",
+    "rotational wow"
+  ],
+  "alt_spellings": [
+    "wow",
+    "WOW"
+  ],
+  "etymology": "Term derived from the audible \"wow-wow-wow\" sound effect created by slow pitch oscillation, coined by audio engineers in the 1940s during tape recorder development and later applied to vinyl playback.",
+  "first_use": 1948,
   "see_also": [
     "off-center",
     "wow-flutter",
     "platter-speed-stability"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

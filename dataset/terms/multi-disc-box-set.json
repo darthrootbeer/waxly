@@ -1,21 +1,40 @@
 {
   "slug": "multi-disc-box-set",
   "term": "Multi-Disc Box Set",
+  "pos": "noun",
+  "pronunciation": "/ˈmʌlti dɪsk bɑks sɛt/",
   "summary": "A package containing two or more LPs (sometimes mixed with CDs or DVDs) in.",
-  "definition": "A package containing two or more LPs (sometimes mixed with CDs or DVDs) in a single boxed presentation, often with a booklet, poster, or bonus ephemera.",
+  "definition": "A package containing two or more LPs (sometimes mixed with CDs or DVDs) in a single boxed presentation, often with a booklet, poster, or bonus ephemera. Emerged in the 1960s with classical music anthologies and opera recordings that required multiple discs, box sets became a prestige format for comprehensive collections, retrospectives, and deluxe reissues. The format gained cultural prominence in the 1970s-80s with rock compilations and career-spanning anthologies. Premium box sets typically feature rigid cardboard or wooden boxes, numbered editions, extensive liner notes, previously unreleased tracks, and collectible extras like lithographs or replica memorabilia. Modern vinyl box sets command premium prices ($100-$500+) and appeal to serious collectors seeking definitive editions. Labels use box sets to repackage catalog material with archival recordings, alternate takes, and remastered audio. The format remains popular for anniversary editions, complete discographies, and audiophile pressings on 180g or 200g vinyl, often with download codes bridging physical and digital collecting.",
   "tags": [
     "dj-related",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "box set",
+    "boxed set",
+    "multi-LP set",
+    "deluxe box set"
+  ],
+  "alt_spellings": [
+    "multi-disk box set",
+    "multidisc box set"
+  ],
+  "etymology": "Derived from \"box\" (container) and \"set\" (collection), popularized by classical music labels in the 1960s for multi-volume recordings requiring protective packaging beyond standard gatefold sleeves.",
+  "first_use": 1963,
   "see_also": [
     "gatefold",
     "insert",
-    "limited"
+    "limited",
+    "reissue",
+    "anthology"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

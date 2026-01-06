@@ -1,20 +1,37 @@
 {
   "slug": "perspex-dust-cover",
-  "term": "Perspex Dust",
-  "summary": "'**noun / hi-fi accessory.** A clear acrylic (Perspex) cover hinged over.",
-  "definition": "**noun / hi-fi accessory.** A clear acrylic (Perspex) cover hinged over a turntable to shield it from dust when not in use.",
+  "term": "Perspex Dust Cover",
+  "pos": "noun",
+  "pronunciation": "/ˈpɜːspɛks dʌst ˈkʌvər/",
+  "summary": "**noun / hi-fi accessory.** A clear acrylic (Perspex) cover hinged over a turntable to shield it from dust when not in use.",
+  "definition": "**noun / hi-fi accessory.** A clear acrylic (Perspex) cover hinged over a turntable to shield it from dust, debris, and environmental contaminants when not in use. Introduced in the early 1960s alongside the rise of consumer hi-fi equipment, these transparent covers became standard on virtually all home turntables by the mid-1970s. The term \"Perspex\" derives from the ICI brand name for acrylic plastic, though the covers are generically made from PMMA (polymethyl methacrylate). Most designs feature a rear-mounted hinge allowing the cover to lift upward, with some premium models incorporating hydraulic damping mechanisms for controlled lowering. While protecting the platter, stylus, and tonearm from dust accumulation, covers can introduce acoustic resonance issues—audiophiles often remove them entirely during playback or upgrade to heavier aftermarket versions with better damping properties. Vintage covers are prone to yellowing, scratching, and hinge failure, making intact examples desirable for restoration projects. Modern audiophile turntables sometimes omit dust covers entirely in favor of minimalist aesthetics, though replacement acrylic covers remain available from specialist manufacturers for classic decks like the Technics SL-1200 and Thorens TD-160.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "dust cover",
+    "turntable lid",
+    "acrylic lid",
+    "platter cover"
+  ],
+  "alt_spellings": [
+    "perspex dustcover",
+    "Perspex dust-cover"
+  ],
+  "etymology": "From \"Perspex,\" ICI's 1930s trademark for acrylic glass (from Latin perspicere, \"see through\"), combined with \"dust cover.\" Term became genericized in British hi-fi terminology during the 1960s.",
+  "first_use": 1962,
   "see_also": [
     "dust-cover",
     "hinged-lid",
-    "plinth"
+    "plinth",
+    "turntable-mat"
   ],
   "regions": [
-    "US"
+    "UK",
+    "EU",
+    "AU",
+    "NZ"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

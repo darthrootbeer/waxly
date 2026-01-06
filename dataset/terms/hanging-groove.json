@@ -1,21 +1,37 @@
 {
   "slug": "hanging-groove",
   "term": "Hanging Groove",
+  "pos": "noun",
+  "pronunciation": "/ˈhæŋɪŋ ɡruːv/",
   "summary": "'**noun / slang.** A pressing defect where the spiral briefly stalls and.",
-  "definition": "**noun / slang.** A pressing defect where the spiral briefly stalls and nearly loops before resuming its inward path — can cause a repeating click or short loop.",
+  "definition": "**noun / slang.** A pressing defect where the groove spiral briefly stalls and nearly loops back on itself before resuming its normal inward path toward the label. This manufacturing flaw occurs when the cutting lathe or pressing equipment experiences a momentary hesitation, creating a small bulge or deviation in the otherwise smooth spiral. The stylus encounters this irregularity as either a repeating click, a brief loop of a few seconds of audio, or a combination of both. Unlike a locked groove which repeats indefinitely, a hanging groove eventually releases and continues playing. The defect typically results from stamper damage, vinyl flow issues during pressing, or debris interference. Most common on budget pressings from the 1970s-80s when quality control standards declined, though it can appear on any era of vinyl. Collectors often mark records with hanging grooves as defective, though some tolerate minor instances if the record is otherwise rare or desirable. The term distinguishes this specific malformation from skips (which jump forward) or true locked grooves (which never release).",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "stutter groove",
+    "hesitation groove",
+    "loop defect"
+  ],
+  "alt_spelings": [
+    "hanging-groove",
+    "hanging grove"
+  ],
+  "etymology": "Emerged in collector slang by the 1980s, describing the visual appearance of a groove that appears to 'hang' or pause in its spiral trajectory, borrowed from technical pressing terminology.",
+  "first_use": 1982,
   "see_also": [
     "locked-groove",
     "skip",
-    "pressing-defect"
+    "pressing-defect",
+    "non-fill",
+    "stamper-wear"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

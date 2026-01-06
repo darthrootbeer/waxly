@@ -1,20 +1,36 @@
 {
   "slug": "yard-sale-find",
   "term": "Yard-Sale Find",
-  "summary": "'**noun / collector slang.** A **record discovered at a yard sale, garage.",
-  "definition": "**noun / collector slang.** A **record discovered at a yard sale, garage sale, or flea-market table**, often for a fraction of its collector value — the casual cousin of crate-digging.",
+  "pos": "noun",
+  "pronunciation": "/jɑːrd seɪl faɪnd/",
+  "summary": "**noun / collector slang.** A **record discovered at a yard sale, garage sale, or flea-market table**, often for a fraction of its collector value — the casual cousin of crate-digging.",
+  "definition": "**noun / collector slang.** A **record discovered at a yard sale, garage sale, or flea-market table**, often for a fraction of its collector value — the casual cousin of crate-digging. Unlike the focused hunt of record-store crate-digging, yard-sale finds are serendipitous scores from amateur sellers unaware of what they're parting with. The phenomenon gained momentum in the 1980s as vinyl fell from commercial favor, with suburban garage sales becoming unlikely goldmines for original pressings of jazz, soul, and rock classics. Success requires patience, timing (early birds get the grails), and tolerance for sifting through Herb Alpert compilations and warped barbershop quartet LPs. Legendary finds include first-press Blue Notes purchased for quarters and private-press psych records rescued from estate sales. Modern online marketplaces have diminished but not eliminated the practice — weekend warriors still trawl neighborhood sales hoping to unearth that $2 copy of a $200 record, sustaining the romantic notion that treasure hides in plain sight.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "garage-sale score",
+    "estate-sale find",
+    "flea-market score"
+  ],
+  "alt_spelings": [
+    "yardsale find",
+    "yard sale find"
+  ],
+  "etymology": "Emerged in American collector vernacular during the 1980s vinyl recession, when casual sellers liquidated record collections at residential sales without knowledge of collector markets.",
+  "first_use": 1982,
   "see_also": [
+    "crate-digging",
     "thrift-store-find",
-    "dollar-bin-dig",
-    "up-grade"
+    "dollar-bin",
+    "grail"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA",
+    "UK",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

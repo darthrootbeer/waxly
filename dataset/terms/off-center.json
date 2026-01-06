@@ -1,22 +1,40 @@
 {
   "slug": "off-center",
   "term": "Off-Center Pressing",
-  "summary": "'**noun / pressing defect.** A defect where the record’s center hole isn’t.",
-  "definition": "**noun / [pressing defect](../p/pressing-defect.md).** A defect where the record’s center hole isn’t perfectly aligned with the stamper’s groove spiral, causing the tonearm to sway slightly as it plays.",
+  "pos": "noun",
+  "pronunciation": "/ɔf ˈsɛntər ˈprɛsɪŋ/",
+  "summary": "'**noun / pressing defect.** A defect where the record's center hole isn't.",
+  "definition": "**noun / [pressing defect](../p/pressing-defect.md).** A defect where the record's center hole isn't perfectly aligned with the stamper's groove spiral, causing the tonearm to sway visibly as the record plays. This misalignment occurs during the pressing process when the vinyl biscuit or label isn't properly centered before the stamper presses the grooves. The result is an eccentric rotation where the grooves oscillate closer and farther from the spindle with each revolution, producing audible pitch fluctuation (wow) as playback speed varies cyclically. Mild cases cause barely perceptible wavering, while severe examples create seasick tonearm movement and unusable sound. Off-center pressings became more common during the 1970s oil crisis when plants rushed production and quality control declined, though budget labels had always suffered higher rates. Collectors can detect the defect by watching the label or edge wobble during rotation—a perfectly centered record appears stationary. Some plants used centering pins or optical alignment systems to minimize occurrence, but human error in label placement remained the primary culprit. While minor off-centering (under 1mm) is tolerated by most listeners, serious examples warrant replacement or return, especially on audiophile pressings where pitch stability is paramount. The defect remains distinct from warping, which affects the vertical plane rather than lateral alignment.",
   "tags": [
     "equipment",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "off-center hole",
+    "eccentric pressing",
+    "misaligned center hole"
+  ],
+  "alt_spellings": [
+    "off-centre pressing",
+    "offcenter pressing"
+  ],
+  "etymology": "Term emerged from vinyl manufacturing quality control vocabulary in the 1950s, describing the geometric relationship between the stamped groove spiral and the physical center hole punched during pressing.",
+  "first_use": 1955,
   "see_also": [
     "wow-flutter",
     "pressing-defect",
-    "qc-reject"
+    "qc-reject",
+    "spindle-hole",
+    "warping"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

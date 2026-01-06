@@ -1,13 +1,21 @@
 {
   "slug": "jazz",
   "term": "Jazz",
+  "pos": "noun",
+  "pronunciation": "/dʒæz/",
   "summary": "**Jazz** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system, encompassing a diverse range of American-originated music characterized by swing rhythms, improvisation, and blues influences. Emerging from New Orleans in the early 20th century, jazz evolved through numerous subgenres including bebop, cool jazz, hard bop, free jazz, and fusion. Within Discogs taxonomy, Jazz serves as a parent category containing dozens of style tags, from traditional Dixieland to contemporary smooth jazz. The classification helps collectors and researchers organize recordings spanning over a century of innovation, from acoustic 78 RPM shellac pressings of Louis Armstrong and Duke Ellington to modern vinyl reissues of Miles Davis and John Coltrane. Jazz records represent a significant segment of the collector market, with Blue Note, Prestige, and Impulse! original pressings commanding premium prices. The genre's improvisational nature and emphasis on individual expression made it particularly suited to the album format, with many classic jazz LPs from the 1950s-60s considered essential listening and perpetually in reissue rotation.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Jazz Music"
+  ],
+  "alt_spellings": [
+    "Jass"
+  ],
+  "etymology": "Derived from early 20th century American slang, possibly from Creole or African American vernacular; first applied to music in New Orleans circa 1915, with disputed origins including references to energy, excitement, or earlier minstrel terminology.",
+  "first_use": 1915,
   "see_also": [
     "bebop",
     "cool-jazz",
@@ -16,7 +24,12 @@
     "smooth-jazz"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "WW"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

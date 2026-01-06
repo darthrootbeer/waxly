@@ -1,22 +1,36 @@
 {
   "slug": "groove-spacing-pitch",
   "term": "Groove Spacing",
+  "pos": "noun",
+  "pronunciation": "/ɡruːv ˈspeɪsɪŋ/",
   "summary": "'**noun / technical.** The distance between adjacent grooves on a record,.",
-  "definition": "**noun / technical.** The distance between adjacent grooves on a record, determined by cutting-lathe pitch control; wider spacing allows louder cuts but shortens play-time.",
+  "definition": "**noun / technical.** The distance between adjacent grooves on a record, determined by cutting-lathe pitch control; wider spacing allows louder cuts but shortens play-time. Measured in grooves per inch (typically 200-300 for LPs, 150-200 for singles), this parameter represents the fundamental trade-off in vinyl mastering between volume, dynamic range, and playing time. Engineers adjust pitch dynamically during cutting—tightening spacing during quiet passages to conserve space, widening during loud sections to prevent adjacent groove breakthrough. The advent of variable-pitch computer control in the 1970s revolutionized mastering, allowing real-time optimization based on program material. Wider spacing (fewer grooves per inch) permits deeper groove modulation and reduced inner-groove distortion, explaining why audiophile pressings often sacrifice duration for sonic quality. Dance music 12-inches exploit generous spacing for maximum bass response and volume, while budget LPs cramming 25+ minutes per side suffer compromised fidelity. Visible under light, groove spacing variations create the characteristic banding pattern on record surfaces, offering visual clues to a record's dynamic content and mastering approach.",
   "tags": [
     "dj-related",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "groove pitch",
+    "pitch spacing",
+    "land width"
+  ],
+  "alt_spellings": [
+    "groove-spacing"
+  ],
+  "etymology": "From lathe engineering terminology; 'pitch' borrowed from machining contexts referring to thread spacing on screws, applied to disc recording by the 1930s as variable-pitch cutting mechanisms emerged.",
+  "first_use": 1948,
   "see_also": [
     "hot-cut",
     "flash-cut",
     "inner-groove-distortion"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

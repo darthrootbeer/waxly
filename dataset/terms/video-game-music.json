@@ -1,15 +1,31 @@
 {
   "slug": "video-game-music",
   "term": "Video Game Music",
+  "pos": "noun",
+  "pronunciation": "/ˈvɪdioʊ ɡeɪm ˈmjuzɪk/",
   "summary": "'**Video Game Music** - A musical style within the Soundtrack genre, classified.",
-  "definition": "A specific musical style within the broader soundtrack genre classification.",
+  "definition": "A distinct musical style within the soundtrack genre encompassing compositions originally created for video games, spanning from early 8-bit chiptune synthesizer work to modern orchestral scores. Emerged as a collectible vinyl category in the mid-2010s when specialty labels like Mondo, iam8bit, and Data Discs began pressing classic game soundtracks, capitalizing on millennial nostalgia and the broader soundtrack vinyl renaissance. Covers range from Koji Kondo's iconic Super Mario Bros. themes to Nobuo Uematsu's symphonic Final Fantasy compositions and modern indie game scores. Releases often feature elaborate packaging with original artwork, colored vinyl variants, and liner notes detailing the music's technical constraints and creative process. The category has grown from niche collector interest to mainstream appeal, with major titles like The Legend of Zelda and Undertale commanding premium prices and selling out rapidly upon release.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "VGM",
+    "Game Music",
+    "Chiptune Soundtrack"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Video-Game Music",
+    "Videogame Music"
+  ],
+  "etymology": "Term emerged in the 1980s alongside home gaming consoles, gaining vinyl-specific usage when soundtrack reissue labels began pressing game music in the 2010s nostalgia-driven vinyl revival.",
+  "first_use": 2012,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

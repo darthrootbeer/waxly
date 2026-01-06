@@ -1,21 +1,36 @@
 {
   "slug": "binaural-recording",
   "term": "Binaural Recording",
+  "pos": "noun",
+  "pronunciation": "/baɪˈnɔːrəl rɪˈkɔːrdɪŋ/",
   "summary": "A recording technique using two microphones spaced roughly like human ears.",
-  "definition": "A recording technique using two microphones spaced roughly like human ears — intended for playback over headphones but fascinating on high-resolution vinyl.",
+  "definition": "A recording technique using two microphones positioned to replicate human ear spacing and geometry — typically mounted in or on a dummy head or artificial torso — capturing sound as the listener would naturally hear it with directional cues, distance perception, and spatial depth encoded into the stereo image. Developed in the 1930s but refined in the 1970s with Neumann's KU 80 dummy head, binaural recordings create uncanny three-dimensional soundscapes when played through headphones, as each ear receives only its intended channel. On vinyl, these recordings translate surprisingly well to high-end stereo systems, though the intended 3D effect diminishes without headphones. Labels like Chesky Records championed binaural LPs in the 1980s-90s, pressing jazz and classical titles that showcased the format's intimate realism. Collectors prize these pressings for their holographic imaging and demonstration-quality fidelity, particularly on 180g audiophile editions where groove resolution captures the subtle phase information critical to the binaural illusion.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "dummy head recording",
+    "artificial head stereo",
+    "3D audio recording"
+  ],
+  "alt_spellings": [
+    "bi-naural recording"
+  ],
+  "etymology": "From Latin 'bi-' (two) and 'auris' (ear), coined in early 20th century acoustics research to describe sound localization using two-eared listening.",
+  "first_use": 1973,
   "see_also": [
     "stereo",
-    "quadraphonic",
-    "dummy-head-mic"
+    "soundstage",
+    "audiophile-pressing",
+    "direct-to-disc"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

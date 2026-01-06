@@ -1,20 +1,35 @@
 {
   "slug": "vinyl-weight-pressing",
   "term": "Vinyl Weight",
+  "pos": "noun",
+  "pronunciation": "/ˈvaɪnəl weɪt/",
   "summary": "'**noun / manufacturing spec.** The **mass of the finished record**, often.",
-  "definition": "**noun / manufacturing spec.** The **mass of the finished record**, often cited as 120 g (standard), 140 g, 180 g (audiophile), or 200 g (super-heavy).",
+  "definition": "**noun / manufacturing spec.** The **mass of the finished record**, typically measured in grams and cited as a quality indicator. Standard pressings weigh 120-140 g, emerging from cost-optimization practices in the 1970s and 1980s when vinyl shortages and economic pressures drove manufacturers toward thinner profiles. Audiophile pressings at 180 g became the premium standard in the 1990s reissue market, marketed for superior flatness, warp resistance, and reduced resonance during playback. Super-heavy 200 g pressings represent the apex of modern manufacturing, though sonic benefits beyond 180 g remain debated among engineers. Heavier records require more PVC compound per unit, increasing material costs but theoretically providing greater groove stability and reduced susceptibility to warping during cooling. The audiophile market widely associates weight with quality, though pressing precision, vinyl purity, and mastering quality often matter more than mass alone. Modern reissue labels prominently advertise weight specifications, with 180 g becoming virtually standard for deluxe editions and archival releases.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record weight",
+    "disc weight",
+    "pressing weight"
+  ],
+  "alt_spellings": [
+    "vinyl-weight"
+  ],
+  "etymology": "Term emerged in 1990s audiophile marketing as reissue labels began emphasizing heavier pressings to differentiate premium products from standard-weight catalog releases.",
+  "first_use": 1992,
   "see_also": [
     "heavy-weight-pressing",
     "thermoplastic-biscuit",
     "warp-resistance"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

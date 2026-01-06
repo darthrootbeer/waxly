@@ -1,20 +1,35 @@
 {
   "slug": "record-weight-center",
   "term": "Record Weight",
-  "summary": "'**noun / hi-fi accessory.** A **weighted puck** placed over the spindle.",
-  "definition": "**noun / hi-fi accessory.** A **weighted puck** placed over the spindle to keep the record flat and coupled to the platter.",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛkərd weɪt/",
+  "summary": "**noun / hi-fi accessory.** A **weighted puck** placed over the spindle.",
+  "definition": "**noun / hi-fi accessory.** A **weighted puck** placed over the spindle to keep the record flat and coupled to the platter. Unlike record clamps that apply mechanical pressure, weights rely purely on mass—typically ranging from 200 grams to over a kilogram—to improve vinyl-platter contact and dampen resonances. The practice emerged in the 1970s among audiophile circles seeking to reduce warps and improve bass response, though excessive weight can stress bearing assemblies not designed for the load. Materials vary widely: machined brass and stainless steel dominate the mid-range ($50-$200), while exotic options include bronze, tungsten, and even depleted uranium in rare vintage models. High-end weights often incorporate vibration-damping compounds or felt/leather contact surfaces. DJs occasionally use lighter weights to prevent skipping, though most prefer clamps for quicker disc changes. Modern audiophile culture has elevated record weights to fetish-object status, with boutique manufacturers claiming sonic improvements from specific metallurgy—assertions that remain hotly debated.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "disc stabilizer",
+    "turntable weight",
+    "record stabilizer",
+    "center weight"
+  ],
+  "alt_spellings": [
+    "record-weight"
+  ],
+  "etymology": "Derived from audiophile experimentation in the 1970s with mass-loading techniques borrowed from tape deck design, where weighted flywheels improved wow and flutter performance.",
+  "first_use": 1975,
   "see_also": [
     "record-clamp",
     "quick-release-clamp",
     "outer-ring-clamp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,31 @@
 {
   "slug": "alternative-rock",
   "term": "Alternative Rock",
+  "pos": "noun",
+  "pronunciation": "/ɔːlˈtɜːrnətɪv rɒk/",
   "summary": "'**Alternative Rock** - A musical style within the Rock genre, classified.",
-  "definition": "A specific musical style within the broader rock genre classification.",
+  "definition": "A diverse musical style within the broader rock genre that emerged as a distinct classification in the 1980s, encompassing bands and artists who operated outside mainstream commercial rock. Originally rooted in post-punk, indie rock, and college radio culture, alternative rock gained widespread commercial success in the early 1990s with the grunge explosion and Britpop movement. The term serves as both a sonic descriptor—characterized by unconventional song structures, experimental instrumentation, and varied production approaches—and a cultural marker distinguishing artists from arena rock and pop-metal contemporaries. For vinyl collectors, alternative rock pressings from the 1980s-90s indie label era (SST, Sub Pop, Creation, 4AD) command significant value, particularly first pressings and limited color variants. The genre's revival in modern vinyl culture has driven extensive reissue campaigns, with classic albums from R.E.M., The Smiths, Sonic Youth, and Nirvana receiving audiophile treatments and deluxe gatefold editions.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "alt-rock",
+    "alternative",
+    "indie rock"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Alternative-Rock",
+    "Alt Rock"
+  ],
+  "etymology": "Coined in the early 1980s by American college radio DJs and music journalists to describe rock music that offered an 'alternative' to mainstream commercial radio formats. The term gained institutional recognition when Billboard launched its Alternative Songs chart in 1988.",
+  "first_use": 1983,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

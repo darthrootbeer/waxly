@@ -1,20 +1,32 @@
 {
   "slug": "basket-case",
   "term": "Basket",
+  "pos": "noun",
+  "pronunciation": "/ˈbæskɪt/",
   "summary": "'**noun / slang.** Collector slang for a record in extremely poor physical.",
-  "definition": "**noun / slang.** Collector slang for a record in extremely poor physical condition — warped, cracked, or otherwise beyond realistic repair.",
+  "definition": "**noun / slang.** Collector slang for a record in extremely poor physical condition — warped, cracked, or otherwise beyond realistic repair. A basket sits at the bottom of standard grading scales, representing vinyl so damaged it's essentially unplayable: deep scratches that cause skipping, warps severe enough to risk stylus or tonearm damage, cracks extending through multiple grooves, or heat damage that's permanently altered the disc's shape. The term emerged in the 1980s collector community, likely borrowed from military slang, to describe records fit only for the trash basket. While some collectors purchase baskets as placeholder copies until better pressings surface, or for completionist purposes in rare pressings, these records hold virtually no resale value. Baskets differ from beater copies, which despite heavy wear remain playable, and from records graded Poor, which may still track through without skipping. Some specialty buyers seek baskets of valuable titles for their labels or cover art, particularly when the jacket remains in better condition than the vinyl itself. The term has become standard shorthand in online marketplaces and record store bins, warning buyers away from records beyond even casual listening use.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "trash copy",
+    "bin record"
+  ],
+  "alt_spellings": [
+    "basket case"
+  ],
+  "etymology": "Adapted from military slang \"basket case\" (1919) for someone severely incapacitated, applied to unplayable records by collectors in the 1980s.",
+  "first_use": 1982,
   "see_also": [
     "vg",
     "g-plus",
     "beater-copy"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

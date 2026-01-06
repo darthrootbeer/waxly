@@ -1,20 +1,37 @@
 {
   "slug": "washboard-groove-damaged",
   "term": "Washboard Groove",
-  "summary": "'**noun / defect slang.** A **groove that looks and feels wavy like a washboard**.",
-  "definition": "**noun / defect slang.** A **groove that looks and feels wavy like a washboard** — usually from heat or stylus mistracking, leading to audible distortion.",
+  "pos": "noun",
+  "pronunciation": "/ˈwɒʃbɔːrd ɡruːv/",
+  "summary": "**noun / defect slang.** A **groove that looks and feels wavy like a washboard**.",
+  "definition": "**noun / defect slang.** A **groove that looks and feels wavy like a washboard** — usually from heat or stylus mistracking, leading to audible distortion. The damage manifests as visible ripples or undulations in the groove wall, resembling the ridged surface of a traditional washboard. This condition typically results from two primary causes: thermal warping when records are stored improperly near heat sources or in hot environments, causing the vinyl to soften and deform, or from severe stylus mistracking where an incorrectly aligned or damaged needle literally carves new patterns into the groove. The effect produces characteristic wow and flutter during playback, with pitch fluctuations that make music sound warbled or seasick. Unlike surface scratches that cause clicks and pops, washboard grooves create continuous distortion that cannot be corrected through cleaning. The term emerged in collector vernacular during the 1970s-80s when poor storage practices and cheap turntables proliferated. Records with washboard grooves are typically considered unplayable for serious listening, though some collectors preserve them as cautionary examples of improper care. The defect is permanent and irreversible, making it one of the most devastating forms of vinyl damage.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "wavy groove",
+    "rippled groove",
+    "heat-warped groove"
+  ],
+  "alt_spelings": [
+    "wash-board groove",
+    "washboard grooves"
+  ],
+  "etymology": "Coined from visual similarity to corrugated metal washboards used for laundry, describing the characteristic rippled appearance of damaged grooves.",
+  "first_use": 1975,
   "see_also": [
     "groove-burn",
     "cue-burn",
-    "groove-wear"
+    "groove-wear",
+    "warped-record",
+    "mistracking"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

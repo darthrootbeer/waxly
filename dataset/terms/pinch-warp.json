@@ -1,20 +1,35 @@
 {
   "slug": "pinch-warp",
   "term": "Pinch",
-  "summary": "'**noun / defect.** A small crescent-shaped warp at the record’s edge caused.",
-  "definition": "**noun / defect.** A small crescent-shaped warp at the record’s [edge](../e/edge-warp.md) caused by uneven cooling during pressing — often creates audible “thump” each revolution.",
+  "pos": "noun",
+  "pronunciation": "/pɪntʃ/",
+  "summary": "'**noun / defect.** A small crescent-shaped warp at the record's edge caused.",
+  "definition": "**noun / defect.** A small crescent-shaped warp at the record's [edge](../e/edge-warp.md) caused by uneven cooling during pressing — often creates audible \"thump\" each revolution. This defect typically occurs when the pressed vinyl is removed from the stamper too quickly or when cooling pressure is released unevenly around the record's perimeter. The characteristic crescent or half-moon shape distinguishes pinches from other warp types like [dishes](../d/dish-warp.md) or [saddles](../s/saddle-warp.md). Most common in records pressed during high-volume production runs when quality control lapses, particularly in budget pressings from the 1970s and 1980s. The defect creates a noticeable vertical tonearm movement once per revolution, producing a rhythmic thump that can range from barely perceptible to severe enough to cause tracking issues or stylus mistracking. [Outer ring clamps](../o/outer-ring-clamp.md) can sometimes minimize playback issues but cannot correct the underlying deformation. Collectors typically downgrade condition ratings significantly for visible pinches, as the defect is permanent and affects both visual appeal and sonic performance.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pinch warp",
+    "crescent warp",
+    "edge pinch"
+  ],
+  "alt_spellings": [
+    "pinch-warp"
+  ],
+  "etymology": "Term derived from the pinching action of the press dies during manufacturing; documented in pressing plant quality control manuals from the 1960s onward as a recognized defect category.",
+  "first_use": 1965,
   "see_also": [
     "dish-warp",
     "edge-warp",
-    "outer-ring-clamp"
+    "outer-ring-clamp",
+    "saddle-warp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

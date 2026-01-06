@@ -1,21 +1,35 @@
 {
   "slug": "back-splice",
   "term": "Back-Splice",
-  "summary": "'**noun / verb.** The practice of taping or splicing two pieces of the same.",
-  "definition": "**noun / verb.** The practice of taping or splicing two pieces of the same breakbeat back-to-back on reel-to-reel or acetate to create an endless loop before samplers existed.",
+  "pos": "noun|verb",
+  "pronunciation": "/bæk splaɪs/",
+  "summary": "**noun / verb.** The practice of taping or splicing two pieces of the same.",
+  "definition": "**noun / verb.** The practice of taping or splicing two pieces of the same breakbeat back-to-back on reel-to-reel or acetate to create an endless loop before samplers existed. Pioneered by hip-hop innovators in the mid-1970s Bronx, DJs like Grandmaster Flash would physically cut and splice magnetic tape to isolate and repeat percussion breaks from funk and soul records. This labor-intensive technique allowed extended mixing of the same break without manually cueing two turntables, creating the foundation for breakbeat culture. The process required precision blade work and splicing tape to join the tape ends seamlessly, with any misalignment causing audible clicks or tempo disruptions. Back-splicing represented a crucial bridge between turntablism and sampling technology, demonstrating early hip-hop's technical ingenuity with limited resources. Once affordable samplers like the E-mu SP-1200 emerged in the mid-1980s, the practice largely disappeared, though it remains celebrated as a foundational DIY technique that shaped modern production aesthetics.",
   "tags": [
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "loop splice",
+    "break splice",
+    "tape loop"
+  ],
+  "alt_spelings": [
+    "backsplice",
+    "back splice"
+  ],
+  "etymology": "Derived from audio engineering term 'splice' (joining tape segments) combined with 'back' (indicating repetition of identical material), popularized in 1970s Bronx hip-hop community.",
+  "first_use": 1975,
   "see_also": [
     "edit",
     "reel-to-reel",
-    "breakbeat"
+    "breakbeat",
+    "acetate",
+    "loop"
   ],
   "regions": [
     "US"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

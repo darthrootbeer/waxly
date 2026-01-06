@@ -1,22 +1,39 @@
 {
   "slug": "new-old-stock-nos",
   "term": "New-Old-Stock",
-  "summary": "'**noun / retail / collector term.** Unused, unopened vintage inventory discovered.",
-  "definition": "**noun / retail / collector term.** Unused, unopened vintage inventory discovered after decades in storage — applies to sealed records, cartridges, or accessories.",
+  "pos": "noun",
+  "pronunciation": "/nuː oʊld stɑk/",
+  "summary": "**noun / retail / collector term.** Unused, unopened vintage inventory discovered.",
+  "definition": "**noun / retail / collector term.** Unused, unopened vintage inventory discovered after decades in storage — applies to sealed records, cartridges, or accessories. NOS items represent a time capsule of original manufacturing quality, still in factory-sealed condition with intact shrinkwrap, price stickers, and hype labels. The term originated in automotive and electronics surplus markets before entering vinyl collecting vocabulary in the 1980s as record store closures and warehouse liquidations began surfacing forgotten stock. NOS records command premium prices over played copies due to guaranteed mint condition and original pressing authenticity, though shrinkwrap degradation and ring wear can occur even without play. Common discoveries include overstock from distributors, unsold inventory from closed shops, or promotional copies never circulated. Differs from modern reissues or resealed copies — true NOS maintains unbroken chain of custody from pressing plant forward. Particularly prized for rare pressings, audiophile labels, and discontinued cartridge models where NOS represents the only source for unmolested original equipment. Collectors debate whether to open NOS finds or preserve sealed status, balancing playability against archival value.",
   "tags": [
     "equipment",
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "deadstock",
+    "old stock",
+    "warehouse stock",
+    "NOS"
+  ],
+  "alt_spellings": [
+    "New Old Stock",
+    "new-old stock"
+  ],
+  "etymology": "Borrowed from surplus retail terminology, particularly automotive parts markets where 'new-old-stock' described unused vintage components; adopted by record collectors circa 1980s.",
+  "first_use": 1985,
   "see_also": [
     "sealed-copy",
     "dead-stock",
     "warehouse-find"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

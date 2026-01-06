@@ -1,20 +1,36 @@
 {
   "slug": "full-range-speaker",
   "term": "Full-Range Speaker",
+  "pos": "noun",
+  "pronunciation": "/fʊl reɪndʒ ˈspiːkər/",
   "summary": "A speaker driver designed to reproduce as much of the audible frequency spectrum.",
-  "definition": "A speaker driver designed to reproduce as much of the audible frequency spectrum as possible from a single cone — common in vintage mono console stereos.",
+  "definition": "A speaker driver designed to reproduce as much of the audible frequency spectrum as possible from a single cone, typically covering frequencies from roughly 80Hz to 15kHz without requiring a crossover network or separate tweeters and woofers. Full-range drivers were the dominant speaker technology in console stereos and portable phonographs from the 1950s through the early 1970s, prized for their simplicity and coherent sound. Manufacturers like Jensen, Electro-Voice, and Altec Lansing produced highly regarded models that remain sought after by vintage audio enthusiasts. The single-driver design eliminates phase issues inherent in multi-way systems, creating a more unified soundstage that some listeners prefer for mono recordings and jazz. However, full-range speakers compromise deep bass extension and extreme high-frequency response compared to dedicated multi-driver systems. They experienced a resurgence in the 1990s among DIY audio builders and single-ended triode amplifier enthusiasts who value their efficiency (often 92dB or higher) and direct, uncolored midrange presentation. Modern audiophile manufacturers like Fostex and Lowther continue producing premium full-range drivers. Collectors value vintage full-range speakers for period-correct restoration of mid-century console systems and their distinctive sonic character on early mono pressings.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "full-range driver",
+    "single-driver speaker",
+    "wide-range speaker"
+  ],
+  "alt_spellings": [
+    "fullrange speaker",
+    "full range speaker"
+  ],
+  "etymology": "Coined in the 1940s when speaker manufacturers began marketing single drivers capable of reproducing the \"full range\" of audible frequencies, distinguishing them from earlier limited-bandwidth speakers designed for radio and telephone applications.",
+  "first_use": 1946,
   "see_also": [
     "coaxial-speaker",
     "two-way",
-    "acoustic-suspension"
+    "acoustic-suspension",
+    "console-stereo"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,20 +1,38 @@
 {
   "slug": "semi-automatic-turntable",
   "term": "Semi-Automatic Turntable",
-  "summary": "'**noun / hi-fi deck type.** A **turntable that automatically lifts and returns.",
-  "definition": "**noun / hi-fi deck type.** A **turntable that automatically lifts and returns the tonearm at the end of the record** but requires manual cueing at the start.",
+  "pos": "noun",
+  "pronunciation": "/ˈsɛmi ɔːtəˈmætɪk ˈtɜːrnˌteɪbəl/",
+  "summary": "**noun / hi-fi deck type.** A **turntable that automatically lifts and returns the tonearm at the end of the record** but requires manual cueing at the start.",
+  "definition": "**noun / hi-fi deck type.** A **turntable that automatically lifts and returns the tonearm at the end of the record** but requires manual cueing at the start. The mechanism uses a trigger arm or sensor positioned near the lead-out groove that activates when the stylus reaches the record's end, engaging a motor-driven mechanism to lift the tonearm and return it to its rest position. Most models also shut off the platter motor automatically. Introduced in the 1960s alongside fully-automatic designs, semi-automatic turntables became the preferred format for serious listeners who wanted manual cueing control for precise placement but appreciated automated protection against stylus wear and groove damage from run-out loops. Classic examples include the Technics SL-23, Dual CS-505, and Pioneer PL-570, which dominated the mid-fi market through the 1970s and 1980s. The format represents a practical compromise between the hands-on engagement of manual decks and the convenience of fully-automatic changers, though audiophiles sometimes argue the lift mechanism adds complexity that can affect sound quality. Semi-automatic tables experienced renewed interest in the vinyl revival era, with modern reinterpretations like the Audio-Technica AT-LP5x offering the feature to newcomers concerned about record preservation.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "semi-auto turntable",
+    "semi-automatic deck",
+    "auto-return turntable"
+  ],
+  "alt_spelings": [
+    "semiautomatic turntable",
+    "semi automatic turntable"
+  ],
+  "etymology": "Coined in the 1960s hi-fi industry to distinguish turntables with partial automation from fully-automatic changers and manual-only decks, combining the Latin prefix 'semi-' (half) with 'automatic' from Greek 'automatos' (self-acting).",
+  "first_use": 1962,
   "see_also": [
     "manual-turntable",
-    "fully-automatic-deck",
-    "q-up-auto-lifter"
+    "fully-automatic-turntable",
+    "tonearm",
+    "auto-return",
+    "cueing-lever"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

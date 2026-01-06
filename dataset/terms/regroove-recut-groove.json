@@ -1,20 +1,34 @@
 {
   "slug": "regroove-recut-groove",
   "term": "Regroove",
+  "pos": "noun",
+  "pronunciation": "/ˌriːˈɡruːv/",
   "summary": "'**noun / studio slang.** A **second pass of groove-cutting** on the same.",
-  "definition": "**noun / studio slang.** A **second pass of [groove](../g/groove-wear.md)-cutting** on the same side — either to fix errors or to add extra lead-in/out groove space.",
+  "definition": "**noun / studio slang.** A **second pass of [groove](../g/groove-wear.md)-cutting** on the same lacquer side — either to fix errors or to add extra lead-in/out groove space. During the mastering process, cutting engineers occasionally needed to restart a lacquer cut due to technical errors (stylus skips, level miscalculations, or feedback issues), or to adjust the spiral spacing for optimal playback. Rather than discard the entire lacquer disc, engineers would sometimes regroove the same blank, cutting a new spiral adjacent to or overlapping the rejected grooves. This practice was more common in the 1950s-70s when lacquer blanks were expensive and studio time pressured. Regrooved lacquers occasionally show visible ghost grooves or doubled lead-in areas under strong light. The practice declined as mastering precision improved and lacquer costs dropped, though emergency regrooves still occur in smaller studios. Collectors sometimes identify regrooved test pressings by unusual matrix markings or hand-etched notations indicating the second attempt.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "recut",
+    "second pass",
+    "groove recut"
+  ],
+  "alt_spellings": [
+    "re-groove",
+    "re groove"
+  ],
+  "etymology": "Mastering studio term combining 're-' (again) with 'groove,' emerging in acetate and lacquer cutting facilities during the late 1940s as engineers developed workarounds for costly cutting errors.",
+  "first_use": 1948,
   "see_also": [
     "re-cut-lacquer",
     "matrix-suffix",
     "hot-cut"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

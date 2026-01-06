@@ -1,20 +1,35 @@
 {
   "slug": "sound-wave",
   "term": "Sound-Wave Etching",
-  "summary": "'**noun / packaging gimmick.** A **decorative graphic of the song’s waveform**.",
-  "definition": "**noun / packaging gimmick.** A **decorative graphic of the song’s waveform** etched into dead-wax areas or printed across the jacket — purely visual flair.",
+  "pos": "noun",
+  "pronunciation": "/saʊnd weɪv ˈɛtʃɪŋ/",
+  "summary": "**noun / packaging gimmick.** A **decorative graphic of the song's waveform**.",
+  "definition": "**noun / packaging gimmick.** A **decorative graphic of the song's waveform** etched into dead-wax areas or printed across the jacket — purely visual flair. These representations of audio amplitude over time emerged in the 2010s as labels sought Instagram-friendly packaging elements. The waveform may correspond to the actual audio on the record or be entirely fictional. Dead-wax etchings appear on single-sided LPs or in the run-out groove area, where a laser engraver burns the pattern into the lacquer master. Jacket versions typically feature the waveform as spot-varnish, foil-stamping, or printed graphics across gatefolds. While sonically meaningless — the etching produces no sound and the visual bears no relationship to the physical groove modulation — collectors prize elaborate examples. Jack White's Third Man Records popularized the technique with holographic and multi-color variants. Modern pressings frequently combine waveform graphics with other visual gimmicks like colored vinyl or picture discs, maximizing shelf appeal over sonic consideration.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "waveform etching",
+    "audio waveform graphic",
+    "waveform art"
+  ],
+  "alt_spellings": [
+    "Soundwave Etching",
+    "Sound Wave Etching"
+  ],
+  "etymology": "Coined in early 2010s vinyl revival as digital audio workstation waveform displays became ubiquitous visual shorthand for music itself, transplanted to analog format as decorative element.",
+  "first_use": 2011,
   "see_also": [
     "etched-disc-edition",
     "gimmick-sleeve",
     "single-sided-lp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

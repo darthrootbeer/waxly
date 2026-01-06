@@ -1,21 +1,38 @@
 {
   "slug": "color-vinyl",
   "term": "Color-Vinyl Pressing",
+  "pos": "noun",
+  "pronunciation": "/ˈkʌlər ˈvaɪnəl ˈprɛsɪŋ/",
   "summary": "Vinyl records pressed in colored PVC instead of standard black carbon-loaded.",
-  "definition": "Vinyl records pressed in colored PVC instead of standard black carbon-loaded compound — can be opaque, [translucent](../t/translucent-vinyl-variant.md), or even marbled.",
+  "definition": "Vinyl records pressed in colored PVC instead of standard black carbon-loaded compound — can be opaque, translucent, or even marbled. First experimented with in the 1940s for children's records and novelty releases, color vinyl became a mainstream collectible format by the late 1970s punk and new wave era. The color is achieved by adding pigments to the PVC pellets before pressing, omitting the carbon black stabilizer used in standard records. Variations include solid colors (red, blue, green), transparent or translucent pressings, multi-color splatter effects, picture discs with embedded images, and limited-edition patterns like galaxy or smoke effects. Audiophiles debate whether color vinyl sounds inferior to black pressings due to the absence of carbon's noise-dampening properties, though modern manufacturing techniques have largely minimized sonic differences. Today, color vinyl serves primarily as a marketing tool for limited editions and Record Store Day exclusives, commanding premium prices and driving collector demand. Independent labels and reissue specialists frequently use color variants to differentiate pressings and create artificial scarcity in the vinyl marketplace.",
   "tags": [
     "pressing",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "colored vinyl",
+    "colour vinyl",
+    "coloured wax"
+  ],
+  "alt_spellings": [
+    "colour-vinyl pressing",
+    "color vinyl"
+  ],
+  "etymology": "Derived from the combination of 'color' (pigmented dye) and 'vinyl' (polyvinyl chloride), distinguishing these pressings from standard black records manufactured with carbon black additives since the 1940s.",
+  "first_use": 1949,
   "see_also": [
-    "picture",
+    "picture-disc",
     "splatter-vinyl",
-    "variant-edition"
+    "variant-edition",
+    "translucent-vinyl-variant"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

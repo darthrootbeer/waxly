@@ -1,21 +1,36 @@
 {
   "slug": "macro-groove",
   "term": "Macro",
+  "pos": "noun",
+  "pronunciation": "/ˈmækroʊ/",
   "summary": "'**noun / historical.** A wider groove format used on early LPs and most.",
-  "definition": "**noun / historical.** A wider [groove](../g/groove-wear.md) format used on early LPs and most 78-RPM records before the modern micro-groove standard. Requires a larger stylus tip (around 3 mil).",
+  "definition": "**noun / historical.** A wider [groove](../g/groove-wear.md) format used on early LPs and most 78-RPM records before the modern micro-groove standard. Requires a larger stylus tip (around 3 mil). Macro-groove records, also called standard groove or coarse groove, featured grooves approximately 0.003 inches (3 mils) wide, compared to the 0.001-inch (1 mil) width of micro-grooves introduced by Columbia in 1948. This wider spacing limited playing time to roughly 4-5 minutes per 10-inch 78-RPM side, necessitating frequent disc changes for longer performances. The transition to micro-groove technology enabled the LP format to hold 20-25 minutes per side at 33⅓ RPM, revolutionizing the album concept. Playing macro-groove records with a modern micro-groove stylus causes accelerated wear and poor sound quality; period-correct 78-RPM cartridges with 3-mil spherical or truncated styli are essential for proper playback. Collectors of early jazz, classical, and pre-1950 popular music must maintain dedicated macro-groove playback systems. Some early LPs pressed between 1948-1950 used macro-grooves during the transition period, creating rare variants that require careful identification and appropriate stylus selection.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "standard groove",
+    "coarse groove",
+    "78 groove"
+  ],
+  "alt_spellings": [
+    "macro groove",
+    "macrogroove"
+  ],
+  "etymology": "From Greek 'makros' (large) + 'groove,' coined in the late 1940s to distinguish older wide-groove records from Columbia's new 'micro-groove' LP technology.",
+  "first_use": 1948,
   "see_also": [
     "micro-groove",
     "stylus-size",
     "transcription-disc"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

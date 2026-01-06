@@ -1,21 +1,37 @@
 {
   "slug": "laminated-jacket",
   "term": "Laminated Jacket",
+  "pos": "noun",
+  "pronunciation": "/ˈlæmɪneɪtɪd ˈdʒækɪt/",
   "summary": "A jacket whose printed paper slick is coated in a thin glossy film or varnish,.",
-  "definition": "A jacket whose printed paper slick is coated in a thin glossy film or varnish, typical of mid-century European LPs.",
+  "definition": "A jacket whose printed paper slick is coated in a thin glossy film or varnish, creating a durable, high-gloss protective surface. This manufacturing technique became standard for European pressings during the 1960s and 1970s, particularly in Germany, France, and the Netherlands, where labels like Deutsche Grammophon and Philips employed lamination to protect artwork from wear and moisture. The laminate layer—typically polypropylene or cellulose acetate—was heat-pressed onto printed cardboard, producing a distinctive shiny finish that resists fingerprints and scuffing better than uncoated stock. Laminated jackets feel stiffer and smoother than their American counterparts, which typically used uncoated or tip-on construction. While prized for their durability and vibrant color reproduction, laminated covers are prone to edge wear where the film separates from the cardboard base, creating characteristic peeling or bubbling. Collectors often seek out original European laminated pressings for their superior sonic quality and distinctive tactile aesthetic, though the lamination process makes these jackets difficult to repair once damaged.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "laminated cover",
+    "glossy jacket",
+    "film-laminated sleeve"
+  ],
+  "alt_spellings": [
+    "laminate jacket"
+  ],
+  "etymology": "From Latin 'lamina' (thin plate or layer), referring to the industrial process of bonding plastic film to printed paper stock, adopted by European record manufacturers in the late 1950s.",
+  "first_use": 1958,
   "see_also": [
     "flip-back-sleeve",
-    "jacket-flap",
-    "uk-pressing"
+    "tip-on-sleeve",
+    "uk-pressing",
+    "gatefold"
   ],
   "regions": [
-    "US"
+    "EU",
+    "UK",
+    "DE",
+    "FR",
+    "NL"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

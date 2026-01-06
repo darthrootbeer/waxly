@@ -1,20 +1,35 @@
 {
   "slug": "tracking-test",
   "term": "Tracking-Test Record",
-  "summary": "'**noun / setup tool.** A **special test LP with progressively harder-to-track.",
-  "definition": "**noun / setup tool.** A **special test LP with progressively harder-to-track grooves** used to verify cartridge alignment, [anti](../a/anti-skate.md)-skate, and suspension health.",
+  "pos": "noun",
+  "pronunciation": "/ˈtrækɪŋ tɛst ˈrɛkərd/",
+  "summary": "**noun / setup tool.** A **special test LP with progressively harder-to-track grooves** used to verify cartridge alignment, anti-skate, and suspension health.",
+  "definition": "**noun / setup tool.** A **special test LP with progressively harder-to-track grooves** used to verify cartridge alignment, anti-skate, and suspension health. Introduced in the 1960s alongside high-fidelity stereo systems, tracking-test records feature bands of increasingly challenging modulation levels—typically ranging from 20 to 80+ microns of groove velocity—that stress a cartridge's ability to maintain contact without mistracking, distortion, or skipping. Professional models like the Shure TTR-103 and Audio Technica AT6180a became industry standards, used by dealers and enthusiasts to evaluate stylus condition, vertical tracking force (VTF), azimuth accuracy, and anti-skate calibration. Each band produces pure tones or musical passages at escalating amplitudes; failure manifests as buzzing, breakup, or channel dropout. Beyond setup verification, these records diagnose worn styli, damaged cantilevers, and misaligned cartridges before they damage valuable LPs. While digital test equipment has supplanted some functions, tracking-test records remain essential tools for analog purists, offering real-world proof of a turntable's performance envelope. Vintage test pressings from CBS, Ortofon, and Hi-Fi News command collector interest, though modern reissues serve practical needs better.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "test record",
+    "torture test LP",
+    "cartridge test disc"
+  ],
+  "alt_spellings": [
+    "Tracking Test Record",
+    "tracking-test LP"
+  ],
+  "etymology": "Coined in the early 1960s from 'tracking' (a stylus following groove modulations) and 'test,' reflecting the rise of consumer hi-fi culture and the need for standardized setup verification tools.",
+  "first_use": 1962,
   "see_also": [
-    "skip-test",
-    "anti-skate-track",
-    "hf-sweep-band"
+    "anti-skate",
+    "cartridge",
+    "vertical-tracking-force"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

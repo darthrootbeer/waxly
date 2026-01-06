@@ -1,20 +1,35 @@
 {
   "slug": "photo-etched-b-side",
   "term": "Photo-Etched B-Side",
+  "pos": "noun",
+  "pronunciation": "/ˈfoʊtoʊ ɛtʃt biː saɪd/",
   "summary": "'**noun / decorative pressing.** A laser- or photo-etched decorative design.",
-  "definition": "**noun / decorative pressing.** A laser- or photo-etched decorative design applied to the non-playable side of a one-sided LP.",
+  "definition": "**noun / decorative pressing.** A laser- or photo-etched decorative design applied to the non-playable side of a one-sided LP. The technique uses photographic masking and chemical etching or direct laser engraving to burn images, artwork, or text into the lacquer master before electroplating. Emerging in the late 1990s as pressing technology advanced, photo-etched B-sides became popular for limited edition releases, picture disc alternatives, and special collector pressings. The etched side produces no audio when played, instead creating visual interest through band logos, album artwork reproductions, lyric excerpts, or abstract designs. Quality varies significantly—shallow etchings may be barely visible, while deep laser engravings create dramatic contrast under light. Some collectors prize these pressings for their aesthetic appeal, though others criticize them as gimmicky or worry about stylus damage from accidental play. Modern indie labels frequently employ photo-etching for deluxe editions and Record Store Day exclusives, where the visual element justifies premium pricing and enhances shelf appeal.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "etched B-side",
+    "laser-etched side",
+    "engraved B-side"
+  ],
+  "alt_spellings": [
+    "Photo Etched B-Side",
+    "Photoetched B-Side"
+  ],
+  "etymology": "Combines photographic etching techniques borrowed from printmaking with vinyl pressing terminology, reflecting the hybrid manufacturing process introduced in late 1990s boutique pressing plants.",
+  "first_use": 1998,
   "see_also": [
     "etched-side",
     "one-sided-lp",
-    "limited"
+    "picture-disc",
+    "limited-edition"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

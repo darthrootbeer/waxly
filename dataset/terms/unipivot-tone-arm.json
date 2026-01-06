@@ -1,15 +1,34 @@
 {
   "slug": "unipivot-tone-arm",
-  "term": "Unipivot Tone",
+  "term": "Unipivot Tonearm",
+  "pos": "noun",
+  "pronunciation": "/ˈjuːnɪˌpɪvət ˈtoʊn ɑːrm/",
   "summary": "Unipivot Tone-Arm.",
-  "definition": "# Unipivot Tone",
+  "definition": "A tonearm design that balances on a single bearing point, allowing free movement in all directions around one central pivot. Unlike conventional gimbal designs that use multiple bearings, the unipivot relies on gravity and counterweights to maintain stability, offering theoretically lower friction and resonance. Introduced in the 1960s by manufacturers like Audio-Technica and Rega, unipivots gained serious audiophile attention through high-end brands like VPI, Clearaudio, and Graham Engineering in the 1980s-90s. The design excels at tracking micro-grooves with minimal resistance, though it requires careful setup and can exhibit slight side-to-side instability. Modern unipivots often incorporate magnetic stabilization or damping systems to control unwanted movement. Enthusiasts praise their transparent, detailed sound character, while critics note setup sensitivity and potential azimuth drift. The design remains popular in premium turntables, representing a purist approach to minimizing mechanical interference in the vinyl playback chain.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "unipivot arm",
+    "single-point tonearm"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "uni-pivot tonearm",
+    "unipivot tone arm"
+  ],
+  "etymology": "From 'uni-' (Latin for one) + 'pivot' (French pivoter, to turn on a point), describing the single-point bearing design that distinguishes it from multi-bearing gimbal tonearms.",
+  "first_use": 1966,
+  "see_also": [
+    "gimbal-tonearm",
+    "cartridge",
+    "tracking-force"
+  ],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,30 @@
 {
   "slug": "neo-soul",
   "term": "Neo-Soul",
+  "pos": "noun",
+  "pronunciation": "/ˌniːoʊˈsoʊl/",
   "summary": "'**Neo-Soul** - A musical style within the Soul genre, classified according.",
-  "definition": "A specific musical style within the broader soul genre classification.",
+  "definition": "A contemporary evolution of traditional soul music that emerged in the mid-1990s, blending classic soul, R&B, jazz, funk, and hip-hop production techniques. Pioneered by artists like D'Angelo, Erykah Badu, and Maxwell, neo-soul rejected the highly polished, commercial sound of mainstream R&B in favor of organic instrumentation, live musicianship, and socially conscious lyrics. The movement gained momentum through the Soulquarians collective in New York, producing landmark albums like D'Angelo's \"Voodoo\" (2000) and Erykah Badu's \"Baduizm\" (1997). Characterized by warm analog production, Fender Rhodes keyboards, vintage drum breaks, and introspective songwriting, neo-soul became a cornerstone of vinyl collecting in the late 1990s and 2000s. Original pressings of key neo-soul albums command premium prices among collectors, particularly Japanese and audiophile editions. The genre's emphasis on analog warmth and groove-oriented production makes it ideally suited to vinyl playback, with many contemporary artists in the tradition releasing vinyl-first or vinyl-exclusive editions.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "progressive soul",
+    "alternative soul"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Neo Soul",
+    "Neosoul"
+  ],
+  "etymology": "Coined by music industry executive Kedar Massenburg in the late 1990s, combining 'neo' (Greek for 'new') with 'soul' to distinguish the emerging sound from contemporary commercial R&B while honoring classic soul traditions.",
+  "first_use": 1997,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

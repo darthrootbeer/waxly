@@ -1,20 +1,36 @@
 {
   "slug": "turntable-isolation-platform",
   "term": "Turntable Isolation Platform",
-  "summary": "'**noun / hi-fi accessory.** A **dedicated stand or floating platform that.",
-  "definition": "**noun / hi-fi accessory.** A **dedicated stand or floating platform that decouples a turntable from floor-borne vibration** — often uses sorbothane feet, springs, or constrained-layer shelves.",
+  "pos": "noun",
+  "pronunciation": "/ˈtɜrn.teɪ.bəl ˌaɪ.səˈleɪ.ʃən ˈplæt.fɔrm/",
+  "summary": "**noun / hi-fi accessory.** A **dedicated stand or floating platform that decouples a turntable from floor-borne vibration** — often uses sorbothane feet, springs, or constrained-layer shelves.",
+  "definition": "**noun / hi-fi accessory.** A **dedicated stand or floating platform that decouples a turntable from floor-borne vibration** — often uses sorbothane feet, springs, or constrained-layer shelves. Emerged in the 1970s as audiophiles recognized that footfalls, speaker feedback, and structural resonance could reach the stylus and degrade sound quality. Early solutions included sand-filled plinths and DIY concrete slabs; by the 1980s, commercial platforms using elastomer isolation, pneumatic bladders, or mass-loaded constrained-layer damping became standard in high-end systems. Modern designs range from simple sorbothane pucks ($20-50) to engineering-grade platforms with tuned spring arrays and magnetic levitation ($500-3,000). Particularly critical for suspended-subchassis turntables and installations near speakers or on upper floors. Effectiveness measured by resonance frequency reduction—quality platforms isolate below 3Hz. Audiophile debates persist over material choice: some prefer inert mass (granite, butcher block), others favor active damping. Wall-mounted shelves offer superior isolation by bypassing floor coupling entirely. Essential for extracting maximum fidelity from high-resolution cartridges where microphonic interference becomes audible.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "isolation platform",
+    "vibration isolation base",
+    "turntable platform",
+    "anti-vibration platform"
+  ],
+  "alt_spellings": [
+    "turntable isolation-platform"
+  ],
+  "etymology": "Compound term combining 'turntable' with 'isolation platform' from engineering vibration control terminology; adopted by hi-fi industry in mid-1970s as audiophile awareness of mechanical feedback grew.",
+  "first_use": 1975,
   "see_also": [
     "wall-shelf-mount",
     "sorbothane-footer",
     "suspended-sub-chassis-deck"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

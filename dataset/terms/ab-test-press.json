@@ -1,21 +1,39 @@
 {
   "slug": "ab-test-press",
   "term": "A/B Test Press",
+  "pos": "noun",
+  "pronunciation": "/ˈeɪ.biː tɛst prɛs/",
   "summary": "A preliminary batch of records pressed by a plant in two slightly different.",
-  "definition": "A preliminary batch of records pressed by a plant in two slightly different ways — for example, using different lacquers, vinyl compounds, or groove depths — to compare sound quality before committing to a full run.",
+  "definition": "A preliminary batch of records pressed by a plant in two slightly different ways — for example, using different lacquers, vinyl compounds, or groove depths — to compare sound quality before committing to a full run. This quality control practice emerged in the 1960s as audiophile labels and discerning artists sought to optimize pressing parameters for each master recording. The plant typically produces small quantities of each variant, often 5-10 copies per configuration, which are then auditioned by the mastering engineer, producer, or label owner on reference playback systems. Variables tested include vinyl formulations (virgin versus recycled compounds), plating generations (father versus mother stampers), pressing temperature, and cooling time. The winning configuration becomes the production standard for the commercial run. A/B test pressings are highly prized by collectors due to their extreme rarity and documentary value, often commanding prices several times higher than standard test pressings when they surface on the secondary market.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "comparison test press",
+    "variant test press",
+    "A-B test"
+  ],
+  "alt_spellings": [
+    "AB test press",
+    "A/B testpress",
+    "A-B test press"
+  ],
+  "etymology": "Derived from scientific A/B testing methodology, applied to vinyl manufacturing quality control during the audiophile era of the 1960s-70s.",
+  "first_use": 1965,
   "see_also": [
     "test-press",
     "lacquer-cut",
-    "first"
+    "stamper",
+    "plating",
+    "virgin-vinyl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

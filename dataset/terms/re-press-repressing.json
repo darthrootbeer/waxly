@@ -1,15 +1,32 @@
 {
   "slug": "re-press-repressing",
   "term": "Re-Press",
+  "pos": "noun",
+  "pronunciation": "/ˈriː.prɛs/",
   "summary": "Re-Press / Repressing.",
-  "definition": "# Re-Press",
+  "definition": "# Re-Press\n\nA subsequent pressing of a vinyl record made from the original master tapes or stampers after the initial manufacturing run has concluded. Re-presses are authorized reproductions that maintain the original catalog number and label design, distinguishing them from reissues (which often feature new catalog numbers or packaging) and bootlegs (which are unauthorized). The practice became common in the 1960s when labels began responding to sustained demand for popular titles without creating entirely new releases.\n\nRe-presses can be pressed years or decades after the original, sometimes using different pressing plants or degraded stampers, which may affect sound quality. Collectors scrutinize matrix runout codes, label variations, and vinyl weight to identify pressing generations. Notable examples include The Beatles' albums, which saw dozens of re-presses throughout the 1970s-80s, and classic Blue Note jazz titles that were re-pressed extensively to meet collector demand. Modern re-presses often tout remastering from original tapes or audiophile-grade vinyl (180g+) as selling points, though purists typically prefer first pressings for their sonic superiority and historical authenticity.",
   "tags": [
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "US"
+  "aliases": [
+    "repressing",
+    "subsequent pressing",
+    "later pressing"
   ],
-  "pos": "verb"
+  "alt_spellings": [
+    "repress",
+    "re-pressing"
+  ],
+  "etymology": "Compound of prefix 're-' (again) and 'press' (to manufacture records), emerging in vinyl manufacturing terminology during the 1960s as the record industry standardized production practices.",
+  "first_use": 1963,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

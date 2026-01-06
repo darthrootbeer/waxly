@@ -1,15 +1,27 @@
 {
   "slug": "ambient",
   "term": "Ambient",
+  "pos": "noun",
+  "pronunciation": "/ˈæmbiənt/",
   "summary": "'**Ambient** - A musical style within the Experimental genre, classified.",
-  "definition": "A specific musical style within the broader experimental genre classification.",
+  "definition": "A musical genre characterized by atmospheric soundscapes, minimal rhythmic structure, and emphasis on tone and mood over traditional composition. Pioneered by Brian Eno with his 1978 album \"Ambient 1: Music for Airports,\" the style prioritizes texture and space, designed to enhance environments without demanding active listening. Ambient music on vinyl gained significant collector interest through limited pressings of early works by Eno, Harold Budd, and Cluster, with original pressings of seminal albums commanding premium prices. The format's warm analog characteristics particularly complement ambient's emphasis on tonal depth and subtle sonic detail. Modern ambient releases often appear on heavyweight vinyl with extended playing times that challenge the format's technical limitations, while reissue labels like Numero Group and RVNG Intl. have brought obscure ambient works back to vinyl, introducing the genre to new audiences and driving collector demand for both original and remastered editions.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "ambient music",
+    "atmospheric music"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Coined by Brian Eno in 1978, derived from the Latin 'ambientem' meaning 'surrounding,' to describe music intended to blend with environmental sound and create atmosphere.",
+  "first_use": 1978,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

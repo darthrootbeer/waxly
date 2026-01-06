@@ -1,15 +1,29 @@
 {
   "slug": "noise",
   "term": "Noise",
+  "pos": "noun",
+  "pronunciation": "/nɔɪz/",
   "summary": "'**Noise** - A musical style within the Experimental genre, classified according.",
-  "definition": "A specific musical style within the broader experimental genre classification.",
+  "definition": "A confrontational musical style within the experimental genre that emphasizes dissonance, atonality, and unconventional sound sources over traditional melody and harmony. Emerging from the avant-garde movements of the 1960s-70s, noise music embraces feedback, distortion, static, and industrial sounds as primary compositional elements. Key practitioners include Merzbow, Whitehouse, and Throbbing Gristle, who established the genre's aesthetic through extreme volume, harsh textures, and sonic aggression. The style encompasses various subgenres from power electronics to harsh noise wall (HNW), often pressed on vinyl in limited editions for underground collectors. Noise records frequently feature locked grooves, unconventional mastering choices, and artwork reflecting the genre's transgressive nature. While challenging to mainstream audiences, noise maintains dedicated followings in US, European, and Japanese underground scenes, with vinyl releases serving as artifacts of the genre's anti-commercial ethos and commitment to physical media as art object.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "noise music",
+    "harsh noise"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Noise Music"
+  ],
+  "etymology": "Derived from the broader concept of 'noise' as unwanted sound, repurposed by experimental musicians in the 1960s-70s to describe intentional use of non-musical sonic elements as artistic expression.",
+  "first_use": 1975,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

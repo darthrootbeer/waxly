@@ -1,21 +1,36 @@
 {
   "slug": "record-changer-stack",
   "term": "Record Changer",
-  "summary": "'**noun / vintage hardware.** A **turntable with an auto-drop spindle** that.",
-  "definition": "**noun / vintage hardware.** A **turntable with an auto-drop spindle** that can stack several records and play them sequentially — common in home consoles mid-20th century.",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛkərd ˈtʃeɪndʒər/",
+  "summary": "**noun / vintage hardware.** A **turntable with an auto-drop spindle** that can stack several records and play them sequentially — common in home consoles mid-20th century.",
+  "definition": "**noun / vintage hardware.** A **turntable with an auto-drop spindle** that can stack several records and play them sequentially — common in home consoles mid-20th century. The mechanism used an extended spindle that held multiple records (typically 6-10) stacked vertically, automatically dropping the next disc onto the platter when the previous one finished. A mechanical trip mechanism sensed the tonearm's return to trigger the drop cycle. Popular manufacturers included Garrard, BSR, and Webcor, with models ranging from budget department-store units to premium console installations. The format peaked during the 1950s-60s when convenience trumped audiophile concerns, allowing uninterrupted playback of entire albums or mixed programs. However, the design had significant drawbacks: records stacked against each other risked surface scratches, the drop mechanism could cause edge damage, and tracking force was often heavy to prevent skipping. Modern collectors generally avoid changers due to their reputation for record wear, though fully restored vintage units have nostalgic appeal. The technology became obsolete with the rise of tape decks and later CD changers, though the auto-return tonearm feature survived in quality turntables.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "automatic record changer",
+    "stack player",
+    "auto-changer"
+  ],
+  "alt_spellings": [
+    "record-changer",
+    "recordchanger"
+  ],
+  "etymology": "Coined in the 1920s when automatic phonograph mechanisms first enabled sequential play without manual intervention, combining 'record' with 'changer' to emphasize the labor-saving automation that distinguished it from manual turntables.",
+  "first_use": 1927,
   "see_also": [
     "auto-return-arm",
     "console-player",
     "portable-changer"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

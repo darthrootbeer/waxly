@@ -1,20 +1,35 @@
 {
   "slug": "eight-track-cartridge",
   "term": "Eight-Track",
+  "pos": "noun",
+  "pronunciation": "/eɪt træk/",
   "summary": "A continuous-loop magnetic-tape cartridge format popular in cars during the.",
-  "definition": "A continuous-loop magnetic-tape cartridge format popular in cars during the ’60s-’70s; often issued alongside LPs for portable listening.",
+  "definition": "A continuous-loop magnetic-tape cartridge format that dominated portable music playback from the mid-1960s through the late 1970s, particularly in automotive applications. Developed by Bill Lear (founder of Lear Jet Corporation) and launched commercially in 1965, the format used quarter-inch magnetic tape wound in an endless loop, divided into eight parallel tracks that played in four stereo programs. Unlike cassettes, eight-tracks required no tape flipping—the playback head simply shifted position to access different program pairs. Major labels issued eight-tracks alongside LPs throughout the format's heyday, often with altered track sequences to accommodate the four-program structure and avoid mid-song fadeouts during program changes. Ford's adoption of eight-track players as factory-installed car stereo options in 1966 accelerated mainstream acceptance. The format's decline began in the late 1970s as compact cassettes offered superior sound quality, smaller size, and rewind capability. Today, eight-tracks hold nostalgic appeal for collectors of 1970s rock, soul, and country releases, with rare titles and sealed cartridges commanding premium prices despite the format's technical limitations and tape-degradation issues.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "8-track",
+    "Stereo 8",
+    "eight-track tape"
+  ],
+  "alt_spellings": [
+    "8-track",
+    "eight track"
+  ],
+  "etymology": "Named for its eight parallel magnetic tracks (four stereo pairs) on quarter-inch tape; formally marketed as 'Stereo 8' by manufacturers.",
+  "first_use": 1965,
   "see_also": [
-    "cassette-single",
-    "lp",
-    "compilation"
+    "cassette",
+    "compact-disc",
+    "reel-to-reel"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

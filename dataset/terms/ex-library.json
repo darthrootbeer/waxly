@@ -1,20 +1,35 @@
 {
   "slug": "ex-library",
   "term": "Ex-Library Copy",
+  "pos": "noun",
+  "pronunciation": "/ˌɛks ˈlaɪˌbrɛri ˈkɑpi/",
   "summary": "'**noun / slang.** A second-hand record deaccessioned from a public or school.",
-  "definition": "**noun / slang.** A second-hand record deaccessioned from a public or school library collection — usually marked by stickers, stamps, or catalog cards.",
+  "definition": "**noun / slang.** A second-hand record deaccessioned from a public or school library collection — usually marked by stickers, stamps, or catalog cards. Libraries began collecting records in the 1940s as educational resources and lending materials, particularly for classical, jazz, and spoken word recordings. When culling collections due to damage, format obsolescence, or space constraints, libraries sell or donate these records, which then enter the collector market. Ex-library copies typically bear distinctive markings: adhesive call number labels on covers, ink stamps on labels or jackets, catalog pockets glued to sleeves, or holes punched through corners. These defects significantly reduce collector value, often by 50-80% compared to clean copies. However, ex-library records can offer affordable access to rare titles, especially obscure educational recordings, regional pressings, or out-of-print classical performances that rarely surface elsewhere. Condition varies widely — some library copies were seldom played and remain sonically excellent despite cosmetic flaws, while heavily circulated titles may be worn beyond playability. Collectors debate whether to remove library markings, though purists argue this constitutes damage to provenance.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "library copy",
+    "library discard",
+    "deaccessioned record"
+  ],
+  "alt_spellings": [
+    "ex-lib",
+    "ex library"
+  ],
+  "etymology": "From Latin 'ex' (out of, from) combined with 'library,' describing records removed from institutional collections. The term emerged in record collecting circles by the 1970s as libraries began deaccessioning vinyl holdings.",
+  "first_use": 1970,
   "see_also": [
-    "45-adapter",
-    "changer",
-    "drop-spindle"
+    "cutout",
+    "promo-copy",
+    "white-label"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

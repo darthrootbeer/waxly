@@ -1,20 +1,35 @@
 {
   "slug": "polylined-rice",
   "term": "Polylined Rice-Paper Sleeve",
+  "pos": "noun",
+  "pronunciation": "/ˈpɒlilaɪnd raɪs ˈpeɪpər sliːv/",
   "summary": "'**noun / archival inner.** A premium ultra-thin rice-paper inner with anti-static.",
-  "definition": "**noun / archival inner.** A premium ultra-thin rice-paper inner with [anti](../a/anti-skate.md)-static poly lining, popularized by Mobile Fidelity Sound Lab.",
+  "definition": "**noun / archival inner.** A premium ultra-thin rice-paper inner with anti-static poly lining, popularized by Mobile Fidelity Sound Lab. Introduced in the late 1970s as audiophile vinyl culture demanded better storage solutions, these sleeves combine the soft, non-abrasive surface of Japanese rice paper with a transparent polyethylene liner that prevents static buildup and provides additional protection against dust infiltration. The rice paper layer prevents scratching during insertion and removal, while the poly layer acts as a moisture barrier and eliminates the static charge that attracts particles to record surfaces. MFSL's Original Master Sleeves became the gold standard, widely adopted for archival-grade collections and high-value pressings. The translucent construction allows visual inspection without removing the record. Modern variants include round-bottom designs that eliminate corner stress points. Significantly more expensive than standard paper sleeves ($0.50-$1.50 each versus $0.05), they're considered essential for protecting rare pressings, first editions, and audiophile reissues where preservation of mint condition directly impacts resale value.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "MFSL sleeve",
+    "rice paper inner",
+    "archival inner sleeve"
+  ],
+  "alt_spelings": [
+    "poly-lined rice paper sleeve",
+    "poly lined rice-paper sleeve"
+  ],
+  "etymology": "Term emerged from Mobile Fidelity Sound Lab's proprietary sleeve design combining traditional Japanese rice paper manufacturing with modern polyethylene lining technology for audiophile record protection.",
+  "first_use": 1978,
   "see_also": [
     "poly-lined-inner",
     "archival-sleeve",
     "anti-static-treatment"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

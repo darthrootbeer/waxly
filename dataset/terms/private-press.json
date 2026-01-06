@@ -1,21 +1,36 @@
 {
   "slug": "private-press",
   "term": "Private-Press",
+  "pos": "noun",
+  "pronunciation": "/ˈpraɪvət prɛs/",
   "summary": "'**noun / cultural / collector term.** A small-batch record self-funded by.",
-  "definition": "**noun / cultural / collector term.** A small-batch record self-funded by an artist, school, or local group and manufactured by a commercial plant outside the major-label system.",
+  "definition": "**noun / cultural / collector term.** A small-batch record self-funded by an artist, school, or local group and manufactured by a commercial plant outside the major-label system. These releases emerged prominently in the 1960s-70s when pressing minimums dropped and musicians could afford runs of 100-1000 copies for local distribution. Private-presses span all genres but are especially associated with folk, psych, gospel, and early punk scenes where artists bypassed gatekeepers entirely. Pressings typically feature handmade covers, minimal distribution networks (often direct sales at gigs or regional shops), and zero promotional support. The term gained collector currency in the 1990s as crate-diggers discovered obscure gems with compelling backstories and minuscule survival rates. Original copies now command premium prices ($100-$5000+) depending on rarity and musical quality. Modern reissue labels like Drag City and Numero Group have built catalogs excavating private-press obscurities, while contemporary artists occasionally use the format for ultra-limited art projects, maintaining the tradition of self-determined, small-scale vinyl production.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "private pressing",
+    "self-pressed record",
+    "vanity press"
+  ],
+  "alt_spellings": [
+    "private press",
+    "privatepress"
+  ],
+  "etymology": "Adapted from book publishing's 'private press' tradition, referring to self-funded production outside commercial distribution channels. Applied to vinyl records as pressing technology became accessible to individuals in the 1960s.",
+  "first_use": 1965,
   "see_also": [
     "vanity-pressing",
     "regional-label",
-    "post-punk"
+    "test-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

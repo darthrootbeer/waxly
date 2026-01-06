@@ -1,13 +1,21 @@
 {
   "slug": "classical",
   "term": "Classical",
+  "pos": "noun",
+  "pronunciation": "/ˈklæsɪkəl/",
   "summary": "**Classical** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize Western art music spanning roughly 1000 CE to the present. The term encompasses multiple historical periods including Medieval, Renaissance, Baroque, Classical (1750-1820), Romantic, and Modern/Contemporary eras. Within vinyl collecting, Classical records represent a significant market segment distinguished by specialized pressing practices, audiophile-grade mastering, and detailed liner notes documenting composers, performers, conductors, and orchestras. Major labels like Deutsche Grammophon, Decca, RCA Red Seal, and Columbia Masterworks established premium vinyl lines throughout the LP era (1950s-1980s), often utilizing heavyweight virgin vinyl and meticulous quality control. Classical pressings frequently feature unique identifiers including catalog numbering systems, matrix codes indicating pressing plants, and multiple editions across international markets. Collectors prize original mono pressings from the 1950s, early stereo releases, and specific pressings known for superior sound quality, such as RCA Living Stereo or Mercury Living Presence.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Art Music",
+    "Western Classical",
+    "Concert Music"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from Latin 'classicus' meaning 'of the highest class.' Applied to music in the 18th century to denote compositions following established formal principles, later broadened to encompass all Western art music traditions.",
+  "first_use": 1836,
   "see_also": [
     "baroque",
     "romantic",
@@ -16,7 +24,12 @@
     "symphony"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

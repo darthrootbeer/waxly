@@ -1,21 +1,38 @@
 {
   "slug": "moving-coil",
   "term": "Moving-Coil Cartridge",
+  "pos": "noun",
+  "pronunciation": "/ˈmuːvɪŋ kɔɪl ˈkɑːtrɪdʒ/",
   "summary": "noun / technical. A phono cartridge design where the stylus moves tiny coils.",
-  "definition": "**noun / technical.** A phono cartridge design where the stylus moves tiny coils of wire within a fixed magnetic field — opposite of the moving-magnet design — delivering low output but exceptional transient detail.",
+  "definition": "**noun / technical.** A phono cartridge design where the stylus moves tiny coils of wire within a fixed magnetic field — opposite of the moving-magnet design — delivering low output but exceptional transient detail. Developed in the 1930s but perfected for consumer use by Ortofon in the 1940s, moving-coil cartridges attach lightweight coils directly to the cantilever, reducing moving mass and improving high-frequency response and tracking precision. The trade-off is significantly lower output voltage (typically 0.2-0.5mV versus 3-5mV for moving-magnet designs), requiring either a step-up transformer or high-gain phono preamp. Audiophiles prize MC cartridges for their superior detail retrieval, tighter bass control, and three-dimensional soundstaging, though they command premium prices ranging from $300 to over $15,000. Most moving-coil designs feature non-replaceable styli, requiring factory retipping rather than user replacement. The format dominated high-end turntable setups from the 1970s onward, with legendary models from Koetsu, Lyra, and Denon achieving cult status. Modern variants include low-output, high-output, and micro-coil designs, each offering different balances of sensitivity and sonic character.",
   "tags": [
     "equipment",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "MC cartridge",
+    "MC",
+    "moving coil"
+  ],
+  "alt_spellings": [
+    "moving coil cartridge"
+  ],
+  "etymology": "Named for its operating principle where coils of wire attached to the stylus cantilever move within a stationary magnetic field, generating electrical signal through electromagnetic induction. Term standardized in audio engineering literature by the 1950s.",
+  "first_use": 1938,
   "see_also": [
     "moving-magnet",
     "step-up-transformer",
-    "cartridge-compliance"
+    "cartridge-compliance",
+    "phono-preamp",
+    "retipping"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

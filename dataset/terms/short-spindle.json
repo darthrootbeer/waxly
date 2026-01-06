@@ -1,20 +1,36 @@
 {
   "slug": "short-spindle",
   "term": "Short-Spindle Adapter",
+  "pos": "noun",
+  "pronunciation": "/ʃɔrt ˈspɪndəl əˈdæptər/",
   "summary": "'**noun / hardware accessory.** A **small removable insert** that fits the.",
-  "definition": "**noun / hardware accessory.** A **small removable insert** that fits the large center hole of U.S. 45 RPM singles, allowing play on a standard-diameter spindle.",
+  "definition": "**noun / hardware accessory.** A **small removable insert** that fits the large center hole of U.S. 45 RPM singles, allowing play on a standard-diameter spindle. These plastic or metal adapters, typically measuring 1.5 inches in outer diameter, reduce the 45's 1.5-inch center hole to fit the standard 0.286-inch LP spindle found on most turntables. Introduced in the late 1940s alongside RCA Victor's 45 RPM format, the adapter became essential hardware as the seven-inch single dominated popular music through the 1950s-80s. The classic design features a solid circular body with three or four grip notches, though variations include the spider adapter with extended arms and the dome-style puck adapter favored by DJs for quick removal. While 45s with small spindle holes (dinked centers) were common in the UK and Europe, U.S. pressings retained the large hole, making adapters ubiquitous in American homes. Modern collectors and DJs still rely on these humble devices, with vintage metal adapters from the 1950s-60s considered more durable than contemporary plastic versions.",
   "tags": [
     "dj-related"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "45 adapter",
+    "spindle insert",
+    "7-inch adapter",
+    "spider",
+    "puck adapter"
+  ],
+  "alt_spellings": [
+    "short spindle adapter",
+    "short-spindle insert"
+  ],
+  "etymology": "Developed concurrently with RCA Victor's 45 RPM format launch in 1949, designed to accommodate the large center hole that enabled rapid automatic record changers while maintaining compatibility with standard turntable spindles.",
+  "first_use": 1949,
   "see_also": [
     "spider-insert",
     "dinked-center-45",
     "pop-out-center"
   ],
   "regions": [
-    "US"
+    "US",
+    "CA",
+    "JP"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

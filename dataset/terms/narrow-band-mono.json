@@ -1,21 +1,36 @@
 {
   "slug": "narrow-band-mono",
   "term": "Narrow",
+  "pos": "noun",
+  "pronunciation": "/ˈnæroʊ/",
   "summary": "'**noun / historical audio term.** Mono mixes with intentionally reduced.",
-  "definition": "**noun / historical audio term.** Mono mixes with intentionally reduced frequency range (narrow-band) to suit AM radio or jukebox playback during the 1940s-60s.",
+  "definition": "**noun / historical audio term.** Mono mixes with intentionally reduced frequency range (narrow-band) to suit AM radio or jukebox playback during the 1940s-60s. Engineers created these specialized masters by rolling off frequencies below 100Hz and above 8-10kHz, optimizing recordings for the bandwidth limitations of AM broadcast transmitters and coin-operated jukeboxes. The practice emerged as record labels discovered that bass-heavy or bright mixes often distorted on radio or caused jukebox needles to skip. Studios maintained separate narrow-band cutting lathes or applied dedicated EQ curves during mastering. These mixes prioritized midrange clarity and vocal presence over full-spectrum fidelity, ensuring commercial viability in an era when radio airplay drove sales. The technique declined as FM radio gained dominance in the late 1960s and hi-fi home systems became affordable. Original narrow pressings are now valued by collectors for their historical significance, though audiophiles typically prefer later wide-band or stereo remasters. Some DJ-oriented reissue labels deliberately reference narrow-band characteristics when cutting 45s for jukebox restoration projects.",
   "tags": [
     "dj-related",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "narrow-band mix",
+    "radio mix",
+    "AM mix",
+    "jukebox cut"
+  ],
+  "alt_spellings": [
+    "narrowband mono",
+    "narrow band mono"
+  ],
+  "etymology": "Derived from audio engineering terminology describing bandwidth restrictions, combining 'narrow' (limited frequency range) with 'band' (spectrum segment). Term standardized in mastering studios during the late 1940s as AM radio became the primary promotional medium for recorded music.",
+  "first_use": 1948,
   "see_also": [
     "high-fidelity",
     "am-mix",
     "mid-side-fold-down"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

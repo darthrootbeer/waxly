@@ -1,15 +1,29 @@
 {
   "slug": "ska",
   "term": "Ska",
+  "pos": "noun",
+  "pronunciation": "/skɑː/",
   "summary": "'**Ska** - A musical style within the Reggae genre, classified according.",
-  "definition": "A specific musical style within the broader reggae genre classification.",
+  "definition": "A precursor and subgenre of reggae that originated in Jamaica in the late 1950s, characterized by a walking bass line accented with rhythms on the off-beat (the upstroke of the guitar or piano). Ska emerged from the fusion of Caribbean mento and calypso with American jazz and rhythm and blues, creating a distinctive sound that dominated Jamaican music before evolving into rocksteady and eventually reggae. The genre experienced a major revival in the late 1970s with the UK's 2 Tone movement, blending punk energy with traditional ska rhythms, and again in the 1990s with American third-wave ska-punk bands. Original Jamaican ska pressings from labels like Studio One, Treasure Isle, and Coxsone are highly collectible, often featuring distinctive picture sleeves and commanding premium prices. The genre's vinyl legacy spans multiple eras and pressing qualities, from rare original Jamaican 7-inches to UK 2 Tone releases and modern reissues.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "bluebeat",
+    "Jamaican ska"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "SKA"
+  ],
+  "etymology": "Possibly derived from the sound of the guitar's offbeat scratch or 'skat' singing; term emerged in late 1950s Jamaica to describe the new upbeat dance music developing in Kingston studios.",
+  "first_use": 1959,
+  "see_also": [],
+  "regions": [
+    "JA",
+    "UK",
+    "US",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

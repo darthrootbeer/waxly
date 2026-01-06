@@ -1,22 +1,36 @@
 {
   "slug": "vertical-cut",
   "term": "Vertical-Cut Groove",
+  "pos": "phrase",
+  "pronunciation": "/ˈvɜːrtɪkəl kʌt ɡruːv/",
   "summary": "'**noun / historical groove style.** A **groove modulation style where the.",
-  "definition": "**noun / historical groove style.** A **groove modulation style where the stylus moves up-and-down (vertical) rather than side-to-side (lateral)** — used in early Edison discs and some 78s.",
+  "definition": "**noun / historical groove style.** A **groove modulation style where the stylus moves up-and-down (vertical) rather than side-to-side (lateral)** — used in early Edison discs and some 78s. Introduced by Thomas Edison in 1912 with his Diamond Disc system, vertical-cut grooves encoded audio by varying the depth of the groove rather than its width. The playback stylus tracked these vertical undulations, translating them into sound vibrations. Edison championed this format as superior to the lateral-cut system developed by Emile Berliner, claiming better fidelity and reduced surface noise. The thick Diamond Discs were nearly quarter-inch thick and played with a permanent diamond stylus, designed for durability and clarity. Despite technical advantages, vertical-cut lost the format war by the late 1920s as lateral-cut became the industry standard, largely due to Victor and Columbia's market dominance. Pathé in France also produced vertical-cut discs well into the 1930s. For modern collectors, vertical-cut records require specialized equipment or cartridges capable of vertical playback, making them challenging to enjoy without period-appropriate hardware. These discs remain prized artifacts of early recording technology, representing a fascinating evolutionary dead-end in audio history.",
   "tags": [
     "equipment",
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "hill-and-dale",
+    "vertical modulation",
+    "Edison cut"
+  ],
+  "alt_spellings": [
+    "vertical cut groove",
+    "vertically-cut groove"
+  ],
+  "etymology": "Named for the vertical plane of stylus movement, contrasting with lateral-cut grooves. Also called 'hill-and-dale' due to the undulating groove depth resembling terrain.",
+  "first_use": 1912,
   "see_also": [
     "lateral-cut-groove",
     "acoustic-phonograph",
     "diamond-disc"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "phrase"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

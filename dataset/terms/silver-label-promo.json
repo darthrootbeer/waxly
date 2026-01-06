@@ -1,15 +1,26 @@
 {
   "slug": "silver-label-promo",
   "term": "Silver",
+  "pos": "noun",
+  "pronunciation": "/ˈsɪlvər/",
   "summary": "'**noun / collector slang.** A **promotional pressing with a silver-colored.",
-  "definition": "**noun / collector slang.** A **promotional pressing with a silver-colored label** (often mono or DJ-friendly), commonly used by major labels in the ’60s–’70s to distinguish promos from stock copies.",
+  "definition": "**noun / collector slang.** A **promotional pressing with a silver-colored label** (often mono or DJ-friendly), commonly used by major labels in the '60s–'70s to distinguish promos from stock copies. Silver labels were typically distributed to radio stations, DJs, and music journalists ahead of commercial release, often featuring mono mixes optimized for AM radio broadcast even as stereo became standard for retail pressings. The metallic silver ink served as an instant visual identifier, preventing promos from being sold in stores and making them easily distinguishable in busy DJ booths. Labels like Columbia, RCA, and Capitol employed silver labels extensively during this era, sometimes stamping them \"Demonstration—Not for Sale\" or \"DJ Copy.\" The practice declined in the late '70s as white labels became industry standard for promos. Today, silver label promos are highly collectible, particularly for classic rock, soul, and jazz releases, often commanding premium prices due to their perceived superior sound quality, mono mixes, and historical significance as pre-release artifacts.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "silver promo",
+    "silver demo",
+    "DJ silver"
+  ],
+  "alt_spellings": [
+    "silver-label",
+    "silverlabel"
+  ],
+  "etymology": "Named for the distinctive metallic silver ink used on promotional label stock, adopted by major US labels in the mid-1960s to differentiate advance copies from commercial releases.",
+  "first_use": 1965,
   "see_also": [
     "white-label-promo",
     "mono-fold",
@@ -18,5 +29,6 @@
   "regions": [
     "US"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

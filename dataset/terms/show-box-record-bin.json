@@ -1,20 +1,36 @@
 {
   "slug": "show-box-record-bin",
   "term": "Show-Box",
+  "pos": "noun",
+  "pronunciation": "/ʃoʊ bɑːks/",
   "summary": "'**noun / collector slang.** A **portable crate or bin** dealers use at record-fairs.",
-  "definition": "**noun / collector slang.** A **portable crate or bin** dealers use at record-fairs and shows for easy browsing display.",
+  "definition": "**noun / collector slang.** A **portable crate or bin** dealers use at record-fairs and shows for easy browsing display. Typically constructed from wood, plastic, or reinforced cardboard, show-boxes are designed to hold between 50 and 200 records in upright position, allowing customers to flip through inventory quickly without removing albums from protective sleeves. Most feature handles or hand-holds for transport and stackability for efficient booth setup. The show-box emerged in the 1970s as record conventions and swap-meets became popular, replacing the awkward practice of transporting records in milk crates or cardboard boxes. Professional dealers often customize their show-boxes with divider cards for genre organization and may brand them with shop logos. The rise of vinyl's resurgence since 2010 has seen show-boxes become standard equipment at monthly record fairs worldwide, with specialized manufacturers now producing lightweight folding designs and premium flight-case versions for high-value inventory. Serious dealers maintain separate show-boxes for different price tiers or genres, creating an efficient browsing experience that balances accessibility with protection.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record bin",
+    "dealer crate",
+    "fair box",
+    "vendor bin"
+  ],
+  "alt_spelings": [
+    "showbox",
+    "show box"
+  ],
+  "etymology": "Coined in the 1970s American record collector community, combining 'show' (short for record show or swap-meet) with 'box' to describe purpose-built portable display containers that distinguished professional dealers from casual sellers.",
+  "first_use": 1975,
   "see_also": [
     "record-tote",
     "divider-card",
     "flight-case"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

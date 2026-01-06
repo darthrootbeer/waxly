@@ -1,20 +1,37 @@
 {
   "slug": "king-size",
   "term": "King-Size 16-Inch Transcription Disc",
+  "pos": "noun",
+  "pronunciation": "/kɪŋ saɪz ˌsɪksˈtiːn ɪntʃ trænˈskrɪpʃən dɪsk/",
   "summary": "'**noun / historical.** A large, usually 16-inch diameter disc used by radio.",
-  "definition": "**noun / historical.** A large, usually 16-inch diameter disc used by radio stations from the 1930s-1950s to distribute pre-recorded programs and live big-band performances.",
+  "definition": "**noun / historical.** A large, usually 16-inch diameter disc used by radio stations from the 1930s-1950s to distribute pre-recorded programs and live big-band performances. These oversized transcription discs typically played at 33⅓ RPM and could hold up to 15 minutes per side, far exceeding the capacity of standard 78 RPM shellac records. Manufactured primarily on lacquer-coated aluminum or glass substrates, king-size discs were pressed in limited quantities for broadcast syndication, delivering everything from soap operas and comedy shows to remote orchestra recordings from hotels and ballrooms. Radio networks like NBC and CBS relied heavily on these discs to time-shift programming across multiple time zones before magnetic tape became widespread in the late 1940s. The format's large diameter allowed for wider groove spacing and superior audio fidelity compared to commercial releases, making them prized sources for modern reissue engineers seeking the best possible transfers of golden-age performances. Today, surviving king-size transcription discs command significant collector interest, particularly those featuring rare jazz sessions or early radio drama recordings, though their fragile lacquer surfaces require specialized playback equipment and careful handling to prevent irreversible damage.",
   "tags": [
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "16-inch transcription",
+    "transcription disc",
+    "ET disc",
+    "electrical transcription"
+  ],
+  "alt_spellings": [
+    "King Size 16-Inch Transcription Disc",
+    "King-size 16\" Transcription Disc"
+  ],
+  "etymology": "The term 'king-size' was adopted from consumer product marketing of the 1930s to emphasize the format's superior capacity compared to standard 10-inch and 12-inch commercial records. 'Transcription' refers to the electrical recording process that captured live broadcasts for later playback.",
+  "first_use": 1933,
   "see_also": [
     "transcription-disc",
     "lacquer-cut",
-    "archival-playback"
+    "archival-playback",
+    "electrical-transcription",
+    "shellac"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

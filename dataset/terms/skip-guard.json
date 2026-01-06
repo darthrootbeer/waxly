@@ -1,21 +1,35 @@
 {
   "slug": "skip-guard",
   "term": "Skip-Guard Groove",
-  "summary": "'**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between.",
-  "definition": "**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between tracks on children’s or spoken-word records designed to reduce accidental needle-skips when bumped.",
+  "pos": "noun",
+  "pronunciation": "/skɪp ɡɑrd ɡruv/",
+  "summary": "**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between tracks on children's or spoken-word records designed to reduce accidental needle-skips when bumped.",
+  "definition": "**noun / manufacturing tweak.** A **subtle raised lip or guard-band** between tracks on children's or spoken-word records designed to reduce accidental needle-skips when bumped. Introduced in the late 1940s primarily for children's records and educational pressings, this physical barrier—created by cutting slightly deeper grooves between selections—acts as a deterrent to stylus migration when the turntable experiences vibration or rough handling. The technique became standard on Golden Records, Peter Pan, and other kiddie labels throughout the 1950s-70s, where young listeners frequently caused playback disruptions. Some spoken-word and language-learning LPs adopted the feature to allow precise track location without cueing errors. The raised band is typically 0.5-1mm wide and barely visible but tactilely detectable. Modern reissues of vintage children's records sometimes omit this feature, as contemporary playback equipment and handling practices have evolved. Collectors prize original skip-guard pressings for their durability and period-correct manufacturing authenticity.",
   "tags": [
     "pressing",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "guard band",
+    "bump guard",
+    "skip barrier"
+  ],
+  "alt_spellings": [
+    "skipguard groove",
+    "skip guard groove"
+  ],
+  "etymology": "Coined by American record manufacturers in the late 1940s, combining 'skip' (stylus jumping grooves) with 'guard' (protective barrier), addressing the specific market need for child-proof playback.",
+  "first_use": 1948,
   "see_also": [
     "banded-groove-lp",
     "groove-guard-lip",
     "kiddie-record-format"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

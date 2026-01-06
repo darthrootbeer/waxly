@@ -1,15 +1,26 @@
 {
   "slug": "salsa",
   "term": "Salsa",
+  "pos": "noun",
+  "pronunciation": "/ˈsɑːlsə/",
   "summary": "'**Salsa** - A musical style within the Latin genre, classified according.",
-  "definition": "A specific musical style within the broader latin genre classification.",
+  "definition": "A vibrant Afro-Caribbean musical style that emerged in New York City during the late 1960s and early 1970s, blending Cuban son, mambo, cha-cha-chá, and Puerto Rican bomba with jazz and R&B influences. The term 'salsa' (Spanish for 'sauce') was popularized by Fania Records as a marketing umbrella for various Latin dance music styles, though it sparked debate about whether it represented a distinct genre or simply repackaged Cuban traditions. Characterized by clave-based rhythms, prominent horn sections, piano montunos, and call-and-response vocals, salsa became a cultural phenomenon throughout Latin America and beyond. Key artists like Celia Cruz, Willie Colón, Héctor Lavoe, and the Fania All-Stars defined the genre's golden era (1968-1980). Vinyl pressings from this period, particularly on Fania, Tico, and Alegre labels, are highly sought by collectors for their authentic sound and cultural significance, with original pressings commanding premium prices in the Latin music collecting community.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Latin dance music",
+    "Afro-Caribbean music"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from Spanish 'salsa' meaning 'sauce,' adopted as a musical term in late 1960s New York by Fania Records co-founder Jerry Masucci and others to market the fusion of Cuban and Puerto Rican musical styles to broader audiences.",
+  "first_use": 1968,
+  "see_also": [],
+  "regions": [
+    "US",
+    "LA",
+    "EU"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

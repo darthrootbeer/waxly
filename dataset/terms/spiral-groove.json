@@ -1,21 +1,40 @@
 {
   "slug": "spiral-groove",
   "term": "Spiral-Groove Lead-In",
+  "pos": "noun",
+  "pronunciation": "/ˈspaɪrəl ɡruːv liːd ɪn/",
   "summary": "'**noun / groove geometry.** The **silent spiral groove** at the start (lead-in).",
-  "definition": "**noun / groove geometry.** The **silent spiral groove** at the start (lead-in) and end (lead-out) of each side guiding the stylus to or from the playing area.",
+  "definition": "**noun / groove geometry.** The **silent spiral groove** at the start (lead-in) and end (lead-out) of each side guiding the stylus to or from the playing area. Introduced with the standardization of lateral-cut disc recording in the 1920s, these unmodulated grooves serve critical functions: the lead-in spiral gradually guides the stylus from the record's outer edge into the first modulated groove, while the lead-out spiral (sometimes called run-out or run-off groove) carries the stylus to the center where it either enters a lock groove or triggers automatic tonearm return mechanisms. Typically 3-6 revolutions wide, lead-in grooves are pressed at the same pitch as the music grooves but contain no audio information, appearing smooth and reflective under magnification. The geometry and width of these spirals affect cueing accuracy and playback reliability—poorly cut lead-ins can cause stylus skipping or mistracking. On 78 RPM shellac discs, lead-ins were often minimal or absent, with music starting almost immediately at the outer edge. Modern pressing plants carefully control lead-in specifications to ensure consistent drop-cueing for DJs and reliable automatic play for vintage changers, making these silent grooves essential to the vinyl playback experience despite carrying no music.",
   "tags": [
     "equipment",
     "pressing"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "lead-in groove",
+    "lead-out groove",
+    "silent groove",
+    "unmodulated groove"
+  ],
+  "alt_spellings": [
+    "spiral groove",
+    "spiral-groove",
+    "lead in groove"
+  ],
+  "etymology": "Derived from the spiral geometry of the groove path and its function of leading the stylus into the recorded program area, standardized terminology emerging in the 1930s-1940s with the refinement of automatic record changers.",
+  "first_use": 1925,
   "see_also": [
     "lead-in-groove",
     "run-out-groove",
-    "safety-groove"
+    "lock-groove",
+    "dead-wax"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

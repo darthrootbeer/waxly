@@ -1,21 +1,36 @@
 {
   "slug": "variable-reluctance-cartridge",
   "term": "Variable Reluctance Cartridge",
+  "pos": "noun",
+  "pronunciation": "/ˈvɛəriəbəl rɪˈlʌktəns ˈkɑːtrɪdʒ/",
   "summary": "noun / early magnetic cartridge type. An early generation of magnetic phono.",
-  "definition": "**noun / early magnetic cartridge type.** An **early generation of magnetic phono cartridges** where a moving iron piece varies the magnetic field in a fixed coil — common in the 1950s-60s before moving-magnet designs dominated.",
+  "definition": "**noun / early magnetic cartridge type.** An **early generation of magnetic phono cartridges** where a moving iron armature attached to the stylus varies the magnetic reluctance (resistance) in a fixed coil system, inducing an electrical signal. Developed in the late 1940s and widely adopted through the 1950s-60s, variable reluctance designs offered significant improvements over crystal and ceramic cartridges — delivering better frequency response, lower distortion, and compatibility with the RIAA equalization curve introduced in 1954. The technology worked by positioning the iron armature between pole pieces of a permanent magnet; as the stylus traced the record groove, the armature's movement altered the magnetic field strength through the coils, generating the audio signal. General Electric's GE RPX series became the most recognizable variable reluctance cartridges, prized for their warm sound and robust construction. While eventually superseded by moving-magnet and moving-coil designs that offered superior channel separation and reduced mass, variable reluctance cartridges remained popular for mono playback well into the 1960s. Today they're sought by collectors restoring period-correct hi-fi systems and valued for their characteristic smooth midrange presentation on vintage mono pressings.",
   "tags": [
     "equipment",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "reluctance cartridge",
+    "VR cartridge",
+    "moving iron cartridge"
+  ],
+  "alt_spellings": [
+    "variable-reluctance cartridge"
+  ],
+  "etymology": "From electrical engineering term 'reluctance' (magnetic resistance), describing the cartridge's operating principle of varying magnetic circuit reluctance through mechanical stylus movement.",
+  "first_use": 1948,
   "see_also": [
     "moving-magnet-cartridge",
     "moving-coil-cartridge",
+    "crystal-cartridge",
+    "riaa-curve",
     "mono-lp-playback"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

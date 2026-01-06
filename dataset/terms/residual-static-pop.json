@@ -1,20 +1,36 @@
 {
   "slug": "residual-static-pop",
   "term": "Residual Static Pop",
-  "summary": "'**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric.",
-  "definition": "**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric discharge** when the stylus first touches or leaves the groove.",
+  "pos": "noun",
+  "pronunciation": "/rɪˈzɪdʒuəl ˈstætɪk pɒp/",
+  "summary": "**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric discharge** when the stylus first touches or leaves the groove.",
+  "definition": "**noun / playback artifact.** An audible **snap or crackle** caused by **static-electric discharge** when the stylus first touches or leaves the groove. This phenomenon occurs when vinyl records accumulate electrostatic charge through friction during handling, storage, or playback, particularly in low-humidity environments. The discharge manifests as a distinctive pop or crack through the speakers at the moment of stylus contact, most commonly heard during cue-up or at track beginnings. Unlike **surface noise** from dust or wear, residual static pops are caused by electrical rather than mechanical interference. The issue became more pronounced with the introduction of **polyvinyl chloride** pressings in the late 1940s, as PVC is highly susceptible to static buildup compared to earlier shellac formats. Modern solutions include **anti-static brushes**, grounding mats, and humidity control (ideal 45-55% RH). Some audiophiles employ **zerostat guns** or ionizing devices to neutralize charge before playback. The problem intensifies in winter months and dry climates, making it a persistent concern for collectors. While generally harmless to equipment, repeated static discharge can attract dust particles, potentially causing groove wear over time.",
   "tags": [
     "equipment"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "static discharge pop",
+    "electrostatic snap",
+    "cue pop"
+  ],
+  "alt_spellings": [
+    "residual-static pop",
+    "residual static-pop"
+  ],
+  "etymology": "Term emerged in audiophile literature during the 1970s hi-fi boom as enthusiasts distinguished static-related artifacts from mechanical surface noise, combining electrical engineering terminology with vinyl-specific playback phenomena.",
+  "first_use": 1972,
   "see_also": [
-    "dust-pop-filter",
     "anti-static-brush",
-    "humidifier-tweak"
+    "zerostat",
+    "surface-noise",
+    "dust-pop"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

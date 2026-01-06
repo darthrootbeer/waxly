@@ -1,21 +1,35 @@
 {
   "slug": "reggae",
   "term": "Reggae",
+  "pos": "noun",
+  "pronunciation": "/ˈrɛɡeɪ/",
   "summary": "**Reggae** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize recordings originating from Jamaica in the late 1960s, characterized by offbeat rhythms, prominent bass lines, and social commentary. Evolved from ska and rocksteady, reggae emerged around 1968-1969 with artists like Toots and the Maytals, Bob Marley, and Lee \"Scratch\" Perry pioneering the sound. The genre encompasses numerous subgenres including roots reggae, dub, lovers rock, and dancehall, each with distinct production styles and cultural contexts. As a Discogs taxonomy term, reggae serves as both a primary genre tag and umbrella category for related Jamaican music styles. Vinyl pressings from Jamaica's Studio One, Treasure Isle, and Channel One studios remain highly collectible, with original pressings commanding premium prices. The genre's influence extends globally, spawning regional variations and fusion styles while maintaining strong connections to Rastafarian culture and social justice themes.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "reggae music"
+  ],
+  "alt_spellings": [
+    "Reggae"
+  ],
+  "etymology": "Possibly derived from Jamaican Patois 'streggae' (meaning loose woman or ragged clothing) or 'rege-rege' (meaning quarrel). Term popularized by Toots and the Maytals' 1968 song 'Do the Reggay.'",
+  "first_use": 1968,
   "see_also": [
     "roots-reggae",
     "dub",
     "dancehall",
-    "ska"
+    "ska",
+    "rocksteady",
+    "lovers-rock"
   ],
   "regions": [
-    "global"
+    "JM",
+    "UK",
+    "US",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

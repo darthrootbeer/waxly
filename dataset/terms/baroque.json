@@ -1,15 +1,30 @@
 {
   "slug": "baroque",
   "term": "Baroque",
+  "pos": "noun",
+  "pronunciation": "/bəˈroʊk/",
   "summary": "'**Baroque** - A musical style within the Classical genre, classified according.",
-  "definition": "A specific musical style within the broader classical genre classification.",
+  "definition": "A musical period and style spanning roughly 1600-1750, encompassing composers like Bach, Vivaldi, and Handel. In vinyl collecting, Baroque recordings represent a significant classical music category, with pressings ranging from historic mono recordings by early music pioneers to modern period-instrument performances. The genre saw renewed interest during the 1960s-70s authenticity movement, when labels like Archiv, L'Oiseau-Lyre, and Harmonia Mundi released influential interpretations using historically accurate instruments and techniques. Collectors prize early stereo recordings from the 1950s-60s, particularly those featuring legendary performers like Gustav Leonhardt and Nikolaus Harnoncourt. The ornate, contrapuntal nature of Baroque music makes it ideal for demonstrating vinyl playback systems' ability to resolve complex instrumental textures and spatial information. Original pressings of landmark recordings—such as Karl Richter's Bach cantata series or Thurston Dart's pioneering work—command premium prices, while budget labels like Nonesuch and Vanguard made the repertoire accessible to wider audiences during vinyl's golden age.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Baroque period",
+    "Baroque era",
+    "Baroque music"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "baroque"
+  ],
+  "etymology": "From Portuguese 'barroco' meaning 'irregular pearl,' originally a pejorative term for the ornate architectural and artistic style of the period, later applied to its musical characteristics.",
+  "first_use": 1919,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

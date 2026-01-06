@@ -1,13 +1,20 @@
 {
   "slug": "pop",
   "term": "Pop",
+  "pos": "noun",
+  "pronunciation": "/pɒp/",
   "summary": "**Pop** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system to categorize commercially-oriented popular music emphasizing catchy melodies, accessible song structures, and mass appeal. Emerging as a distinct category in the mid-1950s alongside rock and roll, pop encompasses everything from early teen idols and Motown to contemporary chart-driven production. The genre prioritizes hooks, repetition, and verse-chorus formats typically running 2-4 minutes for radio compatibility. Within vinyl collecting, pop records span the spectrum from disposable singles to meticulously crafted albums by artists like The Beatles, Michael Jackson, and Madonna. Discogs uses pop as both a standalone genre tag and in combination with subgenre qualifiers (synth-pop, dance-pop, indie-pop), making it one of the platform's most-applied yet least-specific classifications. The term's breadth often frustrates catalogers seeking precision, as it can describe both bubblegum confections and sophisticated art-pop productions.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "popular music",
+    "pop music"
+  ],
+  "alt_spellings": [],
+  "etymology": "Shortened from \"popular music,\" the term gained currency in the mid-1950s to distinguish commercially accessible music from jazz, classical, and folk traditions. The abbreviation \"pop\" became standard music industry terminology by the early 1960s.",
+  "first_use": 1926,
   "see_also": [
     "dance-pop",
     "synth-pop",
@@ -16,7 +23,12 @@
     "baroque-pop"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,21 +1,37 @@
 {
   "slug": "j-cut-groove",
   "term": "J-Cut Groove",
+  "pos": "noun",
+  "pronunciation": "/ˈdʒeɪ kʌt ɡruːv/",
   "summary": "'**noun / slang.** A rare cutting-lathe mishap where the groove briefly swerves.",
-  "definition": "**noun / slang.** A rare cutting-lathe mishap where the groove briefly swerves sideways forming a “hook” shape, causing a click or mistrack.",
+  "definition": "**noun / slang.** A rare cutting-lathe mishap where the groove briefly swerves sideways forming a distinctive \"hook\" or \"J\" shape, causing an audible click, pop, or stylus mistrack during playback. This defect typically occurs during the lacquer cutting process when the lathe's cutting head experiences a momentary mechanical disturbance—vibration from external sources, a sudden feedback spike, or microscopic debris interfering with the cutting stylus. The resulting hook-shaped deviation disrupts the groove's continuous spiral, forcing the stylus to jump laterally before resuming normal tracking. J-cuts are most commonly found on test pressings and early lacquer transfers, rarely making it to production runs due to quality control. Collectors sometimes encounter them on small-run independent releases or bootlegs cut on poorly maintained equipment. Unlike intentional locked grooves, J-cuts are always unintentional defects that diminish playback quality and, in severe cases, can damage stylus cantilevers on high-compliance cartridges.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "hook groove",
+    "J-groove",
+    "swerve cut"
+  ],
+  "alt_spellings": [
+    "J cut groove",
+    "j-cut"
+  ],
+  "etymology": "Named for the visual resemblance to the letter \"J\" when the groove deviation is viewed under magnification; term emerged among cutting engineers and audiophile collectors in the 1970s.",
+  "first_use": 1975,
   "see_also": [
     "pressing-defect",
     "groove-jump",
-    "locked-groove"
+    "locked-groove",
+    "non-fill",
+    "lacquer-cutting"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

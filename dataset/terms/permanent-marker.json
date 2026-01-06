@@ -1,21 +1,36 @@
 {
   "slug": "permanent-marker",
   "term": "Permanent Marker Groove",
-  "summary": "noun / club-DJ hack / slang. Marking a small dot or line on the vinyl’s surface.",
-  "definition": "**noun / club-DJ hack / slang.** Marking a small dot or line on the vinyl’s surface (outside lead-in) with a Sharpie to locate cue points visually in low-light booths — risky but common in some scenes.",
+  "pos": "noun",
+  "pronunciation": "/ˈpɜːrmənənt ˈmɑːrkər ɡruːv/",
+  "summary": "noun / club-DJ hack / slang. Marking a small dot or line on the vinyl's surface.",
+  "definition": "**noun / club-DJ hack / slang.** Marking a small dot or line on the vinyl's surface (outside the lead-in groove) with a Sharpie or similar permanent marker to locate cue points visually in low-light DJ booths. Emerged in club culture during the 1980s-90s when battle DJs and hip-hop turntablists needed instant visual reference for breaks, scratches, and drops without relying on label artwork alone. The practice involves marking the record's dead wax or run-out area rather than the playing surface itself, though careless application can damage grooves. Common in scratch and battle scenes where split-second timing is critical, but controversial among collectors and purists who view any marking as defacement. Modern alternatives include removable sticker dots and UV-reactive markers, though many veteran DJs still swear by the original Sharpie method for its visibility under colored club lighting.",
   "tags": [
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "Sharpie cue",
+    "marker dot",
+    "cue mark"
+  ],
+  "alt_spelings": [
+    "Permanent-Marker Groove",
+    "Permanent Marker groove"
+  ],
+  "etymology": "Coined in hip-hop DJ culture during the 1980s when club DJs adapted office supplies for performance needs, combining 'permanent marker' (the Sharpie brand, popularized 1964) with vinyl terminology.",
+  "first_use": 1985,
   "see_also": [
     "sticker-dot-cue",
     "cue-burn",
     "marker-scrawl"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

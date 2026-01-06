@@ -1,13 +1,25 @@
 {
   "slug": "soundtrack",
   "term": "Soundtrack",
+  "pos": "noun",
+  "pronunciation": "/ˈsaʊndtræk/",
   "summary": "**Soundtrack** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A broad musical genre classification used in the Discogs database system encompassing recorded music originally created for or featured in motion pictures, television programs, video games, theatrical productions, and other visual media. The category includes both original scores composed specifically for a production (often orchestral or instrumental) and compilation soundtracks featuring pre-existing songs licensed for use in the media. Soundtrack albums emerged as a distinct commercial product in the 1930s-40s with early film musicals, gaining significant cultural prominence during the 1960s-70s with releases like The Graduate, Saturday Night Fever, and The Bodyguard becoming major chart successes independent of their source material. The format spans all musical styles from classical orchestrations to pop, rock, hip-hop, and electronic music. Collectors prize original pressings of iconic soundtracks, particularly those featuring exclusive tracks or dialogue snippets unavailable elsewhere, while modern vinyl reissues often expand original releases with bonus material and audiophile-grade mastering.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "OST",
+    "original soundtrack",
+    "motion picture soundtrack",
+    "film soundtrack"
+  ],
+  "alt_spellings": [
+    "sound track",
+    "sound-track"
+  ],
+  "etymology": "Compound of 'sound' and 'track,' originally referring to the physical audio track on film stock in early cinema (1920s), later adopted to describe the recorded music accompanying visual media.",
+  "first_use": 1929,
   "see_also": [
     "film-score",
     "tv-soundtrack",
@@ -15,7 +27,12 @@
     "musical-theater"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

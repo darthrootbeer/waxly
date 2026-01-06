@@ -1,15 +1,30 @@
 {
   "slug": "free-jazz",
   "term": "Free Jazz",
+  "pos": "noun",
+  "pronunciation": "/friː dʒæz/",
   "summary": "'**Free Jazz** - A musical style within the Jazz genre, classified according.",
-  "definition": "A specific musical style within the broader jazz genre classification.",
+  "definition": "A revolutionary jazz movement emerging in the late 1950s that abandoned traditional harmonic structures, fixed chord progressions, and conventional rhythmic patterns in favor of collective improvisation and spontaneous expression. Pioneered by Ornette Coleman with his landmark 1960 Atlantic Records album *Free Jazz: A Collective Improvisation*, the style emphasized atonality, extended techniques, and emotional intensity over melodic accessibility. Key figures including John Coltrane, Albert Ayler, and Cecil Taylor pushed boundaries through albums like *Ascension* and *Unit Structures*, creating challenging, often polarizing music that redefined jazz's artistic possibilities. Free jazz pressings from the 1960s-70s on labels like ESP-Disk, Impulse!, and Blue Note are highly sought by collectors, with original copies commanding premium prices due to limited pressings and the genre's cult following. The style's experimental nature and raw recording aesthetics make these vinyl artifacts particularly valued for their historical significance in documenting jazz's most radical departure from convention.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "avant-garde jazz",
+    "new thing"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "free jazz",
+    "Free-Jazz"
+  ],
+  "etymology": "Named after Ornette Coleman's 1960 double album *Free Jazz*, which featured simultaneous improvisation by two quartets, the term describes music 'free' from conventional jazz structures and harmonic constraints.",
+  "first_use": 1960,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

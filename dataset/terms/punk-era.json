@@ -1,20 +1,36 @@
 {
   "slug": "punk-era",
   "term": "Punk-Era 7-Inch",
+  "pos": "noun",
+  "pronunciation": "/pʌŋk ˈɪrə ˈsɛvən ɪntʃ/",
   "summary": "'**noun / cultural collector tag.** A 7-inch single released during the original.",
-  "definition": "**noun / cultural collector tag.** A 7-inch single released during the original late-’70s punk explosion — frequently on tiny indie labels with Xeroxed sleeves.",
+  "definition": "**noun / cultural collector tag.** A 7-inch single released during the original late-'70s punk explosion — roughly 1976-1981 — frequently on tiny independent labels with photocopied or Xeroxed sleeves, hand-stamped centers, and raw production values. These singles embodied punk's DIY ethos, with bands bypassing major labels to press 500-1000 copies on shoestring budgets. Iconic examples include early releases on Stiff, Rough Trade, Fast Product, and countless regional micro-labels that folded after one or two releases. Pressings were often crude: thin vinyl, off-center holes, inconsistent audio levels. Original punk-era 7-inches now command premium prices in the collector market, particularly first pressings with original inserts, posters, or badges. Condition matters less than provenance — even thrashed copies of rare singles fetch hundreds or thousands. The term distinguishes authentic period pieces from later reissues and post-punk releases, marking a specific cultural moment when the 7-inch format was punk's primary medium before the LP became standard.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "original punk single",
+    "first-wave punk 7-inch",
+    "77 punk single"
+  ],
+  "alt_spellings": [
+    "Punk Era 7-Inch",
+    "Punk-Era Seven-Inch"
+  ],
+  "etymology": "Coined by collectors in the 1980s-90s to distinguish original 1976-1981 punk releases from subsequent waves and reissues, combining the cultural movement name with the dominant format of that period.",
+  "first_use": 1985,
   "see_also": [
     "private-press",
     "post-punk",
-    "picture-sleeve"
+    "picture-sleeve",
+    "indie-label",
+    "diy-pressing"
   ],
   "regions": [
-    "US"
+    "UK",
+    "US",
+    "EU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

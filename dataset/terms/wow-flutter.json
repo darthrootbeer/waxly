@@ -1,22 +1,39 @@
 {
   "slug": "wow-flutter",
   "term": "Wow & Flutter",
+  "pos": "noun",
+  "pronunciation": "/waʊ ənd ˈflʌtər/",
   "summary": "'**noun / turntable performance spec.** A **measurement of minute speed fluctuations**.",
-  "definition": "**noun / turntable performance spec.** A **measurement of minute speed fluctuations** — *wow* = slow cyclical pitch drift, *flutter* = rapid tremble — expressed as a percentage or in weighted RMS.",
+  "definition": "**noun / turntable performance spec.** A **measurement of minute speed fluctuations** — *wow* = slow cyclical pitch drift, *flutter* = rapid tremble — expressed as a percentage or in weighted RMS. Wow typically describes speed variations below 6Hz (audible as wavering pitch, like a warped record), while flutter captures faster fluctuations above 6Hz (heard as roughness or tremolo). Emerged as a critical specification in the 1950s when hi-fi equipment manufacturers needed standardized performance metrics; the DIN 45507 and IEC 386 standards established weighted measurement protocols that emphasize frequencies most audible to human hearing. Caused by motor irregularities, belt elasticity, bearing friction, platter imbalance, or stylus drag. High-end turntables achieve figures below 0.05% weighted RMS (essentially inaudible), while budget decks may exceed 0.2% (noticeably affecting sustained notes and piano passages). Direct-drive designs with quartz-locked speed control typically outperform belt-drive systems in wow & flutter specs, though audiophiles debate whether measurements fully capture musical impact. Vintage test records with 3150Hz tones allow home measurement using specialized meters or smartphone apps. Critical for classical music and jazz where pitch accuracy matters most; less noticeable on rock or electronic music with shorter sustained tones.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "speed stability",
+    "pitch variation",
+    "speed deviation"
+  ],
+  "alt_spellings": [
+    "Wow and Flutter",
+    "wow/flutter",
+    "W&F"
+  ],
+  "etymology": "Terms borrowed from early audio engineering: 'wow' onomatopoetically describes slow pitch wavering sound; 'flutter' from rapid fluctuation resembling bird wing motion. Standardized as paired measurement in 1950s German DIN specifications.",
+  "first_use": 1952,
   "see_also": [
     "rumble-spec",
     "quartz-lock-speed-control",
     "belt-slip-wear"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

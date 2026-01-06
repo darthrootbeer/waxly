@@ -1,21 +1,38 @@
 {
   "slug": "shellac-disc-78-rpm",
   "term": "Shellac Disc",
+  "pos": "noun",
+  "pronunciation": "/ʃəˈlæk dɪsk/",
   "summary": "noun / historical format. A pre-vinyl disc made of shellac and mineral filler,.",
-  "definition": "**noun / historical format.** A **pre-vinyl disc** made of shellac and mineral filler, usually **10-inch 78 RPM** records produced from the 1890s through early 1950s. Brittle, heavy, and groove-wide (≈ 3 mil).",
+  "definition": "**noun / historical format.** A **pre-vinyl disc** made from shellac resin (derived from lac beetles) mixed with mineral fillers like slate dust and cotton flock, typically **10-inch or 12-inch 78 RPM** records produced from the 1890s through early 1950s. These discs are notably **brittle and heavy** (≈ 5-7 oz), with wide grooves (≈ 3 mil stylus width) requiring steel or thorn needles that wore down after each play. Shellac's limited frequency response (≈ 5 kHz) and surface noise defined early recorded sound. Production peaked in the 1920s-40s, dominating jazz, blues, and classical releases before vinyl's superior fidelity and durability displaced them by 1955. Collectors prize rare pressings—especially pre-war blues and jazz 78s—though playback demands period-appropriate equipment or modern 78 RPM-capable turntables with proper stylus profiles to avoid groove damage. Original shellac pressings often command higher prices than later vinyl reissues for their historical authenticity.",
   "tags": [
     "collecting",
     "historical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "78",
+    "seventy-eight",
+    "shellac record",
+    "78 RPM record"
+  ],
+  "alt_spellings": [
+    "shellac disk",
+    "shellac disc"
+  ],
+  "etymology": "Named for shellac resin, secreted by lac beetles in India and Thailand, which became the dominant disc material after early experiments with hard rubber and wax cylinders in the 1890s.",
+  "first_use": 1895,
   "see_also": [
     "macro-groove",
     "pre-war-shellac-78",
     "steel-needle-pickup"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

@@ -1,15 +1,27 @@
 {
   "slug": "southern-soul",
   "term": "Southern Soul",
+  "pos": "noun",
+  "pronunciation": "/ˈsʌðərn soʊl/",
   "summary": "'**Southern Soul** - A musical style within the Soul genre, classified according.",
-  "definition": "A specific musical style within the broader soul genre classification.",
+  "definition": "A distinctive regional style of soul music that emerged from the American South during the 1960s, characterized by raw, earthy vocals, prominent horn sections, and a grittier production aesthetic than the polished Motown sound. Centered around studios like FAME in Muscle Shoals, Alabama, and Stax in Memphis, Tennessee, Southern Soul blended gospel intensity with R&B rhythms and blues phrasing. Artists like Otis Redding, Wilson Pickett, and Aretha Franklin (during her Atlantic Records period) defined the sound with emotionally charged performances backed by integrated studio bands. The genre's influence extended through the 1970s deep soul movement and remains highly collectible on vinyl, particularly original pressings on labels like Stax, Volt, Hi Records, and numerous small Southern imprints. Southern Soul records are prized for their dynamic range and warm analog production, making them perennial favorites among crate diggers and soul collectors seeking authentic, unvarnished vocal performances.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Deep Soul",
+    "Memphis Soul",
+    "Muscle Shoals Sound"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Southern-Soul"
+  ],
+  "etymology": "Term coined in the late 1960s to distinguish the rawer, more gospel-influenced soul music produced in Southern studios from the sophisticated Detroit Motown sound and Northern soul dance styles.",
+  "first_use": 1967,
+  "see_also": [],
+  "regions": [
+    "US"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

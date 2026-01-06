@@ -1,21 +1,36 @@
 {
   "slug": "dj-pool",
   "term": "DJ Pool",
+  "pos": "noun",
+  "pronunciation": "/ˈdiː.dʒeɪ puːl/",
   "summary": "A subscription service supplying club DJs with the latest promo singles on.",
-  "definition": "A subscription service supplying club DJs with the latest promo singles on vinyl (later digital), ensuring tracks reached dancefloors ahead of retail release.",
+  "definition": "A subscription service supplying club DJs with the latest promo singles on vinyl (later digital), ensuring tracks reached dancefloors ahead of retail release. Emerging in the late 1970s as record labels sought efficient distribution channels to influential club spinners, DJ pools became gatekeepers of underground dance music. Members paid monthly fees to receive white labels, promos, and exclusive remixes—often weeks before commercial availability. Pioneering pools like For The Record (Los Angeles) and DMC (UK) formalized relationships between labels and DJs, providing crucial feedback loops that shaped chart success. Pools typically specialized by genre: house, hip-hop, disco, or Latin, with regional variations reflecting local scenes. The vinyl era saw pools shipping crates of 12-inches weekly; the digital transition post-2000 shifted to downloadable files but retained the curation model. Membership required proof of professional DJ status—club residencies, radio shows, or mixtape credibility. This exclusivity maintained pools' promotional value while preventing leakage to casual listeners. Though streaming diminished their dominance, contemporary pools still serve niche genres and provide pre-release access that separates working DJs from bedroom hobbyists.",
   "tags": [
     "dj-related",
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "record pool",
+    "promo pool"
+  ],
+  "alt_spellings": [
+    "DJ-pool",
+    "deejay pool"
+  ],
+  "etymology": "Coined in late 1970s combining 'DJ' (disc jockey) with 'pool' (shared resource), reflecting the collective distribution model where labels pooled promotional resources for targeted DJ communities.",
+  "first_use": 1978,
   "see_also": [
     "promo-copy",
     "white-label",
-    "club-cut"
+    "club-cut",
+    "test-pressing"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

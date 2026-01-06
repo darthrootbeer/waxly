@@ -1,22 +1,39 @@
 {
   "slug": "frequency-response",
   "term": "Frequency Response",
+  "pos": "noun",
+  "pronunciation": "/ˈfriːkwənsi rɪˈspɒns/",
   "summary": "'**noun / technical.** The measurable range of audio frequencies a system.",
-  "definition": "**noun / technical.** The measurable range of audio frequencies a system can reproduce — critical spec for cartridges, speakers, and mastering of vinyl.",
+  "definition": "**noun / technical.** The measurable range of audio frequencies a system can reproduce, typically measured in Hertz (Hz) and expressed as a range such as 20Hz-20kHz — the theoretical limit of human hearing. For vinyl playback, frequency response is a critical specification for cartridges, phono preamps, speakers, and the mastering process itself. A flat frequency response means all frequencies are reproduced at equal levels, though vinyl inherently faces physical limitations: low frequencies (below 40Hz) can cause groove spacing issues and tracking problems, while high frequencies (above 15kHz) are constrained by stylus radius and groove modulation limits. The RIAA equalization curve, standardized in 1954, compensates for these limitations by reducing bass and boosting treble during cutting, then reversing the process during playback. Premium cartridges claim response ranges of 10Hz-50kHz, though measurements beyond human hearing limits serve more as indicators of overall engineering quality. Audiophiles scrutinize frequency response graphs for flatness and extension, as deviations color the sound — a rolled-off high end sounds dull, while exaggerated bass muddies detail. Modern remastering often adjusts frequency response to suit vinyl's physical constraints while preserving the original recording's tonal balance.",
   "tags": [
     "equipment",
     "pressing",
     "technical"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "frequency range",
+    "bandwidth",
+    "audio spectrum response"
+  ],
+  "alt_spellings": [
+    "frequency-response"
+  ],
+  "etymology": "From electrical engineering terminology adopted by audio industry in the 1930s-40s as measurement standards developed for phonograph and radio equipment testing.",
+  "first_use": 1935,
   "see_also": [
     "fidelity",
     "hi-fi",
-    "riaa-curve"
+    "riaa-curve",
+    "cartridge",
+    "mastering"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

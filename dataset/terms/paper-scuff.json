@@ -1,20 +1,37 @@
 {
   "slug": "paper-scuff",
   "term": "Paper Scuff",
-  "summary": "'**noun / grading term.** A light, superficial mark on a record’s surface.",
-  "definition": "**noun / grading term.** A light, superficial mark on a record’s surface caused by sliding in and out of a paper sleeve — rarely audible but affects visual grade.",
+  "pos": "noun",
+  "pronunciation": "/ˈpeɪpər skʌf/",
+  "summary": "**noun / grading term.** A light, superficial mark on a record's surface.",
+  "definition": "**noun / grading term.** A light, superficial mark on a record's surface caused by sliding in and out of a paper sleeve — rarely audible but affects visual grade. Paper scuffs appear as faint hairline scratches or cloudy patches, typically concentrated near the outer grooves where friction is greatest during repeated handling. Unlike deeper scratches that penetrate the groove walls, paper scuffs remain on the vinyl's top layer and seldom produce audible surface noise when played. They became a widespread grading consideration from the 1960s onward as collectors distinguished between cosmetic imperfections and actual playback defects. Records stored in generic paper inner sleeves are particularly susceptible, while those kept in poly-lined or anti-static sleeves show significantly less scuffing over time. In visual grading systems, paper scuffs typically prevent a record from achieving Mint or Near Mint status even when sonically flawless, creating the common VG++/NM- split grade where the disc plays perfectly but shows visible wear. Experienced collectors often accept paper scuffs on vintage pressings as inevitable evidence of normal use rather than abuse.",
   "tags": [
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "sleeve scuff",
+    "paper mark",
+    "inner sleeve wear"
+  ],
+  "alt_spellings": [
+    "paper-scuff",
+    "paperscuff"
+  ],
+  "etymology": "Compound term combining 'paper' (referring to standard inner sleeves) and 'scuff' (surface abrasion), emerged in collector vocabulary during the 1970s as visual grading standards became more precise.",
+  "first_use": 1972,
   "see_also": [
     "sleeve-scuff",
     "vg",
-    "visual-grade"
+    "visual-grade",
+    "inner-sleeve",
+    "grading"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

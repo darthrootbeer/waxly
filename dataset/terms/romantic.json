@@ -1,15 +1,28 @@
 {
   "slug": "romantic",
   "term": "Romantic",
+  "pos": "noun",
+  "pronunciation": "/roʊˈmæntɪk/",
   "summary": "'**Romantic** - A musical style within the Classical genre, classified according.",
-  "definition": "A specific musical style within the broader classical genre classification.",
+  "definition": "A musical style period within classical music spanning roughly 1820-1900, characterized by emotional expressiveness, expanded orchestration, and individualistic compositional approaches. The Romantic era produced some of the most frequently pressed classical vinyl, with composers like Brahms, Tchaikovsky, Chopin, and Wagner dominating catalog reissues from the 1950s onward. Major labels like Deutsche Grammophon, Decca, and RCA Living Stereo built their reputations on Romantic repertoire recordings, particularly large-scale symphonies and concertos that showcased stereo separation and dynamic range. Audiophile pressings of Romantic works remain highly collectible, with early stereo recordings from the late 1950s and early 1960s commanding premium prices. The genre's dramatic crescendos and quiet passages make Romantic classical records ideal test material for evaluating turntable performance and cartridge tracking ability.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Romantic Period",
+    "Romantic Era",
+    "Romanticism"
   ],
-  "pos": "noun"
+  "alt_spellings": [],
+  "etymology": "Derived from the artistic and literary Romantic movement of the late 18th century, emphasizing emotion and individualism over classical restraint. Applied to music retroactively in the early 20th century to distinguish the 19th-century style from earlier Classical period works.",
+  "first_use": 1840,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

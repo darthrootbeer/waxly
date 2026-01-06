@@ -1,22 +1,40 @@
 {
   "slug": "hand-etched-matrix",
   "term": "Hand-Etched Matrix",
+  "pos": "noun",
+  "pronunciation": "/hænd ɛtʃt ˈmeɪtrɪks/",
   "summary": "A matrix/run-out inscription scratched by hand into the lacquer by the mastering.",
-  "definition": "A matrix/run-out inscription scratched by hand into the lacquer by the mastering engineer — often includes initials or pressing info.",
+  "definition": "A matrix/run-out inscription scratched by hand into the lacquer by the mastering engineer, typically found in the dead-wax area between the label and the music grooves. These etchings often include the engineer's initials, catalog numbers, matrix codes, take numbers, or cryptic messages and inside jokes. The practice dates to the earliest days of commercial recording when engineers would mark lacquer masters for identification during the manufacturing process. Famous examples include the Beatles' \"nothing is real\" on Revolver, or Porky's distinctive \"A Porky Prime Cut\" signature found on countless British pressings. Hand-etched inscriptions serve both practical purposes—tracking which master was used for which pressing plant—and artistic ones, becoming highly collectible signatures that can significantly affect a record's value. Modern audiophile reissues sometimes replicate historic etchings, while contemporary mastering engineers like Bernie Grundman and Chris Bellman maintain the tradition with their own distinctive marks.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "run-out etching",
+    "dead-wax inscription",
+    "matrix inscription",
+    "engineer signature"
+  ],
+  "alt_spellings": [
+    "hand etched matrix",
+    "handetched matrix"
+  ],
+  "etymology": "Derived from vinyl manufacturing terminology, combining 'hand-etched' (manually scratched) with 'matrix' (the master recording template used to create stampers). The practice emerged in the 1940s as engineers needed to identify different lacquer masters and pressing runs.",
+  "first_use": 1945,
   "see_also": [
     "dead-wax",
-    "run-out-etching",
-    "lacquer-cut"
+    "run-out-groove",
+    "lacquer-cut",
+    "matrix-number",
+    "stamper"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "JA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

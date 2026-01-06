@@ -1,21 +1,39 @@
 {
   "slug": "warped-record",
   "term": "Warped Record",
+  "pos": "noun",
+  "pronunciation": "/wɔrpt ˈrɛkərd/",
   "summary": "'**noun / condition flaw.** A **record whose plane is bent or wavy** due.",
-  "definition": "**noun / condition flaw.** A **record whose plane is bent or wavy** due to heat, storage pressure, or pressing defects — described as *[dish](../d/dish-warp.md)-warp* (concave/convex) or *[edge](../e/edge-warp.md)-warp* (rim-only).",
+  "definition": "**noun / condition flaw.** A **record whose plane is bent or wavy** due to heat, storage pressure, or pressing defects — described as *[dish](../d/dish-warp.md)-warp* (concave/convex) or *[edge](../e/edge-warp.md)-warp* (rim-only). Warping became prevalent with the shift from shellac to vinyl in the late 1940s, as PVC's thermoplastic properties made records vulnerable to heat deformation during shipping, storage, or display in direct sunlight. Minor warps may cause audible pitch wobble or tracking issues; severe warps render discs unplayable or damage stylus suspension. Collectors grade warped records harshly, typically reducing value by 50-90% depending on severity. Correction methods include vinyl flattening services (heat-press between glass plates) and weighted clamp systems, though results vary and risk permanent damage. Modern pressing plants employ cooling tunnels and rigid packaging to prevent warping, while audiophiles store records vertically in climate-controlled environments to avoid pressure-induced deformation over time.",
   "tags": [
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "warped disc",
+    "bent record",
+    "deformed record"
+  ],
+  "alt_spellings": [
+    "warped-record",
+    "warp record"
+  ],
+  "etymology": "From Old English 'weorpan' (to throw, bend); applied to vinyl records in the early 1950s as PVC replaced shellac and heat-related deformation became a common storage and shipping issue.",
+  "first_use": 1952,
   "see_also": [
     "warp-resistant",
     "record-clamp",
-    "groove-guard-lip"
+    "groove-guard-lip",
+    "dish-warp",
+    "edge-warp"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU",
+    "AU",
+    "CA"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

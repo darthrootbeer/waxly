@@ -1,22 +1,36 @@
 {
   "slug": "kerf-cut",
   "term": "Kerf-Cut Groove",
+  "pos": "noun",
+  "pronunciation": "/kɜːrf kʌt ɡruːv/",
   "summary": "'**noun / technical slang.** A rare visual groove pattern resembling tiny.",
-  "definition": "**noun / technical slang.** A rare visual groove pattern resembling tiny wood-saw kerfs, sometimes left by a dull cutting stylus or damaged lacquer surface.",
+  "definition": "**noun / technical slang.** A rare visual groove pattern resembling tiny wood-saw kerfs, sometimes left by a dull cutting stylus or damaged lacquer surface. This defect appears as a series of jagged, tooth-like ridges along the groove wall rather than the smooth, continuous spiral expected in proper lacquer cutting. Kerf-cuts typically occur during the mastering stage when a worn or improperly aligned cutting head tears through the lacquer coating instead of cleanly carving it, or when the lacquer blank itself has developed surface stress fractures from improper storage or aging. The term borrows from woodworking, where \"kerf\" describes the material removed by a saw blade's cut. Engineers at mastering facilities in the 1960s-70s adopted this terminology to describe the visual similarity between damaged grooves and saw marks. Records pressed from kerf-cut masters often exhibit audible distortion, crackling, or sibilance issues, as the stylus cannot properly track the irregular groove geometry. Collectors consider kerf-cutting a pressing defect that significantly diminishes value, though some audiophiles study these artifacts as evidence of rushed or budget mastering practices during certain eras. Modern remastering projects sometimes reference original lacquers to identify and correct kerf-cut damage before creating new cutting masters.",
   "tags": [
     "equipment",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "saw-tooth groove",
+    "torn groove",
+    "jagged cut"
+  ],
+  "alt_spellings": [
+    "kerf cut",
+    "kerfcut"
+  ],
+  "etymology": "Adapted from woodworking term \"kerf\" (the width of material removed by a cutting tool), applied to vinyl mastering defects by audio engineers in the 1960s.",
+  "first_use": 1965,
   "see_also": [
     "lacquer-cut",
     "groove-wall",
     "pressing-defect"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

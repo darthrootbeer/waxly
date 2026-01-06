@@ -1,22 +1,37 @@
 {
   "slug": "pre-show-test-press",
   "term": "Pre-Show Test-Press",
+  "pos": "noun",
+  "pronunciation": "/priː ʃoʊ tɛst prɛs/",
   "summary": "'**noun / promo / collector term.** A test pressing rushed out for artists,.",
-  "definition": "**noun / promo / collector term.** A test pressing rushed out for artists, producers, or radio to preview before official album release shows — sometimes has unique mixes or sequencing.",
+  "definition": "**noun / promo / collector term.** A specialized test pressing manufactured on an expedited timeline specifically for artists, producers, managers, or radio programmers to preview material before official album release shows, tour launches, or promotional campaigns. Distinguished from standard test pressings by their rushed production schedule—often pressed within 24-48 hours—and limited quantity, typically 5-15 copies. Pre-show test-presses frequently contain unique elements: alternate mixes still under consideration, different track sequencing being evaluated for live performance flow, or preliminary masters before final mastering adjustments. Emerged in the 1970s as album touring became central to promotion, allowing artists to rehearse with actual vinyl rather than reference tapes. Labels like Atlantic and Warner Bros. used specialized pressing plants with priority access for these urgent runs. Highly coveted by collectors due to extreme rarity and potential sonic differences from commercial releases—some pre-show pressings preserve rawer mixes or abandoned sequences that never reached the public. Modern reissue labels occasionally discover these in artist archives, revealing creative decisions made during crucial pre-release periods.",
   "tags": [
     "dj-related",
     "pressing",
     "collecting"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "pre-tour test press",
+    "advance show pressing",
+    "rehearsal test press"
+  ],
+  "alt_spellings": [
+    "Pre-Show Test Press",
+    "Preshow Test-Press",
+    "Pre Show Test Press"
+  ],
+  "etymology": "Coined in the early 1970s music industry when album-oriented rock touring intensified, combining 'pre-show' (before performance) with 'test pressing' (quality control vinyl) to describe urgent promotional pressings for tour preparation.",
+  "first_use": 1972,
   "see_also": [
     "test-pressing",
     "white-label-promo",
     "alternate-mix"
   ],
   "regions": [
-    "US"
+    "US",
+    "UK",
+    "EU"
   ],
-  "pos": "verb"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

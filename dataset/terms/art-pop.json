@@ -1,15 +1,30 @@
 {
   "slug": "art-pop",
   "term": "Art Pop",
+  "pos": "noun",
+  "pronunciation": "/ɑːrt pɒp/",
   "summary": "'**Art Pop** - A musical style within the Pop genre, classified according.",
-  "definition": "A specific musical style within the broader pop genre classification.",
+  "definition": "A sophisticated musical style that merges experimental and avant-garde elements with accessible pop song structures, emerging as a distinct classification in the late 1960s and early 1970s. Art Pop incorporates influences from art rock, progressive rock, and classical music while maintaining pop's melodic sensibility and commercial appeal. The genre emphasizes conceptual ambition, unconventional arrangements, theatrical presentation, and lyrical complexity. Artists like Roxy Music, Kate Bush, and David Bowie pioneered the style, blending high-art aesthetics with pop accessibility. Vinyl pressings of Art Pop albums often feature elaborate gatefold packaging, artistic sleeve designs, and high production values that complement the music's ambitious scope. The genre experienced revivals in the 1990s with artists like Björk and continues to influence contemporary acts. Collectors prize original pressings of landmark Art Pop albums for their sonic quality and elaborate packaging, with first pressings commanding premium prices in the vintage vinyl market.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
-  "regions": [
-    "global"
+  "aliases": [
+    "Avant-Pop",
+    "Experimental Pop"
   ],
-  "pos": "noun"
+  "alt_spellings": [
+    "Art-Pop",
+    "Artpop"
+  ],
+  "etymology": "Coined in the early 1970s as a descriptor for pop music that incorporated artistic and experimental ambitions, drawing from the \"art rock\" movement while maintaining pop's commercial accessibility.",
+  "first_use": 1972,
+  "see_also": [],
+  "regions": [
+    "US",
+    "UK",
+    "EU",
+    "JA"
+  ],
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }

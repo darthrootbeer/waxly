@@ -1,13 +1,20 @@
 {
   "slug": "blues",
   "term": "Blues",
+  "pos": "noun",
+  "pronunciation": "/bluːz/",
   "summary": "**Blues** - A broad musical genre classification from the Discogs taxonomy.",
-  "definition": "A broad musical genre classification used in the Discogs database system.",
+  "definition": "A foundational American musical genre classification used in the Discogs database system to categorize recordings rooted in African-American musical traditions. Originating in the Deep South during the late 19th century, the blues developed from spirituals, work songs, field hollers, and chants, characterized by specific chord progressions (typically twelve-bar), flattened \"blue notes,\" and call-and-response patterns. The genre encompasses numerous regional styles including Delta blues, Chicago blues, and Texas blues, as well as evolutionary forms like electric blues, jump blues, and blues-rock. Within record collecting and cataloging contexts, the Blues classification serves as both a primary genre tag and a historical marker, helping collectors identify everything from pre-war acoustic 78s by Robert Johnson and Blind Lemon Jefferson to post-war electric releases on Chess, Vee-Jay, and other legendary labels. The genre's influence permeates rock, jazz, R&B, and soul, making proper blues classification essential for understanding vinyl collection organization and the genealogy of 20th-century popular music.",
   "tags": [
     "cultural"
   ],
-  "created": "2026-01-05",
-  "updated": "2026-01-05",
+  "aliases": [
+    "blues music",
+    "the blues"
+  ],
+  "alt_spellings": [],
+  "etymology": "Derived from \"the blue devils,\" a 17th-century English term for melancholy, later shortened to \"the blues\" in African-American vernacular to describe sorrowful songs expressing hardship and emotional pain.",
+  "first_use": 1908,
   "see_also": [
     "chicago-blues",
     "delta-blues",
@@ -16,7 +23,11 @@
     "soul-blues"
   ],
   "regions": [
-    "global"
+    "US",
+    "UK",
+    "EU",
+    "WW"
   ],
-  "pos": "noun"
+  "created": "2026-01-05",
+  "updated": "2026-01-06"
 }
